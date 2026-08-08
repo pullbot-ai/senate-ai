@@ -296,4 +296,100 @@ class Senate:
         for senator_info in selected_senators:
             senator = self.load_senator(senator_info)
             senators.append(senator)
-            print(f"   Senator {senator.model_id}: {', '.join(senator.specialties)}
+            print(f"   Senator {senator.model_id}: {', '.join(senator.specialties)}")
+        
+        # Phase 3: Debate rounds
+        consensus = None
+        confidence = 0.0
+        
+        for round_num in range(1, max_rounds + 1):
+            print(f"\n{'─'*60}")
+            print(f"  ROUND {round_num}")
+            print(f"{'─'*60}")
+            
+            if round_num == 1:
+                # First round: Independent answers
+                print("📝 Independent answers...")
+                answers = []
+                for senator in senators:
+                    answer = self.get_senator_answer(senator, question)
+                    answers.append((senator.model_id, answer))
+                    print(f"   Senator {senator.model_id}: {answer[:60]}...")
+            
+            else:
+                # Subsequent rounds: Reconsider with consensus
+                print(f"🔄 Reconsidering with consensus: {consensus[:60]}...")
+                answers = []
+                
+                for senator in senators:
+                    # Some senators reconsider, some challenge
+                    if senator.model_id % 3 == 0:  # Challenger role
+                        answer = self.challenger_review(consensus, question)
+                    else:
+                        answer = self.get_senator_answer(senator, question)
+                    
+                    answers.append((senator.model_id, answer))
+            
+            # Group similar answers
+            print("\n📊 Grouping answers...")
+            groups = self.grouper(answers)
+            
+            for i, group in enumerate(groups):
+                print(f"   Group {i+1}: {group['count']} votes - {group['answer'][:50]}...")
+            
+            # Vote
+            print("\n🗳️  Voting...")
+            consensus, confidence = self.vote(groups)
+            
+            print(f"   Consensus: {consensus[:80]}...")
+            print(f"   Confidence: {confidence:.1%}")
+            
+            # Check stopping conditions
+            if confidence >= self.senate_config['min_consensus']:
+                print(f"\n✅ Consensus reached! ({confidence:.1%})")
+                break
+            elif round_num == max_rounds:
+                print(f"\n⚠️  Max rounds reached. Best consensus: {confidence:.1%}")
+        
+        # Record session
+        session_result = {
+            'question': question,
+            'consensus': consensus,
+            'confidence': confidence,
+            'rounds': round_num,
+            'senators_involved': len(senators),
+            'topics': relevant_topics
+        }
+        self.session_history.append(session_result)
+        
+        return session_result
+    
+    def ask(self, question):
+        """Public interface: Ask the Senate a question"""
+        result = self.debate(question)
+        
+        print(f"\n{'='*60}")
+        print(f"  FINAL ANSWER")
+        print(f"{'='*60}")
+        print(f"\n📋 {result['consensus']}")
+        print(f"🎯 Confidence: {result['confidence']:.1%}")
+        print(f"🔄 Rounds: {result['rounds']}")
+        print(f"👥 Senators involved: {result['senators_involved']}")
+        
+        return result
+
+
+if __name__ == "__main__":
+    # Test the Senate
+    senate = Senate()
+    
+    # Example questions
+    questions = [
+        "Why does ice float on water?",
+        "What is the best way to learn programming?",
+        "How do we know if an argument is valid?",
+    ]
+    
+    for question in questions:
+        senate.ask(question)
+        print("\n" + "="*60)
