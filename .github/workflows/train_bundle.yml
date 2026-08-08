@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       bundle_id:
-        description: 'Bundle ID (0-88)'
+        description: 'Bundle ID to train (0-88)'
         required: true
         type: number
 
@@ -16,21 +16,27 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install torch numpy pyyaml
+      - run: pip install torch numpy pyyaml requests
       
       - uses: actions/download-artifact@v3
         with:
           name: senate-models
           path: models/
-        continue-on-error: true
+        continue-error: true
       
       - uses: actions/download-artifact@v3
         with:
           name: training-data
           path: training_data/
-        continue-on-error: true
+        continue-error: true
       
-      - run: python src/train.py ${{ github.event.inputs.bundle_id }}
+      - name: Train this bundle
+        id: train
+        run: |
+          BUNDLE_ID=${{ github.event.inputs.bundle_id }}
+          echo "Training bundle $BUNDLE_ID..."
+          python src/train.py $BUNDLE_ID
+          echo "current_bundle=$BUNDLE_ID" >> $GITHUB_OUTPUT
       
       - uses: actions/upload-artifact@v3
         with:
@@ -41,3 +47,15 @@ jobs:
         with:
           name: grading-reports
           path: reports/
+      
+      - name: Trigger next bundle
+        if: ${{ github.event.inputs.bundle_id < 88 }}
+        run: |
+          NEXT_BUNDLE=$(( ${{ github.event.inputs.bundle_id }} + 1 ))
+          echo "Triggering bundle $NEXT_BUNDLE..."
+          
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches \
+            -d "{\"ref\":\"main\",\"inputs\":{\"bundle_id\":\"$NEXT_BUNDLE\"}}"
