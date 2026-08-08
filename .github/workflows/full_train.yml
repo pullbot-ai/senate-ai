@@ -1,0 +1,82 @@
+name: Full Training Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_bundle:
+        description: 'Start bundle ID'
+        required: false
+        default: '0'
+      end_bundle:
+        description: 'End bundle ID (max 5 per run due to time limits)'
+        required: false
+        default: '4'
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install pyyaml
+      
+      - name: Generate training data
+        run: python src/generate_training_data.py
+      
+      - name: Upload training data
+        uses: actions/upload-artifact@v3
+        with:
+          name: training-data
+          path: training_data/
+
+  train-bundles:
+    needs: generate-data
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        bundle_id: [0, 1, 2, 3, 4]
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install torch numpy pyyaml
+      
+      - name: Download training data
+        uses: actions/download-artifact@v3
+        with:
+          name: training-data
+          path: training_data/
+      
+      - name: Download existing models
+        uses: actions/download-artifact@v3
+        with:
+          name: senate-bundles
+          path: models/
+        continue-on-error: true
+      
+      - name: Train bundle ${{ matrix.bundle_id }}
+        run: python src/train.py ${{ matrix.bundle_id }}
+      
+      - name: Upload trained bundle
+        uses: actions/upload-artifact@v3
+        with:
+          name: senate-bundles
+          path: models/bundle_${{ matrix.bundle_id }}*.pt
+      
+      - name: Upload grading report
+        uses: actions/upload-artifact@v3
+        with:
+          name: grading-reports
+          path: reports/
