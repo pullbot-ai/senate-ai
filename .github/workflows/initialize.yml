@@ -2,39 +2,23 @@ name: Initialize Senate
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'src/initialize.py'
-      - 'config.yaml'
 
 jobs:
   initialize:
     runs-on: ubuntu-latest
-    
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      
-      - name: Install dependencies
-        run: |
-          pip install torch numpy pyyaml
-      
-      - name: Initialize Senate
-        run: |
-          python src/initialize.py
-      
-      - name: Upload model bundles
-        uses: actions/upload-artifact@v3
+      - run: pip install torch numpy pyyaml
+      - run: python src/generate_training_data.py
+      - run: python src/initialize.py
+      - uses: actions/upload-artifact@v3
         with:
-          name: senate-bundles
-          path: models/bundle_*.pt
-      
-      - name: Upload index
-        uses: actions/upload-artifact@v3
+          name: senate-models
+          path: models/
+      - uses: actions/upload-artifact@v3
         with:
-          name: senate-index
-          path: models/senate_index.json
+          name: training-data
+          path: training_data/
