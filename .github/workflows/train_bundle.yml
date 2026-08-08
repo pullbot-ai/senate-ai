@@ -1,0 +1,42 @@
+name: Train Senate Bundle
+
+on:
+  workflow_dispatch:
+    inputs:
+      bundle_id:
+        description: 'Bundle ID to train (0-88)'
+        required: true
+        type: number
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install torch numpy pyyaml
+      
+      - name: Download bundles
+        uses: actions/download-artifact@v3
+        with:
+          name: senate-bundles
+          path: models/
+        continue-on-error: true
+      
+      - name: Train bundle
+        run: |
+          python src/train.py ${{ github.event.inputs.bundle_id }}
+      
+      - name: Upload trained bundle
+        uses: actions/upload-artifact@v3
+        with:
+          name: senate-bundles
+          path: models/bundle_${{ github.event.inputs.bundle_id }}*.pt
