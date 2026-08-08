@@ -1,4 +1,4 @@
-name: Train All Bundles
+name: Train All
 
 on:
   workflow_dispatch:
@@ -7,21 +7,12 @@ jobs:
   start:
     runs-on: ubuntu-latest
     steps:
-      - name: Kick off first bundle
+      - name: Start bundle 0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           curl -X POST \
-            -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches \
             -d '{"ref":"main","inputs":{"bundle_id":"0"}}'
-      
-      - name: Wait and trigger bundle 1
-        run: sleep 5
-      
-      - name: Kick off bundle 1
-        run: |
-          curl -X POST \
-            -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches \
-            -d '{"ref":"main","inputs":{"bundle_id":"1"}}'
