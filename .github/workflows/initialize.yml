@@ -7,18 +7,18 @@ jobs:
   initialize:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       - run: pip install torch numpy pyyaml
       - run: python src/generate_training_data.py
       - run: python src/initialize.py
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: senate-models
           path: models/
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: training-data
           path: training_data/
