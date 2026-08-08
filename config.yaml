@@ -1,0 +1,93 @@
+# Senate AI Configuration
+# 4,005 specialized models in 89 bundles of 45
+
+name: "Senate AI"
+tagline: "Where thousands of tiny AI minds debate to find truth"
+
+total_models: 4005
+models_per_bundle: 45
+total_bundles: 89
+bundle_size_mb: 45
+
+# Every possible specialty topic
+topics:
+  - mathematics
+  - algebra
+  - geometry
+  - calculus
+  - statistics
+  - physics
+  - quantum_mechanics
+  - thermodynamics
+  - electromagnetism
+  - chemistry
+  - organic_chemistry
+  - biochemistry
+  - biology
+  - genetics
+  - neuroscience
+  - microbiology
+  - computer_science
+  - algorithms
+  - machine_learning
+  - cybersecurity
+  - networking
+  - history
+  - ancient_civilizations
+  - world_wars
+  - medieval_history
+  - geography
+  - climate_science
+  - astronomy
+  - astrophysics
+  - philosophy
+  - logic
+  - ethics
+  - epistemology
+  - psychology
+  - cognitive_science
+  - behavioral_economics
+  - linguistics
+  - literature
+  - poetry
+  - economics
+  - macroeconomics
+  - microeconomics
+  - political_science
+  - law
+  - constitutional_law
+  - medicine
+  - anatomy
+  - engineering
+  - music_theory
+  - art_history
+  - environmental_science
+
+# Each model gets 4-5 random specialties
+specialties_per_model:
+  min: 4
+  max: 5
+
+# Senate debate settings
+senate:
+  max_rounds: 5
+  min_consensus: 0.75
+  uncertainty_threshold: 0.55
+  max_active_senators: 8
+  challenger_count: 1
+
+# Training settings
+training:
+  epochs: 3
+  learning_rate: 0.001
+  batch_size: 8
+  seq_length: 64
+  vocab_size: 8000
+  embed_dim: 64
+  hidden_dim: 128
+
+# Model architecture variants
+architectures:
+  - lstm_tiny
+  - transformer_nano
+  - mixture_expert
