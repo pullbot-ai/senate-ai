@@ -8,6 +8,10 @@ on:
         required: true
         type: number
 
+permissions:
+  actions: write
+  contents: read
+
 jobs:
   train:
     runs-on: ubuntu-latest
@@ -45,5 +49,4 @@ jobs:
         run: |
           NEXT=$(( ${{ github.event.inputs.bundle_id }} + 1 ))
           gh workflow run train_bundle.yml \
-            -f bundle_id=$NEXT \
-            -R ${{ github.repository }}
+            -f bundle_id=$NEXT
