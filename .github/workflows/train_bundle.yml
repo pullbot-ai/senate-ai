@@ -12,19 +12,19 @@ jobs:
   train:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       - run: pip install torch numpy pyyaml
       
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: senate-models
           path: models/
         continue-on-error: true
       
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: training-data
           path: training_data/
@@ -33,7 +33,7 @@ jobs:
       - name: Train bundle
         run: python src/train.py ${{ github.event.inputs.bundle_id }}
       
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: senate-models
           path: models/
@@ -41,11 +41,9 @@ jobs:
       - name: Trigger next bundle
         if: ${{ github.event.inputs.bundle_id < 88 }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           NEXT=$(( ${{ github.event.inputs.bundle_id }} + 1 ))
-          curl -X POST \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches \
-            -d "{\"ref\":\"main\",\"inputs\":{\"bundle_id\":\"$NEXT\"}}"
+          gh workflow run train_bundle.yml \
+            -f bundle_id=$NEXT \
+            -R ${{ github.repository }}
