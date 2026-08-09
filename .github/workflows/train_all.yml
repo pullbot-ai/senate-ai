@@ -12,7 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Start training chain
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
-          gh workflow run train_bundle.yml -f bundle_id=0
+          curl -X POST \
+            -H "Authorization: Bearer ${{ github.token }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches" \
+            -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"bundle_id\":\"0\"}}"
