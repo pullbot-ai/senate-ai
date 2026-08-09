@@ -3,6 +3,10 @@ name: Train All
 on:
   workflow_dispatch:
 
+permissions:
+  actions: write
+  contents: read
+
 jobs:
   start:
     runs-on: ubuntu-latest
@@ -11,6 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh workflow run train_bundle.yml \
-            -f bundle_id=0 \
-            -R ${{ github.repository }}
+          gh workflow run train_bundle.yml -f bundle_id=0
