@@ -21,10 +21,10 @@ jobs:
       - run: python src/generate_training_data.py
       - run: python src/initialize.py
       
-      - name: Create Release with bundles
-        uses: softprops/action-gh-release@v2
-        with:
-          name: Senate Initialized
-          tag_name: senate-v1
-          body: All 4005 senators in 89 bundles
-          files: models/bundle_*.pt
+      - name: Commit and push to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/ training_data/
+          git commit -m "Initialize 4005 senators in 89 bundles" || echo "Nothing to commit"
+          git push
