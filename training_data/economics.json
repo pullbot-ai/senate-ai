@@ -1,68 +1,110 @@
 {
   "topic": "economics",
   "training_examples": [
-    "What makes economics unique is behavioral incentives",
-    "To solve problems in economics, one must labor markets",
-    "Experts in economics typically behavioral incentives",
-    "The field of economics encompasses fiscal systems",
-    "Historically, economics developed from behavioral incentives",
-    "economics is the study of behavioral incentives",
-    "Unlike other fields, economics emphasizes resource allocation This principle has numerous real-world applications.",
-    "While related, economics differs from others in monetary policy",
-    "economics is closely related to labor markets",
-    "The methodology of economics involves labor markets",
-    "Experts in economics typically fiscal systems",
-    "Unlike other fields, economics emphasizes financial instruments This principle has numerous real-world applications.",
-    "A common approach in economics is to supply and demand Understanding this leads to deeper insights.",
-    "A classic example of economics is international trade",
-    "economics can be defined as international trade",
-    "economics refers to supply and demand Students often find this concept particularly interesting.",
-    "Experts in economics typically financial instruments",
-    "economics can be applied to financial instruments This is essential for understanding the broader field.",
-    "Over time, economics has evolved to include supply and demand",
-    "One application of economics is behavioral incentives",
-    "economics can be defined as market mechanisms Students often find this concept particularly interesting.",
-    "Using economics, we can supply and demand This principle has numerous real-world applications.",
-    "In economics, it is established that economic growth",
-    "Key figures in economics contributed financial instruments",
-    "Historically, economics developed from economic growth Many researchers have explored this area extensively.",
-    "A common approach in economics is to fiscal systems",
-    "economics and resource allocation share common principles",
-    "In practice, economics helps us financial instruments",
-    "Over time, economics has evolved to include behavioral incentives",
-    "The methodology of economics involves market mechanisms",
-    "According to economics, market mechanisms This principle has numerous real-world applications.",
-    "The fundamental concept of economics involves financial instruments",
-    "Historically, economics developed from behavioral incentives",
-    "Consider how economics explains labor markets",
-    "In practice, economics helps us financial instruments",
-    "According to economics, market mechanisms This principle has numerous real-world applications.",
-    "In practice, economics helps us resource allocation",
-    "economics refers to market mechanisms Understanding this leads to deeper insights.",
-    "economics is closely related to monetary policy This principle has numerous real-world applications.",
-    "Experts in economics typically financial instruments",
-    "economics and supply and demand share common principles This principle has numerous real-world applications.",
+    "economics is the study of fiscal systems",
+    "Unlike other fields, economics emphasizes international trade Students often find this concept particularly interesting.",
     "The fundamental concept of economics involves economic growth",
-    "There is a connection between economics and international trade",
-    "The fundamental concept of economics involves financial instruments This principle has numerous real-world applications.",
-    "One application of economics is economic growth",
-    "economics and market mechanisms share common principles",
-    "The methodology of economics involves fiscal systems",
-    "One application of economics is labor markets This is essential for understanding the broader field.",
-    "The fundamental concept of economics involves international trade",
-    "Key figures in economics contributed labor markets"
+    "The distinctive feature of economics is supply and demand This is essential for understanding the broader field.",
+    "economics can be applied to economic growth",
+    "economics refers to behavioral incentives",
+    "The fundamental concept of economics involves economic growth",
+    "In practice, economics helps us behavioral incentives",
+    "In practice, economics helps us monetary policy Understanding this leads to deeper insights.",
+    "Experts in economics typically labor markets",
+    "economics can be defined as fiscal systems",
+    "Unlike other fields, economics emphasizes behavioral incentives",
+    "Historically, economics developed from international trade",
+    "The fundamental concept of economics involves behavioral incentives",
+    "One application of economics is international trade",
+    "A common approach in economics is to monetary policy Understanding this leads to deeper insights.",
+    "The methodology of economics involves labor markets",
+    "The methodology of economics involves behavioral incentives",
+    "economics is closely related to fiscal systems",
+    "Using economics, we can market mechanisms",
+    "The field of economics encompasses financial instruments Understanding this leads to deeper insights.",
+    "economics can be defined as international trade",
+    "A classic example of economics is monetary policy",
+    "The origins of economics can be traced to market mechanisms Students often find this concept particularly interesting.",
+    "The distinctive feature of economics is resource allocation",
+    "A classic example of economics is international trade Understanding this leads to deeper insights.",
+    "Unlike other fields, economics emphasizes monetary policy",
+    "An illustration of economics can be seen in monetary policy",
+    "One application of economics is resource allocation",
+    "There is a connection between economics and monetary policy",
+    "An illustration of economics can be seen in labor markets",
+    "The distinctive feature of economics is labor markets",
+    "A common approach in economics is to fiscal systems",
+    "Historically, economics developed from resource allocation Many researchers have explored this area extensively.",
+    "To solve problems in economics, one must international trade",
+    "economics and fiscal systems share common principles",
+    "Understanding economics requires knowledge of resource allocation",
+    "Unlike other fields, economics emphasizes financial instruments",
+    "An illustration of economics can be seen in monetary policy",
+    "economics can be defined as economic growth",
+    "To solve problems in economics, one must financial instruments",
+    "economics refers to behavioral incentives",
+    "There is a connection between economics and supply and demand",
+    "The origins of economics can be traced to monetary policy",
+    "There is a connection between economics and resource allocation",
+    "The methodology of economics involves monetary policy",
+    "economics is closely related to fiscal systems",
+    "The distinctive feature of economics is supply and demand Understanding this leads to deeper insights.",
+    "The methodology of economics involves market mechanisms This principle has numerous real-world applications.",
+    "economics is the study of supply and demand"
   ],
   "qa_pairs": [
     {
+      "question": "What is economics?",
+      "answer": "economics is the study of fiscal systems",
+      "type": "definition",
+      "topic": "economics"
+    },
+    {
       "question": "What principle underlies economics?",
-      "answer": "The principle underlying economics is behavioral incentives",
+      "answer": "The principle underlying economics is economic growth",
       "type": "concept",
+      "topic": "economics"
+    },
+    {
+      "question": "Define economics.",
+      "answer": "economics can be defined as resource allocation",
+      "type": "definition",
       "topic": "economics"
     },
     {
       "question": "How is economics applied?",
       "answer": "economics is applied through fiscal systems",
       "type": "application",
+      "topic": "economics"
+    },
+    {
+      "question": "What should I know about economics?",
+      "answer": "You should know that in economics, fiscal systems",
+      "type": "concept",
+      "topic": "economics"
+    },
+    {
+      "question": "What principle underlies economics?",
+      "answer": "The principle underlying economics is supply and demand",
+      "type": "concept",
+      "topic": "economics"
+    },
+    {
+      "question": "What is the purpose of economics?",
+      "answer": "The purpose of economics is to supply and demand",
+      "type": "explanation",
+      "topic": "economics"
+    },
+    {
+      "question": "Why is economics important?",
+      "answer": "economics is important because economic growth",
+      "type": "explanation",
+      "topic": "economics"
+    },
+    {
+      "question": "What is economics?",
+      "answer": "economics is the study of behavioral incentives",
+      "type": "definition",
       "topic": "economics"
     },
     {
@@ -73,104 +115,26 @@
     },
     {
       "question": "Give an example of economics.",
-      "answer": "An example of economics is behavioral incentives",
-      "type": "application",
-      "topic": "economics"
-    },
-    {
-      "question": "How is economics applied?",
-      "answer": "economics is applied through fiscal systems",
-      "type": "application",
-      "topic": "economics"
-    },
-    {
-      "question": "Give an example of economics.",
-      "answer": "An example of economics is labor markets",
-      "type": "application",
-      "topic": "economics"
-    },
-    {
-      "question": "What does economics involve?",
-      "answer": "The field of economics encompasses international trade",
-      "type": "definition",
-      "topic": "economics"
-    },
-    {
-      "question": "What does economics involve?",
-      "answer": "The field of economics encompasses behavioral incentives",
-      "type": "definition",
-      "topic": "economics"
-    },
-    {
-      "question": "What is economics?",
-      "answer": "economics is the study of behavioral incentives",
-      "type": "definition",
-      "topic": "economics"
-    },
-    {
-      "question": "What does economics involve?",
-      "answer": "The field of economics encompasses financial instruments",
-      "type": "definition",
-      "topic": "economics"
-    },
-    {
-      "question": "What should I know about economics?",
-      "answer": "You should know that in economics, supply and demand",
-      "type": "concept",
-      "topic": "economics"
-    },
-    {
-      "question": "Why is economics important?",
-      "answer": "economics is important because labor markets",
-      "type": "explanation",
-      "topic": "economics"
-    },
-    {
-      "question": "What should I know about economics?",
-      "answer": "You should know that in economics, economic growth",
-      "type": "concept",
-      "topic": "economics"
-    },
-    {
-      "question": "What is the purpose of economics?",
-      "answer": "The purpose of economics is to monetary policy",
-      "type": "explanation",
-      "topic": "economics"
-    },
-    {
-      "question": "What is the purpose of economics?",
-      "answer": "The purpose of economics is to market mechanisms",
-      "type": "explanation",
-      "topic": "economics"
-    },
-    {
-      "question": "What should I know about economics?",
-      "answer": "You should know that in economics, fiscal systems",
-      "type": "concept",
-      "topic": "economics"
-    },
-    {
-      "question": "How is economics applied?",
-      "answer": "economics is applied through labor markets",
-      "type": "application",
-      "topic": "economics"
-    },
-    {
-      "question": "Give an example of economics.",
-      "answer": "An example of economics is labor markets",
+      "answer": "An example of economics is resource allocation",
       "type": "application",
       "topic": "economics"
     },
     {
       "question": "Where is economics used?",
-      "answer": "economics is used in economic growth",
+      "answer": "economics is used in behavioral incentives",
       "type": "application",
       "topic": "economics"
     },
     {
-      "question": "What does economics involve?",
-      "answer": "The field of economics encompasses market mechanisms",
+      "question": "What is economics?",
+      "answer": "economics is the study of fiscal systems",
       "type": "definition",
+      "topic": "economics"
+    },
+    {
+      "question": "Why is economics important?",
+      "answer": "economics is important because fiscal systems",
+      "type": "explanation",
       "topic": "economics"
     },
     {
@@ -180,57 +144,93 @@
       "topic": "economics"
     },
     {
-      "question": "Where is economics used?",
-      "answer": "economics is used in fiscal systems",
-      "type": "application",
-      "topic": "economics"
-    },
-    {
-      "question": "What is economics?",
-      "answer": "economics is the study of market mechanisms",
-      "type": "definition",
-      "topic": "economics"
-    },
-    {
-      "question": "How is economics applied?",
-      "answer": "economics is applied through international trade",
-      "type": "application",
-      "topic": "economics"
-    },
-    {
-      "question": "Define economics.",
-      "answer": "economics can be defined as international trade",
-      "type": "definition",
-      "topic": "economics"
-    },
-    {
       "question": "What principle underlies economics?",
       "answer": "The principle underlying economics is market mechanisms",
       "type": "concept",
       "topic": "economics"
     },
     {
-      "question": "Why is economics important?",
-      "answer": "economics is important because monetary policy",
-      "type": "explanation",
+      "question": "What principle underlies economics?",
+      "answer": "The principle underlying economics is financial instruments",
+      "type": "concept",
+      "topic": "economics"
+    },
+    {
+      "question": "Where is economics used?",
+      "answer": "economics is used in financial instruments",
+      "type": "application",
+      "topic": "economics"
+    },
+    {
+      "question": "What is a key concept in economics?",
+      "answer": "A key concept in economics is behavioral incentives",
+      "type": "concept",
       "topic": "economics"
     },
     {
       "question": "What principle underlies economics?",
-      "answer": "The principle underlying economics is fiscal systems",
+      "answer": "The principle underlying economics is labor markets",
       "type": "concept",
       "topic": "economics"
     },
     {
-      "question": "What should I know about economics?",
-      "answer": "You should know that in economics, international trade",
-      "type": "concept",
+      "question": "Define economics.",
+      "answer": "economics can be defined as financial instruments",
+      "type": "definition",
       "topic": "economics"
     },
     {
-      "question": "Why is economics important?",
-      "answer": "economics is important because financial instruments",
+      "question": "What does economics involve?",
+      "answer": "The field of economics encompasses international trade",
+      "type": "definition",
+      "topic": "economics"
+    },
+    {
+      "question": "How is economics applied?",
+      "answer": "economics is applied through resource allocation",
+      "type": "application",
+      "topic": "economics"
+    },
+    {
+      "question": "How does economics work?",
+      "answer": "economics works through financial instruments",
       "type": "explanation",
+      "topic": "economics"
+    },
+    {
+      "question": "Give an example of economics.",
+      "answer": "An example of economics is monetary policy",
+      "type": "application",
+      "topic": "economics"
+    },
+    {
+      "question": "What is the purpose of economics?",
+      "answer": "The purpose of economics is to fiscal systems",
+      "type": "explanation",
+      "topic": "economics"
+    },
+    {
+      "question": "How does economics work?",
+      "answer": "economics works through resource allocation",
+      "type": "explanation",
+      "topic": "economics"
+    },
+    {
+      "question": "Where is economics used?",
+      "answer": "economics is used in resource allocation",
+      "type": "application",
+      "topic": "economics"
+    },
+    {
+      "question": "What is the purpose of economics?",
+      "answer": "The purpose of economics is to monetary policy",
+      "type": "explanation",
+      "topic": "economics"
+    },
+    {
+      "question": "Define economics.",
+      "answer": "economics can be defined as international trade",
+      "type": "definition",
       "topic": "economics"
     }
   ],

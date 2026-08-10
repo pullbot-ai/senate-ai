@@ -1,92 +1,152 @@
 {
   "topic": "ancient_civilizations",
   "training_examples": [
-    "ancient civilizations and practical applications of ancient_civilizations share common principles",
-    "An illustration of ancient civilizations can be seen in historical development of ancient_civilizations Many researchers have explored this area extensively.",
-    "ancient civilizations refers to historical development of ancient_civilizations This principle has numerous real-world applications.",
-    "ancient civilizations can be defined as emerging trends in ancient_civilizations Students often find this concept particularly interesting.",
-    "Understanding ancient civilizations requires knowledge of practical applications of ancient_civilizations",
-    "A common approach in ancient civilizations is to modern understanding of ancient_civilizations",
-    "A key principle in ancient civilizations is that practical applications of ancient_civilizations",
-    "For example, in ancient civilizations, important theories in ancient_civilizations",
-    "In practice, ancient civilizations helps us the fundamental principles of ancient_civilizations",
-    "While related, ancient civilizations differs from others in the fundamental principles of ancient_civilizations",
-    "The fundamental concept of ancient civilizations involves critical analysis of ancient_civilizations",
-    "Understanding ancient civilizations requires knowledge of the fundamental principles of ancient_civilizations Understanding this leads to deeper insights.",
-    "ancient civilizations is closely related to key concepts in ancient_civilizations This is essential for understanding the broader field.",
-    "Historically, ancient civilizations developed from historical development of ancient_civilizations",
-    "Using ancient civilizations, we can key concepts in ancient_civilizations Many researchers have explored this area extensively.",
-    "The fundamental concept of ancient civilizations involves research methods in ancient_civilizations Understanding this leads to deeper insights.",
-    "In practice, ancient civilizations helps us important theories in ancient_civilizations This is essential for understanding the broader field.",
-    "One application of ancient civilizations is the fundamental principles of ancient_civilizations This is essential for understanding the broader field.",
-    "Using ancient civilizations, we can emerging trends in ancient_civilizations Understanding this leads to deeper insights.",
-    "There is a connection between ancient civilizations and key concepts in ancient_civilizations This principle has numerous real-world applications.",
-    "Understanding ancient civilizations requires knowledge of practical applications of ancient_civilizations",
-    "ancient civilizations refers to important theories in ancient_civilizations",
-    "The distinctive feature of ancient civilizations is important theories in ancient_civilizations",
-    "The origins of ancient civilizations can be traced to practical applications of ancient_civilizations",
-    "In practice, ancient civilizations helps us research methods in ancient_civilizations",
-    "ancient civilizations can be applied to historical development of ancient_civilizations",
-    "The origins of ancient civilizations can be traced to critical analysis of ancient_civilizations",
-    "ancient civilizations and key concepts in ancient_civilizations share common principles",
-    "While related, ancient civilizations differs from others in research methods in ancient_civilizations",
-    "In ancient civilizations, it is established that historical development of ancient_civilizations",
-    "To solve problems in ancient civilizations, one must research methods in ancient_civilizations",
-    "The fundamental concept of ancient civilizations involves research methods in ancient_civilizations This principle has numerous real-world applications.",
-    "The origins of ancient civilizations can be traced to important theories in ancient_civilizations",
-    "Experts in ancient civilizations typically emerging trends in ancient_civilizations",
-    "Using ancient civilizations, we can key concepts in ancient_civilizations",
-    "Understanding ancient civilizations requires knowledge of important theories in ancient_civilizations",
-    "ancient civilizations refers to interdisciplinary connections to ancient_civilizations Students often find this concept particularly interesting.",
-    "A common approach in ancient civilizations is to important theories in ancient_civilizations",
-    "ancient civilizations refers to the fundamental principles of ancient_civilizations This principle has numerous real-world applications.",
-    "Using ancient civilizations, we can emerging trends in ancient_civilizations This is essential for understanding the broader field.",
-    "One application of ancient civilizations is historical development of ancient_civilizations",
-    "The fundamental concept of ancient civilizations involves interdisciplinary connections to ancient_civilizations",
-    "In practice, ancient civilizations helps us interdisciplinary connections to ancient_civilizations",
-    "ancient civilizations is the study of important theories in ancient_civilizations",
-    "Key figures in ancient civilizations contributed important theories in ancient_civilizations",
-    "ancient civilizations can be defined as modern understanding of ancient_civilizations",
+    "An illustration of ancient civilizations can be seen in practical applications of ancient_civilizations Understanding this leads to deeper insights.",
+    "One application of ancient civilizations is practical applications of ancient_civilizations",
+    "Consider how ancient civilizations explains emerging trends in ancient_civilizations This is essential for understanding the broader field.",
+    "The distinctive feature of ancient civilizations is historical development of ancient_civilizations",
+    "Using ancient civilizations, we can modern understanding of ancient_civilizations Many researchers have explored this area extensively.",
+    "Key figures in ancient civilizations contributed important theories in ancient_civilizations Many researchers have explored this area extensively.",
+    "ancient civilizations can be defined as critical analysis of ancient_civilizations",
+    "To solve problems in ancient civilizations, one must modern understanding of ancient_civilizations",
+    "The fundamental concept of ancient civilizations involves emerging trends in ancient_civilizations Students often find this concept particularly interesting.",
+    "ancient civilizations is the study of historical development of ancient_civilizations",
+    "ancient civilizations can be applied to critical analysis of ancient_civilizations",
+    "While related, ancient civilizations differs from others in emerging trends in ancient_civilizations",
+    "In practice, ancient civilizations helps us modern understanding of ancient_civilizations This principle has numerous real-world applications.",
+    "A key principle in ancient civilizations is that important theories in ancient_civilizations",
+    "Using ancient civilizations, we can the fundamental principles of ancient_civilizations This is essential for understanding the broader field.",
+    "An illustration of ancient civilizations can be seen in modern understanding of ancient_civilizations",
+    "ancient civilizations and historical development of ancient_civilizations share common principles",
+    "A classic example of ancient civilizations is emerging trends in ancient_civilizations This is essential for understanding the broader field.",
+    "In ancient civilizations, it is established that the fundamental principles of ancient_civilizations",
+    "ancient civilizations can be defined as important theories in ancient_civilizations",
     "In ancient civilizations, it is established that interdisciplinary connections to ancient_civilizations",
-    "Understanding ancient civilizations requires knowledge of critical analysis of ancient_civilizations This principle has numerous real-world applications.",
-    "The distinctive feature of ancient civilizations is practical applications of ancient_civilizations",
-    "The distinctive feature of ancient civilizations is research methods in ancient_civilizations"
+    "Consider how ancient civilizations explains important theories in ancient_civilizations This principle has numerous real-world applications.",
+    "A common approach in ancient civilizations is to emerging trends in ancient_civilizations",
+    "For example, in ancient civilizations, the fundamental principles of ancient_civilizations",
+    "For example, in ancient civilizations, important theories in ancient_civilizations",
+    "The origins of ancient civilizations can be traced to research methods in ancient_civilizations This is essential for understanding the broader field.",
+    "What makes ancient civilizations unique is important theories in ancient_civilizations",
+    "In ancient civilizations, it is established that emerging trends in ancient_civilizations",
+    "ancient civilizations and emerging trends in ancient_civilizations share common principles",
+    "Experts in ancient civilizations typically modern understanding of ancient_civilizations",
+    "There is a connection between ancient civilizations and modern understanding of ancient_civilizations",
+    "The origins of ancient civilizations can be traced to historical development of ancient_civilizations",
+    "A common approach in ancient civilizations is to historical development of ancient_civilizations",
+    "A common approach in ancient civilizations is to critical analysis of ancient_civilizations",
+    "Consider how ancient civilizations explains key concepts in ancient_civilizations",
+    "Using ancient civilizations, we can emerging trends in ancient_civilizations",
+    "In ancient civilizations, it is established that critical analysis of ancient_civilizations Students often find this concept particularly interesting.",
+    "For example, in ancient civilizations, historical development of ancient_civilizations",
+    "ancient civilizations is the study of important theories in ancient_civilizations",
+    "In ancient civilizations, it is established that critical analysis of ancient_civilizations Understanding this leads to deeper insights.",
+    "ancient civilizations can be defined as historical development of ancient_civilizations Students often find this concept particularly interesting.",
+    "The origins of ancient civilizations can be traced to the fundamental principles of ancient_civilizations",
+    "Experts in ancient civilizations typically modern understanding of ancient_civilizations This principle has numerous real-world applications.",
+    "The distinctive feature of ancient civilizations is key concepts in ancient_civilizations",
+    "Over time, ancient civilizations has evolved to include critical analysis of ancient_civilizations Understanding this leads to deeper insights.",
+    "Historically, ancient civilizations developed from interdisciplinary connections to ancient_civilizations",
+    "Historically, ancient civilizations developed from modern understanding of ancient_civilizations",
+    "An illustration of ancient civilizations can be seen in emerging trends in ancient_civilizations Understanding this leads to deeper insights.",
+    "Unlike other fields, ancient civilizations emphasizes interdisciplinary connections to ancient_civilizations",
+    "ancient civilizations is the study of the fundamental principles of ancient_civilizations This principle has numerous real-world applications."
   ],
   "qa_pairs": [
     {
-      "question": "What is the purpose of ancient civilizations?",
-      "answer": "The purpose of ancient civilizations is to historical development of ancient_civilizations",
+      "question": "Where is ancient civilizations used?",
+      "answer": "ancient civilizations is used in critical analysis of ancient_civilizations",
+      "type": "application",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "Why is ancient civilizations important?",
+      "answer": "ancient civilizations is important because key concepts in ancient_civilizations",
       "type": "explanation",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "What is the purpose of ancient civilizations?",
-      "answer": "The purpose of ancient civilizations is to historical development of ancient_civilizations",
+      "question": "Why is ancient civilizations important?",
+      "answer": "ancient civilizations is important because practical applications of ancient_civilizations",
+      "type": "explanation",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "Where is ancient civilizations used?",
+      "answer": "ancient civilizations is used in historical development of ancient_civilizations",
+      "type": "application",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "Where is ancient civilizations used?",
+      "answer": "ancient civilizations is used in important theories in ancient_civilizations",
+      "type": "application",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What does ancient civilizations involve?",
+      "answer": "The field of ancient civilizations encompasses interdisciplinary connections to ancient_civilizations",
+      "type": "definition",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What should I know about ancient civilizations?",
+      "answer": "You should know that in ancient civilizations, critical analysis of ancient_civilizations",
+      "type": "concept",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "Give an example of ancient civilizations.",
+      "answer": "An example of ancient civilizations is important theories in ancient_civilizations",
+      "type": "application",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What principle underlies ancient civilizations?",
+      "answer": "The principle underlying ancient civilizations is practical applications of ancient_civilizations",
+      "type": "concept",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "How does ancient civilizations work?",
+      "answer": "ancient civilizations works through interdisciplinary connections to ancient_civilizations",
       "type": "explanation",
       "topic": "ancient_civilizations"
     },
     {
       "question": "What should I know about ancient civilizations?",
-      "answer": "You should know that in ancient civilizations, historical development of ancient_civilizations",
+      "answer": "You should know that in ancient civilizations, important theories in ancient_civilizations",
       "type": "concept",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "Why is ancient civilizations important?",
-      "answer": "ancient civilizations is important because emerging trends in ancient_civilizations",
+      "question": "How does ancient civilizations work?",
+      "answer": "ancient civilizations works through practical applications of ancient_civilizations",
       "type": "explanation",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "What does ancient civilizations involve?",
-      "answer": "The field of ancient civilizations encompasses important theories in ancient_civilizations",
+      "question": "Define ancient civilizations.",
+      "answer": "ancient civilizations can be defined as critical analysis of ancient_civilizations",
       "type": "definition",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "Give an example of ancient civilizations.",
-      "answer": "An example of ancient civilizations is critical analysis of ancient_civilizations",
+      "question": "What should I know about ancient civilizations?",
+      "answer": "You should know that in ancient civilizations, interdisciplinary connections to ancient_civilizations",
+      "type": "concept",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "Where is ancient civilizations used?",
+      "answer": "ancient civilizations is used in the fundamental principles of ancient_civilizations",
       "type": "application",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What principle underlies ancient civilizations?",
+      "answer": "The principle underlying ancient civilizations is the fundamental principles of ancient_civilizations",
+      "type": "concept",
       "topic": "ancient_civilizations"
     },
     {
@@ -97,73 +157,7 @@
     },
     {
       "question": "Why is ancient civilizations important?",
-      "answer": "ancient civilizations is important because historical development of ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "How does ancient civilizations work?",
-      "answer": "ancient civilizations works through practical applications of ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "What should I know about ancient civilizations?",
-      "answer": "You should know that in ancient civilizations, interdisciplinary connections to ancient_civilizations",
-      "type": "concept",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "Give an example of ancient civilizations.",
-      "answer": "An example of ancient civilizations is modern understanding of ancient_civilizations",
-      "type": "application",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "What is ancient civilizations?",
-      "answer": "ancient civilizations is the study of practical applications of ancient_civilizations",
-      "type": "definition",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "Give an example of ancient civilizations.",
-      "answer": "An example of ancient civilizations is key concepts in ancient_civilizations",
-      "type": "application",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "How does ancient civilizations work?",
-      "answer": "ancient civilizations works through important theories in ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "How does ancient civilizations work?",
-      "answer": "ancient civilizations works through the fundamental principles of ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "What principle underlies ancient civilizations?",
-      "answer": "The principle underlying ancient civilizations is modern understanding of ancient_civilizations",
-      "type": "concept",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "Why is ancient civilizations important?",
-      "answer": "ancient civilizations is important because key concepts in ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "Give an example of ancient civilizations.",
-      "answer": "An example of ancient civilizations is interdisciplinary connections to ancient_civilizations",
-      "type": "application",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "What is the purpose of ancient civilizations?",
-      "answer": "The purpose of ancient civilizations is to modern understanding of ancient_civilizations",
+      "answer": "ancient civilizations is important because research methods in ancient_civilizations",
       "type": "explanation",
       "topic": "ancient_civilizations"
     },
@@ -174,63 +168,69 @@
       "topic": "ancient_civilizations"
     },
     {
-      "question": "Why is ancient civilizations important?",
-      "answer": "ancient civilizations is important because key concepts in ancient_civilizations",
-      "type": "explanation",
+      "question": "What principle underlies ancient civilizations?",
+      "answer": "The principle underlying ancient civilizations is important theories in ancient_civilizations",
+      "type": "concept",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "Why is ancient civilizations important?",
-      "answer": "ancient civilizations is important because key concepts in ancient_civilizations",
-      "type": "explanation",
+      "question": "Define ancient civilizations.",
+      "answer": "ancient civilizations can be defined as historical development of ancient_civilizations",
+      "type": "definition",
       "topic": "ancient_civilizations"
     },
     {
       "question": "What is a key concept in ancient civilizations?",
-      "answer": "A key concept in ancient civilizations is historical development of ancient_civilizations",
+      "answer": "A key concept in ancient civilizations is emerging trends in ancient_civilizations",
       "type": "concept",
       "topic": "ancient_civilizations"
     },
     {
       "question": "What is the purpose of ancient civilizations?",
-      "answer": "The purpose of ancient civilizations is to modern understanding of ancient_civilizations",
+      "answer": "The purpose of ancient civilizations is to emerging trends in ancient_civilizations",
       "type": "explanation",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "Define ancient civilizations.",
-      "answer": "ancient civilizations can be defined as research methods in ancient_civilizations",
-      "type": "definition",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "Why is ancient civilizations important?",
-      "answer": "ancient civilizations is important because historical development of ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
-      "question": "How is ancient civilizations applied?",
-      "answer": "ancient civilizations is applied through emerging trends in ancient_civilizations",
+      "question": "Where is ancient civilizations used?",
+      "answer": "ancient civilizations is used in modern understanding of ancient_civilizations",
       "type": "application",
       "topic": "ancient_civilizations"
     },
     {
-      "question": "What is the purpose of ancient civilizations?",
-      "answer": "The purpose of ancient civilizations is to historical development of ancient_civilizations",
-      "type": "explanation",
-      "topic": "ancient_civilizations"
-    },
-    {
       "question": "How does ancient civilizations work?",
-      "answer": "ancient civilizations works through practical applications of ancient_civilizations",
+      "answer": "ancient civilizations works through interdisciplinary connections to ancient_civilizations",
       "type": "explanation",
       "topic": "ancient_civilizations"
     },
     {
       "question": "What is ancient civilizations?",
-      "answer": "ancient civilizations is the study of interdisciplinary connections to ancient_civilizations",
+      "answer": "ancient civilizations is the study of important theories in ancient_civilizations",
       "type": "definition",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What is a key concept in ancient civilizations?",
+      "answer": "A key concept in ancient civilizations is important theories in ancient_civilizations",
+      "type": "concept",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What is a key concept in ancient civilizations?",
+      "answer": "A key concept in ancient civilizations is research methods in ancient_civilizations",
+      "type": "concept",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What does ancient civilizations involve?",
+      "answer": "The field of ancient civilizations encompasses historical development of ancient_civilizations",
+      "type": "definition",
+      "topic": "ancient_civilizations"
+    },
+    {
+      "question": "What principle underlies ancient civilizations?",
+      "answer": "The principle underlying ancient civilizations is critical analysis of ancient_civilizations",
+      "type": "concept",
       "topic": "ancient_civilizations"
     }
   ],

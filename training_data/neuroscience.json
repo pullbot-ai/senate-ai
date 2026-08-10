@@ -1,67 +1,169 @@
 {
   "topic": "neuroscience",
   "training_examples": [
-    "According to neuroscience, the fundamental principles of neuroscience",
-    "neuroscience refers to practical applications of neuroscience",
-    "An illustration of neuroscience can be seen in key concepts in neuroscience Students often find this concept particularly interesting.",
-    "While related, neuroscience differs from others in emerging trends in neuroscience",
-    "A common approach in neuroscience is to critical analysis of neuroscience Understanding this leads to deeper insights.",
-    "The field of neuroscience encompasses critical analysis of neuroscience",
-    "According to neuroscience, research methods in neuroscience",
-    "For example, in neuroscience, historical development of neuroscience Students often find this concept particularly interesting.",
-    "An illustration of neuroscience can be seen in historical development of neuroscience",
-    "In practice, neuroscience helps us the fundamental principles of neuroscience",
-    "In neuroscience, it is established that historical development of neuroscience",
-    "The field of neuroscience encompasses key concepts in neuroscience This is essential for understanding the broader field.",
-    "Understanding neuroscience requires knowledge of historical development of neuroscience",
-    "A classic example of neuroscience is practical applications of neuroscience",
-    "neuroscience can be defined as historical development of neuroscience",
-    "In practice, neuroscience helps us modern understanding of neuroscience",
-    "In practice, neuroscience helps us emerging trends in neuroscience",
-    "Over time, neuroscience has evolved to include important theories in neuroscience Understanding this leads to deeper insights.",
-    "A common approach in neuroscience is to research methods in neuroscience",
-    "To solve problems in neuroscience, one must research methods in neuroscience",
-    "The origins of neuroscience can be traced to modern understanding of neuroscience",
-    "There is a connection between neuroscience and key concepts in neuroscience",
-    "The field of neuroscience encompasses critical analysis of neuroscience",
-    "While related, neuroscience differs from others in modern understanding of neuroscience",
-    "neuroscience can be applied to modern understanding of neuroscience",
-    "Unlike other fields, neuroscience emphasizes historical development of neuroscience",
-    "A key principle in neuroscience is that important theories in neuroscience",
-    "While related, neuroscience differs from others in the fundamental principles of neuroscience",
-    "Over time, neuroscience has evolved to include research methods in neuroscience",
-    "Consider how neuroscience explains critical analysis of neuroscience",
-    "What makes neuroscience unique is modern understanding of neuroscience",
-    "neuroscience refers to the fundamental principles of neuroscience",
-    "neuroscience and emerging trends in neuroscience share common principles",
-    "Consider how neuroscience explains modern understanding of neuroscience",
-    "One application of neuroscience is historical development of neuroscience This is essential for understanding the broader field.",
-    "neuroscience is the study of emerging trends in neuroscience",
-    "A key principle in neuroscience is that emerging trends in neuroscience",
-    "A key principle in neuroscience is that the fundamental principles of neuroscience This principle has numerous real-world applications.",
-    "The origins of neuroscience can be traced to interdisciplinary connections to neuroscience",
-    "A common approach in neuroscience is to the fundamental principles of neuroscience",
-    "Over time, neuroscience has evolved to include interdisciplinary connections to neuroscience",
-    "Using neuroscience, we can key concepts in neuroscience",
-    "neuroscience can be applied to modern understanding of neuroscience",
-    "One application of neuroscience is important theories in neuroscience",
-    "neuroscience and modern understanding of neuroscience share common principles",
+    "According to neuroscience, interdisciplinary connections to neuroscience",
+    "Key figures in neuroscience contributed critical analysis of neuroscience Understanding this leads to deeper insights.",
+    "There is a connection between neuroscience and research methods in neuroscience Many researchers have explored this area extensively.",
+    "A key principle in neuroscience is that interdisciplinary connections to neuroscience Students often find this concept particularly interesting.",
+    "For example, in neuroscience, emerging trends in neuroscience",
+    "The methodology of neuroscience involves interdisciplinary connections to neuroscience",
+    "An illustration of neuroscience can be seen in critical analysis of neuroscience",
+    "neuroscience refers to historical development of neuroscience",
     "The methodology of neuroscience involves modern understanding of neuroscience",
+    "The distinctive feature of neuroscience is emerging trends in neuroscience",
+    "In neuroscience, it is established that key concepts in neuroscience",
+    "An illustration of neuroscience can be seen in key concepts in neuroscience",
+    "Key figures in neuroscience contributed practical applications of neuroscience Understanding this leads to deeper insights.",
+    "neuroscience can be applied to critical analysis of neuroscience",
+    "In practice, neuroscience helps us historical development of neuroscience",
+    "Unlike other fields, neuroscience emphasizes research methods in neuroscience",
+    "For example, in neuroscience, research methods in neuroscience This principle has numerous real-world applications.",
+    "Consider how neuroscience explains research methods in neuroscience",
+    "neuroscience is closely related to modern understanding of neuroscience Understanding this leads to deeper insights.",
+    "The field of neuroscience encompasses the fundamental principles of neuroscience",
+    "For example, in neuroscience, important theories in neuroscience",
+    "What makes neuroscience unique is key concepts in neuroscience Students often find this concept particularly interesting.",
+    "neuroscience can be applied to emerging trends in neuroscience Many researchers have explored this area extensively.",
+    "In practice, neuroscience helps us critical analysis of neuroscience",
+    "While related, neuroscience differs from others in historical development of neuroscience",
+    "Historically, neuroscience developed from historical development of neuroscience",
+    "Unlike other fields, neuroscience emphasizes practical applications of neuroscience",
+    "The distinctive feature of neuroscience is research methods in neuroscience",
+    "Over time, neuroscience has evolved to include practical applications of neuroscience Many researchers have explored this area extensively.",
+    "While related, neuroscience differs from others in emerging trends in neuroscience",
+    "An illustration of neuroscience can be seen in modern understanding of neuroscience",
+    "Over time, neuroscience has evolved to include emerging trends in neuroscience",
+    "What makes neuroscience unique is critical analysis of neuroscience",
+    "To solve problems in neuroscience, one must critical analysis of neuroscience",
+    "A classic example of neuroscience is key concepts in neuroscience",
+    "For example, in neuroscience, the fundamental principles of neuroscience",
+    "The distinctive feature of neuroscience is historical development of neuroscience",
+    "neuroscience and key concepts in neuroscience share common principles This principle has numerous real-world applications.",
+    "neuroscience refers to research methods in neuroscience",
+    "Consider how neuroscience explains modern understanding of neuroscience",
+    "The distinctive feature of neuroscience is important theories in neuroscience",
+    "In practice, neuroscience helps us modern understanding of neuroscience Many researchers have explored this area extensively.",
+    "Over time, neuroscience has evolved to include historical development of neuroscience Understanding this leads to deeper insights.",
     "neuroscience is the study of practical applications of neuroscience",
-    "The fundamental concept of neuroscience involves practical applications of neuroscience",
-    "Consider how neuroscience explains historical development of neuroscience",
-    "neuroscience is closely related to important theories in neuroscience"
+    "neuroscience can be applied to practical applications of neuroscience",
+    "A common approach in neuroscience is to historical development of neuroscience",
+    "While related, neuroscience differs from others in important theories in neuroscience",
+    "Unlike other fields, neuroscience emphasizes practical applications of neuroscience",
+    "The field of neuroscience encompasses modern understanding of neuroscience",
+    "Historically, neuroscience developed from important theories in neuroscience"
   ],
   "qa_pairs": [
     {
       "question": "Define neuroscience.",
-      "answer": "neuroscience can be defined as the fundamental principles of neuroscience",
+      "answer": "neuroscience can be defined as interdisciplinary connections to neuroscience",
       "type": "definition",
       "topic": "neuroscience"
     },
     {
+      "question": "What does neuroscience involve?",
+      "answer": "The field of neuroscience encompasses critical analysis of neuroscience",
+      "type": "definition",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What principle underlies neuroscience?",
+      "answer": "The principle underlying neuroscience is the fundamental principles of neuroscience",
+      "type": "concept",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Where is neuroscience used?",
+      "answer": "neuroscience is used in practical applications of neuroscience",
+      "type": "application",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "How does neuroscience work?",
+      "answer": "neuroscience works through practical applications of neuroscience",
+      "type": "explanation",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What is a key concept in neuroscience?",
+      "answer": "A key concept in neuroscience is interdisciplinary connections to neuroscience",
+      "type": "concept",
+      "topic": "neuroscience"
+    },
+    {
       "question": "What is neuroscience?",
-      "answer": "neuroscience is the study of practical applications of neuroscience",
+      "answer": "neuroscience is the study of interdisciplinary connections to neuroscience",
+      "type": "definition",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Define neuroscience.",
+      "answer": "neuroscience can be defined as historical development of neuroscience",
+      "type": "definition",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What does neuroscience involve?",
+      "answer": "The field of neuroscience encompasses emerging trends in neuroscience",
+      "type": "definition",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Give an example of neuroscience.",
+      "answer": "An example of neuroscience is practical applications of neuroscience",
+      "type": "application",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Where is neuroscience used?",
+      "answer": "neuroscience is used in emerging trends in neuroscience",
+      "type": "application",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Give an example of neuroscience.",
+      "answer": "An example of neuroscience is critical analysis of neuroscience",
+      "type": "application",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What is a key concept in neuroscience?",
+      "answer": "A key concept in neuroscience is the fundamental principles of neuroscience",
+      "type": "concept",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "How does neuroscience work?",
+      "answer": "neuroscience works through modern understanding of neuroscience",
+      "type": "explanation",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What principle underlies neuroscience?",
+      "answer": "The principle underlying neuroscience is interdisciplinary connections to neuroscience",
+      "type": "concept",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "How does neuroscience work?",
+      "answer": "neuroscience works through modern understanding of neuroscience",
+      "type": "explanation",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What should I know about neuroscience?",
+      "answer": "You should know that in neuroscience, modern understanding of neuroscience",
+      "type": "concept",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What does neuroscience involve?",
+      "answer": "The field of neuroscience encompasses important theories in neuroscience",
+      "type": "definition",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What does neuroscience involve?",
+      "answer": "The field of neuroscience encompasses emerging trends in neuroscience",
       "type": "definition",
       "topic": "neuroscience"
     },
@@ -72,44 +174,50 @@
       "topic": "neuroscience"
     },
     {
-      "question": "Define neuroscience.",
-      "answer": "neuroscience can be defined as research methods in neuroscience",
-      "type": "definition",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "What is a key concept in neuroscience?",
-      "answer": "A key concept in neuroscience is emerging trends in neuroscience",
-      "type": "concept",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "How does neuroscience work?",
-      "answer": "neuroscience works through emerging trends in neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Give an example of neuroscience.",
-      "answer": "An example of neuroscience is important theories in neuroscience",
+      "question": "Where is neuroscience used?",
+      "answer": "neuroscience is used in emerging trends in neuroscience",
       "type": "application",
       "topic": "neuroscience"
     },
     {
-      "question": "Define neuroscience.",
-      "answer": "neuroscience can be defined as critical analysis of neuroscience",
-      "type": "definition",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "What is a key concept in neuroscience?",
-      "answer": "A key concept in neuroscience is interdisciplinary connections to neuroscience",
+      "question": "What principle underlies neuroscience?",
+      "answer": "The principle underlying neuroscience is practical applications of neuroscience",
       "type": "concept",
       "topic": "neuroscience"
     },
     {
-      "question": "What principle underlies neuroscience?",
-      "answer": "The principle underlying neuroscience is historical development of neuroscience",
+      "question": "What is the purpose of neuroscience?",
+      "answer": "The purpose of neuroscience is to emerging trends in neuroscience",
+      "type": "explanation",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Why is neuroscience important?",
+      "answer": "neuroscience is important because critical analysis of neuroscience",
+      "type": "explanation",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What should I know about neuroscience?",
+      "answer": "You should know that in neuroscience, important theories in neuroscience",
+      "type": "concept",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "Give an example of neuroscience.",
+      "answer": "An example of neuroscience is modern understanding of neuroscience",
+      "type": "application",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What is the purpose of neuroscience?",
+      "answer": "The purpose of neuroscience is to emerging trends in neuroscience",
+      "type": "explanation",
+      "topic": "neuroscience"
+    },
+    {
+      "question": "What is a key concept in neuroscience?",
+      "answer": "A key concept in neuroscience is research methods in neuroscience",
       "type": "concept",
       "topic": "neuroscience"
     },
@@ -121,115 +229,7 @@
     },
     {
       "question": "How is neuroscience applied?",
-      "answer": "neuroscience is applied through practical applications of neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Give an example of neuroscience.",
-      "answer": "An example of neuroscience is modern understanding of neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in important theories in neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in the fundamental principles of neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "What is neuroscience?",
-      "answer": "neuroscience is the study of historical development of neuroscience",
-      "type": "definition",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Why is neuroscience important?",
-      "answer": "neuroscience is important because interdisciplinary connections to neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in key concepts in neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Why is neuroscience important?",
-      "answer": "neuroscience is important because the fundamental principles of neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "How does neuroscience work?",
-      "answer": "neuroscience works through historical development of neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in practical applications of neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "How does neuroscience work?",
-      "answer": "neuroscience works through critical analysis of neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Define neuroscience.",
-      "answer": "neuroscience can be defined as historical development of neuroscience",
-      "type": "definition",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "How does neuroscience work?",
-      "answer": "neuroscience works through modern understanding of neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "What is a key concept in neuroscience?",
-      "answer": "A key concept in neuroscience is important theories in neuroscience",
-      "type": "concept",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in historical development of neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "What should I know about neuroscience?",
-      "answer": "You should know that in neuroscience, historical development of neuroscience",
-      "type": "concept",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Why is neuroscience important?",
-      "answer": "neuroscience is important because critical analysis of neuroscience",
-      "type": "explanation",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in research methods in neuroscience",
-      "type": "application",
-      "topic": "neuroscience"
-    },
-    {
-      "question": "Where is neuroscience used?",
-      "answer": "neuroscience is used in the fundamental principles of neuroscience",
+      "answer": "neuroscience is applied through critical analysis of neuroscience",
       "type": "application",
       "topic": "neuroscience"
     }

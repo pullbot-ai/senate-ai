@@ -1,169 +1,91 @@
 {
   "topic": "astronomy",
   "training_examples": [
-    "Consider how astronomy explains interdisciplinary connections to astronomy Many researchers have explored this area extensively.",
-    "Historically, astronomy developed from interdisciplinary connections to astronomy",
-    "While related, astronomy differs from others in practical applications of astronomy",
-    "To solve problems in astronomy, one must research methods in astronomy",
-    "astronomy is closely related to important theories in astronomy Understanding this leads to deeper insights.",
-    "What makes astronomy unique is important theories in astronomy",
-    "A key principle in astronomy is that modern understanding of astronomy",
+    "The methodology of astronomy involves important theories in astronomy",
+    "According to astronomy, interdisciplinary connections to astronomy This is essential for understanding the broader field.",
+    "astronomy is closely related to emerging trends in astronomy",
     "The distinctive feature of astronomy is practical applications of astronomy",
-    "Using astronomy, we can modern understanding of astronomy",
-    "The fundamental concept of astronomy involves modern understanding of astronomy",
-    "astronomy can be defined as key concepts in astronomy",
-    "There is a connection between astronomy and research methods in astronomy",
-    "There is a connection between astronomy and interdisciplinary connections to astronomy Students often find this concept particularly interesting.",
-    "Over time, astronomy has evolved to include important theories in astronomy",
-    "A key principle in astronomy is that modern understanding of astronomy This is essential for understanding the broader field.",
-    "Using astronomy, we can practical applications of astronomy Understanding this leads to deeper insights.",
-    "astronomy refers to interdisciplinary connections to astronomy",
-    "astronomy refers to emerging trends in astronomy This principle has numerous real-world applications.",
-    "The origins of astronomy can be traced to key concepts in astronomy",
-    "To solve problems in astronomy, one must the fundamental principles of astronomy",
-    "astronomy and the fundamental principles of astronomy share common principles",
-    "There is a connection between astronomy and modern understanding of astronomy",
-    "Unlike other fields, astronomy emphasizes the fundamental principles of astronomy",
-    "The origins of astronomy can be traced to modern understanding of astronomy",
-    "While related, astronomy differs from others in modern understanding of astronomy",
-    "astronomy can be applied to modern understanding of astronomy",
-    "astronomy and critical analysis of astronomy share common principles",
-    "While related, astronomy differs from others in important theories in astronomy",
-    "The distinctive feature of astronomy is practical applications of astronomy",
-    "astronomy and research methods in astronomy share common principles",
-    "astronomy and important theories in astronomy share common principles Many researchers have explored this area extensively.",
+    "In astronomy, it is established that emerging trends in astronomy",
+    "There is a connection between astronomy and modern understanding of astronomy Many researchers have explored this area extensively.",
+    "What makes astronomy unique is modern understanding of astronomy",
+    "Using astronomy, we can interdisciplinary connections to astronomy This principle has numerous real-world applications.",
+    "Experts in astronomy typically practical applications of astronomy",
+    "A key principle in astronomy is that critical analysis of astronomy",
+    "astronomy refers to modern understanding of astronomy",
+    "According to astronomy, research methods in astronomy",
+    "Understanding astronomy requires knowledge of modern understanding of astronomy",
+    "astronomy can be defined as practical applications of astronomy",
+    "Using astronomy, we can interdisciplinary connections to astronomy",
+    "According to astronomy, practical applications of astronomy",
+    "Understanding astronomy requires knowledge of critical analysis of astronomy",
     "The origins of astronomy can be traced to historical development of astronomy",
-    "Over time, astronomy has evolved to include practical applications of astronomy Understanding this leads to deeper insights.",
-    "In practice, astronomy helps us modern understanding of astronomy Students often find this concept particularly interesting.",
-    "The fundamental concept of astronomy involves critical analysis of astronomy This is essential for understanding the broader field.",
-    "Understanding astronomy requires knowledge of emerging trends in astronomy",
-    "There is a connection between astronomy and emerging trends in astronomy",
-    "Using astronomy, we can practical applications of astronomy",
-    "While related, astronomy differs from others in interdisciplinary connections to astronomy",
-    "A classic example of astronomy is research methods in astronomy",
-    "What makes astronomy unique is historical development of astronomy",
+    "According to astronomy, critical analysis of astronomy",
+    "For example, in astronomy, key concepts in astronomy",
+    "Historically, astronomy developed from historical development of astronomy",
+    "Over time, astronomy has evolved to include practical applications of astronomy",
+    "astronomy refers to important theories in astronomy",
+    "astronomy refers to key concepts in astronomy Students often find this concept particularly interesting.",
+    "According to astronomy, the fundamental principles of astronomy",
+    "In astronomy, it is established that the fundamental principles of astronomy",
+    "Key figures in astronomy contributed historical development of astronomy",
+    "Unlike other fields, astronomy emphasizes historical development of astronomy This principle has numerous real-world applications.",
+    "In astronomy, it is established that historical development of astronomy Many researchers have explored this area extensively.",
+    "A classic example of astronomy is key concepts in astronomy",
+    "The field of astronomy encompasses modern understanding of astronomy Students often find this concept particularly interesting.",
     "An illustration of astronomy can be seen in the fundamental principles of astronomy",
-    "astronomy can be defined as emerging trends in astronomy",
-    "While related, astronomy differs from others in research methods in astronomy Many researchers have explored this area extensively.",
-    "The methodology of astronomy involves the fundamental principles of astronomy",
-    "To solve problems in astronomy, one must critical analysis of astronomy Many researchers have explored this area extensively.",
-    "Understanding astronomy requires knowledge of the fundamental principles of astronomy This is essential for understanding the broader field.",
+    "For example, in astronomy, important theories in astronomy",
+    "While related, astronomy differs from others in interdisciplinary connections to astronomy Understanding this leads to deeper insights.",
+    "The fundamental concept of astronomy involves the fundamental principles of astronomy This principle has numerous real-world applications.",
+    "The fundamental concept of astronomy involves research methods in astronomy This is essential for understanding the broader field.",
+    "An illustration of astronomy can be seen in key concepts in astronomy",
+    "There is a connection between astronomy and the fundamental principles of astronomy This principle has numerous real-world applications.",
+    "An illustration of astronomy can be seen in important theories in astronomy",
+    "While related, astronomy differs from others in the fundamental principles of astronomy",
+    "One application of astronomy is key concepts in astronomy",
+    "What makes astronomy unique is critical analysis of astronomy",
+    "Using astronomy, we can key concepts in astronomy This is essential for understanding the broader field.",
+    "The fundamental concept of astronomy involves emerging trends in astronomy",
+    "The fundamental concept of astronomy involves the fundamental principles of astronomy",
+    "Key figures in astronomy contributed modern understanding of astronomy",
     "astronomy refers to research methods in astronomy",
-    "One application of astronomy is the fundamental principles of astronomy",
-    "A classic example of astronomy is research methods in astronomy"
+    "The methodology of astronomy involves research methods in astronomy",
+    "The fundamental concept of astronomy involves critical analysis of astronomy Many researchers have explored this area extensively.",
+    "The origins of astronomy can be traced to the fundamental principles of astronomy"
   ],
   "qa_pairs": [
     {
-      "question": "Give an example of astronomy.",
-      "answer": "An example of astronomy is interdisciplinary connections to astronomy",
+      "question": "Where is astronomy used?",
+      "answer": "astronomy is used in important theories in astronomy",
       "type": "application",
       "topic": "astronomy"
     },
     {
       "question": "What is the purpose of astronomy?",
-      "answer": "The purpose of astronomy is to practical applications of astronomy",
+      "answer": "The purpose of astronomy is to interdisciplinary connections to astronomy",
       "type": "explanation",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What should I know about astronomy?",
-      "answer": "You should know that in astronomy, key concepts in astronomy",
-      "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What should I know about astronomy?",
-      "answer": "You should know that in astronomy, important theories in astronomy",
-      "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "How does astronomy work?",
-      "answer": "astronomy works through practical applications of astronomy",
-      "type": "explanation",
-      "topic": "astronomy"
-    },
-    {
-      "question": "Where is astronomy used?",
-      "answer": "astronomy is used in key concepts in astronomy",
-      "type": "application",
-      "topic": "astronomy"
-    },
-    {
-      "question": "Where is astronomy used?",
-      "answer": "astronomy is used in practical applications of astronomy",
-      "type": "application",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What is astronomy?",
-      "answer": "astronomy is the study of important theories in astronomy",
-      "type": "definition",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What should I know about astronomy?",
-      "answer": "You should know that in astronomy, interdisciplinary connections to astronomy",
-      "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What principle underlies astronomy?",
-      "answer": "The principle underlying astronomy is important theories in astronomy",
-      "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "How is astronomy applied?",
-      "answer": "astronomy is applied through the fundamental principles of astronomy",
-      "type": "application",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What should I know about astronomy?",
-      "answer": "You should know that in astronomy, modern understanding of astronomy",
-      "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What should I know about astronomy?",
-      "answer": "You should know that in astronomy, practical applications of astronomy",
-      "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What is the purpose of astronomy?",
-      "answer": "The purpose of astronomy is to critical analysis of astronomy",
-      "type": "explanation",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What should I know about astronomy?",
-      "answer": "You should know that in astronomy, practical applications of astronomy",
-      "type": "concept",
       "topic": "astronomy"
     },
     {
       "question": "Define astronomy.",
-      "answer": "astronomy can be defined as modern understanding of astronomy",
+      "answer": "astronomy can be defined as interdisciplinary connections to astronomy",
       "type": "definition",
       "topic": "astronomy"
     },
     {
-      "question": "What does astronomy involve?",
-      "answer": "The field of astronomy encompasses critical analysis of astronomy",
+      "question": "What is astronomy?",
+      "answer": "astronomy is the study of key concepts in astronomy",
       "type": "definition",
       "topic": "astronomy"
     },
     {
-      "question": "What does astronomy involve?",
-      "answer": "The field of astronomy encompasses modern understanding of astronomy",
-      "type": "definition",
+      "question": "What is the purpose of astronomy?",
+      "answer": "The purpose of astronomy is to the fundamental principles of astronomy",
+      "type": "explanation",
       "topic": "astronomy"
     },
     {
-      "question": "Why is astronomy important?",
-      "answer": "astronomy is important because research methods in astronomy",
+      "question": "How does astronomy work?",
+      "answer": "astronomy works through modern understanding of astronomy",
       "type": "explanation",
       "topic": "astronomy"
     },
@@ -174,63 +96,141 @@
       "topic": "astronomy"
     },
     {
-      "question": "Define astronomy.",
-      "answer": "astronomy can be defined as critical analysis of astronomy",
-      "type": "definition",
-      "topic": "astronomy"
-    },
-    {
-      "question": "How is astronomy applied?",
-      "answer": "astronomy is applied through key concepts in astronomy",
-      "type": "application",
-      "topic": "astronomy"
-    },
-    {
-      "question": "Define astronomy.",
-      "answer": "astronomy can be defined as the fundamental principles of astronomy",
-      "type": "definition",
+      "question": "What is the purpose of astronomy?",
+      "answer": "The purpose of astronomy is to interdisciplinary connections to astronomy",
+      "type": "explanation",
       "topic": "astronomy"
     },
     {
       "question": "Why is astronomy important?",
-      "answer": "astronomy is important because important theories in astronomy",
+      "answer": "astronomy is important because modern understanding of astronomy",
       "type": "explanation",
       "topic": "astronomy"
     },
     {
-      "question": "What is a key concept in astronomy?",
-      "answer": "A key concept in astronomy is the fundamental principles of astronomy",
+      "question": "Where is astronomy used?",
+      "answer": "astronomy is used in practical applications of astronomy",
+      "type": "application",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What principle underlies astronomy?",
+      "answer": "The principle underlying astronomy is modern understanding of astronomy",
       "type": "concept",
-      "topic": "astronomy"
-    },
-    {
-      "question": "Where is astronomy used?",
-      "answer": "astronomy is used in interdisciplinary connections to astronomy",
-      "type": "application",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What is astronomy?",
-      "answer": "astronomy is the study of interdisciplinary connections to astronomy",
-      "type": "definition",
-      "topic": "astronomy"
-    },
-    {
-      "question": "Where is astronomy used?",
-      "answer": "astronomy is used in the fundamental principles of astronomy",
-      "type": "application",
-      "topic": "astronomy"
-    },
-    {
-      "question": "What is the purpose of astronomy?",
-      "answer": "The purpose of astronomy is to practical applications of astronomy",
-      "type": "explanation",
       "topic": "astronomy"
     },
     {
       "question": "What is the purpose of astronomy?",
       "answer": "The purpose of astronomy is to modern understanding of astronomy",
       "type": "explanation",
+      "topic": "astronomy"
+    },
+    {
+      "question": "Why is astronomy important?",
+      "answer": "astronomy is important because modern understanding of astronomy",
+      "type": "explanation",
+      "topic": "astronomy"
+    },
+    {
+      "question": "Give an example of astronomy.",
+      "answer": "An example of astronomy is practical applications of astronomy",
+      "type": "application",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is astronomy?",
+      "answer": "astronomy is the study of critical analysis of astronomy",
+      "type": "definition",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is a key concept in astronomy?",
+      "answer": "A key concept in astronomy is emerging trends in astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "How does astronomy work?",
+      "answer": "astronomy works through key concepts in astronomy",
+      "type": "explanation",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What principle underlies astronomy?",
+      "answer": "The principle underlying astronomy is emerging trends in astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "How does astronomy work?",
+      "answer": "astronomy works through modern understanding of astronomy",
+      "type": "explanation",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What does astronomy involve?",
+      "answer": "The field of astronomy encompasses critical analysis of astronomy",
+      "type": "definition",
+      "topic": "astronomy"
+    },
+    {
+      "question": "How does astronomy work?",
+      "answer": "astronomy works through important theories in astronomy",
+      "type": "explanation",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What should I know about astronomy?",
+      "answer": "You should know that in astronomy, key concepts in astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is a key concept in astronomy?",
+      "answer": "A key concept in astronomy is emerging trends in astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is astronomy?",
+      "answer": "astronomy is the study of critical analysis of astronomy",
+      "type": "definition",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What should I know about astronomy?",
+      "answer": "You should know that in astronomy, key concepts in astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is a key concept in astronomy?",
+      "answer": "A key concept in astronomy is historical development of astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is a key concept in astronomy?",
+      "answer": "A key concept in astronomy is modern understanding of astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What principle underlies astronomy?",
+      "answer": "The principle underlying astronomy is historical development of astronomy",
+      "type": "concept",
+      "topic": "astronomy"
+    },
+    {
+      "question": "What is astronomy?",
+      "answer": "astronomy is the study of critical analysis of astronomy",
+      "type": "definition",
+      "topic": "astronomy"
+    },
+    {
+      "question": "Define astronomy.",
+      "answer": "astronomy can be defined as the fundamental principles of astronomy",
+      "type": "definition",
       "topic": "astronomy"
     }
   ],

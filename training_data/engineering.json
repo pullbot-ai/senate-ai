@@ -1,74 +1,68 @@
 {
   "topic": "engineering",
   "training_examples": [
-    "In practice, engineering helps us modern understanding of engineering",
-    "A key principle in engineering is that interdisciplinary connections to engineering",
-    "There is a connection between engineering and emerging trends in engineering",
-    "engineering can be defined as key concepts in engineering",
-    "A key principle in engineering is that modern understanding of engineering",
-    "The distinctive feature of engineering is research methods in engineering",
-    "An illustration of engineering can be seen in important theories in engineering",
-    "One application of engineering is critical analysis of engineering",
-    "A classic example of engineering is important theories in engineering",
-    "What makes engineering unique is modern understanding of engineering Students often find this concept particularly interesting.",
-    "A key principle in engineering is that emerging trends in engineering",
-    "Understanding engineering requires knowledge of interdisciplinary connections to engineering",
-    "engineering can be applied to research methods in engineering Students often find this concept particularly interesting.",
-    "engineering is the study of the fundamental principles of engineering",
-    "Unlike other fields, engineering emphasizes the fundamental principles of engineering This is essential for understanding the broader field.",
-    "For example, in engineering, critical analysis of engineering This principle has numerous real-world applications.",
-    "The fundamental concept of engineering involves key concepts in engineering",
     "Consider how engineering explains research methods in engineering",
-    "One application of engineering is historical development of engineering",
-    "In engineering, it is established that historical development of engineering",
-    "The origins of engineering can be traced to critical analysis of engineering This is essential for understanding the broader field.",
-    "In engineering, it is established that practical applications of engineering This is essential for understanding the broader field.",
+    "A classic example of engineering is the fundamental principles of engineering",
+    "The distinctive feature of engineering is critical analysis of engineering",
+    "The fundamental concept of engineering involves historical development of engineering",
+    "Key figures in engineering contributed critical analysis of engineering",
+    "One application of engineering is emerging trends in engineering Understanding this leads to deeper insights.",
+    "engineering and research methods in engineering share common principles",
+    "In engineering, it is established that critical analysis of engineering Understanding this leads to deeper insights.",
+    "Experts in engineering typically interdisciplinary connections to engineering This is essential for understanding the broader field.",
+    "According to engineering, practical applications of engineering This is essential for understanding the broader field.",
+    "engineering is closely related to key concepts in engineering",
+    "In practice, engineering helps us practical applications of engineering Understanding this leads to deeper insights.",
+    "Using engineering, we can interdisciplinary connections to engineering",
+    "Understanding engineering requires knowledge of interdisciplinary connections to engineering",
+    "engineering can be applied to modern understanding of engineering",
+    "In practice, engineering helps us interdisciplinary connections to engineering",
+    "A classic example of engineering is critical analysis of engineering",
+    "engineering can be applied to key concepts in engineering",
+    "Unlike other fields, engineering emphasizes interdisciplinary connections to engineering",
+    "The field of engineering encompasses interdisciplinary connections to engineering",
+    "engineering can be applied to emerging trends in engineering",
+    "Over time, engineering has evolved to include emerging trends in engineering This principle has numerous real-world applications.",
     "To solve problems in engineering, one must practical applications of engineering",
-    "The fundamental concept of engineering involves the fundamental principles of engineering Many researchers have explored this area extensively.",
-    "For example, in engineering, historical development of engineering",
-    "Experts in engineering typically historical development of engineering",
-    "There is a connection between engineering and research methods in engineering Understanding this leads to deeper insights.",
-    "Over time, engineering has evolved to include practical applications of engineering This principle has numerous real-world applications.",
-    "Experts in engineering typically the fundamental principles of engineering Understanding this leads to deeper insights.",
-    "While related, engineering differs from others in historical development of engineering",
-    "In engineering, it is established that the fundamental principles of engineering This is essential for understanding the broader field.",
-    "According to engineering, critical analysis of engineering",
-    "To solve problems in engineering, one must historical development of engineering",
-    "In engineering, it is established that the fundamental principles of engineering This principle has numerous real-world applications.",
-    "According to engineering, historical development of engineering",
-    "engineering is closely related to interdisciplinary connections to engineering",
-    "Key figures in engineering contributed interdisciplinary connections to engineering",
-    "The fundamental concept of engineering involves modern understanding of engineering",
-    "engineering and interdisciplinary connections to engineering share common principles This principle has numerous real-world applications.",
-    "engineering can be defined as practical applications of engineering This principle has numerous real-world applications.",
-    "According to engineering, important theories in engineering",
-    "What makes engineering unique is modern understanding of engineering Many researchers have explored this area extensively.",
-    "To solve problems in engineering, one must research methods in engineering",
-    "A classic example of engineering is key concepts in engineering Many researchers have explored this area extensively.",
-    "There is a connection between engineering and modern understanding of engineering",
-    "One application of engineering is emerging trends in engineering Many researchers have explored this area extensively.",
-    "Unlike other fields, engineering emphasizes important theories in engineering",
-    "engineering is closely related to research methods in engineering",
-    "According to engineering, modern understanding of engineering This is essential for understanding the broader field.",
-    "According to engineering, modern understanding of engineering Students often find this concept particularly interesting."
+    "The fundamental concept of engineering involves historical development of engineering This is essential for understanding the broader field.",
+    "Over time, engineering has evolved to include important theories in engineering",
+    "Over time, engineering has evolved to include research methods in engineering This is essential for understanding the broader field.",
+    "There is a connection between engineering and critical analysis of engineering",
+    "What makes engineering unique is research methods in engineering This is essential for understanding the broader field.",
+    "Key figures in engineering contributed modern understanding of engineering",
+    "engineering is the study of practical applications of engineering Students often find this concept particularly interesting.",
+    "Experts in engineering typically interdisciplinary connections to engineering",
+    "One application of engineering is research methods in engineering",
+    "A classic example of engineering is the fundamental principles of engineering",
+    "Using engineering, we can practical applications of engineering Many researchers have explored this area extensively.",
+    "The fundamental concept of engineering involves practical applications of engineering",
+    "Unlike other fields, engineering emphasizes the fundamental principles of engineering",
+    "Experts in engineering typically practical applications of engineering",
+    "One application of engineering is practical applications of engineering",
+    "engineering is the study of the fundamental principles of engineering",
+    "A classic example of engineering is critical analysis of engineering Understanding this leads to deeper insights.",
+    "engineering can be applied to historical development of engineering",
+    "engineering can be applied to key concepts in engineering Students often find this concept particularly interesting.",
+    "engineering and important theories in engineering share common principles Many researchers have explored this area extensively.",
+    "Historically, engineering developed from interdisciplinary connections to engineering Many researchers have explored this area extensively.",
+    "An illustration of engineering can be seen in key concepts in engineering",
+    "While related, engineering differs from others in key concepts in engineering",
+    "Unlike other fields, engineering emphasizes practical applications of engineering",
+    "Unlike other fields, engineering emphasizes emerging trends in engineering",
+    "To solve problems in engineering, one must the fundamental principles of engineering",
+    "There is a connection between engineering and emerging trends in engineering"
   ],
   "qa_pairs": [
     {
-      "question": "How does engineering work?",
-      "answer": "engineering works through modern understanding of engineering",
-      "type": "explanation",
+      "question": "Where is engineering used?",
+      "answer": "engineering is used in research methods in engineering",
+      "type": "application",
       "topic": "engineering"
     },
     {
-      "question": "What is engineering?",
-      "answer": "engineering is the study of interdisciplinary connections to engineering",
-      "type": "definition",
-      "topic": "engineering"
-    },
-    {
-      "question": "What principle underlies engineering?",
-      "answer": "The principle underlying engineering is interdisciplinary connections to engineering",
-      "type": "concept",
+      "question": "Give an example of engineering.",
+      "answer": "An example of engineering is historical development of engineering",
+      "type": "application",
       "topic": "engineering"
     },
     {
@@ -78,99 +72,39 @@
       "topic": "engineering"
     },
     {
-      "question": "Define engineering.",
-      "answer": "engineering can be defined as key concepts in engineering",
-      "type": "definition",
-      "topic": "engineering"
-    },
-    {
-      "question": "What does engineering involve?",
-      "answer": "The field of engineering encompasses key concepts in engineering",
-      "type": "definition",
-      "topic": "engineering"
-    },
-    {
-      "question": "What should I know about engineering?",
-      "answer": "You should know that in engineering, the fundamental principles of engineering",
-      "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "What should I know about engineering?",
-      "answer": "You should know that in engineering, emerging trends in engineering",
-      "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "What should I know about engineering?",
-      "answer": "You should know that in engineering, research methods in engineering",
-      "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "How is engineering applied?",
-      "answer": "engineering is applied through historical development of engineering",
+      "question": "Give an example of engineering.",
+      "answer": "An example of engineering is critical analysis of engineering",
       "type": "application",
       "topic": "engineering"
     },
     {
-      "question": "What is a key concept in engineering?",
-      "answer": "A key concept in engineering is interdisciplinary connections to engineering",
+      "question": "What should I know about engineering?",
+      "answer": "You should know that in engineering, key concepts in engineering",
       "type": "concept",
       "topic": "engineering"
     },
     {
-      "question": "Why is engineering important?",
-      "answer": "engineering is important because critical analysis of engineering",
-      "type": "explanation",
+      "question": "Give an example of engineering.",
+      "answer": "An example of engineering is modern understanding of engineering",
+      "type": "application",
       "topic": "engineering"
     },
     {
       "question": "What principle underlies engineering?",
-      "answer": "The principle underlying engineering is practical applications of engineering",
+      "answer": "The principle underlying engineering is critical analysis of engineering",
       "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "How does engineering work?",
-      "answer": "engineering works through modern understanding of engineering",
-      "type": "explanation",
-      "topic": "engineering"
-    },
-    {
-      "question": "Give an example of engineering.",
-      "answer": "An example of engineering is research methods in engineering",
-      "type": "application",
-      "topic": "engineering"
-    },
-    {
-      "question": "Give an example of engineering.",
-      "answer": "An example of engineering is interdisciplinary connections to engineering",
-      "type": "application",
-      "topic": "engineering"
-    },
-    {
-      "question": "What is engineering?",
-      "answer": "engineering is the study of emerging trends in engineering",
-      "type": "definition",
       "topic": "engineering"
     },
     {
       "question": "What is the purpose of engineering?",
-      "answer": "The purpose of engineering is to critical analysis of engineering",
+      "answer": "The purpose of engineering is to important theories in engineering",
       "type": "explanation",
       "topic": "engineering"
     },
     {
-      "question": "What should I know about engineering?",
-      "answer": "You should know that in engineering, important theories in engineering",
-      "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "What does engineering involve?",
-      "answer": "The field of engineering encompasses research methods in engineering",
-      "type": "definition",
+      "question": "What is the purpose of engineering?",
+      "answer": "The purpose of engineering is to key concepts in engineering",
+      "type": "explanation",
       "topic": "engineering"
     },
     {
@@ -180,14 +114,98 @@
       "topic": "engineering"
     },
     {
-      "question": "What is engineering?",
-      "answer": "engineering is the study of the fundamental principles of engineering",
+      "question": "How is engineering applied?",
+      "answer": "engineering is applied through practical applications of engineering",
+      "type": "application",
+      "topic": "engineering"
+    },
+    {
+      "question": "What principle underlies engineering?",
+      "answer": "The principle underlying engineering is interdisciplinary connections to engineering",
+      "type": "concept",
+      "topic": "engineering"
+    },
+    {
+      "question": "Give an example of engineering.",
+      "answer": "An example of engineering is interdisciplinary connections to engineering",
+      "type": "application",
+      "topic": "engineering"
+    },
+    {
+      "question": "Why is engineering important?",
+      "answer": "engineering is important because key concepts in engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "Define engineering.",
+      "answer": "engineering can be defined as practical applications of engineering",
       "type": "definition",
       "topic": "engineering"
     },
     {
-      "question": "What does engineering involve?",
-      "answer": "The field of engineering encompasses interdisciplinary connections to engineering",
+      "question": "Where is engineering used?",
+      "answer": "engineering is used in the fundamental principles of engineering",
+      "type": "application",
+      "topic": "engineering"
+    },
+    {
+      "question": "Why is engineering important?",
+      "answer": "engineering is important because key concepts in engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "What is the purpose of engineering?",
+      "answer": "The purpose of engineering is to research methods in engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "Why is engineering important?",
+      "answer": "engineering is important because interdisciplinary connections to engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "How does engineering work?",
+      "answer": "engineering works through interdisciplinary connections to engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "What is a key concept in engineering?",
+      "answer": "A key concept in engineering is interdisciplinary connections to engineering",
+      "type": "concept",
+      "topic": "engineering"
+    },
+    {
+      "question": "What is the purpose of engineering?",
+      "answer": "The purpose of engineering is to critical analysis of engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "Why is engineering important?",
+      "answer": "engineering is important because modern understanding of engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "What principle underlies engineering?",
+      "answer": "The principle underlying engineering is emerging trends in engineering",
+      "type": "concept",
+      "topic": "engineering"
+    },
+    {
+      "question": "What is the purpose of engineering?",
+      "answer": "The purpose of engineering is to research methods in engineering",
+      "type": "explanation",
+      "topic": "engineering"
+    },
+    {
+      "question": "Define engineering.",
+      "answer": "engineering can be defined as practical applications of engineering",
       "type": "definition",
       "topic": "engineering"
     },
@@ -198,38 +216,20 @@
       "topic": "engineering"
     },
     {
-      "question": "Define engineering.",
-      "answer": "engineering can be defined as key concepts in engineering",
+      "question": "What does engineering involve?",
+      "answer": "The field of engineering encompasses modern understanding of engineering",
       "type": "definition",
       "topic": "engineering"
     },
     {
-      "question": "Where is engineering used?",
-      "answer": "engineering is used in key concepts in engineering",
-      "type": "application",
-      "topic": "engineering"
-    },
-    {
-      "question": "What is a key concept in engineering?",
-      "answer": "A key concept in engineering is critical analysis of engineering",
-      "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "Define engineering.",
-      "answer": "engineering can be defined as key concepts in engineering",
+      "question": "What does engineering involve?",
+      "answer": "The field of engineering encompasses modern understanding of engineering",
       "type": "definition",
       "topic": "engineering"
     },
     {
-      "question": "What is a key concept in engineering?",
-      "answer": "A key concept in engineering is historical development of engineering",
-      "type": "concept",
-      "topic": "engineering"
-    },
-    {
-      "question": "Give an example of engineering.",
-      "answer": "An example of engineering is historical development of engineering",
+      "question": "How is engineering applied?",
+      "answer": "engineering is applied through historical development of engineering",
       "type": "application",
       "topic": "engineering"
     }

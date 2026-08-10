@@ -1,110 +1,68 @@
 {
   "topic": "anatomy",
   "training_examples": [
-    "For example, in anatomy, historical development of anatomy",
-    "anatomy and interdisciplinary connections to anatomy share common principles This principle has numerous real-world applications.",
-    "The origins of anatomy can be traced to critical analysis of anatomy This is essential for understanding the broader field.",
-    "In practice, anatomy helps us interdisciplinary connections to anatomy This is essential for understanding the broader field.",
-    "Using anatomy, we can important theories in anatomy",
-    "While related, anatomy differs from others in practical applications of anatomy",
-    "anatomy can be defined as critical analysis of anatomy",
-    "The methodology of anatomy involves critical analysis of anatomy Students often find this concept particularly interesting.",
-    "Experts in anatomy typically interdisciplinary connections to anatomy",
-    "To solve problems in anatomy, one must research methods in anatomy",
-    "anatomy can be defined as important theories in anatomy",
-    "A common approach in anatomy is to emerging trends in anatomy",
-    "anatomy can be applied to practical applications of anatomy Students often find this concept particularly interesting.",
-    "Using anatomy, we can the fundamental principles of anatomy",
-    "Consider how anatomy explains research methods in anatomy",
-    "Unlike other fields, anatomy emphasizes emerging trends in anatomy",
-    "The field of anatomy encompasses interdisciplinary connections to anatomy This is essential for understanding the broader field.",
-    "A common approach in anatomy is to key concepts in anatomy Students often find this concept particularly interesting.",
-    "A common approach in anatomy is to historical development of anatomy Students often find this concept particularly interesting.",
-    "The fundamental concept of anatomy involves emerging trends in anatomy This principle has numerous real-world applications.",
-    "A classic example of anatomy is the fundamental principles of anatomy",
-    "To solve problems in anatomy, one must key concepts in anatomy Students often find this concept particularly interesting.",
-    "One application of anatomy is key concepts in anatomy This is essential for understanding the broader field.",
-    "In anatomy, it is established that critical analysis of anatomy This principle has numerous real-world applications.",
-    "The methodology of anatomy involves critical analysis of anatomy This principle has numerous real-world applications.",
-    "A common approach in anatomy is to interdisciplinary connections to anatomy This principle has numerous real-world applications.",
-    "The field of anatomy encompasses interdisciplinary connections to anatomy Many researchers have explored this area extensively.",
-    "Key figures in anatomy contributed research methods in anatomy",
-    "anatomy and interdisciplinary connections to anatomy share common principles",
-    "The origins of anatomy can be traced to emerging trends in anatomy",
-    "In anatomy, it is established that emerging trends in anatomy",
-    "anatomy and interdisciplinary connections to anatomy share common principles Understanding this leads to deeper insights.",
-    "In anatomy, it is established that practical applications of anatomy",
-    "A key principle in anatomy is that practical applications of anatomy",
-    "The field of anatomy encompasses interdisciplinary connections to anatomy",
-    "One application of anatomy is practical applications of anatomy",
+    "Unlike other fields, anatomy emphasizes research methods in anatomy",
+    "One application of anatomy is emerging trends in anatomy",
+    "A key principle in anatomy is that emerging trends in anatomy",
+    "Over time, anatomy has evolved to include practical applications of anatomy Understanding this leads to deeper insights.",
+    "What makes anatomy unique is modern understanding of anatomy",
+    "Consider how anatomy explains the fundamental principles of anatomy Students often find this concept particularly interesting.",
+    "Unlike other fields, anatomy emphasizes critical analysis of anatomy Understanding this leads to deeper insights.",
+    "One application of anatomy is the fundamental principles of anatomy",
+    "One application of anatomy is the fundamental principles of anatomy",
+    "The methodology of anatomy involves the fundamental principles of anatomy",
+    "The field of anatomy encompasses research methods in anatomy",
+    "In practice, anatomy helps us critical analysis of anatomy",
+    "Key figures in anatomy contributed emerging trends in anatomy",
     "Consider how anatomy explains important theories in anatomy",
-    "Key figures in anatomy contributed key concepts in anatomy",
-    "One application of anatomy is interdisciplinary connections to anatomy",
-    "anatomy can be applied to key concepts in anatomy",
-    "anatomy refers to modern understanding of anatomy",
-    "In practice, anatomy helps us the fundamental principles of anatomy Many researchers have explored this area extensively.",
-    "To solve problems in anatomy, one must key concepts in anatomy",
-    "The field of anatomy encompasses modern understanding of anatomy",
-    "A key principle in anatomy is that important theories in anatomy",
-    "The distinctive feature of anatomy is important theories in anatomy",
-    "There is a connection between anatomy and practical applications of anatomy Understanding this leads to deeper insights.",
+    "For example, in anatomy, critical analysis of anatomy This principle has numerous real-world applications.",
+    "An illustration of anatomy can be seen in emerging trends in anatomy",
     "anatomy can be applied to critical analysis of anatomy",
-    "Key figures in anatomy contributed emerging trends in anatomy Many researchers have explored this area extensively.",
-    "The origins of anatomy can be traced to key concepts in anatomy"
+    "Consider how anatomy explains critical analysis of anatomy",
+    "In practice, anatomy helps us practical applications of anatomy Students often find this concept particularly interesting.",
+    "The fundamental concept of anatomy involves practical applications of anatomy",
+    "A classic example of anatomy is the fundamental principles of anatomy Students often find this concept particularly interesting.",
+    "A key principle in anatomy is that modern understanding of anatomy This is essential for understanding the broader field.",
+    "Over time, anatomy has evolved to include modern understanding of anatomy This is essential for understanding the broader field.",
+    "Experts in anatomy typically the fundamental principles of anatomy",
+    "A common approach in anatomy is to key concepts in anatomy",
+    "In practice, anatomy helps us interdisciplinary connections to anatomy",
+    "The fundamental concept of anatomy involves emerging trends in anatomy This is essential for understanding the broader field.",
+    "Key figures in anatomy contributed the fundamental principles of anatomy",
+    "The field of anatomy encompasses interdisciplinary connections to anatomy",
+    "One application of anatomy is key concepts in anatomy",
+    "The methodology of anatomy involves emerging trends in anatomy",
+    "anatomy is the study of research methods in anatomy",
+    "In practice, anatomy helps us modern understanding of anatomy",
+    "An illustration of anatomy can be seen in interdisciplinary connections to anatomy Understanding this leads to deeper insights.",
+    "Experts in anatomy typically the fundamental principles of anatomy Many researchers have explored this area extensively.",
+    "The field of anatomy encompasses practical applications of anatomy This is essential for understanding the broader field.",
+    "anatomy is the study of modern understanding of anatomy",
+    "anatomy can be defined as practical applications of anatomy Many researchers have explored this area extensively.",
+    "A common approach in anatomy is to key concepts in anatomy Many researchers have explored this area extensively.",
+    "According to anatomy, the fundamental principles of anatomy This principle has numerous real-world applications.",
+    "Over time, anatomy has evolved to include practical applications of anatomy",
+    "Key figures in anatomy contributed interdisciplinary connections to anatomy",
+    "An illustration of anatomy can be seen in research methods in anatomy This principle has numerous real-world applications.",
+    "A key principle in anatomy is that critical analysis of anatomy Students often find this concept particularly interesting.",
+    "anatomy and practical applications of anatomy share common principles This principle has numerous real-world applications.",
+    "anatomy refers to emerging trends in anatomy",
+    "anatomy and emerging trends in anatomy share common principles",
+    "The fundamental concept of anatomy involves practical applications of anatomy",
+    "Historically, anatomy developed from historical development of anatomy Many researchers have explored this area extensively.",
+    "There is a connection between anatomy and the fundamental principles of anatomy"
   ],
   "qa_pairs": [
     {
-      "question": "How is anatomy applied?",
-      "answer": "anatomy is applied through historical development of anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "How does anatomy work?",
-      "answer": "anatomy works through interdisciplinary connections to anatomy",
-      "type": "explanation",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Define anatomy.",
-      "answer": "anatomy can be defined as critical analysis of anatomy",
-      "type": "definition",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What should I know about anatomy?",
-      "answer": "You should know that in anatomy, practical applications of anatomy",
+      "question": "What is a key concept in anatomy?",
+      "answer": "A key concept in anatomy is research methods in anatomy",
       "type": "concept",
       "topic": "anatomy"
     },
     {
       "question": "What is a key concept in anatomy?",
-      "answer": "A key concept in anatomy is critical analysis of anatomy",
+      "answer": "A key concept in anatomy is interdisciplinary connections to anatomy",
       "type": "concept",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What is anatomy?",
-      "answer": "anatomy is the study of research methods in anatomy",
-      "type": "definition",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What is anatomy?",
-      "answer": "anatomy is the study of emerging trends in anatomy",
-      "type": "definition",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What is the purpose of anatomy?",
-      "answer": "The purpose of anatomy is to modern understanding of anatomy",
-      "type": "explanation",
-      "topic": "anatomy"
-    },
-    {
-      "question": "How does anatomy work?",
-      "answer": "anatomy works through modern understanding of anatomy",
-      "type": "explanation",
       "topic": "anatomy"
     },
     {
@@ -114,92 +72,8 @@
       "topic": "anatomy"
     },
     {
-      "question": "What is anatomy?",
-      "answer": "anatomy is the study of modern understanding of anatomy",
-      "type": "definition",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What principle underlies anatomy?",
-      "answer": "The principle underlying anatomy is research methods in anatomy",
-      "type": "concept",
-      "topic": "anatomy"
-    },
-    {
-      "question": "How does anatomy work?",
-      "answer": "anatomy works through practical applications of anatomy",
-      "type": "explanation",
-      "topic": "anatomy"
-    },
-    {
       "question": "Give an example of anatomy.",
-      "answer": "An example of anatomy is critical analysis of anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Where is anatomy used?",
-      "answer": "anatomy is used in key concepts in anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Give an example of anatomy.",
-      "answer": "An example of anatomy is emerging trends in anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Define anatomy.",
-      "answer": "anatomy can be defined as important theories in anatomy",
-      "type": "definition",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What should I know about anatomy?",
-      "answer": "You should know that in anatomy, emerging trends in anatomy",
-      "type": "concept",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Give an example of anatomy.",
-      "answer": "An example of anatomy is emerging trends in anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Where is anatomy used?",
-      "answer": "anatomy is used in important theories in anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What is anatomy?",
-      "answer": "anatomy is the study of key concepts in anatomy",
-      "type": "definition",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Where is anatomy used?",
-      "answer": "anatomy is used in important theories in anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "What is a key concept in anatomy?",
-      "answer": "A key concept in anatomy is historical development of anatomy",
-      "type": "concept",
-      "topic": "anatomy"
-    },
-    {
-      "question": "Where is anatomy used?",
-      "answer": "anatomy is used in historical development of anatomy",
-      "type": "application",
-      "topic": "anatomy"
-    },
-    {
-      "question": "How is anatomy applied?",
-      "answer": "anatomy is applied through modern understanding of anatomy",
+      "answer": "An example of anatomy is key concepts in anatomy",
       "type": "application",
       "topic": "anatomy"
     },
@@ -210,8 +84,74 @@
       "topic": "anatomy"
     },
     {
+      "question": "How does anatomy work?",
+      "answer": "anatomy works through emerging trends in anatomy",
+      "type": "explanation",
+      "topic": "anatomy"
+    },
+    {
+      "question": "How is anatomy applied?",
+      "answer": "anatomy is applied through the fundamental principles of anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
       "question": "What does anatomy involve?",
-      "answer": "The field of anatomy encompasses interdisciplinary connections to anatomy",
+      "answer": "The field of anatomy encompasses modern understanding of anatomy",
+      "type": "definition",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Give an example of anatomy.",
+      "answer": "An example of anatomy is historical development of anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
+      "question": "How is anatomy applied?",
+      "answer": "anatomy is applied through key concepts in anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Where is anatomy used?",
+      "answer": "anatomy is used in modern understanding of anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Define anatomy.",
+      "answer": "anatomy can be defined as key concepts in anatomy",
+      "type": "definition",
+      "topic": "anatomy"
+    },
+    {
+      "question": "What is the purpose of anatomy?",
+      "answer": "The purpose of anatomy is to important theories in anatomy",
+      "type": "explanation",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Why is anatomy important?",
+      "answer": "anatomy is important because important theories in anatomy",
+      "type": "explanation",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Why is anatomy important?",
+      "answer": "anatomy is important because research methods in anatomy",
+      "type": "explanation",
+      "topic": "anatomy"
+    },
+    {
+      "question": "How does anatomy work?",
+      "answer": "anatomy works through important theories in anatomy",
+      "type": "explanation",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Define anatomy.",
+      "answer": "anatomy can be defined as the fundamental principles of anatomy",
       "type": "definition",
       "topic": "anatomy"
     },
@@ -222,14 +162,74 @@
       "topic": "anatomy"
     },
     {
-      "question": "What is anatomy?",
-      "answer": "anatomy is the study of research methods in anatomy",
-      "type": "definition",
+      "question": "What is a key concept in anatomy?",
+      "answer": "A key concept in anatomy is important theories in anatomy",
+      "type": "concept",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Give an example of anatomy.",
+      "answer": "An example of anatomy is emerging trends in anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
+      "question": "What principle underlies anatomy?",
+      "answer": "The principle underlying anatomy is emerging trends in anatomy",
+      "type": "concept",
       "topic": "anatomy"
     },
     {
       "question": "Where is anatomy used?",
-      "answer": "anatomy is used in key concepts in anatomy",
+      "answer": "anatomy is used in research methods in anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
+      "question": "How does anatomy work?",
+      "answer": "anatomy works through historical development of anatomy",
+      "type": "explanation",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Define anatomy.",
+      "answer": "anatomy can be defined as the fundamental principles of anatomy",
+      "type": "definition",
+      "topic": "anatomy"
+    },
+    {
+      "question": "What principle underlies anatomy?",
+      "answer": "The principle underlying anatomy is critical analysis of anatomy",
+      "type": "concept",
+      "topic": "anatomy"
+    },
+    {
+      "question": "What is a key concept in anatomy?",
+      "answer": "A key concept in anatomy is the fundamental principles of anatomy",
+      "type": "concept",
+      "topic": "anatomy"
+    },
+    {
+      "question": "What should I know about anatomy?",
+      "answer": "You should know that in anatomy, historical development of anatomy",
+      "type": "concept",
+      "topic": "anatomy"
+    },
+    {
+      "question": "Give an example of anatomy.",
+      "answer": "An example of anatomy is modern understanding of anatomy",
+      "type": "application",
+      "topic": "anatomy"
+    },
+    {
+      "question": "What should I know about anatomy?",
+      "answer": "You should know that in anatomy, important theories in anatomy",
+      "type": "concept",
+      "topic": "anatomy"
+    },
+    {
+      "question": "How is anatomy applied?",
+      "answer": "anatomy is applied through practical applications of anatomy",
       "type": "application",
       "topic": "anatomy"
     }

@@ -1,58 +1,76 @@
 {
   "topic": "medicine",
   "training_examples": [
+    "Over time, medicine has evolved to include interdisciplinary connections to medicine",
+    "medicine can be defined as modern understanding of medicine This is essential for understanding the broader field.",
     "Experts in medicine typically key concepts in medicine",
-    "medicine refers to practical applications of medicine",
-    "A classic example of medicine is research methods in medicine Many researchers have explored this area extensively.",
-    "Key figures in medicine contributed research methods in medicine This is essential for understanding the broader field.",
-    "While related, medicine differs from others in interdisciplinary connections to medicine This principle has numerous real-world applications.",
-    "Experts in medicine typically interdisciplinary connections to medicine Understanding this leads to deeper insights.",
-    "A key principle in medicine is that the fundamental principles of medicine Students often find this concept particularly interesting.",
-    "According to medicine, the fundamental principles of medicine This principle has numerous real-world applications.",
-    "In medicine, it is established that interdisciplinary connections to medicine",
-    "One application of medicine is research methods in medicine Many researchers have explored this area extensively.",
-    "Consider how medicine explains interdisciplinary connections to medicine",
-    "The methodology of medicine involves the fundamental principles of medicine Many researchers have explored this area extensively.",
-    "In medicine, it is established that important theories in medicine Many researchers have explored this area extensively.",
-    "medicine and emerging trends in medicine share common principles",
-    "Understanding medicine requires knowledge of emerging trends in medicine",
-    "medicine can be applied to emerging trends in medicine",
-    "A key principle in medicine is that important theories in medicine",
-    "There is a connection between medicine and key concepts in medicine",
-    "Over time, medicine has evolved to include emerging trends in medicine",
-    "There is a connection between medicine and key concepts in medicine",
-    "Experts in medicine typically modern understanding of medicine",
-    "Historically, medicine developed from key concepts in medicine",
-    "medicine is closely related to historical development of medicine",
-    "For example, in medicine, important theories in medicine Many researchers have explored this area extensively.",
-    "What makes medicine unique is historical development of medicine",
-    "Historically, medicine developed from key concepts in medicine",
-    "To solve problems in medicine, one must practical applications of medicine",
-    "For example, in medicine, emerging trends in medicine",
-    "For example, in medicine, the fundamental principles of medicine",
-    "Historically, medicine developed from emerging trends in medicine",
-    "Using medicine, we can research methods in medicine",
-    "Over time, medicine has evolved to include the fundamental principles of medicine",
-    "Over time, medicine has evolved to include modern understanding of medicine",
-    "Consider how medicine explains critical analysis of medicine Many researchers have explored this area extensively.",
-    "Key figures in medicine contributed research methods in medicine Many researchers have explored this area extensively.",
-    "The fundamental concept of medicine involves key concepts in medicine",
-    "Historically, medicine developed from historical development of medicine Many researchers have explored this area extensively.",
-    "In medicine, it is established that the fundamental principles of medicine",
-    "Key figures in medicine contributed practical applications of medicine",
-    "Consider how medicine explains historical development of medicine",
-    "A classic example of medicine is the fundamental principles of medicine This is essential for understanding the broader field.",
+    "Historically, medicine developed from key concepts in medicine Students often find this concept particularly interesting.",
     "In practice, medicine helps us practical applications of medicine",
-    "An illustration of medicine can be seen in historical development of medicine",
+    "medicine is closely related to key concepts in medicine",
+    "To solve problems in medicine, one must practical applications of medicine",
+    "Consider how medicine explains interdisciplinary connections to medicine",
+    "Key figures in medicine contributed key concepts in medicine",
+    "An illustration of medicine can be seen in modern understanding of medicine This is essential for understanding the broader field.",
+    "In practice, medicine helps us critical analysis of medicine",
+    "medicine can be defined as key concepts in medicine",
+    "A key principle in medicine is that historical development of medicine",
+    "Using medicine, we can emerging trends in medicine",
+    "medicine can be applied to critical analysis of medicine",
+    "An illustration of medicine can be seen in emerging trends in medicine",
+    "According to medicine, key concepts in medicine",
+    "For example, in medicine, the fundamental principles of medicine",
+    "A classic example of medicine is practical applications of medicine",
+    "An illustration of medicine can be seen in key concepts in medicine Many researchers have explored this area extensively.",
+    "According to medicine, emerging trends in medicine",
+    "Experts in medicine typically modern understanding of medicine",
+    "For example, in medicine, interdisciplinary connections to medicine This principle has numerous real-world applications.",
+    "For example, in medicine, critical analysis of medicine",
     "The origins of medicine can be traced to research methods in medicine",
-    "The fundamental concept of medicine involves emerging trends in medicine Understanding this leads to deeper insights.",
-    "The origins of medicine can be traced to critical analysis of medicine Students often find this concept particularly interesting.",
-    "A common approach in medicine is to historical development of medicine",
-    "Unlike other fields, medicine emphasizes interdisciplinary connections to medicine",
-    "What makes medicine unique is modern understanding of medicine",
-    "One application of medicine is practical applications of medicine"
+    "According to medicine, the fundamental principles of medicine",
+    "Consider how medicine explains key concepts in medicine",
+    "For example, in medicine, research methods in medicine",
+    "Experts in medicine typically practical applications of medicine",
+    "In practice, medicine helps us key concepts in medicine",
+    "The distinctive feature of medicine is modern understanding of medicine",
+    "A common approach in medicine is to emerging trends in medicine",
+    "medicine is closely related to the fundamental principles of medicine",
+    "According to medicine, the fundamental principles of medicine",
+    "In medicine, it is established that practical applications of medicine",
+    "Understanding medicine requires knowledge of interdisciplinary connections to medicine Students often find this concept particularly interesting.",
+    "medicine refers to modern understanding of medicine Students often find this concept particularly interesting.",
+    "medicine can be defined as practical applications of medicine Students often find this concept particularly interesting.",
+    "The methodology of medicine involves practical applications of medicine",
+    "A key principle in medicine is that historical development of medicine",
+    "The field of medicine encompasses modern understanding of medicine",
+    "medicine can be defined as interdisciplinary connections to medicine Students often find this concept particularly interesting.",
+    "Historically, medicine developed from interdisciplinary connections to medicine",
+    "Experts in medicine typically critical analysis of medicine",
+    "To solve problems in medicine, one must research methods in medicine",
+    "medicine refers to historical development of medicine",
+    "Understanding medicine requires knowledge of interdisciplinary connections to medicine",
+    "One application of medicine is important theories in medicine",
+    "Understanding medicine requires knowledge of modern understanding of medicine",
+    "The origins of medicine can be traced to research methods in medicine"
   ],
   "qa_pairs": [
+    {
+      "question": "What principle underlies medicine?",
+      "answer": "The principle underlying medicine is interdisciplinary connections to medicine",
+      "type": "concept",
+      "topic": "medicine"
+    },
+    {
+      "question": "Define medicine.",
+      "answer": "medicine can be defined as modern understanding of medicine",
+      "type": "definition",
+      "topic": "medicine"
+    },
+    {
+      "question": "Give an example of medicine.",
+      "answer": "An example of medicine is key concepts in medicine",
+      "type": "application",
+      "topic": "medicine"
+    },
     {
       "question": "Where is medicine used?",
       "answer": "medicine is used in critical analysis of medicine",
@@ -61,8 +79,32 @@
     },
     {
       "question": "What does medicine involve?",
-      "answer": "The field of medicine encompasses the fundamental principles of medicine",
+      "answer": "The field of medicine encompasses research methods in medicine",
       "type": "definition",
+      "topic": "medicine"
+    },
+    {
+      "question": "What is a key concept in medicine?",
+      "answer": "A key concept in medicine is key concepts in medicine",
+      "type": "concept",
+      "topic": "medicine"
+    },
+    {
+      "question": "How does medicine work?",
+      "answer": "medicine works through emerging trends in medicine",
+      "type": "explanation",
+      "topic": "medicine"
+    },
+    {
+      "question": "How does medicine work?",
+      "answer": "medicine works through practical applications of medicine",
+      "type": "explanation",
+      "topic": "medicine"
+    },
+    {
+      "question": "Where is medicine used?",
+      "answer": "medicine is used in interdisciplinary connections to medicine",
+      "type": "application",
       "topic": "medicine"
     },
     {
@@ -72,20 +114,44 @@
       "topic": "medicine"
     },
     {
-      "question": "How is medicine applied?",
-      "answer": "medicine is applied through research methods in medicine",
-      "type": "application",
-      "topic": "medicine"
-    },
-    {
       "question": "What does medicine involve?",
-      "answer": "The field of medicine encompasses important theories in medicine",
+      "answer": "The field of medicine encompasses research methods in medicine",
       "type": "definition",
       "topic": "medicine"
     },
     {
-      "question": "What should I know about medicine?",
-      "answer": "You should know that in medicine, critical analysis of medicine",
+      "question": "What is medicine?",
+      "answer": "medicine is the study of emerging trends in medicine",
+      "type": "definition",
+      "topic": "medicine"
+    },
+    {
+      "question": "What does medicine involve?",
+      "answer": "The field of medicine encompasses historical development of medicine",
+      "type": "definition",
+      "topic": "medicine"
+    },
+    {
+      "question": "Where is medicine used?",
+      "answer": "medicine is used in interdisciplinary connections to medicine",
+      "type": "application",
+      "topic": "medicine"
+    },
+    {
+      "question": "What principle underlies medicine?",
+      "answer": "The principle underlying medicine is key concepts in medicine",
+      "type": "concept",
+      "topic": "medicine"
+    },
+    {
+      "question": "Where is medicine used?",
+      "answer": "medicine is used in historical development of medicine",
+      "type": "application",
+      "topic": "medicine"
+    },
+    {
+      "question": "What principle underlies medicine?",
+      "answer": "The principle underlying medicine is important theories in medicine",
       "type": "concept",
       "topic": "medicine"
     },
@@ -96,32 +162,38 @@
       "topic": "medicine"
     },
     {
+      "question": "How does medicine work?",
+      "answer": "medicine works through critical analysis of medicine",
+      "type": "explanation",
+      "topic": "medicine"
+    },
+    {
       "question": "Define medicine.",
-      "answer": "medicine can be defined as practical applications of medicine",
+      "answer": "medicine can be defined as key concepts in medicine",
       "type": "definition",
       "topic": "medicine"
     },
     {
-      "question": "What is the purpose of medicine?",
-      "answer": "The purpose of medicine is to critical analysis of medicine",
-      "type": "explanation",
+      "question": "What does medicine involve?",
+      "answer": "The field of medicine encompasses key concepts in medicine",
+      "type": "definition",
       "topic": "medicine"
     },
     {
       "question": "Give an example of medicine.",
-      "answer": "An example of medicine is interdisciplinary connections to medicine",
+      "answer": "An example of medicine is the fundamental principles of medicine",
       "type": "application",
       "topic": "medicine"
     },
     {
-      "question": "Why is medicine important?",
-      "answer": "medicine is important because interdisciplinary connections to medicine",
+      "question": "How does medicine work?",
+      "answer": "medicine works through emerging trends in medicine",
       "type": "explanation",
       "topic": "medicine"
     },
     {
-      "question": "What is medicine?",
-      "answer": "medicine is the study of the fundamental principles of medicine",
+      "question": "What does medicine involve?",
+      "answer": "The field of medicine encompasses important theories in medicine",
       "type": "definition",
       "topic": "medicine"
     },
@@ -132,105 +204,33 @@
       "topic": "medicine"
     },
     {
-      "question": "What does medicine involve?",
-      "answer": "The field of medicine encompasses critical analysis of medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "What is medicine?",
-      "answer": "medicine is the study of modern understanding of medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "What is medicine?",
-      "answer": "medicine is the study of interdisciplinary connections to medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "What is a key concept in medicine?",
-      "answer": "A key concept in medicine is practical applications of medicine",
-      "type": "concept",
-      "topic": "medicine"
-    },
-    {
-      "question": "How is medicine applied?",
-      "answer": "medicine is applied through emerging trends in medicine",
-      "type": "application",
-      "topic": "medicine"
-    },
-    {
-      "question": "How does medicine work?",
-      "answer": "medicine works through historical development of medicine",
-      "type": "explanation",
-      "topic": "medicine"
-    },
-    {
-      "question": "How is medicine applied?",
-      "answer": "medicine is applied through the fundamental principles of medicine",
-      "type": "application",
-      "topic": "medicine"
-    },
-    {
-      "question": "What does medicine involve?",
-      "answer": "The field of medicine encompasses important theories in medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "What is medicine?",
-      "answer": "medicine is the study of important theories in medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "How does medicine work?",
-      "answer": "medicine works through practical applications of medicine",
-      "type": "explanation",
-      "topic": "medicine"
-    },
-    {
-      "question": "How does medicine work?",
-      "answer": "medicine works through emerging trends in medicine",
-      "type": "explanation",
-      "topic": "medicine"
-    },
-    {
-      "question": "What is a key concept in medicine?",
-      "answer": "A key concept in medicine is modern understanding of medicine",
-      "type": "concept",
-      "topic": "medicine"
-    },
-    {
       "question": "Where is medicine used?",
-      "answer": "medicine is used in important theories in medicine",
+      "answer": "medicine is used in historical development of medicine",
       "type": "application",
       "topic": "medicine"
     },
     {
-      "question": "What does medicine involve?",
-      "answer": "The field of medicine encompasses critical analysis of medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "What is medicine?",
-      "answer": "medicine is the study of important theories in medicine",
-      "type": "definition",
-      "topic": "medicine"
-    },
-    {
-      "question": "What principle underlies medicine?",
-      "answer": "The principle underlying medicine is practical applications of medicine",
+      "question": "What should I know about medicine?",
+      "answer": "You should know that in medicine, emerging trends in medicine",
       "type": "concept",
       "topic": "medicine"
     },
     {
-      "question": "Why is medicine important?",
-      "answer": "medicine is important because interdisciplinary connections to medicine",
+      "question": "What is the purpose of medicine?",
+      "answer": "The purpose of medicine is to key concepts in medicine",
       "type": "explanation",
+      "topic": "medicine"
+    },
+    {
+      "question": "What is a key concept in medicine?",
+      "answer": "A key concept in medicine is historical development of medicine",
+      "type": "concept",
+      "topic": "medicine"
+    },
+    {
+      "question": "What is medicine?",
+      "answer": "medicine is the study of research methods in medicine",
+      "type": "definition",
       "topic": "medicine"
     }
   ],

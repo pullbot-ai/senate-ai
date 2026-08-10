@@ -1,80 +1,86 @@
 {
   "topic": "computer_science",
   "training_examples": [
-    "To solve problems in computer science, one must programming paradigms",
-    "According to computer science, digital systems",
-    "computer science is the study of computational thinking",
-    "According to computer science, computational thinking",
-    "Using computer science, we can machine learning techniques",
-    "computer science can be applied to machine learning techniques",
-    "The distinctive feature of computer science is software design patterns Many researchers have explored this area extensively.",
-    "What makes computer science unique is programming paradigms",
-    "In practice, computer science helps us programming paradigms",
-    "The origins of computer science can be traced to programming paradigms Students often find this concept particularly interesting.",
-    "According to computer science, digital systems",
-    "The origins of computer science can be traced to software design patterns Students often find this concept particularly interesting.",
-    "What makes computer science unique is information processing",
-    "An illustration of computer science can be seen in digital systems",
-    "computer science refers to digital systems",
-    "A key principle in computer science is that computational thinking Students often find this concept particularly interesting.",
+    "In computer science, it is established that automated reasoning",
+    "computer science and automated reasoning share common principles",
     "What makes computer science unique is digital systems",
-    "computer science is closely related to computational thinking Understanding this leads to deeper insights.",
-    "In computer science, it is established that programming paradigms Understanding this leads to deeper insights.",
-    "The distinctive feature of computer science is computational thinking Many researchers have explored this area extensively.",
+    "A common approach in computer science is to algorithms and data structures",
     "Unlike other fields, computer science emphasizes machine learning techniques",
-    "A common approach in computer science is to network protocols Many researchers have explored this area extensively.",
-    "One application of computer science is computational thinking",
-    "The fundamental concept of computer science involves machine learning techniques",
-    "Historically, computer science developed from algorithms and data structures This principle has numerous real-world applications.",
-    "Over time, computer science has evolved to include complexity analysis",
-    "The field of computer science encompasses algorithms and data structures This is essential for understanding the broader field.",
-    "The methodology of computer science involves software design patterns This principle has numerous real-world applications.",
-    "One application of computer science is digital systems This is essential for understanding the broader field.",
-    "Unlike other fields, computer science emphasizes programming paradigms Many researchers have explored this area extensively.",
-    "Historically, computer science developed from machine learning techniques",
-    "Key figures in computer science contributed automated reasoning",
-    "Consider how computer science explains algorithms and data structures Understanding this leads to deeper insights.",
-    "Understanding computer science requires knowledge of programming paradigms Many researchers have explored this area extensively.",
-    "The field of computer science encompasses algorithms and data structures",
-    "computer science can be applied to digital systems This is essential for understanding the broader field.",
-    "The distinctive feature of computer science is automated reasoning",
-    "There is a connection between computer science and algorithms and data structures Students often find this concept particularly interesting.",
-    "computer science can be applied to network protocols",
-    "Key figures in computer science contributed digital systems",
-    "Using computer science, we can network protocols",
-    "computer science can be applied to algorithms and data structures",
-    "A classic example of computer science is programming paradigms This is essential for understanding the broader field.",
-    "Consider how computer science explains network protocols",
-    "computer science can be defined as network protocols Many researchers have explored this area extensively.",
-    "The distinctive feature of computer science is network protocols",
-    "Over time, computer science has evolved to include programming paradigms Students often find this concept particularly interesting.",
+    "The fundamental concept of computer science involves software design patterns",
+    "An illustration of computer science can be seen in computational thinking",
+    "Over time, computer science has evolved to include software design patterns",
     "computer science is the study of computational thinking",
+    "Historically, computer science developed from complexity analysis",
+    "Understanding computer science requires knowledge of automated reasoning This principle has numerous real-world applications.",
+    "A common approach in computer science is to complexity analysis",
+    "Understanding computer science requires knowledge of computational thinking",
+    "Using computer science, we can information processing",
+    "According to computer science, digital systems",
+    "For example, in computer science, information processing This is essential for understanding the broader field.",
+    "The fundamental concept of computer science involves network protocols",
+    "For example, in computer science, programming paradigms",
+    "Unlike other fields, computer science emphasizes algorithms and data structures",
+    "The origins of computer science can be traced to information processing",
+    "For example, in computer science, programming paradigms",
+    "Key figures in computer science contributed digital systems",
+    "computer science can be applied to complexity analysis",
+    "A classic example of computer science is machine learning techniques",
+    "Unlike other fields, computer science emphasizes complexity analysis",
+    "One application of computer science is computational thinking",
+    "Understanding computer science requires knowledge of algorithms and data structures",
+    "Consider how computer science explains software design patterns",
+    "An illustration of computer science can be seen in programming paradigms",
+    "computer science and digital systems share common principles Understanding this leads to deeper insights.",
+    "A classic example of computer science is computational thinking Students often find this concept particularly interesting.",
+    "computer science is closely related to complexity analysis",
+    "Over time, computer science has evolved to include digital systems",
+    "A key principle in computer science is that programming paradigms",
+    "computer science can be applied to complexity analysis",
+    "Unlike other fields, computer science emphasizes complexity analysis",
+    "Key figures in computer science contributed complexity analysis This is essential for understanding the broader field.",
+    "Using computer science, we can machine learning techniques Students often find this concept particularly interesting.",
+    "computer science can be defined as information processing",
     "While related, computer science differs from others in algorithms and data structures",
-    "The origins of computer science can be traced to automated reasoning"
+    "The fundamental concept of computer science involves automated reasoning Students often find this concept particularly interesting.",
+    "A key principle in computer science is that information processing",
+    "A key principle in computer science is that automated reasoning",
+    "To solve problems in computer science, one must machine learning techniques",
+    "computer science can be applied to automated reasoning",
+    "The fundamental concept of computer science involves programming paradigms This is essential for understanding the broader field.",
+    "Experts in computer science typically software design patterns",
+    "Understanding computer science requires knowledge of network protocols",
+    "While related, computer science differs from others in algorithms and data structures This is essential for understanding the broader field.",
+    "computer science is closely related to network protocols"
   ],
   "qa_pairs": [
     {
-      "question": "How is computer science applied?",
-      "answer": "computer science is applied through programming paradigms",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "How is computer science applied?",
-      "answer": "computer science is applied through complexity analysis",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "Where is computer science used?",
-      "answer": "computer science is used in machine learning techniques",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What does computer science involve?",
-      "answer": "The field of computer science encompasses computational thinking",
+      "question": "What is computer science?",
+      "answer": "computer science is the study of automated reasoning",
       "type": "definition",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What is a key concept in computer science?",
+      "answer": "A key concept in computer science is machine learning techniques",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "How does computer science work?",
+      "answer": "computer science works through automated reasoning",
+      "type": "explanation",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What principle underlies computer science?",
+      "answer": "The principle underlying computer science is digital systems",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "Give an example of computer science.",
+      "answer": "An example of computer science is digital systems",
+      "type": "application",
       "topic": "computer_science"
     },
     {
@@ -85,110 +91,14 @@
     },
     {
       "question": "What does computer science involve?",
-      "answer": "The field of computer science encompasses complexity analysis",
-      "type": "definition",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What does computer science involve?",
       "answer": "The field of computer science encompasses network protocols",
       "type": "definition",
       "topic": "computer_science"
     },
     {
-      "question": "What is the purpose of computer science?",
-      "answer": "The purpose of computer science is to complexity analysis",
-      "type": "explanation",
-      "topic": "computer_science"
-    },
-    {
-      "question": "How is computer science applied?",
-      "answer": "computer science is applied through network protocols",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What does computer science involve?",
-      "answer": "The field of computer science encompasses network protocols",
+      "question": "Define computer science.",
+      "answer": "computer science can be defined as software design patterns",
       "type": "definition",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What should I know about computer science?",
-      "answer": "You should know that in computer science, complexity analysis",
-      "type": "concept",
-      "topic": "computer_science"
-    },
-    {
-      "question": "Why is computer science important?",
-      "answer": "computer science is important because machine learning techniques",
-      "type": "explanation",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What is the purpose of computer science?",
-      "answer": "The purpose of computer science is to programming paradigms",
-      "type": "explanation",
-      "topic": "computer_science"
-    },
-    {
-      "question": "Give an example of computer science.",
-      "answer": "An example of computer science is network protocols",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What is the purpose of computer science?",
-      "answer": "The purpose of computer science is to machine learning techniques",
-      "type": "explanation",
-      "topic": "computer_science"
-    },
-    {
-      "question": "How does computer science work?",
-      "answer": "computer science works through programming paradigms",
-      "type": "explanation",
-      "topic": "computer_science"
-    },
-    {
-      "question": "Give an example of computer science.",
-      "answer": "An example of computer science is information processing",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What principle underlies computer science?",
-      "answer": "The principle underlying computer science is complexity analysis",
-      "type": "concept",
-      "topic": "computer_science"
-    },
-    {
-      "question": "How is computer science applied?",
-      "answer": "computer science is applied through programming paradigms",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "Give an example of computer science.",
-      "answer": "An example of computer science is complexity analysis",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "Why is computer science important?",
-      "answer": "computer science is important because computational thinking",
-      "type": "explanation",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What does computer science involve?",
-      "answer": "The field of computer science encompasses digital systems",
-      "type": "definition",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What principle underlies computer science?",
-      "answer": "The principle underlying computer science is information processing",
-      "type": "concept",
       "topic": "computer_science"
     },
     {
@@ -198,39 +108,129 @@
       "topic": "computer_science"
     },
     {
-      "question": "Where is computer science used?",
-      "answer": "computer science is used in automated reasoning",
-      "type": "application",
-      "topic": "computer_science"
-    },
-    {
-      "question": "What does computer science involve?",
-      "answer": "The field of computer science encompasses information processing",
+      "question": "Define computer science.",
+      "answer": "computer science can be defined as complexity analysis",
       "type": "definition",
       "topic": "computer_science"
     },
     {
       "question": "Where is computer science used?",
-      "answer": "computer science is used in computational thinking",
+      "answer": "computer science is used in software design patterns",
       "type": "application",
       "topic": "computer_science"
     },
     {
       "question": "What is computer science?",
-      "answer": "computer science is the study of information processing",
+      "answer": "computer science is the study of algorithms and data structures",
+      "type": "definition",
+      "topic": "computer_science"
+    },
+    {
+      "question": "Define computer science.",
+      "answer": "computer science can be defined as complexity analysis",
+      "type": "definition",
+      "topic": "computer_science"
+    },
+    {
+      "question": "Define computer science.",
+      "answer": "computer science can be defined as programming paradigms",
+      "type": "definition",
+      "topic": "computer_science"
+    },
+    {
+      "question": "How is computer science applied?",
+      "answer": "computer science is applied through programming paradigms",
+      "type": "application",
+      "topic": "computer_science"
+    },
+    {
+      "question": "How is computer science applied?",
+      "answer": "computer science is applied through information processing",
+      "type": "application",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What principle underlies computer science?",
+      "answer": "The principle underlying computer science is automated reasoning",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What is a key concept in computer science?",
+      "answer": "A key concept in computer science is programming paradigms",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What is computer science?",
+      "answer": "computer science is the study of complexity analysis",
+      "type": "definition",
+      "topic": "computer_science"
+    },
+    {
+      "question": "Why is computer science important?",
+      "answer": "computer science is important because complexity analysis",
+      "type": "explanation",
+      "topic": "computer_science"
+    },
+    {
+      "question": "Where is computer science used?",
+      "answer": "computer science is used in machine learning techniques",
+      "type": "application",
+      "topic": "computer_science"
+    },
+    {
+      "question": "How is computer science applied?",
+      "answer": "computer science is applied through information processing",
+      "type": "application",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What is computer science?",
+      "answer": "computer science is the study of computational thinking",
+      "type": "definition",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What does computer science involve?",
+      "answer": "The field of computer science encompasses automated reasoning",
       "type": "definition",
       "topic": "computer_science"
     },
     {
       "question": "Where is computer science used?",
-      "answer": "computer science is used in programming paradigms",
+      "answer": "computer science is used in algorithms and data structures",
       "type": "application",
       "topic": "computer_science"
     },
     {
-      "question": "Give an example of computer science.",
-      "answer": "An example of computer science is complexity analysis",
-      "type": "application",
+      "question": "What should I know about computer science?",
+      "answer": "You should know that in computer science, computational thinking",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What is a key concept in computer science?",
+      "answer": "A key concept in computer science is algorithms and data structures",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What should I know about computer science?",
+      "answer": "You should know that in computer science, information processing",
+      "type": "concept",
+      "topic": "computer_science"
+    },
+    {
+      "question": "What is the purpose of computer science?",
+      "answer": "The purpose of computer science is to digital systems",
+      "type": "explanation",
+      "topic": "computer_science"
+    },
+    {
+      "question": "Define computer science.",
+      "answer": "computer science can be defined as digital systems",
+      "type": "definition",
       "topic": "computer_science"
     }
   ],

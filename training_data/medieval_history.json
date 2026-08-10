@@ -1,181 +1,151 @@
 {
   "topic": "medieval_history",
   "training_examples": [
-    "Over time, medieval history has evolved to include the fundamental principles of medieval_history",
-    "medieval history is closely related to important theories in medieval_history Students often find this concept particularly interesting.",
-    "To solve problems in medieval history, one must historical development of medieval_history",
-    "Understanding medieval history requires knowledge of research methods in medieval_history",
-    "One application of medieval history is key concepts in medieval_history",
-    "medieval history can be defined as research methods in medieval_history Many researchers have explored this area extensively.",
-    "medieval history refers to the fundamental principles of medieval_history",
-    "The fundamental concept of medieval history involves key concepts in medieval_history",
-    "The origins of medieval history can be traced to modern understanding of medieval_history",
-    "The fundamental concept of medieval history involves critical analysis of medieval_history Students often find this concept particularly interesting.",
-    "Understanding medieval history requires knowledge of research methods in medieval_history",
-    "Historically, medieval history developed from historical development of medieval_history",
-    "The origins of medieval history can be traced to modern understanding of medieval_history",
+    "medieval history is closely related to interdisciplinary connections to medieval_history",
+    "Consider how medieval history explains historical development of medieval_history",
+    "The distinctive feature of medieval history is practical applications of medieval_history",
+    "For example, in medieval history, practical applications of medieval_history Many researchers have explored this area extensively.",
+    "The origins of medieval history can be traced to important theories in medieval_history",
+    "A classic example of medieval history is interdisciplinary connections to medieval_history This principle has numerous real-world applications.",
+    "medieval history can be applied to emerging trends in medieval_history This is essential for understanding the broader field.",
+    "For example, in medieval history, modern understanding of medieval_history This is essential for understanding the broader field.",
     "A classic example of medieval history is critical analysis of medieval_history",
-    "medieval history is closely related to key concepts in medieval_history",
-    "An illustration of medieval history can be seen in research methods in medieval_history",
-    "The origins of medieval history can be traced to research methods in medieval_history",
-    "Key figures in medieval history contributed critical analysis of medieval_history Understanding this leads to deeper insights.",
-    "For example, in medieval history, practical applications of medieval_history",
-    "medieval history is the study of research methods in medieval_history Many researchers have explored this area extensively.",
-    "While related, medieval history differs from others in research methods in medieval_history",
-    "Experts in medieval history typically key concepts in medieval_history",
+    "Key figures in medieval history contributed historical development of medieval_history",
+    "Unlike other fields, medieval history emphasizes important theories in medieval_history Students often find this concept particularly interesting.",
+    "What makes medieval history unique is the fundamental principles of medieval_history",
+    "Key figures in medieval history contributed interdisciplinary connections to medieval_history",
+    "Over time, medieval history has evolved to include practical applications of medieval_history",
+    "Experts in medieval history typically critical analysis of medieval_history",
+    "According to medieval history, historical development of medieval_history",
+    "The methodology of medieval history involves practical applications of medieval_history",
+    "Understanding medieval history requires knowledge of critical analysis of medieval_history",
+    "In practice, medieval history helps us interdisciplinary connections to medieval_history This is essential for understanding the broader field.",
+    "medieval history is the study of research methods in medieval_history",
     "medieval history and practical applications of medieval_history share common principles",
-    "The field of medieval history encompasses critical analysis of medieval_history",
-    "The field of medieval history encompasses critical analysis of medieval_history This is essential for understanding the broader field.",
-    "According to medieval history, important theories in medieval_history",
-    "While related, medieval history differs from others in critical analysis of medieval_history",
-    "Historically, medieval history developed from the fundamental principles of medieval_history",
-    "Experts in medieval history typically interdisciplinary connections to medieval_history",
-    "The distinctive feature of medieval history is key concepts in medieval_history",
-    "While related, medieval history differs from others in modern understanding of medieval_history",
-    "There is a connection between medieval history and critical analysis of medieval_history",
-    "Using medieval history, we can research methods in medieval_history",
-    "Historically, medieval history developed from interdisciplinary connections to medieval_history",
+    "The origins of medieval history can be traced to modern understanding of medieval_history",
+    "The origins of medieval history can be traced to important theories in medieval_history",
+    "According to medieval history, important theories in medieval_history Understanding this leads to deeper insights.",
+    "While related, medieval history differs from others in historical development of medieval_history",
+    "The fundamental concept of medieval history involves emerging trends in medieval_history This is essential for understanding the broader field.",
+    "While related, medieval history differs from others in the fundamental principles of medieval_history",
+    "medieval history can be applied to historical development of medieval_history This principle has numerous real-world applications.",
+    "A key principle in medieval history is that key concepts in medieval_history",
+    "Unlike other fields, medieval history emphasizes the fundamental principles of medieval_history",
+    "There is a connection between medieval history and important theories in medieval_history",
+    "In practice, medieval history helps us interdisciplinary connections to medieval_history",
+    "medieval history refers to interdisciplinary connections to medieval_history",
+    "A key principle in medieval history is that emerging trends in medieval_history",
+    "In practice, medieval history helps us interdisciplinary connections to medieval_history Students often find this concept particularly interesting.",
+    "medieval history can be defined as historical development of medieval_history Understanding this leads to deeper insights.",
     "According to medieval history, emerging trends in medieval_history",
-    "The methodology of medieval history involves the fundamental principles of medieval_history Understanding this leads to deeper insights.",
-    "While related, medieval history differs from others in important theories in medieval_history",
-    "Over time, medieval history has evolved to include research methods in medieval_history Many researchers have explored this area extensively.",
-    "Experts in medieval history typically important theories in medieval_history",
-    "Experts in medieval history typically critical analysis of medieval_history Many researchers have explored this area extensively.",
-    "For example, in medieval history, practical applications of medieval_history",
-    "Consider how medieval history explains important theories in medieval_history",
+    "What makes medieval history unique is emerging trends in medieval_history Many researchers have explored this area extensively.",
+    "The methodology of medieval history involves the fundamental principles of medieval_history",
     "medieval history is closely related to historical development of medieval_history",
-    "medieval history is closely related to important theories in medieval_history",
-    "One application of medieval history is modern understanding of medieval_history",
-    "medieval history can be defined as practical applications of medieval_history Understanding this leads to deeper insights.",
-    "Consider how medieval history explains research methods in medieval_history",
-    "An illustration of medieval history can be seen in practical applications of medieval_history",
-    "Over time, medieval history has evolved to include historical development of medieval_history",
-    "Key figures in medieval history contributed critical analysis of medieval_history"
+    "A common approach in medieval history is to practical applications of medieval_history",
+    "For example, in medieval history, key concepts in medieval_history Students often find this concept particularly interesting.",
+    "A key principle in medieval history is that modern understanding of medieval_history",
+    "One application of medieval history is critical analysis of medieval_history",
+    "The fundamental concept of medieval history involves interdisciplinary connections to medieval_history Many researchers have explored this area extensively.",
+    "A classic example of medieval history is interdisciplinary connections to medieval_history This principle has numerous real-world applications.",
+    "A classic example of medieval history is important theories in medieval_history",
+    "While related, medieval history differs from others in emerging trends in medieval_history",
+    "Unlike other fields, medieval history emphasizes interdisciplinary connections to medieval_history Many researchers have explored this area extensively.",
+    "One application of medieval history is important theories in medieval_history"
   ],
   "qa_pairs": [
     {
-      "question": "What should I know about medieval history?",
-      "answer": "You should know that in medieval history, historical development of medieval_history",
-      "type": "concept",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "What is medieval history?",
-      "answer": "medieval history is the study of the fundamental principles of medieval_history",
-      "type": "definition",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "Why is medieval history important?",
-      "answer": "medieval history is important because historical development of medieval_history",
+      "question": "What is the purpose of medieval history?",
+      "answer": "The purpose of medieval history is to emerging trends in medieval_history",
       "type": "explanation",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "How is medieval history applied?",
-      "answer": "medieval history is applied through historical development of medieval_history",
-      "type": "application",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "What is medieval history?",
-      "answer": "medieval history is the study of modern understanding of medieval_history",
-      "type": "definition",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "Where is medieval history used?",
-      "answer": "medieval history is used in important theories in medieval_history",
-      "type": "application",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "Why is medieval history important?",
-      "answer": "medieval history is important because modern understanding of medieval_history",
-      "type": "explanation",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "What is medieval history?",
-      "answer": "medieval history is the study of critical analysis of medieval_history",
-      "type": "definition",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "How is medieval history applied?",
-      "answer": "medieval history is applied through important theories in medieval_history",
-      "type": "application",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "What is medieval history?",
-      "answer": "medieval history is the study of the fundamental principles of medieval_history",
-      "type": "definition",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "Define medieval history.",
-      "answer": "medieval history can be defined as key concepts in medieval_history",
-      "type": "definition",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "What principle underlies medieval history?",
-      "answer": "The principle underlying medieval history is important theories in medieval_history",
-      "type": "concept",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "What should I know about medieval history?",
-      "answer": "You should know that in medieval history, key concepts in medieval_history",
-      "type": "concept",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "Where is medieval history used?",
-      "answer": "medieval history is used in critical analysis of medieval_history",
-      "type": "application",
       "topic": "medieval_history"
     },
     {
       "question": "What does medieval history involve?",
-      "answer": "The field of medieval history encompasses research methods in medieval_history",
+      "answer": "The field of medieval history encompasses critical analysis of medieval_history",
       "type": "definition",
       "topic": "medieval_history"
     },
     {
-      "question": "How does medieval history work?",
-      "answer": "medieval history works through research methods in medieval_history",
+      "question": "Give an example of medieval history.",
+      "answer": "An example of medieval history is historical development of medieval_history",
+      "type": "application",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "Define medieval history.",
+      "answer": "medieval history can be defined as critical analysis of medieval_history",
+      "type": "definition",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "What is the purpose of medieval history?",
+      "answer": "The purpose of medieval history is to historical development of medieval_history",
       "type": "explanation",
       "topic": "medieval_history"
     },
     {
-      "question": "Give an example of medieval history.",
-      "answer": "An example of medieval history is key concepts in medieval_history",
-      "type": "application",
+      "question": "What is medieval history?",
+      "answer": "medieval history is the study of practical applications of medieval_history",
+      "type": "definition",
       "topic": "medieval_history"
     },
     {
-      "question": "Where is medieval history used?",
-      "answer": "medieval history is used in research methods in medieval_history",
-      "type": "application",
+      "question": "What is the purpose of medieval history?",
+      "answer": "The purpose of medieval history is to interdisciplinary connections to medieval_history",
+      "type": "explanation",
       "topic": "medieval_history"
     },
     {
-      "question": "What is a key concept in medieval history?",
-      "answer": "A key concept in medieval history is modern understanding of medieval_history",
+      "question": "What should I know about medieval history?",
+      "answer": "You should know that in medieval history, important theories in medieval_history",
       "type": "concept",
       "topic": "medieval_history"
     },
     {
-      "question": "What is a key concept in medieval history?",
-      "answer": "A key concept in medieval history is emerging trends in medieval_history",
-      "type": "concept",
+      "question": "What is the purpose of medieval history?",
+      "answer": "The purpose of medieval history is to historical development of medieval_history",
+      "type": "explanation",
       "topic": "medieval_history"
     },
     {
       "question": "Where is medieval history used?",
       "answer": "medieval history is used in important theories in medieval_history",
+      "type": "application",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "Why is medieval history important?",
+      "answer": "medieval history is important because critical analysis of medieval_history",
+      "type": "explanation",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "What is the purpose of medieval history?",
+      "answer": "The purpose of medieval history is to the fundamental principles of medieval_history",
+      "type": "explanation",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "What is medieval history?",
+      "answer": "medieval history is the study of key concepts in medieval_history",
+      "type": "definition",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "How is medieval history applied?",
+      "answer": "medieval history is applied through modern understanding of medieval_history",
+      "type": "application",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "Why is medieval history important?",
+      "answer": "medieval history is important because key concepts in medieval_history",
+      "type": "explanation",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "How is medieval history applied?",
+      "answer": "medieval history is applied through critical analysis of medieval_history",
       "type": "application",
       "topic": "medieval_history"
     },
@@ -186,27 +156,51 @@
       "topic": "medieval_history"
     },
     {
+      "question": "What should I know about medieval history?",
+      "answer": "You should know that in medieval history, historical development of medieval_history",
+      "type": "concept",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "What principle underlies medieval history?",
+      "answer": "The principle underlying medieval history is the fundamental principles of medieval_history",
+      "type": "concept",
+      "topic": "medieval_history"
+    },
+    {
       "question": "Why is medieval history important?",
-      "answer": "medieval history is important because key concepts in medieval_history",
+      "answer": "medieval history is important because research methods in medieval_history",
       "type": "explanation",
       "topic": "medieval_history"
     },
     {
-      "question": "Where is medieval history used?",
-      "answer": "medieval history is used in emerging trends in medieval_history",
+      "question": "What principle underlies medieval history?",
+      "answer": "The principle underlying medieval history is the fundamental principles of medieval_history",
+      "type": "concept",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "What principle underlies medieval history?",
+      "answer": "The principle underlying medieval history is interdisciplinary connections to medieval_history",
+      "type": "concept",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "What should I know about medieval history?",
+      "answer": "You should know that in medieval history, critical analysis of medieval_history",
+      "type": "concept",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "How is medieval history applied?",
+      "answer": "medieval history is applied through historical development of medieval_history",
       "type": "application",
       "topic": "medieval_history"
     },
     {
       "question": "What principle underlies medieval history?",
-      "answer": "The principle underlying medieval history is critical analysis of medieval_history",
+      "answer": "The principle underlying medieval history is modern understanding of medieval_history",
       "type": "concept",
-      "topic": "medieval_history"
-    },
-    {
-      "question": "How does medieval history work?",
-      "answer": "medieval history works through modern understanding of medieval_history",
-      "type": "explanation",
       "topic": "medieval_history"
     },
     {
@@ -216,20 +210,26 @@
       "topic": "medieval_history"
     },
     {
-      "question": "What is a key concept in medieval history?",
-      "answer": "A key concept in medieval history is emerging trends in medieval_history",
-      "type": "concept",
+      "question": "What does medieval history involve?",
+      "answer": "The field of medieval history encompasses critical analysis of medieval_history",
+      "type": "definition",
       "topic": "medieval_history"
     },
     {
       "question": "Where is medieval history used?",
-      "answer": "medieval history is used in key concepts in medieval_history",
+      "answer": "medieval history is used in research methods in medieval_history",
       "type": "application",
       "topic": "medieval_history"
     },
     {
       "question": "Why is medieval history important?",
-      "answer": "medieval history is important because the fundamental principles of medieval_history",
+      "answer": "medieval history is important because interdisciplinary connections to medieval_history",
+      "type": "explanation",
+      "topic": "medieval_history"
+    },
+    {
+      "question": "How does medieval history work?",
+      "answer": "medieval history works through critical analysis of medieval_history",
       "type": "explanation",
       "topic": "medieval_history"
     }

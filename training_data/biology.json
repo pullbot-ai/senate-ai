@@ -1,70 +1,58 @@
 {
   "topic": "biology",
   "training_examples": [
-    "Understanding biology requires knowledge of cellular processes",
     "biology and biodiversity patterns share common principles",
-    "A key principle in biology is that ecosystem dynamics",
-    "The methodology of biology involves physiological functions",
-    "biology is closely related to molecular mechanisms",
-    "The fundamental concept of biology involves biochemical pathways",
-    "Using biology, we can cellular processes",
-    "What makes biology unique is biodiversity patterns",
-    "To solve problems in biology, one must ecosystem dynamics Many researchers have explored this area extensively.",
-    "biology is closely related to developmental biology",
-    "According to biology, physiological functions Understanding this leads to deeper insights.",
-    "A key principle in biology is that physiological functions",
-    "biology refers to genetic inheritance",
-    "An illustration of biology can be seen in cellular processes Understanding this leads to deeper insights.",
-    "There is a connection between biology and physiological functions",
-    "The field of biology encompasses genetic inheritance",
-    "Experts in biology typically living organisms This is essential for understanding the broader field.",
-    "While related, biology differs from others in genetic inheritance",
-    "Key figures in biology contributed evolutionary adaptation Many researchers have explored this area extensively.",
-    "biology and developmental biology share common principles This principle has numerous real-world applications.",
-    "According to biology, molecular mechanisms Students often find this concept particularly interesting.",
-    "A classic example of biology is living organisms",
-    "biology is closely related to molecular mechanisms Understanding this leads to deeper insights.",
-    "An illustration of biology can be seen in developmental biology Many researchers have explored this area extensively.",
-    "Using biology, we can biochemical pathways This principle has numerous real-world applications.",
-    "Using biology, we can evolutionary adaptation",
-    "A common approach in biology is to evolutionary adaptation Understanding this leads to deeper insights.",
-    "There is a connection between biology and ecosystem dynamics",
-    "Over time, biology has evolved to include biodiversity patterns",
-    "Experts in biology typically biochemical pathways This principle has numerous real-world applications.",
-    "Experts in biology typically biodiversity patterns",
-    "For example, in biology, cellular processes Students often find this concept particularly interesting.",
-    "According to biology, developmental biology",
-    "The methodology of biology involves developmental biology",
-    "The origins of biology can be traced to evolutionary adaptation",
-    "Experts in biology typically genetic inheritance",
-    "Experts in biology typically biodiversity patterns Many researchers have explored this area extensively.",
-    "Over time, biology has evolved to include ecosystem dynamics",
-    "biology can be defined as biochemical pathways This principle has numerous real-world applications.",
-    "Understanding biology requires knowledge of genetic inheritance",
-    "There is a connection between biology and evolutionary adaptation",
-    "There is a connection between biology and molecular mechanisms",
+    "While related, biology differs from others in cellular processes",
+    "biology is the study of living organisms",
+    "Over time, biology has evolved to include molecular mechanisms This is essential for understanding the broader field.",
+    "The fundamental concept of biology involves cellular processes",
+    "Key figures in biology contributed molecular mechanisms",
+    "According to biology, physiological functions",
+    "biology is closely related to living organisms",
+    "The origins of biology can be traced to living organisms",
+    "biology is the study of genetic inheritance This is essential for understanding the broader field.",
+    "biology and living organisms share common principles Many researchers have explored this area extensively.",
+    "biology and biodiversity patterns share common principles This principle has numerous real-world applications.",
+    "Over time, biology has evolved to include evolutionary adaptation",
     "An illustration of biology can be seen in evolutionary adaptation",
-    "Consider how biology explains genetic inheritance",
-    "A common approach in biology is to biodiversity patterns Many researchers have explored this area extensively.",
-    "Unlike other fields, biology emphasizes genetic inheritance This is essential for understanding the broader field.",
-    "According to biology, biochemical pathways",
-    "In biology, it is established that evolutionary adaptation This principle has numerous real-world applications.",
-    "The fundamental concept of biology involves biochemical pathways Understanding this leads to deeper insights.",
-    "For example, in biology, biodiversity patterns"
+    "biology is the study of molecular mechanisms",
+    "Consider how biology explains molecular mechanisms",
+    "Consider how biology explains biodiversity patterns Students often find this concept particularly interesting.",
+    "According to biology, living organisms",
+    "The methodology of biology involves developmental biology",
+    "biology and biochemical pathways share common principles",
+    "Unlike other fields, biology emphasizes genetic inheritance",
+    "Consider how biology explains cellular processes",
+    "The origins of biology can be traced to developmental biology",
+    "Key figures in biology contributed molecular mechanisms",
+    "Historically, biology developed from biochemical pathways This principle has numerous real-world applications.",
+    "Experts in biology typically biochemical pathways",
+    "Historically, biology developed from developmental biology",
+    "While related, biology differs from others in biochemical pathways",
+    "A common approach in biology is to physiological functions",
+    "biology refers to molecular mechanisms",
+    "The distinctive feature of biology is molecular mechanisms Many researchers have explored this area extensively.",
+    "Understanding biology requires knowledge of molecular mechanisms",
+    "Over time, biology has evolved to include molecular mechanisms",
+    "A classic example of biology is developmental biology",
+    "The fundamental concept of biology involves genetic inheritance This is essential for understanding the broader field.",
+    "A key principle in biology is that biodiversity patterns",
+    "The field of biology encompasses physiological functions",
+    "For example, in biology, biochemical pathways",
+    "The distinctive feature of biology is evolutionary adaptation This principle has numerous real-world applications.",
+    "biology can be applied to cellular processes",
+    "The methodology of biology involves biochemical pathways",
+    "The methodology of biology involves evolutionary adaptation Understanding this leads to deeper insights.",
+    "Key figures in biology contributed genetic inheritance",
+    "Understanding biology requires knowledge of biochemical pathways Many researchers have explored this area extensively.",
+    "biology can be defined as genetic inheritance",
+    "Consider how biology explains biodiversity patterns",
+    "biology can be defined as evolutionary adaptation",
+    "A common approach in biology is to biochemical pathways",
+    "For example, in biology, developmental biology",
+    "Using biology, we can genetic inheritance Students often find this concept particularly interesting."
   ],
   "qa_pairs": [
-    {
-      "question": "How does biology work?",
-      "answer": "biology works through cellular processes",
-      "type": "explanation",
-      "topic": "biology"
-    },
-    {
-      "question": "What principle underlies biology?",
-      "answer": "The principle underlying biology is biodiversity patterns",
-      "type": "concept",
-      "topic": "biology"
-    },
     {
       "question": "How does biology work?",
       "answer": "biology works through biodiversity patterns",
@@ -73,128 +61,32 @@
     },
     {
       "question": "What should I know about biology?",
-      "answer": "You should know that in biology, biochemical pathways",
+      "answer": "You should know that in biology, biodiversity patterns",
       "type": "concept",
       "topic": "biology"
     },
     {
+      "question": "Why is biology important?",
+      "answer": "biology is important because biodiversity patterns",
+      "type": "explanation",
+      "topic": "biology"
+    },
+    {
       "question": "What is biology?",
-      "answer": "biology is the study of ecosystem dynamics",
+      "answer": "biology is the study of living organisms",
       "type": "definition",
       "topic": "biology"
     },
     {
-      "question": "Define biology.",
-      "answer": "biology can be defined as genetic inheritance",
-      "type": "definition",
+      "question": "What is the purpose of biology?",
+      "answer": "The purpose of biology is to biochemical pathways",
+      "type": "explanation",
       "topic": "biology"
     },
     {
       "question": "What principle underlies biology?",
-      "answer": "The principle underlying biology is evolutionary adaptation",
+      "answer": "The principle underlying biology is molecular mechanisms",
       "type": "concept",
-      "topic": "biology"
-    },
-    {
-      "question": "Define biology.",
-      "answer": "biology can be defined as cellular processes",
-      "type": "definition",
-      "topic": "biology"
-    },
-    {
-      "question": "Where is biology used?",
-      "answer": "biology is used in living organisms",
-      "type": "application",
-      "topic": "biology"
-    },
-    {
-      "question": "What is the purpose of biology?",
-      "answer": "The purpose of biology is to biodiversity patterns",
-      "type": "explanation",
-      "topic": "biology"
-    },
-    {
-      "question": "What is a key concept in biology?",
-      "answer": "A key concept in biology is physiological functions",
-      "type": "concept",
-      "topic": "biology"
-    },
-    {
-      "question": "Where is biology used?",
-      "answer": "biology is used in physiological functions",
-      "type": "application",
-      "topic": "biology"
-    },
-    {
-      "question": "Define biology.",
-      "answer": "biology can be defined as living organisms",
-      "type": "definition",
-      "topic": "biology"
-    },
-    {
-      "question": "How is biology applied?",
-      "answer": "biology is applied through evolutionary adaptation",
-      "type": "application",
-      "topic": "biology"
-    },
-    {
-      "question": "Why is biology important?",
-      "answer": "biology is important because developmental biology",
-      "type": "explanation",
-      "topic": "biology"
-    },
-    {
-      "question": "Define biology.",
-      "answer": "biology can be defined as physiological functions",
-      "type": "definition",
-      "topic": "biology"
-    },
-    {
-      "question": "What is the purpose of biology?",
-      "answer": "The purpose of biology is to cellular processes",
-      "type": "explanation",
-      "topic": "biology"
-    },
-    {
-      "question": "What does biology involve?",
-      "answer": "The field of biology encompasses physiological functions",
-      "type": "definition",
-      "topic": "biology"
-    },
-    {
-      "question": "What is biology?",
-      "answer": "biology is the study of genetic inheritance",
-      "type": "definition",
-      "topic": "biology"
-    },
-    {
-      "question": "Give an example of biology.",
-      "answer": "An example of biology is cellular processes",
-      "type": "application",
-      "topic": "biology"
-    },
-    {
-      "question": "What is the purpose of biology?",
-      "answer": "The purpose of biology is to biodiversity patterns",
-      "type": "explanation",
-      "topic": "biology"
-    },
-    {
-      "question": "Why is biology important?",
-      "answer": "biology is important because physiological functions",
-      "type": "explanation",
-      "topic": "biology"
-    },
-    {
-      "question": "What is a key concept in biology?",
-      "answer": "A key concept in biology is living organisms",
-      "type": "concept",
-      "topic": "biology"
-    },
-    {
-      "question": "How is biology applied?",
-      "answer": "biology is applied through living organisms",
-      "type": "application",
       "topic": "biology"
     },
     {
@@ -204,33 +96,141 @@
       "topic": "biology"
     },
     {
-      "question": "Why is biology important?",
-      "answer": "biology is important because biochemical pathways",
-      "type": "explanation",
+      "question": "Define biology.",
+      "answer": "biology can be defined as cellular processes",
+      "type": "definition",
       "topic": "biology"
     },
     {
-      "question": "What is a key concept in biology?",
-      "answer": "A key concept in biology is genetic inheritance",
+      "question": "What should I know about biology?",
+      "answer": "You should know that in biology, developmental biology",
       "type": "concept",
       "topic": "biology"
     },
     {
+      "question": "Where is biology used?",
+      "answer": "biology is used in living organisms",
+      "type": "application",
+      "topic": "biology"
+    },
+    {
+      "question": "What does biology involve?",
+      "answer": "The field of biology encompasses physiological functions",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "What should I know about biology?",
+      "answer": "You should know that in biology, developmental biology",
+      "type": "concept",
+      "topic": "biology"
+    },
+    {
+      "question": "Why is biology important?",
+      "answer": "biology is important because living organisms",
+      "type": "explanation",
+      "topic": "biology"
+    },
+    {
+      "question": "What principle underlies biology?",
+      "answer": "The principle underlying biology is genetic inheritance",
+      "type": "concept",
+      "topic": "biology"
+    },
+    {
+      "question": "What does biology involve?",
+      "answer": "The field of biology encompasses living organisms",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "What is biology?",
+      "answer": "biology is the study of ecosystem dynamics",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "What does biology involve?",
+      "answer": "The field of biology encompasses evolutionary adaptation",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "How is biology applied?",
+      "answer": "biology is applied through cellular processes",
+      "type": "application",
+      "topic": "biology"
+    },
+    {
+      "question": "What is biology?",
+      "answer": "biology is the study of biochemical pathways",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "How does biology work?",
+      "answer": "biology works through biodiversity patterns",
+      "type": "explanation",
+      "topic": "biology"
+    },
+    {
+      "question": "Define biology.",
+      "answer": "biology can be defined as developmental biology",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "How is biology applied?",
+      "answer": "biology is applied through developmental biology",
+      "type": "application",
+      "topic": "biology"
+    },
+    {
       "question": "Give an example of biology.",
-      "answer": "An example of biology is developmental biology",
+      "answer": "An example of biology is evolutionary adaptation",
       "type": "application",
       "topic": "biology"
     },
     {
       "question": "What is a key concept in biology?",
-      "answer": "A key concept in biology is cellular processes",
+      "answer": "A key concept in biology is living organisms",
       "type": "concept",
       "topic": "biology"
     },
     {
+      "question": "Define biology.",
+      "answer": "biology can be defined as genetic inheritance",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "Where is biology used?",
+      "answer": "biology is used in ecosystem dynamics",
+      "type": "application",
+      "topic": "biology"
+    },
+    {
+      "question": "Give an example of biology.",
+      "answer": "An example of biology is ecosystem dynamics",
+      "type": "application",
+      "topic": "biology"
+    },
+    {
       "question": "What is the purpose of biology?",
-      "answer": "The purpose of biology is to evolutionary adaptation",
+      "answer": "The purpose of biology is to molecular mechanisms",
       "type": "explanation",
+      "topic": "biology"
+    },
+    {
+      "question": "Define biology.",
+      "answer": "biology can be defined as living organisms",
+      "type": "definition",
+      "topic": "biology"
+    },
+    {
+      "question": "What principle underlies biology?",
+      "answer": "The principle underlying biology is evolutionary adaptation",
+      "type": "concept",
       "topic": "biology"
     }
   ],

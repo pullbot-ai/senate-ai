@@ -1,74 +1,110 @@
 {
   "topic": "chemistry",
   "training_examples": [
-    "Experts in chemistry typically key concepts in chemistry",
-    "Experts in chemistry typically critical analysis of chemistry",
-    "To solve problems in chemistry, one must emerging trends in chemistry",
-    "chemistry can be applied to the fundamental principles of chemistry",
-    "chemistry can be applied to critical analysis of chemistry",
-    "Consider how chemistry explains modern understanding of chemistry",
-    "chemistry is closely related to important theories in chemistry",
-    "What makes chemistry unique is modern understanding of chemistry",
-    "The origins of chemistry can be traced to important theories in chemistry",
-    "In practice, chemistry helps us key concepts in chemistry",
-    "While related, chemistry differs from others in interdisciplinary connections to chemistry",
-    "chemistry can be defined as the fundamental principles of chemistry Many researchers have explored this area extensively.",
-    "Consider how chemistry explains modern understanding of chemistry",
-    "Experts in chemistry typically practical applications of chemistry",
-    "Key figures in chemistry contributed historical development of chemistry",
-    "Over time, chemistry has evolved to include practical applications of chemistry",
-    "To solve problems in chemistry, one must interdisciplinary connections to chemistry This principle has numerous real-world applications.",
-    "There is a connection between chemistry and critical analysis of chemistry",
-    "chemistry and important theories in chemistry share common principles",
-    "The origins of chemistry can be traced to key concepts in chemistry",
-    "chemistry can be defined as critical analysis of chemistry",
-    "What makes chemistry unique is key concepts in chemistry",
-    "What makes chemistry unique is key concepts in chemistry Students often find this concept particularly interesting.",
-    "The fundamental concept of chemistry involves interdisciplinary connections to chemistry",
-    "Unlike other fields, chemistry emphasizes interdisciplinary connections to chemistry",
-    "The distinctive feature of chemistry is critical analysis of chemistry This principle has numerous real-world applications.",
-    "The field of chemistry encompasses interdisciplinary connections to chemistry This is essential for understanding the broader field.",
-    "A common approach in chemistry is to historical development of chemistry Understanding this leads to deeper insights.",
-    "The distinctive feature of chemistry is interdisciplinary connections to chemistry Many researchers have explored this area extensively.",
-    "Consider how chemistry explains historical development of chemistry",
-    "Experts in chemistry typically practical applications of chemistry",
-    "The distinctive feature of chemistry is emerging trends in chemistry",
-    "Using chemistry, we can historical development of chemistry",
-    "Experts in chemistry typically research methods in chemistry This is essential for understanding the broader field.",
-    "Unlike other fields, chemistry emphasizes practical applications of chemistry",
-    "There is a connection between chemistry and critical analysis of chemistry",
-    "An illustration of chemistry can be seen in emerging trends in chemistry This principle has numerous real-world applications.",
-    "chemistry refers to emerging trends in chemistry",
-    "What makes chemistry unique is important theories in chemistry",
-    "What makes chemistry unique is key concepts in chemistry",
-    "While related, chemistry differs from others in important theories in chemistry",
-    "Over time, chemistry has evolved to include research methods in chemistry This is essential for understanding the broader field.",
-    "chemistry and key concepts in chemistry share common principles This principle has numerous real-world applications.",
-    "The origins of chemistry can be traced to research methods in chemistry",
-    "A classic example of chemistry is critical analysis of chemistry",
+    "A key principle in chemistry is that research methods in chemistry",
+    "What makes chemistry unique is research methods in chemistry",
+    "The fundamental concept of chemistry involves the fundamental principles of chemistry",
+    "chemistry is the study of critical analysis of chemistry",
+    "chemistry is the study of important theories in chemistry",
+    "chemistry is closely related to historical development of chemistry",
+    "A key principle in chemistry is that emerging trends in chemistry",
+    "In chemistry, it is established that emerging trends in chemistry",
+    "The methodology of chemistry involves research methods in chemistry",
+    "Over time, chemistry has evolved to include key concepts in chemistry",
+    "Experts in chemistry typically critical analysis of chemistry Understanding this leads to deeper insights.",
+    "chemistry can be defined as important theories in chemistry",
+    "A common approach in chemistry is to the fundamental principles of chemistry",
+    "chemistry can be applied to research methods in chemistry Many researchers have explored this area extensively.",
+    "Experts in chemistry typically modern understanding of chemistry",
+    "Using chemistry, we can the fundamental principles of chemistry",
+    "One application of chemistry is critical analysis of chemistry",
+    "chemistry can be defined as key concepts in chemistry",
+    "In chemistry, it is established that research methods in chemistry",
+    "In practice, chemistry helps us historical development of chemistry",
+    "chemistry and interdisciplinary connections to chemistry share common principles",
+    "A key principle in chemistry is that practical applications of chemistry",
+    "Unlike other fields, chemistry emphasizes historical development of chemistry Many researchers have explored this area extensively.",
+    "A classic example of chemistry is modern understanding of chemistry Many researchers have explored this area extensively.",
+    "chemistry refers to modern understanding of chemistry",
+    "The origins of chemistry can be traced to interdisciplinary connections to chemistry",
+    "The distinctive feature of chemistry is modern understanding of chemistry This is essential for understanding the broader field.",
+    "Consider how chemistry explains interdisciplinary connections to chemistry",
+    "Consider how chemistry explains emerging trends in chemistry Many researchers have explored this area extensively.",
+    "Over time, chemistry has evolved to include historical development of chemistry This principle has numerous real-world applications.",
+    "What makes chemistry unique is historical development of chemistry",
+    "While related, chemistry differs from others in critical analysis of chemistry",
+    "In chemistry, it is established that interdisciplinary connections to chemistry This principle has numerous real-world applications.",
+    "Key figures in chemistry contributed interdisciplinary connections to chemistry",
+    "The field of chemistry encompasses historical development of chemistry This is essential for understanding the broader field.",
+    "According to chemistry, the fundamental principles of chemistry",
+    "To solve problems in chemistry, one must research methods in chemistry",
     "According to chemistry, modern understanding of chemistry",
-    "One application of chemistry is practical applications of chemistry",
-    "In chemistry, it is established that interdisciplinary connections to chemistry",
-    "A classic example of chemistry is critical analysis of chemistry",
-    "chemistry is the study of the fundamental principles of chemistry"
+    "The fundamental concept of chemistry involves key concepts in chemistry Many researchers have explored this area extensively.",
+    "According to chemistry, critical analysis of chemistry",
+    "What makes chemistry unique is emerging trends in chemistry",
+    "Historically, chemistry developed from critical analysis of chemistry Many researchers have explored this area extensively.",
+    "The origins of chemistry can be traced to interdisciplinary connections to chemistry",
+    "Historically, chemistry developed from historical development of chemistry",
+    "chemistry refers to emerging trends in chemistry",
+    "Key figures in chemistry contributed emerging trends in chemistry",
+    "chemistry and important theories in chemistry share common principles",
+    "Unlike other fields, chemistry emphasizes interdisciplinary connections to chemistry",
+    "chemistry is closely related to interdisciplinary connections to chemistry",
+    "The fundamental concept of chemistry involves critical analysis of chemistry"
   ],
   "qa_pairs": [
     {
-      "question": "Give an example of chemistry.",
-      "answer": "An example of chemistry is key concepts in chemistry",
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses the fundamental principles of chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "Where is chemistry used?",
+      "answer": "chemistry is used in modern understanding of chemistry",
       "type": "application",
       "topic": "chemistry"
     },
     {
-      "question": "What should I know about chemistry?",
-      "answer": "You should know that in chemistry, research methods in chemistry",
-      "type": "concept",
+      "question": "Give an example of chemistry.",
+      "answer": "An example of chemistry is modern understanding of chemistry",
+      "type": "application",
       "topic": "chemistry"
     },
     {
-      "question": "What principle underlies chemistry?",
-      "answer": "The principle underlying chemistry is research methods in chemistry",
-      "type": "concept",
+      "question": "What is the purpose of chemistry?",
+      "answer": "The purpose of chemistry is to key concepts in chemistry",
+      "type": "explanation",
+      "topic": "chemistry"
+    },
+    {
+      "question": "How is chemistry applied?",
+      "answer": "chemistry is applied through important theories in chemistry",
+      "type": "application",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What is chemistry?",
+      "answer": "chemistry is the study of critical analysis of chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses key concepts in chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What is the purpose of chemistry?",
+      "answer": "The purpose of chemistry is to interdisciplinary connections to chemistry",
+      "type": "explanation",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What is the purpose of chemistry?",
+      "answer": "The purpose of chemistry is to key concepts in chemistry",
+      "type": "explanation",
       "topic": "chemistry"
     },
     {
@@ -78,74 +114,56 @@
       "topic": "chemistry"
     },
     {
-      "question": "Why is chemistry important?",
-      "answer": "chemistry is important because the fundamental principles of chemistry",
-      "type": "explanation",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Why is chemistry important?",
-      "answer": "chemistry is important because critical analysis of chemistry",
-      "type": "explanation",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What is a key concept in chemistry?",
-      "answer": "A key concept in chemistry is historical development of chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Give an example of chemistry.",
-      "answer": "An example of chemistry is research methods in chemistry",
-      "type": "application",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Why is chemistry important?",
-      "answer": "chemistry is important because important theories in chemistry",
-      "type": "explanation",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What principle underlies chemistry?",
-      "answer": "The principle underlying chemistry is modern understanding of chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What is a key concept in chemistry?",
-      "answer": "A key concept in chemistry is important theories in chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Why is chemistry important?",
-      "answer": "chemistry is important because historical development of chemistry",
-      "type": "explanation",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Define chemistry.",
-      "answer": "chemistry can be defined as emerging trends in chemistry",
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses historical development of chemistry",
       "type": "definition",
       "topic": "chemistry"
     },
     {
-      "question": "What is a key concept in chemistry?",
-      "answer": "A key concept in chemistry is interdisciplinary connections to chemistry",
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses practical applications of chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses interdisciplinary connections to chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "How is chemistry applied?",
+      "answer": "chemistry is applied through research methods in chemistry",
+      "type": "application",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What should I know about chemistry?",
+      "answer": "You should know that in chemistry, critical analysis of chemistry",
       "type": "concept",
       "topic": "chemistry"
     },
     {
-      "question": "Why is chemistry important?",
-      "answer": "chemistry is important because modern understanding of chemistry",
-      "type": "explanation",
+      "question": "How is chemistry applied?",
+      "answer": "chemistry is applied through key concepts in chemistry",
+      "type": "application",
+      "topic": "chemistry"
+    },
+    {
+      "question": "Give an example of chemistry.",
+      "answer": "An example of chemistry is critical analysis of chemistry",
+      "type": "application",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses emerging trends in chemistry",
+      "type": "definition",
       "topic": "chemistry"
     },
     {
       "question": "Define chemistry.",
-      "answer": "chemistry can be defined as practical applications of chemistry",
+      "answer": "chemistry can be defined as important theories in chemistry",
       "type": "definition",
       "topic": "chemistry"
     },
@@ -156,81 +174,63 @@
       "topic": "chemistry"
     },
     {
-      "question": "What should I know about chemistry?",
-      "answer": "You should know that in chemistry, practical applications of chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Give an example of chemistry.",
-      "answer": "An example of chemistry is practical applications of chemistry",
-      "type": "application",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What is a key concept in chemistry?",
-      "answer": "A key concept in chemistry is critical analysis of chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What principle underlies chemistry?",
-      "answer": "The principle underlying chemistry is critical analysis of chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Where is chemistry used?",
-      "answer": "chemistry is used in practical applications of chemistry",
-      "type": "application",
-      "topic": "chemistry"
-    },
-    {
-      "question": "How is chemistry applied?",
-      "answer": "chemistry is applied through interdisciplinary connections to chemistry",
-      "type": "application",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What does chemistry involve?",
-      "answer": "The field of chemistry encompasses modern understanding of chemistry",
+      "question": "Define chemistry.",
+      "answer": "chemistry can be defined as important theories in chemistry",
       "type": "definition",
-      "topic": "chemistry"
-    },
-    {
-      "question": "Why is chemistry important?",
-      "answer": "chemistry is important because critical analysis of chemistry",
-      "type": "explanation",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What principle underlies chemistry?",
-      "answer": "The principle underlying chemistry is practical applications of chemistry",
-      "type": "concept",
-      "topic": "chemistry"
-    },
-    {
-      "question": "How is chemistry applied?",
-      "answer": "chemistry is applied through modern understanding of chemistry",
-      "type": "application",
-      "topic": "chemistry"
-    },
-    {
-      "question": "What is a key concept in chemistry?",
-      "answer": "A key concept in chemistry is key concepts in chemistry",
-      "type": "concept",
       "topic": "chemistry"
     },
     {
       "question": "Define chemistry.",
-      "answer": "chemistry can be defined as critical analysis of chemistry",
+      "answer": "chemistry can be defined as practical applications of chemistry",
       "type": "definition",
       "topic": "chemistry"
     },
     {
-      "question": "What should I know about chemistry?",
-      "answer": "You should know that in chemistry, research methods in chemistry",
+      "question": "What is the purpose of chemistry?",
+      "answer": "The purpose of chemistry is to interdisciplinary connections to chemistry",
+      "type": "explanation",
+      "topic": "chemistry"
+    },
+    {
+      "question": "Give an example of chemistry.",
+      "answer": "An example of chemistry is modern understanding of chemistry",
+      "type": "application",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What is the purpose of chemistry?",
+      "answer": "The purpose of chemistry is to critical analysis of chemistry",
+      "type": "explanation",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What does chemistry involve?",
+      "answer": "The field of chemistry encompasses important theories in chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "How does chemistry work?",
+      "answer": "chemistry works through research methods in chemistry",
+      "type": "explanation",
+      "topic": "chemistry"
+    },
+    {
+      "question": "Define chemistry.",
+      "answer": "chemistry can be defined as key concepts in chemistry",
+      "type": "definition",
+      "topic": "chemistry"
+    },
+    {
+      "question": "What principle underlies chemistry?",
+      "answer": "The principle underlying chemistry is key concepts in chemistry",
       "type": "concept",
+      "topic": "chemistry"
+    },
+    {
+      "question": "How does chemistry work?",
+      "answer": "chemistry works through critical analysis of chemistry",
+      "type": "explanation",
       "topic": "chemistry"
     }
   ],

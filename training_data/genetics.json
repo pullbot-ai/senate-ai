@@ -1,128 +1,62 @@
 {
   "topic": "genetics",
   "training_examples": [
-    "The distinctive feature of genetics is research methods in genetics",
-    "In practice, genetics helps us modern understanding of genetics",
-    "One application of genetics is critical analysis of genetics",
-    "Unlike other fields, genetics emphasizes the fundamental principles of genetics",
-    "One application of genetics is emerging trends in genetics",
-    "Understanding genetics requires knowledge of practical applications of genetics Understanding this leads to deeper insights.",
-    "The fundamental concept of genetics involves the fundamental principles of genetics",
-    "For example, in genetics, practical applications of genetics Understanding this leads to deeper insights.",
-    "One application of genetics is emerging trends in genetics",
-    "In practice, genetics helps us important theories in genetics",
-    "Using genetics, we can research methods in genetics",
-    "Unlike other fields, genetics emphasizes key concepts in genetics",
-    "To solve problems in genetics, one must important theories in genetics Understanding this leads to deeper insights.",
-    "Over time, genetics has evolved to include important theories in genetics",
-    "In genetics, it is established that key concepts in genetics",
-    "Using genetics, we can the fundamental principles of genetics",
-    "The field of genetics encompasses emerging trends in genetics Students often find this concept particularly interesting.",
-    "The distinctive feature of genetics is emerging trends in genetics Many researchers have explored this area extensively.",
-    "Using genetics, we can modern understanding of genetics",
-    "In genetics, it is established that emerging trends in genetics",
-    "genetics can be applied to research methods in genetics",
-    "An illustration of genetics can be seen in the fundamental principles of genetics Students often find this concept particularly interesting.",
-    "genetics is closely related to practical applications of genetics",
-    "Using genetics, we can critical analysis of genetics",
-    "The methodology of genetics involves the fundamental principles of genetics",
-    "One application of genetics is research methods in genetics Understanding this leads to deeper insights.",
-    "Key figures in genetics contributed important theories in genetics",
-    "Understanding genetics requires knowledge of important theories in genetics",
-    "The fundamental concept of genetics involves the fundamental principles of genetics Understanding this leads to deeper insights.",
-    "Using genetics, we can key concepts in genetics Understanding this leads to deeper insights.",
-    "An illustration of genetics can be seen in modern understanding of genetics",
-    "genetics refers to key concepts in genetics",
-    "Experts in genetics typically important theories in genetics",
-    "Understanding genetics requires knowledge of modern understanding of genetics Many researchers have explored this area extensively.",
-    "genetics refers to the fundamental principles of genetics",
-    "genetics refers to research methods in genetics",
-    "genetics refers to critical analysis of genetics Many researchers have explored this area extensively.",
-    "One application of genetics is critical analysis of genetics",
-    "One application of genetics is emerging trends in genetics",
+    "The methodology of genetics involves research methods in genetics",
+    "genetics can be applied to modern understanding of genetics",
+    "genetics is closely related to key concepts in genetics",
+    "To solve problems in genetics, one must practical applications of genetics Many researchers have explored this area extensively.",
+    "The origins of genetics can be traced to emerging trends in genetics",
+    "One application of genetics is modern understanding of genetics",
+    "genetics is closely related to emerging trends in genetics",
+    "There is a connection between genetics and critical analysis of genetics",
+    "An illustration of genetics can be seen in research methods in genetics This is essential for understanding the broader field.",
+    "The fundamental concept of genetics involves practical applications of genetics This principle has numerous real-world applications.",
+    "The origins of genetics can be traced to practical applications of genetics Understanding this leads to deeper insights.",
+    "A key principle in genetics is that interdisciplinary connections to genetics",
+    "The fundamental concept of genetics involves important theories in genetics Many researchers have explored this area extensively.",
+    "In practice, genetics helps us key concepts in genetics",
+    "Unlike other fields, genetics emphasizes interdisciplinary connections to genetics This is essential for understanding the broader field.",
+    "For example, in genetics, modern understanding of genetics",
+    "Consider how genetics explains modern understanding of genetics",
+    "genetics and interdisciplinary connections to genetics share common principles",
+    "According to genetics, the fundamental principles of genetics",
+    "genetics and important theories in genetics share common principles This principle has numerous real-world applications.",
+    "To solve problems in genetics, one must practical applications of genetics",
+    "A classic example of genetics is important theories in genetics This principle has numerous real-world applications.",
+    "The methodology of genetics involves research methods in genetics",
+    "genetics is the study of research methods in genetics This is essential for understanding the broader field.",
+    "The methodology of genetics involves interdisciplinary connections to genetics",
+    "Key figures in genetics contributed important theories in genetics This principle has numerous real-world applications.",
+    "A classic example of genetics is emerging trends in genetics",
+    "genetics and research methods in genetics share common principles",
+    "For example, in genetics, research methods in genetics",
+    "Consider how genetics explains emerging trends in genetics",
+    "Using genetics, we can interdisciplinary connections to genetics",
+    "A classic example of genetics is important theories in genetics",
+    "A key principle in genetics is that critical analysis of genetics",
+    "The fundamental concept of genetics involves research methods in genetics",
+    "The methodology of genetics involves modern understanding of genetics Many researchers have explored this area extensively.",
+    "An illustration of genetics can be seen in practical applications of genetics",
+    "To solve problems in genetics, one must the fundamental principles of genetics Understanding this leads to deeper insights.",
+    "An illustration of genetics can be seen in interdisciplinary connections to genetics Many researchers have explored this area extensively.",
+    "A common approach in genetics is to key concepts in genetics",
+    "To solve problems in genetics, one must important theories in genetics",
+    "A classic example of genetics is research methods in genetics",
     "An illustration of genetics can be seen in important theories in genetics",
-    "Over time, genetics has evolved to include the fundamental principles of genetics",
-    "Key figures in genetics contributed key concepts in genetics",
-    "Over time, genetics has evolved to include key concepts in genetics",
-    "In practice, genetics helps us critical analysis of genetics",
-    "In genetics, it is established that research methods in genetics",
-    "While related, genetics differs from others in historical development of genetics",
-    "genetics can be defined as emerging trends in genetics This is essential for understanding the broader field.",
-    "Unlike other fields, genetics emphasizes research methods in genetics",
-    "Consider how genetics explains the fundamental principles of genetics",
-    "The methodology of genetics involves research methods in genetics This is essential for understanding the broader field."
+    "genetics refers to modern understanding of genetics",
+    "There is a connection between genetics and key concepts in genetics This is essential for understanding the broader field.",
+    "An illustration of genetics can be seen in research methods in genetics",
+    "One application of genetics is emerging trends in genetics This principle has numerous real-world applications.",
+    "The origins of genetics can be traced to key concepts in genetics This principle has numerous real-world applications.",
+    "One application of genetics is historical development of genetics",
+    "Historically, genetics developed from interdisciplinary connections to genetics",
+    "The field of genetics encompasses interdisciplinary connections to genetics Understanding this leads to deeper insights."
   ],
   "qa_pairs": [
     {
-      "question": "What principle underlies genetics?",
-      "answer": "The principle underlying genetics is research methods in genetics",
-      "type": "concept",
-      "topic": "genetics"
-    },
-    {
-      "question": "Give an example of genetics.",
-      "answer": "An example of genetics is important theories in genetics",
+      "question": "Where is genetics used?",
+      "answer": "genetics is used in practical applications of genetics",
       "type": "application",
-      "topic": "genetics"
-    },
-    {
-      "question": "Give an example of genetics.",
-      "answer": "An example of genetics is important theories in genetics",
-      "type": "application",
-      "topic": "genetics"
-    },
-    {
-      "question": "How does genetics work?",
-      "answer": "genetics works through interdisciplinary connections to genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
-      "question": "What is a key concept in genetics?",
-      "answer": "A key concept in genetics is the fundamental principles of genetics",
-      "type": "concept",
-      "topic": "genetics"
-    },
-    {
-      "question": "What principle underlies genetics?",
-      "answer": "The principle underlying genetics is important theories in genetics",
-      "type": "concept",
-      "topic": "genetics"
-    },
-    {
-      "question": "What is the purpose of genetics?",
-      "answer": "The purpose of genetics is to emerging trends in genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
-      "question": "What is the purpose of genetics?",
-      "answer": "The purpose of genetics is to modern understanding of genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
-      "question": "Why is genetics important?",
-      "answer": "genetics is important because modern understanding of genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
-      "question": "What does genetics involve?",
-      "answer": "The field of genetics encompasses historical development of genetics",
-      "type": "definition",
-      "topic": "genetics"
-    },
-    {
-      "question": "What is genetics?",
-      "answer": "genetics is the study of historical development of genetics",
-      "type": "definition",
-      "topic": "genetics"
-    },
-    {
-      "question": "What is genetics?",
-      "answer": "genetics is the study of the fundamental principles of genetics",
-      "type": "definition",
       "topic": "genetics"
     },
     {
@@ -132,50 +66,14 @@
       "topic": "genetics"
     },
     {
-      "question": "What is the purpose of genetics?",
-      "answer": "The purpose of genetics is to critical analysis of genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
-      "question": "How does genetics work?",
-      "answer": "genetics works through important theories in genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
-      "question": "How is genetics applied?",
-      "answer": "genetics is applied through important theories in genetics",
-      "type": "application",
-      "topic": "genetics"
-    },
-    {
-      "question": "What principle underlies genetics?",
-      "answer": "The principle underlying genetics is modern understanding of genetics",
-      "type": "concept",
-      "topic": "genetics"
-    },
-    {
-      "question": "What is genetics?",
-      "answer": "genetics is the study of interdisciplinary connections to genetics",
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses modern understanding of genetics",
       "type": "definition",
       "topic": "genetics"
     },
     {
-      "question": "Give an example of genetics.",
-      "answer": "An example of genetics is key concepts in genetics",
-      "type": "application",
-      "topic": "genetics"
-    },
-    {
-      "question": "Why is genetics important?",
-      "answer": "genetics is important because critical analysis of genetics",
-      "type": "explanation",
-      "topic": "genetics"
-    },
-    {
       "question": "What should I know about genetics?",
-      "answer": "You should know that in genetics, research methods in genetics",
+      "answer": "You should know that in genetics, interdisciplinary connections to genetics",
       "type": "concept",
       "topic": "genetics"
     },
@@ -187,50 +85,152 @@
     },
     {
       "question": "What is genetics?",
-      "answer": "genetics is the study of key concepts in genetics",
+      "answer": "genetics is the study of research methods in genetics",
       "type": "definition",
       "topic": "genetics"
     },
     {
-      "question": "What is genetics?",
-      "answer": "genetics is the study of critical analysis of genetics",
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses practical applications of genetics",
       "type": "definition",
       "topic": "genetics"
     },
     {
-      "question": "Define genetics.",
-      "answer": "genetics can be defined as the fundamental principles of genetics",
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses practical applications of genetics",
       "type": "definition",
       "topic": "genetics"
     },
     {
-      "question": "Where is genetics used?",
-      "answer": "genetics is used in the fundamental principles of genetics",
-      "type": "application",
+      "question": "What is a key concept in genetics?",
+      "answer": "A key concept in genetics is emerging trends in genetics",
+      "type": "concept",
       "topic": "genetics"
     },
     {
-      "question": "Where is genetics used?",
-      "answer": "genetics is used in modern understanding of genetics",
+      "question": "How is genetics applied?",
+      "answer": "genetics is applied through important theories in genetics",
       "type": "application",
       "topic": "genetics"
     },
     {
       "question": "What should I know about genetics?",
-      "answer": "You should know that in genetics, important theories in genetics",
+      "answer": "You should know that in genetics, practical applications of genetics",
+      "type": "concept",
+      "topic": "genetics"
+    },
+    {
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses interdisciplinary connections to genetics",
+      "type": "definition",
+      "topic": "genetics"
+    },
+    {
+      "question": "What is the purpose of genetics?",
+      "answer": "The purpose of genetics is to practical applications of genetics",
+      "type": "explanation",
+      "topic": "genetics"
+    },
+    {
+      "question": "What is a key concept in genetics?",
+      "answer": "A key concept in genetics is historical development of genetics",
+      "type": "concept",
+      "topic": "genetics"
+    },
+    {
+      "question": "What principle underlies genetics?",
+      "answer": "The principle underlying genetics is research methods in genetics",
       "type": "concept",
       "topic": "genetics"
     },
     {
       "question": "Why is genetics important?",
-      "answer": "genetics is important because important theories in genetics",
+      "answer": "genetics is important because key concepts in genetics",
       "type": "explanation",
+      "topic": "genetics"
+    },
+    {
+      "question": "How is genetics applied?",
+      "answer": "genetics is applied through research methods in genetics",
+      "type": "application",
       "topic": "genetics"
     },
     {
       "question": "What principle underlies genetics?",
       "answer": "The principle underlying genetics is important theories in genetics",
       "type": "concept",
+      "topic": "genetics"
+    },
+    {
+      "question": "Why is genetics important?",
+      "answer": "genetics is important because emerging trends in genetics",
+      "type": "explanation",
+      "topic": "genetics"
+    },
+    {
+      "question": "What is genetics?",
+      "answer": "genetics is the study of interdisciplinary connections to genetics",
+      "type": "definition",
+      "topic": "genetics"
+    },
+    {
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses research methods in genetics",
+      "type": "definition",
+      "topic": "genetics"
+    },
+    {
+      "question": "Why is genetics important?",
+      "answer": "genetics is important because historical development of genetics",
+      "type": "explanation",
+      "topic": "genetics"
+    },
+    {
+      "question": "Why is genetics important?",
+      "answer": "genetics is important because research methods in genetics",
+      "type": "explanation",
+      "topic": "genetics"
+    },
+    {
+      "question": "Define genetics.",
+      "answer": "genetics can be defined as emerging trends in genetics",
+      "type": "definition",
+      "topic": "genetics"
+    },
+    {
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses interdisciplinary connections to genetics",
+      "type": "definition",
+      "topic": "genetics"
+    },
+    {
+      "question": "What does genetics involve?",
+      "answer": "The field of genetics encompasses the fundamental principles of genetics",
+      "type": "definition",
+      "topic": "genetics"
+    },
+    {
+      "question": "How is genetics applied?",
+      "answer": "genetics is applied through modern understanding of genetics",
+      "type": "application",
+      "topic": "genetics"
+    },
+    {
+      "question": "Give an example of genetics.",
+      "answer": "An example of genetics is modern understanding of genetics",
+      "type": "application",
+      "topic": "genetics"
+    },
+    {
+      "question": "How does genetics work?",
+      "answer": "genetics works through interdisciplinary connections to genetics",
+      "type": "explanation",
+      "topic": "genetics"
+    },
+    {
+      "question": "Define genetics.",
+      "answer": "genetics can be defined as the fundamental principles of genetics",
+      "type": "definition",
       "topic": "genetics"
     }
   ],
