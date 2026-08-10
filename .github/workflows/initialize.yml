@@ -28,48 +28,33 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git config pack.windowMemory "100m"
-          git config pack.packSizeLimit "100m"
+          git config http.postBuffer 524288000
+          git config pack.windowMemory "50m"
+          git config pack.packSizeLimit "50m"
           git config pack.threads "1"
       
-      - name: Push training data
+      - name: Push training data and index
         run: |
-          git add training_data/
-          git commit -m "Add training data"
+          git add training_data/ senate_bundles/senate_index.json
+          git commit -m "Add training data and index"
           git push
       
-      - name: Push index
+      - name: Push bundles 5 at a time
         run: |
-          git add senate_bundles/senate_index.json
-          git commit -m "Add senate index"
-          git push
-      
-      - name: Push bundles 000-019
-        run: |
-          git add senate_bundles/bundle_00[0-9].pt senate_bundles/bundle_01[0-9].pt
-          git commit -m "Bundles 000-019"
-          git push
-      
-      - name: Push bundles 020-039
-        run: |
-          git add senate_bundles/bundle_02[0-9].pt senate_bundles/bundle_03[0-9].pt
-          git commit -m "Bundles 020-039"
-          git push
-      
-      - name: Push bundles 040-059
-        run: |
-          git add senate_bundles/bundle_04[0-9].pt senate_bundles/bundle_05[0-9].pt
-          git commit -m "Bundles 040-059"
-          git push
-      
-      - name: Push bundles 060-079
-        run: |
-          git add senate_bundles/bundle_06[0-9].pt senate_bundles/bundle_07[0-9].pt
-          git commit -m "Bundles 060-079"
-          git push
-      
-      - name: Push bundles 080-088
-        run: |
-          git add senate_bundles/bundle_08[0-9].pt
-          git commit -m "Bundles 080-088"
-          git push
+          for chunk in $(seq 0 5 85); do
+            end=$((chunk + 4))
+            if [ $end -gt 88 ]; then end=88; fi
+            
+            echo "Pushing bundles $chunk to $end..."
+            
+            for i in $(seq -w $chunk $end); do
+              git add senate_bundles/bundle_${i}.pt
+            done
+            
+            git commit -m "Bundles $(printf '%03d' $chunk)-$(printf '%03d' $end)"
+            git push || {
+              echo "Push failed, retrying once..."
+              sleep 10
+              git push
+            }
+          done
