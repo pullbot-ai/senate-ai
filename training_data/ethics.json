@@ -1,0 +1,239 @@
+{
+  "topic": "ethics",
+  "training_examples": [
+    "ethics can be defined as emerging trends in ethics",
+    "One application of ethics is important theories in ethics",
+    "An illustration of ethics can be seen in critical analysis of ethics Understanding this leads to deeper insights.",
+    "To solve problems in ethics, one must modern understanding of ethics",
+    "In ethics, it is established that critical analysis of ethics",
+    "The origins of ethics can be traced to key concepts in ethics",
+    "ethics refers to the fundamental principles of ethics",
+    "There is a connection between ethics and the fundamental principles of ethics",
+    "According to ethics, historical development of ethics",
+    "ethics and interdisciplinary connections to ethics share common principles",
+    "The origins of ethics can be traced to important theories in ethics",
+    "Key figures in ethics contributed emerging trends in ethics Understanding this leads to deeper insights.",
+    "A classic example of ethics is key concepts in ethics",
+    "The methodology of ethics involves key concepts in ethics",
+    "ethics is the study of interdisciplinary connections to ethics Understanding this leads to deeper insights.",
+    "Unlike other fields, ethics emphasizes emerging trends in ethics",
+    "ethics is closely related to important theories in ethics",
+    "A key principle in ethics is that key concepts in ethics",
+    "The distinctive feature of ethics is interdisciplinary connections to ethics",
+    "The distinctive feature of ethics is important theories in ethics This principle has numerous real-world applications.",
+    "In ethics, it is established that interdisciplinary connections to ethics",
+    "While related, ethics differs from others in interdisciplinary connections to ethics",
+    "What makes ethics unique is historical development of ethics",
+    "ethics can be defined as research methods in ethics This principle has numerous real-world applications.",
+    "Consider how ethics explains interdisciplinary connections to ethics",
+    "The field of ethics encompasses research methods in ethics",
+    "What makes ethics unique is historical development of ethics",
+    "There is a connection between ethics and important theories in ethics",
+    "ethics refers to critical analysis of ethics This principle has numerous real-world applications.",
+    "The field of ethics encompasses modern understanding of ethics",
+    "In ethics, it is established that interdisciplinary connections to ethics",
+    "ethics refers to interdisciplinary connections to ethics Students often find this concept particularly interesting.",
+    "Unlike other fields, ethics emphasizes emerging trends in ethics",
+    "Understanding ethics requires knowledge of interdisciplinary connections to ethics",
+    "Consider how ethics explains research methods in ethics Understanding this leads to deeper insights.",
+    "There is a connection between ethics and practical applications of ethics",
+    "In practice, ethics helps us critical analysis of ethics",
+    "One application of ethics is interdisciplinary connections to ethics",
+    "Over time, ethics has evolved to include emerging trends in ethics",
+    "While related, ethics differs from others in important theories in ethics",
+    "One application of ethics is critical analysis of ethics",
+    "ethics is the study of emerging trends in ethics This principle has numerous real-world applications.",
+    "According to ethics, research methods in ethics",
+    "There is a connection between ethics and the fundamental principles of ethics This principle has numerous real-world applications.",
+    "Experts in ethics typically practical applications of ethics Students often find this concept particularly interesting.",
+    "The origins of ethics can be traced to key concepts in ethics",
+    "A key principle in ethics is that modern understanding of ethics Students often find this concept particularly interesting.",
+    "Using ethics, we can emerging trends in ethics Students often find this concept particularly interesting.",
+    "The fundamental concept of ethics involves interdisciplinary connections to ethics",
+    "Key figures in ethics contributed key concepts in ethics"
+  ],
+  "qa_pairs": [
+    {
+      "question": "Define ethics.",
+      "answer": "ethics can be defined as emerging trends in ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is ethics?",
+      "answer": "ethics is the study of practical applications of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is the purpose of ethics?",
+      "answer": "The purpose of ethics is to interdisciplinary connections to ethics",
+      "type": "explanation",
+      "topic": "ethics"
+    },
+    {
+      "question": "Give an example of ethics.",
+      "answer": "An example of ethics is critical analysis of ethics",
+      "type": "application",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is ethics?",
+      "answer": "ethics is the study of interdisciplinary connections to ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "How is ethics applied?",
+      "answer": "ethics is applied through modern understanding of ethics",
+      "type": "application",
+      "topic": "ethics"
+    },
+    {
+      "question": "Give an example of ethics.",
+      "answer": "An example of ethics is key concepts in ethics",
+      "type": "application",
+      "topic": "ethics"
+    },
+    {
+      "question": "How does ethics work?",
+      "answer": "ethics works through modern understanding of ethics",
+      "type": "explanation",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is a key concept in ethics?",
+      "answer": "A key concept in ethics is key concepts in ethics",
+      "type": "concept",
+      "topic": "ethics"
+    },
+    {
+      "question": "What does ethics involve?",
+      "answer": "The field of ethics encompasses practical applications of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "Define ethics.",
+      "answer": "ethics can be defined as interdisciplinary connections to ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "Why is ethics important?",
+      "answer": "ethics is important because the fundamental principles of ethics",
+      "type": "explanation",
+      "topic": "ethics"
+    },
+    {
+      "question": "What principle underlies ethics?",
+      "answer": "The principle underlying ethics is key concepts in ethics",
+      "type": "concept",
+      "topic": "ethics"
+    },
+    {
+      "question": "What should I know about ethics?",
+      "answer": "You should know that in ethics, historical development of ethics",
+      "type": "concept",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is a key concept in ethics?",
+      "answer": "A key concept in ethics is research methods in ethics",
+      "type": "concept",
+      "topic": "ethics"
+    },
+    {
+      "question": "What does ethics involve?",
+      "answer": "The field of ethics encompasses critical analysis of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "Why is ethics important?",
+      "answer": "ethics is important because practical applications of ethics",
+      "type": "explanation",
+      "topic": "ethics"
+    },
+    {
+      "question": "What should I know about ethics?",
+      "answer": "You should know that in ethics, critical analysis of ethics",
+      "type": "concept",
+      "topic": "ethics"
+    },
+    {
+      "question": "What does ethics involve?",
+      "answer": "The field of ethics encompasses interdisciplinary connections to ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "How is ethics applied?",
+      "answer": "ethics is applied through key concepts in ethics",
+      "type": "application",
+      "topic": "ethics"
+    },
+    {
+      "question": "Define ethics.",
+      "answer": "ethics can be defined as practical applications of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "Define ethics.",
+      "answer": "ethics can be defined as key concepts in ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "What does ethics involve?",
+      "answer": "The field of ethics encompasses the fundamental principles of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "What does ethics involve?",
+      "answer": "The field of ethics encompasses modern understanding of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "What does ethics involve?",
+      "answer": "The field of ethics encompasses emerging trends in ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is the purpose of ethics?",
+      "answer": "The purpose of ethics is to the fundamental principles of ethics",
+      "type": "explanation",
+      "topic": "ethics"
+    },
+    {
+      "question": "How does ethics work?",
+      "answer": "ethics works through key concepts in ethics",
+      "type": "explanation",
+      "topic": "ethics"
+    },
+    {
+      "question": "What is ethics?",
+      "answer": "ethics is the study of historical development of ethics",
+      "type": "definition",
+      "topic": "ethics"
+    },
+    {
+      "question": "Where is ethics used?",
+      "answer": "ethics is used in modern understanding of ethics",
+      "type": "application",
+      "topic": "ethics"
+    },
+    {
+      "question": "What should I know about ethics?",
+      "answer": "You should know that in ethics, emerging trends in ethics",
+      "type": "concept",
+      "topic": "ethics"
+    }
+  ],
+  "example_count": 50,
+  "qa_count": 30
+}

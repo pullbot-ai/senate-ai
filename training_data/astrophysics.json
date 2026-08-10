@@ -1,0 +1,239 @@
+{
+  "topic": "astrophysics",
+  "training_examples": [
+    "astrophysics can be applied to historical development of astrophysics",
+    "Consider how astrophysics explains research methods in astrophysics",
+    "Understanding astrophysics requires knowledge of interdisciplinary connections to astrophysics",
+    "A common approach in astrophysics is to practical applications of astrophysics",
+    "The fundamental concept of astrophysics involves key concepts in astrophysics",
+    "astrophysics is closely related to historical development of astrophysics",
+    "Understanding astrophysics requires knowledge of research methods in astrophysics This is essential for understanding the broader field.",
+    "In astrophysics, it is established that key concepts in astrophysics",
+    "According to astrophysics, practical applications of astrophysics",
+    "A classic example of astrophysics is historical development of astrophysics",
+    "Historically, astrophysics developed from important theories in astrophysics",
+    "The field of astrophysics encompasses modern understanding of astrophysics",
+    "astrophysics can be applied to key concepts in astrophysics",
+    "Historically, astrophysics developed from key concepts in astrophysics Understanding this leads to deeper insights.",
+    "While related, astrophysics differs from others in modern understanding of astrophysics",
+    "Over time, astrophysics has evolved to include historical development of astrophysics",
+    "A classic example of astrophysics is critical analysis of astrophysics",
+    "The distinctive feature of astrophysics is critical analysis of astrophysics",
+    "Consider how astrophysics explains emerging trends in astrophysics",
+    "The distinctive feature of astrophysics is research methods in astrophysics This is essential for understanding the broader field.",
+    "astrophysics can be applied to the fundamental principles of astrophysics",
+    "For example, in astrophysics, practical applications of astrophysics Students often find this concept particularly interesting.",
+    "astrophysics is closely related to interdisciplinary connections to astrophysics",
+    "astrophysics is the study of important theories in astrophysics",
+    "Unlike other fields, astrophysics emphasizes interdisciplinary connections to astrophysics",
+    "A common approach in astrophysics is to research methods in astrophysics",
+    "Over time, astrophysics has evolved to include research methods in astrophysics",
+    "Unlike other fields, astrophysics emphasizes modern understanding of astrophysics",
+    "astrophysics refers to research methods in astrophysics",
+    "Unlike other fields, astrophysics emphasizes critical analysis of astrophysics",
+    "What makes astrophysics unique is important theories in astrophysics",
+    "The fundamental concept of astrophysics involves modern understanding of astrophysics",
+    "Over time, astrophysics has evolved to include research methods in astrophysics",
+    "What makes astrophysics unique is important theories in astrophysics",
+    "astrophysics and practical applications of astrophysics share common principles",
+    "A classic example of astrophysics is the fundamental principles of astrophysics",
+    "A key principle in astrophysics is that interdisciplinary connections to astrophysics",
+    "Experts in astrophysics typically historical development of astrophysics Students often find this concept particularly interesting.",
+    "The distinctive feature of astrophysics is practical applications of astrophysics",
+    "An illustration of astrophysics can be seen in emerging trends in astrophysics This is essential for understanding the broader field.",
+    "Understanding astrophysics requires knowledge of research methods in astrophysics",
+    "An illustration of astrophysics can be seen in important theories in astrophysics",
+    "The origins of astrophysics can be traced to critical analysis of astrophysics Understanding this leads to deeper insights.",
+    "What makes astrophysics unique is research methods in astrophysics",
+    "astrophysics and the fundamental principles of astrophysics share common principles This is essential for understanding the broader field.",
+    "astrophysics is the study of interdisciplinary connections to astrophysics",
+    "The origins of astrophysics can be traced to modern understanding of astrophysics This is essential for understanding the broader field.",
+    "In practice, astrophysics helps us the fundamental principles of astrophysics Many researchers have explored this area extensively.",
+    "A classic example of astrophysics is interdisciplinary connections to astrophysics Understanding this leads to deeper insights.",
+    "While related, astrophysics differs from others in research methods in astrophysics This is essential for understanding the broader field."
+  ],
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of astrophysics?",
+      "answer": "The purpose of astrophysics is to interdisciplinary connections to astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Define astrophysics.",
+      "answer": "astrophysics can be defined as important theories in astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Give an example of astrophysics.",
+      "answer": "An example of astrophysics is research methods in astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "How is astrophysics applied?",
+      "answer": "astrophysics is applied through interdisciplinary connections to astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What is the purpose of astrophysics?",
+      "answer": "The purpose of astrophysics is to modern understanding of astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What should I know about astrophysics?",
+      "answer": "You should know that in astrophysics, research methods in astrophysics",
+      "type": "concept",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "How is astrophysics applied?",
+      "answer": "astrophysics is applied through historical development of astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What is the purpose of astrophysics?",
+      "answer": "The purpose of astrophysics is to key concepts in astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "How is astrophysics applied?",
+      "answer": "astrophysics is applied through emerging trends in astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Where is astrophysics used?",
+      "answer": "astrophysics is used in practical applications of astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Define astrophysics.",
+      "answer": "astrophysics can be defined as historical development of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "How does astrophysics work?",
+      "answer": "astrophysics works through research methods in astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What does astrophysics involve?",
+      "answer": "The field of astrophysics encompasses the fundamental principles of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What does astrophysics involve?",
+      "answer": "The field of astrophysics encompasses important theories in astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Define astrophysics.",
+      "answer": "astrophysics can be defined as interdisciplinary connections to astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Define astrophysics.",
+      "answer": "astrophysics can be defined as practical applications of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What is the purpose of astrophysics?",
+      "answer": "The purpose of astrophysics is to historical development of astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "How does astrophysics work?",
+      "answer": "astrophysics works through critical analysis of astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What is astrophysics?",
+      "answer": "astrophysics is the study of historical development of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Define astrophysics.",
+      "answer": "astrophysics can be defined as modern understanding of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Why is astrophysics important?",
+      "answer": "astrophysics is important because key concepts in astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Give an example of astrophysics.",
+      "answer": "An example of astrophysics is critical analysis of astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What is astrophysics?",
+      "answer": "astrophysics is the study of practical applications of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What does astrophysics involve?",
+      "answer": "The field of astrophysics encompasses modern understanding of astrophysics",
+      "type": "definition",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What is the purpose of astrophysics?",
+      "answer": "The purpose of astrophysics is to modern understanding of astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What principle underlies astrophysics?",
+      "answer": "The principle underlying astrophysics is critical analysis of astrophysics",
+      "type": "concept",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Give an example of astrophysics.",
+      "answer": "An example of astrophysics is emerging trends in astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "Where is astrophysics used?",
+      "answer": "astrophysics is used in historical development of astrophysics",
+      "type": "application",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "How does astrophysics work?",
+      "answer": "astrophysics works through important theories in astrophysics",
+      "type": "explanation",
+      "topic": "astrophysics"
+    },
+    {
+      "question": "What principle underlies astrophysics?",
+      "answer": "The principle underlying astrophysics is critical analysis of astrophysics",
+      "type": "concept",
+      "topic": "astrophysics"
+    }
+  ],
+  "example_count": 50,
+  "qa_count": 30
+}

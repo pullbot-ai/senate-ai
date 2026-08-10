@@ -1,0 +1,239 @@
+{
+  "topic": "cognitive_science",
+  "training_examples": [
+    "One application of cognitive science is important theories in cognitive_science",
+    "There is a connection between cognitive science and historical development of cognitive_science Students often find this concept particularly interesting.",
+    "According to cognitive science, practical applications of cognitive_science",
+    "In practice, cognitive science helps us research methods in cognitive_science Understanding this leads to deeper insights.",
+    "An illustration of cognitive science can be seen in key concepts in cognitive_science",
+    "While related, cognitive science differs from others in modern understanding of cognitive_science",
+    "The fundamental concept of cognitive science involves important theories in cognitive_science",
+    "One application of cognitive science is historical development of cognitive_science",
+    "The fundamental concept of cognitive science involves the fundamental principles of cognitive_science",
+    "An illustration of cognitive science can be seen in emerging trends in cognitive_science Students often find this concept particularly interesting.",
+    "A common approach in cognitive science is to research methods in cognitive_science",
+    "The methodology of cognitive science involves historical development of cognitive_science",
+    "cognitive science can be applied to key concepts in cognitive_science",
+    "cognitive science is the study of emerging trends in cognitive_science",
+    "For example, in cognitive science, interdisciplinary connections to cognitive_science",
+    "cognitive science is closely related to important theories in cognitive_science",
+    "The distinctive feature of cognitive science is modern understanding of cognitive_science This is essential for understanding the broader field.",
+    "An illustration of cognitive science can be seen in research methods in cognitive_science",
+    "Experts in cognitive science typically important theories in cognitive_science",
+    "Understanding cognitive science requires knowledge of critical analysis of cognitive_science",
+    "In practice, cognitive science helps us interdisciplinary connections to cognitive_science",
+    "There is a connection between cognitive science and emerging trends in cognitive_science",
+    "To solve problems in cognitive science, one must important theories in cognitive_science",
+    "According to cognitive science, critical analysis of cognitive_science",
+    "While related, cognitive science differs from others in important theories in cognitive_science This principle has numerous real-world applications.",
+    "cognitive science can be defined as practical applications of cognitive_science",
+    "An illustration of cognitive science can be seen in interdisciplinary connections to cognitive_science",
+    "A common approach in cognitive science is to practical applications of cognitive_science This principle has numerous real-world applications.",
+    "An illustration of cognitive science can be seen in interdisciplinary connections to cognitive_science",
+    "The methodology of cognitive science involves research methods in cognitive_science",
+    "Using cognitive science, we can practical applications of cognitive_science This is essential for understanding the broader field.",
+    "An illustration of cognitive science can be seen in historical development of cognitive_science",
+    "Historically, cognitive science developed from the fundamental principles of cognitive_science",
+    "One application of cognitive science is research methods in cognitive_science",
+    "According to cognitive science, emerging trends in cognitive_science",
+    "In practice, cognitive science helps us modern understanding of cognitive_science Many researchers have explored this area extensively.",
+    "cognitive science is the study of historical development of cognitive_science Students often find this concept particularly interesting.",
+    "A classic example of cognitive science is historical development of cognitive_science",
+    "Experts in cognitive science typically the fundamental principles of cognitive_science",
+    "The field of cognitive science encompasses critical analysis of cognitive_science Understanding this leads to deeper insights.",
+    "What makes cognitive science unique is important theories in cognitive_science",
+    "What makes cognitive science unique is interdisciplinary connections to cognitive_science This principle has numerous real-world applications.",
+    "What makes cognitive science unique is key concepts in cognitive_science Many researchers have explored this area extensively.",
+    "The origins of cognitive science can be traced to the fundamental principles of cognitive_science This principle has numerous real-world applications.",
+    "A key principle in cognitive science is that modern understanding of cognitive_science Students often find this concept particularly interesting.",
+    "Consider how cognitive science explains the fundamental principles of cognitive_science",
+    "A common approach in cognitive science is to important theories in cognitive_science",
+    "The methodology of cognitive science involves modern understanding of cognitive_science This is essential for understanding the broader field.",
+    "In practice, cognitive science helps us key concepts in cognitive_science",
+    "The distinctive feature of cognitive science is practical applications of cognitive_science"
+  ],
+  "qa_pairs": [
+    {
+      "question": "Why is cognitive science important?",
+      "answer": "cognitive science is important because important theories in cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Why is cognitive science important?",
+      "answer": "cognitive science is important because historical development of cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What does cognitive science involve?",
+      "answer": "The field of cognitive science encompasses historical development of cognitive_science",
+      "type": "definition",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Define cognitive science.",
+      "answer": "cognitive science can be defined as practical applications of cognitive_science",
+      "type": "definition",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What is a key concept in cognitive science?",
+      "answer": "A key concept in cognitive science is important theories in cognitive_science",
+      "type": "concept",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in research methods in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What is the purpose of cognitive science?",
+      "answer": "The purpose of cognitive science is to emerging trends in cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Give an example of cognitive science.",
+      "answer": "An example of cognitive science is key concepts in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Give an example of cognitive science.",
+      "answer": "An example of cognitive science is practical applications of cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What principle underlies cognitive science?",
+      "answer": "The principle underlying cognitive science is key concepts in cognitive_science",
+      "type": "concept",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in important theories in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "How is cognitive science applied?",
+      "answer": "cognitive science is applied through interdisciplinary connections to cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "How does cognitive science work?",
+      "answer": "cognitive science works through emerging trends in cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What should I know about cognitive science?",
+      "answer": "You should know that in cognitive science, key concepts in cognitive_science",
+      "type": "concept",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "How is cognitive science applied?",
+      "answer": "cognitive science is applied through emerging trends in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Give an example of cognitive science.",
+      "answer": "An example of cognitive science is emerging trends in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "How does cognitive science work?",
+      "answer": "cognitive science works through interdisciplinary connections to cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Give an example of cognitive science.",
+      "answer": "An example of cognitive science is research methods in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Define cognitive science.",
+      "answer": "cognitive science can be defined as important theories in cognitive_science",
+      "type": "definition",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in interdisciplinary connections to cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Why is cognitive science important?",
+      "answer": "cognitive science is important because key concepts in cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What is the purpose of cognitive science?",
+      "answer": "The purpose of cognitive science is to the fundamental principles of cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What does cognitive science involve?",
+      "answer": "The field of cognitive science encompasses historical development of cognitive_science",
+      "type": "definition",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in the fundamental principles of cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What is cognitive science?",
+      "answer": "cognitive science is the study of key concepts in cognitive_science",
+      "type": "definition",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "How does cognitive science work?",
+      "answer": "cognitive science works through emerging trends in cognitive_science",
+      "type": "explanation",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "What principle underlies cognitive science?",
+      "answer": "The principle underlying cognitive science is modern understanding of cognitive_science",
+      "type": "concept",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in key concepts in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in modern understanding of cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    },
+    {
+      "question": "Where is cognitive science used?",
+      "answer": "cognitive science is used in research methods in cognitive_science",
+      "type": "application",
+      "topic": "cognitive_science"
+    }
+  ],
+  "example_count": 50,
+  "qa_count": 30
+}

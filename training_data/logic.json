@@ -1,0 +1,239 @@
+{
+  "topic": "logic",
+  "training_examples": [
+    "logic and premise-conclusion relationships share common principles",
+    "The methodology of logic involves modal logic This is essential for understanding the broader field.",
+    "logic is the study of informal reasoning",
+    "While related, logic differs from others in logical fallacies",
+    "A classic example of logic is predicate calculus",
+    "logic is closely related to syllogistic reasoning",
+    "The distinctive feature of logic is valid reasoning patterns",
+    "While related, logic differs from others in truth tables This principle has numerous real-world applications.",
+    "In logic, it is established that modal logic",
+    "logic and premise-conclusion relationships share common principles This principle has numerous real-world applications.",
+    "There is a connection between logic and logical fallacies",
+    "The distinctive feature of logic is informal reasoning",
+    "Over time, logic has evolved to include truth tables",
+    "logic can be defined as syllogistic reasoning Many researchers have explored this area extensively.",
+    "An illustration of logic can be seen in valid reasoning patterns",
+    "Unlike other fields, logic emphasizes truth tables",
+    "logic and premise-conclusion relationships share common principles",
+    "The fundamental concept of logic involves truth tables",
+    "For example, in logic, premise-conclusion relationships",
+    "Experts in logic typically predicate calculus",
+    "A common approach in logic is to truth tables",
+    "Understanding logic requires knowledge of informal reasoning",
+    "To solve problems in logic, one must syllogistic reasoning",
+    "The methodology of logic involves valid reasoning patterns",
+    "A key principle in logic is that logical fallacies",
+    "In logic, it is established that truth tables Understanding this leads to deeper insights.",
+    "Over time, logic has evolved to include predicate calculus",
+    "logic can be defined as premise-conclusion relationships",
+    "In practice, logic helps us informal reasoning Students often find this concept particularly interesting.",
+    "While related, logic differs from others in premise-conclusion relationships",
+    "An illustration of logic can be seen in valid reasoning patterns Understanding this leads to deeper insights.",
+    "In logic, it is established that predicate calculus",
+    "There is a connection between logic and modal logic Many researchers have explored this area extensively.",
+    "Consider how logic explains informal reasoning Understanding this leads to deeper insights.",
+    "A common approach in logic is to syllogistic reasoning",
+    "The field of logic encompasses truth tables",
+    "The field of logic encompasses valid reasoning patterns",
+    "The methodology of logic involves propositional logic",
+    "An illustration of logic can be seen in logical fallacies",
+    "An illustration of logic can be seen in logical fallacies",
+    "A classic example of logic is predicate calculus",
+    "There is a connection between logic and deductive arguments Students often find this concept particularly interesting.",
+    "Experts in logic typically deductive arguments",
+    "logic is the study of informal reasoning",
+    "The field of logic encompasses deductive arguments",
+    "In logic, it is established that truth tables",
+    "logic can be applied to predicate calculus",
+    "While related, logic differs from others in propositional logic",
+    "A classic example of logic is logical fallacies",
+    "To solve problems in logic, one must predicate calculus"
+  ],
+  "qa_pairs": [
+    {
+      "question": "What is the purpose of logic?",
+      "answer": "The purpose of logic is to syllogistic reasoning",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "What is the purpose of logic?",
+      "answer": "The purpose of logic is to truth tables",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "What is the purpose of logic?",
+      "answer": "The purpose of logic is to truth tables",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "What is logic?",
+      "answer": "logic is the study of deductive arguments",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "What does logic involve?",
+      "answer": "The field of logic encompasses propositional logic",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "Why is logic important?",
+      "answer": "logic is important because predicate calculus",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "How is logic applied?",
+      "answer": "logic is applied through predicate calculus",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What does logic involve?",
+      "answer": "The field of logic encompasses logical fallacies",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "Define logic.",
+      "answer": "logic can be defined as modal logic",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "Define logic.",
+      "answer": "logic can be defined as propositional logic",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "Define logic.",
+      "answer": "logic can be defined as logical fallacies",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "How is logic applied?",
+      "answer": "logic is applied through propositional logic",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What is logic?",
+      "answer": "logic is the study of modal logic",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "How is logic applied?",
+      "answer": "logic is applied through logical fallacies",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "How is logic applied?",
+      "answer": "logic is applied through deductive arguments",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What principle underlies logic?",
+      "answer": "The principle underlying logic is logical fallacies",
+      "type": "concept",
+      "topic": "logic"
+    },
+    {
+      "question": "Why is logic important?",
+      "answer": "logic is important because propositional logic",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "What should I know about logic?",
+      "answer": "You should know that in logic, informal reasoning",
+      "type": "concept",
+      "topic": "logic"
+    },
+    {
+      "question": "Where is logic used?",
+      "answer": "logic is used in predicate calculus",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "Give an example of logic.",
+      "answer": "An example of logic is predicate calculus",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "Define logic.",
+      "answer": "logic can be defined as syllogistic reasoning",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "How does logic work?",
+      "answer": "logic works through logical fallacies",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "Where is logic used?",
+      "answer": "logic is used in predicate calculus",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What does logic involve?",
+      "answer": "The field of logic encompasses predicate calculus",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "What should I know about logic?",
+      "answer": "You should know that in logic, modal logic",
+      "type": "concept",
+      "topic": "logic"
+    },
+    {
+      "question": "Define logic.",
+      "answer": "logic can be defined as predicate calculus",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "How does logic work?",
+      "answer": "logic works through premise-conclusion relationships",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "Where is logic used?",
+      "answer": "logic is used in deductive arguments",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "Give an example of logic.",
+      "answer": "An example of logic is syllogistic reasoning",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What is logic?",
+      "answer": "logic is the study of syllogistic reasoning",
+      "type": "definition",
+      "topic": "logic"
+    }
+  ],
+  "example_count": 50,
+  "qa_count": 30
+}

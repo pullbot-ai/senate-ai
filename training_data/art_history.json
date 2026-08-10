@@ -1,0 +1,239 @@
+{
+  "topic": "art_history",
+  "training_examples": [
+    "art history can be defined as historical development of art_history",
+    "In art history, it is established that interdisciplinary connections to art_history",
+    "art history is the study of key concepts in art_history Students often find this concept particularly interesting.",
+    "The distinctive feature of art history is research methods in art_history",
+    "In art history, it is established that historical development of art_history",
+    "art history and the fundamental principles of art_history share common principles",
+    "Unlike other fields, art history emphasizes critical analysis of art_history",
+    "The methodology of art history involves research methods in art_history",
+    "art history and key concepts in art_history share common principles Understanding this leads to deeper insights.",
+    "art history is closely related to important theories in art_history Understanding this leads to deeper insights.",
+    "A common approach in art history is to practical applications of art_history",
+    "For example, in art history, the fundamental principles of art_history",
+    "art history refers to critical analysis of art_history",
+    "A common approach in art history is to the fundamental principles of art_history Students often find this concept particularly interesting.",
+    "Understanding art history requires knowledge of critical analysis of art_history Many researchers have explored this area extensively.",
+    "Using art history, we can practical applications of art_history This is essential for understanding the broader field.",
+    "art history refers to important theories in art_history",
+    "To solve problems in art history, one must important theories in art_history",
+    "The methodology of art history involves interdisciplinary connections to art_history",
+    "In practice, art history helps us interdisciplinary connections to art_history",
+    "Experts in art history typically the fundamental principles of art_history",
+    "Experts in art history typically interdisciplinary connections to art_history This principle has numerous real-world applications.",
+    "A common approach in art history is to critical analysis of art_history This principle has numerous real-world applications.",
+    "What makes art history unique is important theories in art_history",
+    "art history is the study of the fundamental principles of art_history",
+    "Unlike other fields, art history emphasizes emerging trends in art_history",
+    "Historically, art history developed from key concepts in art_history Understanding this leads to deeper insights.",
+    "While related, art history differs from others in practical applications of art_history",
+    "art history refers to research methods in art_history",
+    "There is a connection between art history and practical applications of art_history",
+    "A key principle in art history is that interdisciplinary connections to art_history This is essential for understanding the broader field.",
+    "To solve problems in art history, one must interdisciplinary connections to art_history",
+    "There is a connection between art history and important theories in art_history Understanding this leads to deeper insights.",
+    "Consider how art history explains modern understanding of art_history This principle has numerous real-world applications.",
+    "Understanding art history requires knowledge of modern understanding of art_history",
+    "An illustration of art history can be seen in important theories in art_history This principle has numerous real-world applications.",
+    "art history refers to critical analysis of art_history",
+    "art history is the study of important theories in art_history",
+    "Key figures in art history contributed key concepts in art_history This is essential for understanding the broader field.",
+    "A key principle in art history is that modern understanding of art_history",
+    "In art history, it is established that key concepts in art_history",
+    "One application of art history is important theories in art_history Many researchers have explored this area extensively.",
+    "art history is the study of key concepts in art_history",
+    "A common approach in art history is to historical development of art_history",
+    "For example, in art history, research methods in art_history",
+    "The fundamental concept of art history involves modern understanding of art_history Many researchers have explored this area extensively.",
+    "In practice, art history helps us modern understanding of art_history",
+    "Experts in art history typically modern understanding of art_history",
+    "A common approach in art history is to practical applications of art_history",
+    "In art history, it is established that emerging trends in art_history"
+  ],
+  "qa_pairs": [
+    {
+      "question": "Define art history.",
+      "answer": "art history can be defined as historical development of art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "Give an example of art history.",
+      "answer": "An example of art history is key concepts in art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is the purpose of art history?",
+      "answer": "The purpose of art history is to important theories in art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is art history?",
+      "answer": "art history is the study of key concepts in art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "What does art history involve?",
+      "answer": "The field of art history encompasses research methods in art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "What should I know about art history?",
+      "answer": "You should know that in art history, modern understanding of art_history",
+      "type": "concept",
+      "topic": "art_history"
+    },
+    {
+      "question": "Where is art history used?",
+      "answer": "art history is used in emerging trends in art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "What does art history involve?",
+      "answer": "The field of art history encompasses practical applications of art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "Where is art history used?",
+      "answer": "art history is used in practical applications of art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "How is art history applied?",
+      "answer": "art history is applied through modern understanding of art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "Define art history.",
+      "answer": "art history can be defined as emerging trends in art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "What principle underlies art history?",
+      "answer": "The principle underlying art history is practical applications of art_history",
+      "type": "concept",
+      "topic": "art_history"
+    },
+    {
+      "question": "Give an example of art history.",
+      "answer": "An example of art history is practical applications of art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "How is art history applied?",
+      "answer": "art history is applied through key concepts in art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "Why is art history important?",
+      "answer": "art history is important because important theories in art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    },
+    {
+      "question": "Where is art history used?",
+      "answer": "art history is used in research methods in art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "How is art history applied?",
+      "answer": "art history is applied through interdisciplinary connections to art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "How is art history applied?",
+      "answer": "art history is applied through the fundamental principles of art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "What does art history involve?",
+      "answer": "The field of art history encompasses the fundamental principles of art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "How does art history work?",
+      "answer": "art history works through historical development of art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    },
+    {
+      "question": "Give an example of art history.",
+      "answer": "An example of art history is research methods in art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "Define art history.",
+      "answer": "art history can be defined as the fundamental principles of art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "How is art history applied?",
+      "answer": "art history is applied through modern understanding of art_history",
+      "type": "application",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is a key concept in art history?",
+      "answer": "A key concept in art history is important theories in art_history",
+      "type": "concept",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is the purpose of art history?",
+      "answer": "The purpose of art history is to important theories in art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is a key concept in art history?",
+      "answer": "A key concept in art history is important theories in art_history",
+      "type": "concept",
+      "topic": "art_history"
+    },
+    {
+      "question": "Why is art history important?",
+      "answer": "art history is important because the fundamental principles of art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    },
+    {
+      "question": "Why is art history important?",
+      "answer": "art history is important because research methods in art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is art history?",
+      "answer": "art history is the study of research methods in art_history",
+      "type": "definition",
+      "topic": "art_history"
+    },
+    {
+      "question": "What is the purpose of art history?",
+      "answer": "The purpose of art history is to interdisciplinary connections to art_history",
+      "type": "explanation",
+      "topic": "art_history"
+    }
+  ],
+  "example_count": 50,
+  "qa_count": 30
+}
