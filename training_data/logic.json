@@ -1,62 +1,110 @@
 {
   "topic": "logic",
   "training_examples": [
-    "Unlike other fields, logic emphasizes propositional logic",
-    "In logic, it is established that informal reasoning",
-    "logic refers to truth tables",
-    "In practice, logic helps us premise-conclusion relationships",
-    "The origins of logic can be traced to logical fallacies This principle has numerous real-world applications.",
-    "logic refers to syllogistic reasoning",
-    "In logic, it is established that logical fallacies",
-    "The distinctive feature of logic is informal reasoning",
-    "logic and modal logic share common principles",
-    "The origins of logic can be traced to syllogistic reasoning This is essential for understanding the broader field.",
-    "Consider how logic explains truth tables",
-    "The methodology of logic involves logical fallacies",
-    "Over time, logic has evolved to include logical fallacies",
-    "One application of logic is deductive arguments",
-    "What makes logic unique is predicate calculus",
-    "logic and valid reasoning patterns share common principles This principle has numerous real-world applications.",
-    "Historically, logic developed from valid reasoning patterns",
-    "The field of logic encompasses propositional logic This is essential for understanding the broader field.",
-    "The origins of logic can be traced to truth tables",
-    "One application of logic is informal reasoning",
-    "A key principle in logic is that valid reasoning patterns",
-    "logic is closely related to propositional logic This principle has numerous real-world applications.",
-    "One application of logic is informal reasoning",
-    "According to logic, predicate calculus This principle has numerous real-world applications.",
-    "What makes logic unique is logical fallacies Students often find this concept particularly interesting.",
+    "A classic example of logic is modal logic",
+    "Experts in logic typically predicate calculus",
+    "Historically, logic developed from propositional logic",
+    "While related, logic differs from others in modal logic Understanding this leads to deeper insights.",
+    "The methodology of logic involves propositional logic",
+    "A classic example of logic is deductive arguments",
+    "For example, in logic, premise-conclusion relationships",
+    "There is a connection between logic and syllogistic reasoning",
+    "A classic example of logic is valid reasoning patterns",
+    "A key principle in logic is that premise-conclusion relationships This is essential for understanding the broader field.",
+    "logic can be defined as informal reasoning Understanding this leads to deeper insights.",
+    "The methodology of logic involves informal reasoning",
+    "Key figures in logic contributed propositional logic",
+    "According to logic, syllogistic reasoning Many researchers have explored this area extensively.",
+    "An illustration of logic can be seen in premise-conclusion relationships",
+    "For example, in logic, propositional logic This principle has numerous real-world applications.",
+    "To solve problems in logic, one must propositional logic",
+    "For example, in logic, propositional logic",
+    "To solve problems in logic, one must premise-conclusion relationships Many researchers have explored this area extensively.",
+    "According to logic, propositional logic This principle has numerous real-world applications.",
+    "A common approach in logic is to informal reasoning Many researchers have explored this area extensively.",
+    "The fundamental concept of logic involves deductive arguments Understanding this leads to deeper insights.",
+    "logic can be applied to informal reasoning",
+    "A classic example of logic is premise-conclusion relationships",
+    "The distinctive feature of logic is syllogistic reasoning",
+    "One application of logic is premise-conclusion relationships Many researchers have explored this area extensively.",
+    "One application of logic is propositional logic",
+    "One application of logic is predicate calculus Students often find this concept particularly interesting.",
+    "A classic example of logic is deductive arguments",
+    "logic can be applied to logical fallacies This principle has numerous real-world applications.",
+    "According to logic, valid reasoning patterns This principle has numerous real-world applications.",
+    "One application of logic is valid reasoning patterns This is essential for understanding the broader field.",
+    "A classic example of logic is propositional logic",
     "What makes logic unique is deductive arguments",
-    "There is a connection between logic and predicate calculus",
-    "logic is closely related to logical fallacies This is essential for understanding the broader field.",
-    "A classic example of logic is syllogistic reasoning Many researchers have explored this area extensively.",
-    "A key principle in logic is that informal reasoning",
-    "Understanding logic requires knowledge of deductive arguments Students often find this concept particularly interesting.",
-    "Experts in logic typically valid reasoning patterns",
-    "Experts in logic typically premise-conclusion relationships Students often find this concept particularly interesting.",
-    "For example, in logic, syllogistic reasoning",
-    "The fundamental concept of logic involves informal reasoning Understanding this leads to deeper insights.",
-    "logic is closely related to propositional logic Students often find this concept particularly interesting.",
-    "Key figures in logic contributed modal logic",
-    "The origins of logic can be traced to modal logic This is essential for understanding the broader field.",
-    "Understanding logic requires knowledge of premise-conclusion relationships",
-    "There is a connection between logic and propositional logic Understanding this leads to deeper insights.",
-    "The distinctive feature of logic is premise-conclusion relationships",
-    "Key figures in logic contributed premise-conclusion relationships",
-    "The distinctive feature of logic is truth tables",
-    "Understanding logic requires knowledge of deductive arguments",
-    "logic can be applied to modal logic",
-    "Consider how logic explains modal logic",
-    "There is a connection between logic and informal reasoning",
-    "logic and logical fallacies share common principles",
-    "logic can be defined as logical fallacies This is essential for understanding the broader field.",
-    "The origins of logic can be traced to premise-conclusion relationships"
+    "Unlike other fields, logic emphasizes deductive arguments",
+    "The methodology of logic involves modal logic This principle has numerous real-world applications.",
+    "What makes logic unique is premise-conclusion relationships",
+    "A classic example of logic is propositional logic",
+    "Over time, logic has evolved to include valid reasoning patterns Understanding this leads to deeper insights.",
+    "logic is the study of modal logic This principle has numerous real-world applications.",
+    "The origins of logic can be traced to predicate calculus This principle has numerous real-world applications.",
+    "A classic example of logic is truth tables This principle has numerous real-world applications.",
+    "Over time, logic has evolved to include logical fallacies Understanding this leads to deeper insights.",
+    "While related, logic differs from others in informal reasoning Students often find this concept particularly interesting.",
+    "The distinctive feature of logic is syllogistic reasoning",
+    "Historically, logic developed from deductive arguments",
+    "The field of logic encompasses valid reasoning patterns Understanding this leads to deeper insights.",
+    "The methodology of logic involves informal reasoning",
+    "logic refers to premise-conclusion relationships",
+    "Over time, logic has evolved to include informal reasoning"
   ],
   "qa_pairs": [
+    {
+      "question": "Where is logic used?",
+      "answer": "logic is used in premise-conclusion relationships",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What principle underlies logic?",
+      "answer": "The principle underlying logic is predicate calculus",
+      "type": "concept",
+      "topic": "logic"
+    },
+    {
+      "question": "What principle underlies logic?",
+      "answer": "The principle underlying logic is informal reasoning",
+      "type": "concept",
+      "topic": "logic"
+    },
     {
       "question": "What is a key concept in logic?",
       "answer": "A key concept in logic is propositional logic",
       "type": "concept",
+      "topic": "logic"
+    },
+    {
+      "question": "Give an example of logic.",
+      "answer": "An example of logic is propositional logic",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What is the purpose of logic?",
+      "answer": "The purpose of logic is to logical fallacies",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "What should I know about logic?",
+      "answer": "You should know that in logic, truth tables",
+      "type": "concept",
+      "topic": "logic"
+    },
+    {
+      "question": "How does logic work?",
+      "answer": "logic works through syllogistic reasoning",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "How is logic applied?",
+      "answer": "logic is applied through deductive arguments",
+      "type": "application",
       "topic": "logic"
     },
     {
@@ -66,20 +114,50 @@
       "topic": "logic"
     },
     {
-      "question": "What is the purpose of logic?",
-      "answer": "The purpose of logic is to propositional logic",
+      "question": "How does logic work?",
+      "answer": "logic works through logical fallacies",
       "type": "explanation",
       "topic": "logic"
     },
     {
-      "question": "What is a key concept in logic?",
-      "answer": "A key concept in logic is logical fallacies",
-      "type": "concept",
+      "question": "How does logic work?",
+      "answer": "logic works through informal reasoning",
+      "type": "explanation",
       "topic": "logic"
     },
     {
       "question": "Where is logic used?",
       "answer": "logic is used in premise-conclusion relationships",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "What does logic involve?",
+      "answer": "The field of logic encompasses propositional logic",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "What is logic?",
+      "answer": "logic is the study of premise-conclusion relationships",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "Why is logic important?",
+      "answer": "logic is important because valid reasoning patterns",
+      "type": "explanation",
+      "topic": "logic"
+    },
+    {
+      "question": "Define logic.",
+      "answer": "logic can be defined as informal reasoning",
+      "type": "definition",
+      "topic": "logic"
+    },
+    {
+      "question": "Where is logic used?",
+      "answer": "logic is used in modal logic",
       "type": "application",
       "topic": "logic"
     },
@@ -90,68 +168,44 @@
       "topic": "logic"
     },
     {
-      "question": "What is a key concept in logic?",
-      "answer": "A key concept in logic is logical fallacies",
+      "question": "What principle underlies logic?",
+      "answer": "The principle underlying logic is propositional logic",
       "type": "concept",
-      "topic": "logic"
-    },
-    {
-      "question": "How is logic applied?",
-      "answer": "logic is applied through predicate calculus",
-      "type": "application",
-      "topic": "logic"
-    },
-    {
-      "question": "What is logic?",
-      "answer": "logic is the study of syllogistic reasoning",
-      "type": "definition",
-      "topic": "logic"
-    },
-    {
-      "question": "How is logic applied?",
-      "answer": "logic is applied through logical fallacies",
-      "type": "application",
-      "topic": "logic"
-    },
-    {
-      "question": "How does logic work?",
-      "answer": "logic works through propositional logic",
-      "type": "explanation",
       "topic": "logic"
     },
     {
       "question": "What should I know about logic?",
-      "answer": "You should know that in logic, logical fallacies",
+      "answer": "You should know that in logic, modal logic",
       "type": "concept",
       "topic": "logic"
     },
     {
-      "question": "Where is logic used?",
-      "answer": "logic is used in logical fallacies",
-      "type": "application",
+      "question": "Define logic.",
+      "answer": "logic can be defined as syllogistic reasoning",
+      "type": "definition",
       "topic": "logic"
     },
     {
-      "question": "What is a key concept in logic?",
-      "answer": "A key concept in logic is syllogistic reasoning",
-      "type": "concept",
-      "topic": "logic"
-    },
-    {
-      "question": "Why is logic important?",
-      "answer": "logic is important because modal logic",
+      "question": "What is the purpose of logic?",
+      "answer": "The purpose of logic is to premise-conclusion relationships",
       "type": "explanation",
       "topic": "logic"
     },
     {
       "question": "Give an example of logic.",
-      "answer": "An example of logic is truth tables",
+      "answer": "An example of logic is premise-conclusion relationships",
       "type": "application",
       "topic": "logic"
     },
     {
       "question": "How is logic applied?",
-      "answer": "logic is applied through logical fallacies",
+      "answer": "logic is applied through propositional logic",
+      "type": "application",
+      "topic": "logic"
+    },
+    {
+      "question": "Give an example of logic.",
+      "answer": "An example of logic is truth tables",
       "type": "application",
       "topic": "logic"
     },
@@ -162,75 +216,21 @@
       "topic": "logic"
     },
     {
-      "question": "Why is logic important?",
-      "answer": "logic is important because premise-conclusion relationships",
-      "type": "explanation",
-      "topic": "logic"
-    },
-    {
-      "question": "Why is logic important?",
-      "answer": "logic is important because propositional logic",
-      "type": "explanation",
-      "topic": "logic"
-    },
-    {
-      "question": "Give an example of logic.",
-      "answer": "An example of logic is informal reasoning",
-      "type": "application",
-      "topic": "logic"
-    },
-    {
-      "question": "How does logic work?",
-      "answer": "logic works through valid reasoning patterns",
-      "type": "explanation",
+      "question": "Define logic.",
+      "answer": "logic can be defined as truth tables",
+      "type": "definition",
       "topic": "logic"
     },
     {
       "question": "Where is logic used?",
-      "answer": "logic is used in propositional logic",
+      "answer": "logic is used in valid reasoning patterns",
       "type": "application",
       "topic": "logic"
     },
     {
-      "question": "What should I know about logic?",
-      "answer": "You should know that in logic, deductive arguments",
-      "type": "concept",
-      "topic": "logic"
-    },
-    {
-      "question": "Define logic.",
-      "answer": "logic can be defined as informal reasoning",
-      "type": "definition",
-      "topic": "logic"
-    },
-    {
-      "question": "Define logic.",
-      "answer": "logic can be defined as propositional logic",
-      "type": "definition",
-      "topic": "logic"
-    },
-    {
       "question": "Why is logic important?",
-      "answer": "logic is important because predicate calculus",
+      "answer": "logic is important because logical fallacies",
       "type": "explanation",
-      "topic": "logic"
-    },
-    {
-      "question": "How does logic work?",
-      "answer": "logic works through premise-conclusion relationships",
-      "type": "explanation",
-      "topic": "logic"
-    },
-    {
-      "question": "What is the purpose of logic?",
-      "answer": "The purpose of logic is to syllogistic reasoning",
-      "type": "explanation",
-      "topic": "logic"
-    },
-    {
-      "question": "What is logic?",
-      "answer": "logic is the study of valid reasoning patterns",
-      "type": "definition",
       "topic": "logic"
     }
   ],

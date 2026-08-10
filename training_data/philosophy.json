@@ -1,62 +1,62 @@
 {
   "topic": "philosophy",
   "training_examples": [
-    "One application of philosophy is phenomenological experience",
-    "Consider how philosophy explains nature of knowledge Understanding this leads to deeper insights.",
+    "While related, philosophy differs from others in ethical frameworks",
+    "The distinctive feature of philosophy is ethical frameworks",
+    "Using philosophy, we can questions about existence Students often find this concept particularly interesting.",
+    "The methodology of philosophy involves phenomenological experience Students often find this concept particularly interesting.",
+    "While related, philosophy differs from others in metaphysical concepts",
+    "philosophy can be defined as phenomenological experience",
     "Over time, philosophy has evolved to include metaphysical concepts",
-    "According to philosophy, aesthetics and beauty",
-    "philosophy can be defined as epistemological inquiry",
-    "Using philosophy, we can free will and determinism Many researchers have explored this area extensively.",
-    "What makes philosophy unique is phenomenological experience Many researchers have explored this area extensively.",
-    "Using philosophy, we can consciousness and mind",
-    "philosophy can be applied to free will and determinism",
-    "The methodology of philosophy involves consciousness and mind Students often find this concept particularly interesting.",
-    "Key figures in philosophy contributed consciousness and mind",
-    "Experts in philosophy typically consciousness and mind",
-    "Historically, philosophy developed from epistemological inquiry",
-    "The distinctive feature of philosophy is nature of knowledge This is essential for understanding the broader field.",
-    "Unlike other fields, philosophy emphasizes metaphysical concepts",
-    "Key figures in philosophy contributed aesthetics and beauty",
-    "An illustration of philosophy can be seen in metaphysical concepts",
-    "Consider how philosophy explains free will and determinism",
-    "philosophy can be defined as consciousness and mind",
-    "In philosophy, it is established that ethical frameworks",
-    "In practice, philosophy helps us consciousness and mind",
-    "For example, in philosophy, metaphysical concepts",
+    "philosophy can be applied to metaphysical concepts",
+    "philosophy and metaphysical concepts share common principles Many researchers have explored this area extensively.",
+    "The fundamental concept of philosophy involves nature of knowledge Many researchers have explored this area extensively.",
+    "Using philosophy, we can ethical frameworks Understanding this leads to deeper insights.",
+    "Historically, philosophy developed from free will and determinism",
+    "philosophy refers to consciousness and mind",
+    "The methodology of philosophy involves aesthetics and beauty Many researchers have explored this area extensively.",
+    "A common approach in philosophy is to free will and determinism",
+    "The origins of philosophy can be traced to nature of knowledge",
+    "One application of philosophy is free will and determinism",
+    "While related, philosophy differs from others in ethical frameworks",
+    "For example, in philosophy, phenomenological experience",
+    "philosophy and metaphysical concepts share common principles",
+    "While related, philosophy differs from others in phenomenological experience",
+    "philosophy is the study of free will and determinism Students often find this concept particularly interesting.",
+    "An illustration of philosophy can be seen in phenomenological experience",
     "The methodology of philosophy involves political philosophy",
-    "The distinctive feature of philosophy is phenomenological experience",
-    "The distinctive feature of philosophy is epistemological inquiry",
-    "To solve problems in philosophy, one must epistemological inquiry",
-    "philosophy can be defined as free will and determinism This principle has numerous real-world applications.",
-    "Key figures in philosophy contributed questions about existence Understanding this leads to deeper insights.",
-    "Historically, philosophy developed from phenomenological experience",
-    "The distinctive feature of philosophy is phenomenological experience",
-    "For example, in philosophy, aesthetics and beauty",
-    "Key figures in philosophy contributed consciousness and mind Many researchers have explored this area extensively.",
-    "According to philosophy, questions about existence This principle has numerous real-world applications.",
-    "For example, in philosophy, political philosophy",
-    "The fundamental concept of philosophy involves epistemological inquiry Many researchers have explored this area extensively.",
-    "philosophy is the study of metaphysical concepts",
-    "The distinctive feature of philosophy is ethical frameworks Students often find this concept particularly interesting.",
-    "The field of philosophy encompasses questions about existence",
-    "Unlike other fields, philosophy emphasizes ethical frameworks",
-    "Over time, philosophy has evolved to include nature of knowledge",
-    "philosophy can be applied to aesthetics and beauty Understanding this leads to deeper insights.",
-    "Using philosophy, we can ethical frameworks Many researchers have explored this area extensively.",
-    "Using philosophy, we can consciousness and mind This is essential for understanding the broader field.",
-    "The origins of philosophy can be traced to aesthetics and beauty",
-    "What makes philosophy unique is consciousness and mind Students often find this concept particularly interesting.",
-    "In practice, philosophy helps us ethical frameworks This principle has numerous real-world applications.",
-    "According to philosophy, aesthetics and beauty",
+    "A common approach in philosophy is to ethical frameworks",
+    "While related, philosophy differs from others in political philosophy",
+    "Experts in philosophy typically epistemological inquiry This principle has numerous real-world applications.",
+    "The field of philosophy encompasses phenomenological experience",
+    "philosophy can be defined as ethical frameworks This principle has numerous real-world applications.",
     "Over time, philosophy has evolved to include questions about existence",
-    "According to philosophy, nature of knowledge",
-    "One application of philosophy is political philosophy Many researchers have explored this area extensively."
+    "To solve problems in philosophy, one must metaphysical concepts",
+    "One application of philosophy is nature of knowledge",
+    "Understanding philosophy requires knowledge of nature of knowledge",
+    "The distinctive feature of philosophy is political philosophy",
+    "One application of philosophy is metaphysical concepts",
+    "For example, in philosophy, epistemological inquiry This principle has numerous real-world applications.",
+    "The fundamental concept of philosophy involves aesthetics and beauty",
+    "An illustration of philosophy can be seen in questions about existence Many researchers have explored this area extensively.",
+    "What makes philosophy unique is epistemological inquiry",
+    "Key figures in philosophy contributed political philosophy",
+    "philosophy is closely related to phenomenological experience Understanding this leads to deeper insights.",
+    "philosophy and political philosophy share common principles",
+    "philosophy can be defined as aesthetics and beauty",
+    "Historically, philosophy developed from free will and determinism",
+    "philosophy and political philosophy share common principles This is essential for understanding the broader field.",
+    "philosophy can be defined as epistemological inquiry",
+    "The origins of philosophy can be traced to free will and determinism",
+    "To solve problems in philosophy, one must aesthetics and beauty",
+    "In practice, philosophy helps us free will and determinism",
+    "According to philosophy, phenomenological experience This is essential for understanding the broader field."
   ],
   "qa_pairs": [
     {
-      "question": "Why is philosophy important?",
-      "answer": "philosophy is important because phenomenological experience",
-      "type": "explanation",
+      "question": "What is a key concept in philosophy?",
+      "answer": "A key concept in philosophy is ethical frameworks",
+      "type": "concept",
       "topic": "philosophy"
     },
     {
@@ -66,87 +66,27 @@
       "topic": "philosophy"
     },
     {
-      "question": "How is philosophy applied?",
-      "answer": "philosophy is applied through ethical frameworks",
-      "type": "application",
-      "topic": "philosophy"
-    },
-    {
-      "question": "What principle underlies philosophy?",
-      "answer": "The principle underlying philosophy is metaphysical concepts",
+      "question": "What should I know about philosophy?",
+      "answer": "You should know that in philosophy, metaphysical concepts",
       "type": "concept",
       "topic": "philosophy"
     },
     {
-      "question": "What principle underlies philosophy?",
-      "answer": "The principle underlying philosophy is nature of knowledge",
-      "type": "concept",
+      "question": "What is the purpose of philosophy?",
+      "answer": "The purpose of philosophy is to epistemological inquiry",
+      "type": "explanation",
       "topic": "philosophy"
     },
     {
-      "question": "What principle underlies philosophy?",
-      "answer": "The principle underlying philosophy is aesthetics and beauty",
-      "type": "concept",
-      "topic": "philosophy"
-    },
-    {
-      "question": "What is a key concept in philosophy?",
-      "answer": "A key concept in philosophy is metaphysical concepts",
-      "type": "concept",
-      "topic": "philosophy"
-    },
-    {
-      "question": "How is philosophy applied?",
-      "answer": "philosophy is applied through political philosophy",
-      "type": "application",
-      "topic": "philosophy"
-    },
-    {
-      "question": "How is philosophy applied?",
-      "answer": "philosophy is applied through phenomenological experience",
-      "type": "application",
-      "topic": "philosophy"
-    },
-    {
-      "question": "How does philosophy work?",
-      "answer": "philosophy works through aesthetics and beauty",
+      "question": "What is the purpose of philosophy?",
+      "answer": "The purpose of philosophy is to metaphysical concepts",
       "type": "explanation",
       "topic": "philosophy"
     },
     {
       "question": "What is philosophy?",
-      "answer": "philosophy is the study of ethical frameworks",
+      "answer": "philosophy is the study of phenomenological experience",
       "type": "definition",
-      "topic": "philosophy"
-    },
-    {
-      "question": "What should I know about philosophy?",
-      "answer": "You should know that in philosophy, consciousness and mind",
-      "type": "concept",
-      "topic": "philosophy"
-    },
-    {
-      "question": "Why is philosophy important?",
-      "answer": "philosophy is important because free will and determinism",
-      "type": "explanation",
-      "topic": "philosophy"
-    },
-    {
-      "question": "How is philosophy applied?",
-      "answer": "philosophy is applied through consciousness and mind",
-      "type": "application",
-      "topic": "philosophy"
-    },
-    {
-      "question": "Define philosophy.",
-      "answer": "philosophy can be defined as metaphysical concepts",
-      "type": "definition",
-      "topic": "philosophy"
-    },
-    {
-      "question": "What is a key concept in philosophy?",
-      "answer": "A key concept in philosophy is political philosophy",
-      "type": "concept",
       "topic": "philosophy"
     },
     {
@@ -156,38 +96,26 @@
       "topic": "philosophy"
     },
     {
-      "question": "Define philosophy.",
-      "answer": "philosophy can be defined as questions about existence",
-      "type": "definition",
-      "topic": "philosophy"
-    },
-    {
       "question": "Where is philosophy used?",
-      "answer": "philosophy is used in political philosophy",
+      "answer": "philosophy is used in aesthetics and beauty",
       "type": "application",
       "topic": "philosophy"
     },
     {
-      "question": "What should I know about philosophy?",
-      "answer": "You should know that in philosophy, nature of knowledge",
+      "question": "What is a key concept in philosophy?",
+      "answer": "A key concept in philosophy is metaphysical concepts",
       "type": "concept",
       "topic": "philosophy"
     },
     {
-      "question": "What does philosophy involve?",
-      "answer": "The field of philosophy encompasses nature of knowledge",
+      "question": "Define philosophy.",
+      "answer": "philosophy can be defined as phenomenological experience",
       "type": "definition",
       "topic": "philosophy"
     },
     {
-      "question": "What should I know about philosophy?",
-      "answer": "You should know that in philosophy, nature of knowledge",
-      "type": "concept",
-      "topic": "philosophy"
-    },
-    {
       "question": "What principle underlies philosophy?",
-      "answer": "The principle underlying philosophy is phenomenological experience",
+      "answer": "The principle underlying philosophy is free will and determinism",
       "type": "concept",
       "topic": "philosophy"
     },
@@ -198,14 +126,56 @@
       "topic": "philosophy"
     },
     {
+      "question": "What is the purpose of philosophy?",
+      "answer": "The purpose of philosophy is to epistemological inquiry",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "What does philosophy involve?",
+      "answer": "The field of philosophy encompasses metaphysical concepts",
+      "type": "definition",
+      "topic": "philosophy"
+    },
+    {
       "question": "How does philosophy work?",
       "answer": "philosophy works through metaphysical concepts",
       "type": "explanation",
       "topic": "philosophy"
     },
     {
+      "question": "What is the purpose of philosophy?",
+      "answer": "The purpose of philosophy is to ethical frameworks",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "Define philosophy.",
+      "answer": "philosophy can be defined as nature of knowledge",
+      "type": "definition",
+      "topic": "philosophy"
+    },
+    {
+      "question": "What does philosophy involve?",
+      "answer": "The field of philosophy encompasses consciousness and mind",
+      "type": "definition",
+      "topic": "philosophy"
+    },
+    {
+      "question": "What is the purpose of philosophy?",
+      "answer": "The purpose of philosophy is to metaphysical concepts",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "Why is philosophy important?",
+      "answer": "philosophy is important because political philosophy",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
       "question": "What should I know about philosophy?",
-      "answer": "You should know that in philosophy, aesthetics and beauty",
+      "answer": "You should know that in philosophy, nature of knowledge",
       "type": "concept",
       "topic": "philosophy"
     },
@@ -216,20 +186,50 @@
       "topic": "philosophy"
     },
     {
-      "question": "What is a key concept in philosophy?",
-      "answer": "A key concept in philosophy is nature of knowledge",
-      "type": "concept",
-      "topic": "philosophy"
-    },
-    {
       "question": "Why is philosophy important?",
-      "answer": "philosophy is important because metaphysical concepts",
+      "answer": "philosophy is important because phenomenological experience",
       "type": "explanation",
       "topic": "philosophy"
     },
     {
       "question": "What is the purpose of philosophy?",
-      "answer": "The purpose of philosophy is to aesthetics and beauty",
+      "answer": "The purpose of philosophy is to free will and determinism",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "How does philosophy work?",
+      "answer": "philosophy works through consciousness and mind",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "What is the purpose of philosophy?",
+      "answer": "The purpose of philosophy is to free will and determinism",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "Where is philosophy used?",
+      "answer": "philosophy is used in free will and determinism",
+      "type": "application",
+      "topic": "philosophy"
+    },
+    {
+      "question": "Give an example of philosophy.",
+      "answer": "An example of philosophy is phenomenological experience",
+      "type": "application",
+      "topic": "philosophy"
+    },
+    {
+      "question": "Why is philosophy important?",
+      "answer": "philosophy is important because ethical frameworks",
+      "type": "explanation",
+      "topic": "philosophy"
+    },
+    {
+      "question": "How does philosophy work?",
+      "answer": "philosophy works through metaphysical concepts",
       "type": "explanation",
       "topic": "philosophy"
     }

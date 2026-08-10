@@ -1,91 +1,193 @@
 {
   "topic": "microeconomics",
   "training_examples": [
-    "microeconomics is closely related to important theories in microeconomics",
-    "One application of microeconomics is interdisciplinary connections to microeconomics This is essential for understanding the broader field.",
-    "An illustration of microeconomics can be seen in emerging trends in microeconomics This is essential for understanding the broader field.",
-    "microeconomics can be defined as emerging trends in microeconomics",
-    "Key figures in microeconomics contributed key concepts in microeconomics",
-    "In microeconomics, it is established that emerging trends in microeconomics",
-    "A classic example of microeconomics is critical analysis of microeconomics",
-    "The field of microeconomics encompasses important theories in microeconomics This is essential for understanding the broader field.",
-    "Key figures in microeconomics contributed important theories in microeconomics",
-    "A classic example of microeconomics is modern understanding of microeconomics Many researchers have explored this area extensively.",
-    "Over time, microeconomics has evolved to include historical development of microeconomics",
-    "microeconomics can be applied to critical analysis of microeconomics Understanding this leads to deeper insights.",
-    "Consider how microeconomics explains interdisciplinary connections to microeconomics",
-    "The field of microeconomics encompasses modern understanding of microeconomics",
-    "While related, microeconomics differs from others in critical analysis of microeconomics This is essential for understanding the broader field.",
-    "microeconomics is the study of research methods in microeconomics Students often find this concept particularly interesting.",
-    "Key figures in microeconomics contributed modern understanding of microeconomics Students often find this concept particularly interesting.",
-    "A common approach in microeconomics is to key concepts in microeconomics Students often find this concept particularly interesting.",
-    "In microeconomics, it is established that practical applications of microeconomics This principle has numerous real-world applications.",
-    "In microeconomics, it is established that practical applications of microeconomics",
-    "The fundamental concept of microeconomics involves modern understanding of microeconomics",
-    "In practice, microeconomics helps us modern understanding of microeconomics Understanding this leads to deeper insights.",
-    "The origins of microeconomics can be traced to key concepts in microeconomics This is essential for understanding the broader field.",
-    "In microeconomics, it is established that the fundamental principles of microeconomics",
-    "microeconomics refers to key concepts in microeconomics",
-    "The distinctive feature of microeconomics is research methods in microeconomics",
-    "While related, microeconomics differs from others in interdisciplinary connections to microeconomics",
-    "Consider how microeconomics explains critical analysis of microeconomics This is essential for understanding the broader field.",
-    "The field of microeconomics encompasses interdisciplinary connections to microeconomics This principle has numerous real-world applications.",
-    "To solve problems in microeconomics, one must key concepts in microeconomics Many researchers have explored this area extensively.",
-    "A classic example of microeconomics is the fundamental principles of microeconomics",
-    "Consider how microeconomics explains important theories in microeconomics",
-    "For example, in microeconomics, practical applications of microeconomics Students often find this concept particularly interesting.",
-    "A key principle in microeconomics is that historical development of microeconomics Understanding this leads to deeper insights.",
-    "Using microeconomics, we can interdisciplinary connections to microeconomics",
-    "A key principle in microeconomics is that emerging trends in microeconomics",
-    "A classic example of microeconomics is emerging trends in microeconomics Students often find this concept particularly interesting.",
-    "A key principle in microeconomics is that emerging trends in microeconomics",
-    "While related, microeconomics differs from others in interdisciplinary connections to microeconomics",
-    "microeconomics can be applied to historical development of microeconomics",
-    "Experts in microeconomics typically the fundamental principles of microeconomics This principle has numerous real-world applications.",
-    "microeconomics can be defined as research methods in microeconomics Understanding this leads to deeper insights.",
-    "Experts in microeconomics typically research methods in microeconomics",
-    "In microeconomics, it is established that emerging trends in microeconomics",
-    "The fundamental concept of microeconomics involves practical applications of microeconomics",
-    "Experts in microeconomics typically practical applications of microeconomics",
-    "Understanding microeconomics requires knowledge of modern understanding of microeconomics",
-    "In practice, microeconomics helps us practical applications of microeconomics Understanding this leads to deeper insights.",
-    "There is a connection between microeconomics and critical analysis of microeconomics",
-    "There is a connection between microeconomics and interdisciplinary connections to microeconomics This principle has numerous real-world applications."
+    "In practice, microeconomics helps us modern understanding of microeconomics",
+    "microeconomics refers to practical applications of microeconomics",
+    "One application of microeconomics is the fundamental principles of microeconomics",
+    "According to microeconomics, emerging trends in microeconomics",
+    "microeconomics is the study of important theories in microeconomics",
+    "Consider how microeconomics explains key concepts in microeconomics",
+    "What makes microeconomics unique is the fundamental principles of microeconomics",
+    "Experts in microeconomics typically interdisciplinary connections to microeconomics",
+    "An illustration of microeconomics can be seen in modern understanding of microeconomics",
+    "In practice, microeconomics helps us research methods in microeconomics",
+    "microeconomics refers to modern understanding of microeconomics",
+    "microeconomics is the study of important theories in microeconomics",
+    "microeconomics is closely related to historical development of microeconomics This principle has numerous real-world applications.",
+    "One application of microeconomics is the fundamental principles of microeconomics",
+    "In practice, microeconomics helps us key concepts in microeconomics",
+    "Unlike other fields, microeconomics emphasizes historical development of microeconomics",
+    "There is a connection between microeconomics and modern understanding of microeconomics",
+    "What makes microeconomics unique is important theories in microeconomics",
+    "Experts in microeconomics typically interdisciplinary connections to microeconomics",
+    "Key figures in microeconomics contributed interdisciplinary connections to microeconomics",
+    "Experts in microeconomics typically critical analysis of microeconomics",
+    "microeconomics refers to practical applications of microeconomics",
+    "The distinctive feature of microeconomics is research methods in microeconomics Understanding this leads to deeper insights.",
+    "The methodology of microeconomics involves interdisciplinary connections to microeconomics",
+    "What makes microeconomics unique is key concepts in microeconomics Students often find this concept particularly interesting.",
+    "microeconomics is closely related to critical analysis of microeconomics",
+    "Unlike other fields, microeconomics emphasizes the fundamental principles of microeconomics",
+    "In microeconomics, it is established that interdisciplinary connections to microeconomics",
+    "microeconomics is closely related to historical development of microeconomics",
+    "To solve problems in microeconomics, one must research methods in microeconomics This is essential for understanding the broader field.",
+    "The methodology of microeconomics involves interdisciplinary connections to microeconomics Understanding this leads to deeper insights.",
+    "Over time, microeconomics has evolved to include the fundamental principles of microeconomics",
+    "Over time, microeconomics has evolved to include important theories in microeconomics This is essential for understanding the broader field.",
+    "The field of microeconomics encompasses emerging trends in microeconomics",
+    "To solve problems in microeconomics, one must important theories in microeconomics",
+    "In practice, microeconomics helps us the fundamental principles of microeconomics",
+    "microeconomics can be applied to critical analysis of microeconomics This is essential for understanding the broader field.",
+    "In microeconomics, it is established that research methods in microeconomics",
+    "A key principle in microeconomics is that modern understanding of microeconomics Students often find this concept particularly interesting.",
+    "In practice, microeconomics helps us research methods in microeconomics This principle has numerous real-world applications.",
+    "In practice, microeconomics helps us practical applications of microeconomics",
+    "An illustration of microeconomics can be seen in historical development of microeconomics",
+    "microeconomics is closely related to historical development of microeconomics",
+    "To solve problems in microeconomics, one must research methods in microeconomics This principle has numerous real-world applications.",
+    "microeconomics refers to critical analysis of microeconomics",
+    "microeconomics is closely related to critical analysis of microeconomics This is essential for understanding the broader field.",
+    "One application of microeconomics is the fundamental principles of microeconomics",
+    "Understanding microeconomics requires knowledge of important theories in microeconomics This principle has numerous real-world applications.",
+    "A common approach in microeconomics is to critical analysis of microeconomics",
+    "One application of microeconomics is important theories in microeconomics This principle has numerous real-world applications."
   ],
   "qa_pairs": [
     {
-      "question": "What is the purpose of microeconomics?",
-      "answer": "The purpose of microeconomics is to key concepts in microeconomics",
-      "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What is the purpose of microeconomics?",
-      "answer": "The purpose of microeconomics is to emerging trends in microeconomics",
+      "question": "How does microeconomics work?",
+      "answer": "microeconomics works through modern understanding of microeconomics",
       "type": "explanation",
       "topic": "microeconomics"
     },
     {
       "question": "Why is microeconomics important?",
-      "answer": "microeconomics is important because interdisciplinary connections to microeconomics",
+      "answer": "microeconomics is important because important theories in microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What is the purpose of microeconomics?",
+      "answer": "The purpose of microeconomics is to important theories in microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "Why is microeconomics important?",
+      "answer": "microeconomics is important because modern understanding of microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What is a key concept in microeconomics?",
+      "answer": "A key concept in microeconomics is interdisciplinary connections to microeconomics",
+      "type": "concept",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What should I know about microeconomics?",
+      "answer": "You should know that in microeconomics, key concepts in microeconomics",
+      "type": "concept",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What does microeconomics involve?",
+      "answer": "The field of microeconomics encompasses key concepts in microeconomics",
+      "type": "definition",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What is the purpose of microeconomics?",
+      "answer": "The purpose of microeconomics is to historical development of microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "Where is microeconomics used?",
+      "answer": "microeconomics is used in key concepts in microeconomics",
+      "type": "application",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What principle underlies microeconomics?",
+      "answer": "The principle underlying microeconomics is the fundamental principles of microeconomics",
+      "type": "concept",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What principle underlies microeconomics?",
+      "answer": "The principle underlying microeconomics is critical analysis of microeconomics",
+      "type": "concept",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What is the purpose of microeconomics?",
+      "answer": "The purpose of microeconomics is to historical development of microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What principle underlies microeconomics?",
+      "answer": "The principle underlying microeconomics is modern understanding of microeconomics",
+      "type": "concept",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What should I know about microeconomics?",
+      "answer": "You should know that in microeconomics, interdisciplinary connections to microeconomics",
+      "type": "concept",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "How does microeconomics work?",
+      "answer": "microeconomics works through research methods in microeconomics",
       "type": "explanation",
       "topic": "microeconomics"
     },
     {
       "question": "What is microeconomics?",
-      "answer": "microeconomics is the study of key concepts in microeconomics",
+      "answer": "microeconomics is the study of modern understanding of microeconomics",
       "type": "definition",
       "topic": "microeconomics"
     },
     {
-      "question": "Where is microeconomics used?",
-      "answer": "microeconomics is used in critical analysis of microeconomics",
-      "type": "application",
+      "question": "What is a key concept in microeconomics?",
+      "answer": "A key concept in microeconomics is the fundamental principles of microeconomics",
+      "type": "concept",
       "topic": "microeconomics"
     },
     {
       "question": "What is microeconomics?",
-      "answer": "microeconomics is the study of key concepts in microeconomics",
+      "answer": "microeconomics is the study of critical analysis of microeconomics",
+      "type": "definition",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "How is microeconomics applied?",
+      "answer": "microeconomics is applied through key concepts in microeconomics",
+      "type": "application",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "Give an example of microeconomics.",
+      "answer": "An example of microeconomics is modern understanding of microeconomics",
+      "type": "application",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "Why is microeconomics important?",
+      "answer": "microeconomics is important because the fundamental principles of microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What is the purpose of microeconomics?",
+      "answer": "The purpose of microeconomics is to research methods in microeconomics",
+      "type": "explanation",
+      "topic": "microeconomics"
+    },
+    {
+      "question": "What does microeconomics involve?",
+      "answer": "The field of microeconomics encompasses modern understanding of microeconomics",
       "type": "definition",
       "topic": "microeconomics"
     },
@@ -96,141 +198,39 @@
       "topic": "microeconomics"
     },
     {
-      "question": "How does microeconomics work?",
-      "answer": "microeconomics works through modern understanding of microeconomics",
-      "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What does microeconomics involve?",
-      "answer": "The field of microeconomics encompasses emerging trends in microeconomics",
-      "type": "definition",
-      "topic": "microeconomics"
-    },
-    {
       "question": "What is microeconomics?",
-      "answer": "microeconomics is the study of emerging trends in microeconomics",
+      "answer": "microeconomics is the study of practical applications of microeconomics",
       "type": "definition",
       "topic": "microeconomics"
     },
     {
-      "question": "How is microeconomics applied?",
-      "answer": "microeconomics is applied through critical analysis of microeconomics",
-      "type": "application",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "Define microeconomics.",
-      "answer": "microeconomics can be defined as important theories in microeconomics",
-      "type": "definition",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "How does microeconomics work?",
-      "answer": "microeconomics works through the fundamental principles of microeconomics",
-      "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What principle underlies microeconomics?",
-      "answer": "The principle underlying microeconomics is important theories in microeconomics",
+      "question": "What is a key concept in microeconomics?",
+      "answer": "A key concept in microeconomics is modern understanding of microeconomics",
       "type": "concept",
       "topic": "microeconomics"
     },
     {
       "question": "Where is microeconomics used?",
-      "answer": "microeconomics is used in emerging trends in microeconomics",
-      "type": "application",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "Where is microeconomics used?",
-      "answer": "microeconomics is used in interdisciplinary connections to microeconomics",
+      "answer": "microeconomics is used in important theories in microeconomics",
       "type": "application",
       "topic": "microeconomics"
     },
     {
       "question": "What is the purpose of microeconomics?",
-      "answer": "The purpose of microeconomics is to modern understanding of microeconomics",
+      "answer": "The purpose of microeconomics is to research methods in microeconomics",
       "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What is microeconomics?",
-      "answer": "microeconomics is the study of important theories in microeconomics",
-      "type": "definition",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What principle underlies microeconomics?",
-      "answer": "The principle underlying microeconomics is historical development of microeconomics",
-      "type": "concept",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "Why is microeconomics important?",
-      "answer": "microeconomics is important because critical analysis of microeconomics",
-      "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What is the purpose of microeconomics?",
-      "answer": "The purpose of microeconomics is to emerging trends in microeconomics",
-      "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "Give an example of microeconomics.",
-      "answer": "An example of microeconomics is interdisciplinary connections to microeconomics",
-      "type": "application",
       "topic": "microeconomics"
     },
     {
       "question": "What should I know about microeconomics?",
-      "answer": "You should know that in microeconomics, the fundamental principles of microeconomics",
+      "answer": "You should know that in microeconomics, interdisciplinary connections to microeconomics",
       "type": "concept",
       "topic": "microeconomics"
     },
     {
-      "question": "Give an example of microeconomics.",
-      "answer": "An example of microeconomics is modern understanding of microeconomics",
-      "type": "application",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "How does microeconomics work?",
-      "answer": "microeconomics works through the fundamental principles of microeconomics",
-      "type": "explanation",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What is microeconomics?",
-      "answer": "microeconomics is the study of key concepts in microeconomics",
-      "type": "definition",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "How is microeconomics applied?",
-      "answer": "microeconomics is applied through research methods in microeconomics",
-      "type": "application",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "Where is microeconomics used?",
-      "answer": "microeconomics is used in critical analysis of microeconomics",
-      "type": "application",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "What principle underlies microeconomics?",
-      "answer": "The principle underlying microeconomics is research methods in microeconomics",
+      "question": "What should I know about microeconomics?",
+      "answer": "You should know that in microeconomics, emerging trends in microeconomics",
       "type": "concept",
-      "topic": "microeconomics"
-    },
-    {
-      "question": "How does microeconomics work?",
-      "answer": "microeconomics works through research methods in microeconomics",
-      "type": "explanation",
       "topic": "microeconomics"
     }
   ],

@@ -1,91 +1,145 @@
 {
   "topic": "linguistics",
   "training_examples": [
-    "There is a connection between linguistics and grammatical rules",
-    "The fundamental concept of linguistics involves grammatical rules",
-    "While related, linguistics differs from others in language acquisition This is essential for understanding the broader field.",
-    "A common approach in linguistics is to phonetic patterns This principle has numerous real-world applications.",
-    "linguistics and phonetic patterns share common principles",
-    "According to linguistics, dialectal variation",
-    "The fundamental concept of linguistics involves communication theory",
-    "Unlike other fields, linguistics emphasizes syntactic analysis Understanding this leads to deeper insights.",
-    "An illustration of linguistics can be seen in pragmatic usage Students often find this concept particularly interesting.",
-    "linguistics refers to semantic meaning",
-    "A classic example of linguistics is semantic meaning Many researchers have explored this area extensively.",
-    "A classic example of linguistics is communication theory Students often find this concept particularly interesting.",
-    "To solve problems in linguistics, one must language structures Many researchers have explored this area extensively.",
-    "The methodology of linguistics involves pragmatic usage",
-    "One application of linguistics is grammatical rules",
-    "Consider how linguistics explains communication theory",
-    "The distinctive feature of linguistics is etymological origins This principle has numerous real-world applications.",
-    "Key figures in linguistics contributed language acquisition",
-    "In practice, linguistics helps us phonetic patterns This is essential for understanding the broader field.",
-    "Historically, linguistics developed from etymological origins",
-    "The field of linguistics encompasses dialectal variation",
-    "A common approach in linguistics is to language structures",
-    "Understanding linguistics requires knowledge of pragmatic usage Many researchers have explored this area extensively.",
-    "The origins of linguistics can be traced to pragmatic usage This principle has numerous real-world applications.",
-    "The fundamental concept of linguistics involves syntactic analysis",
-    "The field of linguistics encompasses syntactic analysis Students often find this concept particularly interesting.",
-    "In linguistics, it is established that communication theory",
-    "The field of linguistics encompasses phonetic patterns",
-    "The methodology of linguistics involves dialectal variation",
-    "What makes linguistics unique is language structures",
-    "There is a connection between linguistics and semantic meaning",
-    "An illustration of linguistics can be seen in language acquisition",
-    "One application of linguistics is semantic meaning",
-    "What makes linguistics unique is communication theory Understanding this leads to deeper insights.",
-    "The origins of linguistics can be traced to phonetic patterns Understanding this leads to deeper insights.",
-    "Over time, linguistics has evolved to include dialectal variation",
     "Using linguistics, we can semantic meaning",
-    "Unlike other fields, linguistics emphasizes syntactic analysis Many researchers have explored this area extensively.",
-    "To solve problems in linguistics, one must dialectal variation Understanding this leads to deeper insights.",
-    "The methodology of linguistics involves semantic meaning",
-    "In practice, linguistics helps us pragmatic usage",
-    "The methodology of linguistics involves grammatical rules",
-    "Experts in linguistics typically grammatical rules",
-    "A common approach in linguistics is to communication theory",
-    "For example, in linguistics, grammatical rules",
-    "linguistics is closely related to syntactic analysis",
-    "What makes linguistics unique is semantic meaning",
-    "Understanding linguistics requires knowledge of pragmatic usage This principle has numerous real-world applications.",
-    "Unlike other fields, linguistics emphasizes etymological origins Many researchers have explored this area extensively.",
-    "While related, linguistics differs from others in phonetic patterns Students often find this concept particularly interesting."
+    "linguistics refers to communication theory",
+    "Experts in linguistics typically pragmatic usage",
+    "Using linguistics, we can syntactic analysis Many researchers have explored this area extensively.",
+    "linguistics is closely related to phonetic patterns This principle has numerous real-world applications.",
+    "Unlike other fields, linguistics emphasizes dialectal variation",
+    "linguistics is the study of language structures",
+    "A common approach in linguistics is to grammatical rules Students often find this concept particularly interesting.",
+    "The origins of linguistics can be traced to pragmatic usage Students often find this concept particularly interesting.",
+    "The field of linguistics encompasses grammatical rules",
+    "Historically, linguistics developed from language structures",
+    "Key figures in linguistics contributed semantic meaning",
+    "Consider how linguistics explains semantic meaning",
+    "Experts in linguistics typically language structures",
+    "Consider how linguistics explains semantic meaning",
+    "While related, linguistics differs from others in grammatical rules",
+    "linguistics is the study of semantic meaning",
+    "linguistics and pragmatic usage share common principles",
+    "A classic example of linguistics is etymological origins Understanding this leads to deeper insights.",
+    "Key figures in linguistics contributed language structures",
+    "linguistics can be defined as etymological origins",
+    "Consider how linguistics explains language structures",
+    "The field of linguistics encompasses dialectal variation",
+    "To solve problems in linguistics, one must language acquisition",
+    "According to linguistics, language structures Students often find this concept particularly interesting.",
+    "linguistics refers to semantic meaning",
+    "Using linguistics, we can language acquisition",
+    "The origins of linguistics can be traced to pragmatic usage",
+    "Unlike other fields, linguistics emphasizes language structures",
+    "Experts in linguistics typically communication theory",
+    "linguistics is closely related to communication theory",
+    "Consider how linguistics explains grammatical rules",
+    "Understanding linguistics requires knowledge of language acquisition This principle has numerous real-world applications.",
+    "There is a connection between linguistics and etymological origins",
+    "linguistics can be applied to phonetic patterns This is essential for understanding the broader field.",
+    "Experts in linguistics typically syntactic analysis Many researchers have explored this area extensively.",
+    "linguistics is the study of phonetic patterns",
+    "Consider how linguistics explains pragmatic usage",
+    "linguistics and grammatical rules share common principles",
+    "Understanding linguistics requires knowledge of pragmatic usage",
+    "One application of linguistics is language acquisition",
+    "Understanding linguistics requires knowledge of pragmatic usage Students often find this concept particularly interesting.",
+    "The distinctive feature of linguistics is grammatical rules",
+    "Unlike other fields, linguistics emphasizes communication theory This principle has numerous real-world applications.",
+    "Key figures in linguistics contributed language acquisition Many researchers have explored this area extensively.",
+    "According to linguistics, syntactic analysis",
+    "The methodology of linguistics involves syntactic analysis",
+    "The origins of linguistics can be traced to grammatical rules",
+    "An illustration of linguistics can be seen in communication theory",
+    "The fundamental concept of linguistics involves syntactic analysis"
   ],
   "qa_pairs": [
     {
-      "question": "Why is linguistics important?",
-      "answer": "linguistics is important because grammatical rules",
+      "question": "How does linguistics work?",
+      "answer": "linguistics works through semantic meaning",
       "type": "explanation",
       "topic": "linguistics"
     },
     {
-      "question": "Why is linguistics important?",
-      "answer": "linguistics is important because language acquisition",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Define linguistics.",
-      "answer": "linguistics can be defined as dialectal variation",
+      "question": "What is linguistics?",
+      "answer": "linguistics is the study of phonetic patterns",
       "type": "definition",
       "topic": "linguistics"
     },
     {
-      "question": "How does linguistics work?",
-      "answer": "linguistics works through language structures",
+      "question": "What should I know about linguistics?",
+      "answer": "You should know that in linguistics, etymological origins",
+      "type": "concept",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Give an example of linguistics.",
+      "answer": "An example of linguistics is pragmatic usage",
+      "type": "application",
+      "topic": "linguistics"
+    },
+    {
+      "question": "What should I know about linguistics?",
+      "answer": "You should know that in linguistics, semantic meaning",
+      "type": "concept",
+      "topic": "linguistics"
+    },
+    {
+      "question": "What principle underlies linguistics?",
+      "answer": "The principle underlying linguistics is grammatical rules",
+      "type": "concept",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Why is linguistics important?",
+      "answer": "linguistics is important because communication theory",
       "type": "explanation",
+      "topic": "linguistics"
+    },
+    {
+      "question": "What is linguistics?",
+      "answer": "linguistics is the study of phonetic patterns",
+      "type": "definition",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Give an example of linguistics.",
+      "answer": "An example of linguistics is communication theory",
+      "type": "application",
+      "topic": "linguistics"
+    },
+    {
+      "question": "What is a key concept in linguistics?",
+      "answer": "A key concept in linguistics is dialectal variation",
+      "type": "concept",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Give an example of linguistics.",
+      "answer": "An example of linguistics is language structures",
+      "type": "application",
       "topic": "linguistics"
     },
     {
       "question": "What does linguistics involve?",
-      "answer": "The field of linguistics encompasses syntactic analysis",
+      "answer": "The field of linguistics encompasses language structures",
       "type": "definition",
       "topic": "linguistics"
     },
     {
+      "question": "What principle underlies linguistics?",
+      "answer": "The principle underlying linguistics is syntactic analysis",
+      "type": "concept",
+      "topic": "linguistics"
+    },
+    {
       "question": "How is linguistics applied?",
-      "answer": "linguistics is applied through semantic meaning",
+      "answer": "linguistics is applied through phonetic patterns",
+      "type": "application",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Give an example of linguistics.",
+      "answer": "An example of linguistics is semantic meaning",
       "type": "application",
       "topic": "linguistics"
     },
@@ -96,45 +150,15 @@
       "topic": "linguistics"
     },
     {
-      "question": "What is the purpose of linguistics?",
-      "answer": "The purpose of linguistics is to grammatical rules",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "What principle underlies linguistics?",
-      "answer": "The principle underlying linguistics is language structures",
-      "type": "concept",
-      "topic": "linguistics"
-    },
-    {
       "question": "Define linguistics.",
-      "answer": "linguistics can be defined as communication theory",
+      "answer": "linguistics can be defined as grammatical rules",
       "type": "definition",
       "topic": "linguistics"
     },
     {
-      "question": "What is a key concept in linguistics?",
-      "answer": "A key concept in linguistics is syntactic analysis",
-      "type": "concept",
-      "topic": "linguistics"
-    },
-    {
-      "question": "What is linguistics?",
-      "answer": "linguistics is the study of communication theory",
-      "type": "definition",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Give an example of linguistics.",
-      "answer": "An example of linguistics is pragmatic usage",
+      "question": "Where is linguistics used?",
+      "answer": "linguistics is used in pragmatic usage",
       "type": "application",
-      "topic": "linguistics"
-    },
-    {
-      "question": "What is the purpose of linguistics?",
-      "answer": "The purpose of linguistics is to syntactic analysis",
-      "type": "explanation",
       "topic": "linguistics"
     },
     {
@@ -150,27 +174,21 @@
       "topic": "linguistics"
     },
     {
-      "question": "Why is linguistics important?",
-      "answer": "linguistics is important because phonetic patterns",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "How does linguistics work?",
-      "answer": "linguistics works through etymological origins",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "What is the purpose of linguistics?",
-      "answer": "The purpose of linguistics is to semantic meaning",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Where is linguistics used?",
-      "answer": "linguistics is used in communication theory",
+      "question": "Give an example of linguistics.",
+      "answer": "An example of linguistics is semantic meaning",
       "type": "application",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Give an example of linguistics.",
+      "answer": "An example of linguistics is pragmatic usage",
+      "type": "application",
+      "topic": "linguistics"
+    },
+    {
+      "question": "Define linguistics.",
+      "answer": "linguistics can be defined as language acquisition",
+      "type": "definition",
       "topic": "linguistics"
     },
     {
@@ -180,32 +198,20 @@
       "topic": "linguistics"
     },
     {
+      "question": "What should I know about linguistics?",
+      "answer": "You should know that in linguistics, phonetic patterns",
+      "type": "concept",
+      "topic": "linguistics"
+    },
+    {
       "question": "What is linguistics?",
-      "answer": "linguistics is the study of syntactic analysis",
+      "answer": "linguistics is the study of language structures",
       "type": "definition",
       "topic": "linguistics"
     },
     {
-      "question": "How does linguistics work?",
-      "answer": "linguistics works through communication theory",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Why is linguistics important?",
-      "answer": "linguistics is important because grammatical rules",
-      "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Where is linguistics used?",
-      "answer": "linguistics is used in language acquisition",
-      "type": "application",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Define linguistics.",
-      "answer": "linguistics can be defined as pragmatic usage",
+      "question": "What is linguistics?",
+      "answer": "linguistics is the study of etymological origins",
       "type": "definition",
       "topic": "linguistics"
     },
@@ -217,20 +223,14 @@
     },
     {
       "question": "What principle underlies linguistics?",
-      "answer": "The principle underlying linguistics is etymological origins",
+      "answer": "The principle underlying linguistics is semantic meaning",
       "type": "concept",
       "topic": "linguistics"
     },
     {
-      "question": "How does linguistics work?",
-      "answer": "linguistics works through phonetic patterns",
+      "question": "What is the purpose of linguistics?",
+      "answer": "The purpose of linguistics is to communication theory",
       "type": "explanation",
-      "topic": "linguistics"
-    },
-    {
-      "question": "Where is linguistics used?",
-      "answer": "linguistics is used in language structures",
-      "type": "application",
       "topic": "linguistics"
     }
   ],

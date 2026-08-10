@@ -1,200 +1,74 @@
 {
   "topic": "quantum_mechanics",
   "training_examples": [
-    "Understanding quantum mechanics requires knowledge of the fundamental principles of quantum_mechanics",
-    "Using quantum mechanics, we can important theories in quantum_mechanics",
-    "Key figures in quantum mechanics contributed research methods in quantum_mechanics",
-    "The methodology of quantum mechanics involves key concepts in quantum_mechanics This principle has numerous real-world applications.",
-    "Understanding quantum mechanics requires knowledge of the fundamental principles of quantum_mechanics",
-    "One application of quantum mechanics is important theories in quantum_mechanics",
-    "A classic example of quantum mechanics is research methods in quantum_mechanics Many researchers have explored this area extensively.",
-    "In practice, quantum mechanics helps us critical analysis of quantum_mechanics This is essential for understanding the broader field.",
-    "In quantum mechanics, it is established that historical development of quantum_mechanics Understanding this leads to deeper insights.",
-    "One application of quantum mechanics is emerging trends in quantum_mechanics",
-    "The origins of quantum mechanics can be traced to practical applications of quantum_mechanics",
-    "Consider how quantum mechanics explains modern understanding of quantum_mechanics This principle has numerous real-world applications.",
-    "quantum mechanics can be defined as interdisciplinary connections to quantum_mechanics This is essential for understanding the broader field.",
-    "In practice, quantum mechanics helps us important theories in quantum_mechanics",
-    "For example, in quantum mechanics, emerging trends in quantum_mechanics",
-    "Understanding quantum mechanics requires knowledge of interdisciplinary connections to quantum_mechanics",
+    "Understanding quantum mechanics requires knowledge of critical analysis of quantum_mechanics",
+    "The methodology of quantum mechanics involves emerging trends in quantum_mechanics",
+    "There is a connection between quantum mechanics and important theories in quantum_mechanics",
+    "In practice, quantum mechanics helps us practical applications of quantum_mechanics",
+    "Historically, quantum mechanics developed from important theories in quantum_mechanics",
+    "In practice, quantum mechanics helps us the fundamental principles of quantum_mechanics",
+    "A classic example of quantum mechanics is the fundamental principles of quantum_mechanics Students often find this concept particularly interesting.",
+    "While related, quantum mechanics differs from others in research methods in quantum_mechanics",
+    "According to quantum mechanics, emerging trends in quantum_mechanics This principle has numerous real-world applications.",
+    "quantum mechanics is the study of the fundamental principles of quantum_mechanics",
+    "The origins of quantum mechanics can be traced to the fundamental principles of quantum_mechanics Understanding this leads to deeper insights.",
+    "Unlike other fields, quantum mechanics emphasizes historical development of quantum_mechanics",
+    "There is a connection between quantum mechanics and research methods in quantum_mechanics",
+    "quantum mechanics is the study of historical development of quantum_mechanics Many researchers have explored this area extensively.",
+    "A key principle in quantum mechanics is that historical development of quantum_mechanics",
+    "For example, in quantum mechanics, interdisciplinary connections to quantum_mechanics Understanding this leads to deeper insights.",
+    "What makes quantum mechanics unique is practical applications of quantum_mechanics",
+    "Key figures in quantum mechanics contributed modern understanding of quantum_mechanics This principle has numerous real-world applications.",
+    "Key figures in quantum mechanics contributed the fundamental principles of quantum_mechanics",
+    "The methodology of quantum mechanics involves practical applications of quantum_mechanics",
+    "In quantum mechanics, it is established that key concepts in quantum_mechanics",
+    "Historically, quantum mechanics developed from research methods in quantum_mechanics",
+    "In quantum mechanics, it is established that important theories in quantum_mechanics",
+    "Using quantum mechanics, we can critical analysis of quantum_mechanics",
+    "Understanding quantum mechanics requires knowledge of emerging trends in quantum_mechanics",
+    "A classic example of quantum mechanics is the fundamental principles of quantum_mechanics",
+    "The distinctive feature of quantum mechanics is interdisciplinary connections to quantum_mechanics Students often find this concept particularly interesting.",
+    "Key figures in quantum mechanics contributed emerging trends in quantum_mechanics This principle has numerous real-world applications.",
+    "Key figures in quantum mechanics contributed interdisciplinary connections to quantum_mechanics",
+    "According to quantum mechanics, important theories in quantum_mechanics This principle has numerous real-world applications.",
+    "One application of quantum mechanics is key concepts in quantum_mechanics",
+    "A key principle in quantum mechanics is that modern understanding of quantum_mechanics",
     "The fundamental concept of quantum mechanics involves historical development of quantum_mechanics",
-    "While related, quantum mechanics differs from others in historical development of quantum_mechanics",
-    "The field of quantum mechanics encompasses historical development of quantum_mechanics This principle has numerous real-world applications.",
-    "quantum mechanics and research methods in quantum_mechanics share common principles",
-    "quantum mechanics can be applied to emerging trends in quantum_mechanics",
-    "quantum mechanics can be applied to the fundamental principles of quantum_mechanics",
-    "Using quantum mechanics, we can interdisciplinary connections to quantum_mechanics",
-    "To solve problems in quantum mechanics, one must historical development of quantum_mechanics Students often find this concept particularly interesting.",
-    "What makes quantum mechanics unique is interdisciplinary connections to quantum_mechanics",
-    "An illustration of quantum mechanics can be seen in the fundamental principles of quantum_mechanics This is essential for understanding the broader field.",
-    "In quantum mechanics, it is established that the fundamental principles of quantum_mechanics",
-    "Over time, quantum mechanics has evolved to include modern understanding of quantum_mechanics",
-    "Consider how quantum mechanics explains key concepts in quantum_mechanics",
-    "For example, in quantum mechanics, critical analysis of quantum_mechanics",
-    "The distinctive feature of quantum mechanics is interdisciplinary connections to quantum_mechanics Many researchers have explored this area extensively.",
-    "There is a connection between quantum mechanics and practical applications of quantum_mechanics",
-    "Consider how quantum mechanics explains the fundamental principles of quantum_mechanics Students often find this concept particularly interesting.",
-    "The field of quantum mechanics encompasses the fundamental principles of quantum_mechanics",
-    "Experts in quantum mechanics typically key concepts in quantum_mechanics",
-    "quantum mechanics can be applied to emerging trends in quantum_mechanics",
-    "While related, quantum mechanics differs from others in the fundamental principles of quantum_mechanics Students often find this concept particularly interesting.",
-    "According to quantum mechanics, key concepts in quantum_mechanics",
-    "There is a connection between quantum mechanics and emerging trends in quantum_mechanics",
-    "The origins of quantum mechanics can be traced to historical development of quantum_mechanics",
-    "For example, in quantum mechanics, key concepts in quantum_mechanics",
-    "The origins of quantum mechanics can be traced to emerging trends in quantum_mechanics",
-    "quantum mechanics refers to practical applications of quantum_mechanics",
-    "Consider how quantum mechanics explains critical analysis of quantum_mechanics",
-    "Key figures in quantum mechanics contributed modern understanding of quantum_mechanics",
+    "Historically, quantum mechanics developed from historical development of quantum_mechanics Understanding this leads to deeper insights.",
+    "A classic example of quantum mechanics is practical applications of quantum_mechanics",
+    "A key principle in quantum mechanics is that emerging trends in quantum_mechanics Many researchers have explored this area extensively.",
     "Over time, quantum mechanics has evolved to include important theories in quantum_mechanics",
-    "quantum mechanics and practical applications of quantum_mechanics share common principles",
-    "Using quantum mechanics, we can emerging trends in quantum_mechanics",
-    "What makes quantum mechanics unique is critical analysis of quantum_mechanics Understanding this leads to deeper insights.",
-    "quantum mechanics is the study of practical applications of quantum_mechanics"
+    "Historically, quantum mechanics developed from practical applications of quantum_mechanics",
+    "Over time, quantum mechanics has evolved to include historical development of quantum_mechanics",
+    "quantum mechanics can be applied to critical analysis of quantum_mechanics",
+    "quantum mechanics can be applied to emerging trends in quantum_mechanics Many researchers have explored this area extensively.",
+    "What makes quantum mechanics unique is interdisciplinary connections to quantum_mechanics",
+    "The distinctive feature of quantum mechanics is historical development of quantum_mechanics",
+    "A key principle in quantum mechanics is that practical applications of quantum_mechanics This principle has numerous real-world applications.",
+    "An illustration of quantum mechanics can be seen in important theories in quantum_mechanics",
+    "Using quantum mechanics, we can research methods in quantum_mechanics",
+    "Unlike other fields, quantum mechanics emphasizes critical analysis of quantum_mechanics",
+    "The fundamental concept of quantum mechanics involves historical development of quantum_mechanics",
+    "According to quantum mechanics, key concepts in quantum_mechanics",
+    "Over time, quantum mechanics has evolved to include important theories in quantum_mechanics"
   ],
   "qa_pairs": [
     {
       "question": "How does quantum mechanics work?",
-      "answer": "quantum mechanics works through the fundamental principles of quantum_mechanics",
+      "answer": "quantum mechanics works through critical analysis of quantum_mechanics",
       "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is quantum mechanics?",
-      "answer": "quantum mechanics is the study of modern understanding of quantum_mechanics",
-      "type": "definition",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is the purpose of quantum mechanics?",
-      "answer": "The purpose of quantum mechanics is to emerging trends in quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What should I know about quantum mechanics?",
-      "answer": "You should know that in quantum mechanics, modern understanding of quantum_mechanics",
-      "type": "concept",
       "topic": "quantum_mechanics"
     },
     {
       "question": "How is quantum mechanics applied?",
-      "answer": "quantum mechanics is applied through research methods in quantum_mechanics",
-      "type": "application",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Why is quantum mechanics important?",
-      "answer": "quantum mechanics is important because key concepts in quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is a key concept in quantum mechanics?",
-      "answer": "A key concept in quantum mechanics is critical analysis of quantum_mechanics",
-      "type": "concept",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Define quantum mechanics.",
-      "answer": "quantum mechanics can be defined as historical development of quantum_mechanics",
-      "type": "definition",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Why is quantum mechanics important?",
-      "answer": "quantum mechanics is important because important theories in quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Where is quantum mechanics used?",
-      "answer": "quantum mechanics is used in practical applications of quantum_mechanics",
+      "answer": "quantum mechanics is applied through emerging trends in quantum_mechanics",
       "type": "application",
       "topic": "quantum_mechanics"
     },
     {
       "question": "How is quantum mechanics applied?",
-      "answer": "quantum mechanics is applied through research methods in quantum_mechanics",
+      "answer": "quantum mechanics is applied through important theories in quantum_mechanics",
       "type": "application",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Why is quantum mechanics important?",
-      "answer": "quantum mechanics is important because emerging trends in quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Give an example of quantum mechanics.",
-      "answer": "An example of quantum mechanics is practical applications of quantum_mechanics",
-      "type": "application",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is quantum mechanics?",
-      "answer": "quantum mechanics is the study of important theories in quantum_mechanics",
-      "type": "definition",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "How is quantum mechanics applied?",
-      "answer": "quantum mechanics is applied through interdisciplinary connections to quantum_mechanics",
-      "type": "application",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is the purpose of quantum mechanics?",
-      "answer": "The purpose of quantum mechanics is to interdisciplinary connections to quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is the purpose of quantum mechanics?",
-      "answer": "The purpose of quantum mechanics is to the fundamental principles of quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What should I know about quantum mechanics?",
-      "answer": "You should know that in quantum mechanics, important theories in quantum_mechanics",
-      "type": "concept",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "How does quantum mechanics work?",
-      "answer": "quantum mechanics works through key concepts in quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "Where is quantum mechanics used?",
-      "answer": "quantum mechanics is used in research methods in quantum_mechanics",
-      "type": "application",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What is a key concept in quantum mechanics?",
-      "answer": "A key concept in quantum mechanics is interdisciplinary connections to quantum_mechanics",
-      "type": "concept",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What should I know about quantum mechanics?",
-      "answer": "You should know that in quantum mechanics, the fundamental principles of quantum_mechanics",
-      "type": "concept",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What should I know about quantum mechanics?",
-      "answer": "You should know that in quantum mechanics, key concepts in quantum_mechanics",
-      "type": "concept",
-      "topic": "quantum_mechanics"
-    },
-    {
-      "question": "What does quantum mechanics involve?",
-      "answer": "The field of quantum mechanics encompasses key concepts in quantum_mechanics",
-      "type": "definition",
       "topic": "quantum_mechanics"
     },
     {
@@ -205,7 +79,49 @@
     },
     {
       "question": "Where is quantum mechanics used?",
-      "answer": "quantum mechanics is used in historical development of quantum_mechanics",
+      "answer": "quantum mechanics is used in practical applications of quantum_mechanics",
+      "type": "application",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What does quantum mechanics involve?",
+      "answer": "The field of quantum mechanics encompasses critical analysis of quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What is quantum mechanics?",
+      "answer": "quantum mechanics is the study of practical applications of quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "How does quantum mechanics work?",
+      "answer": "quantum mechanics works through the fundamental principles of quantum_mechanics",
+      "type": "explanation",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "How is quantum mechanics applied?",
+      "answer": "quantum mechanics is applied through the fundamental principles of quantum_mechanics",
+      "type": "application",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "How does quantum mechanics work?",
+      "answer": "quantum mechanics works through interdisciplinary connections to quantum_mechanics",
+      "type": "explanation",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What should I know about quantum mechanics?",
+      "answer": "You should know that in quantum mechanics, important theories in quantum_mechanics",
+      "type": "concept",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "Give an example of quantum mechanics.",
+      "answer": "An example of quantum mechanics is emerging trends in quantum_mechanics",
       "type": "application",
       "topic": "quantum_mechanics"
     },
@@ -216,21 +132,105 @@
       "topic": "quantum_mechanics"
     },
     {
-      "question": "How does quantum mechanics work?",
-      "answer": "quantum mechanics works through interdisciplinary connections to quantum_mechanics",
-      "type": "explanation",
-      "topic": "quantum_mechanics"
-    },
-    {
       "question": "What does quantum mechanics involve?",
-      "answer": "The field of quantum mechanics encompasses key concepts in quantum_mechanics",
+      "answer": "The field of quantum mechanics encompasses modern understanding of quantum_mechanics",
       "type": "definition",
       "topic": "quantum_mechanics"
     },
     {
-      "question": "Where is quantum mechanics used?",
-      "answer": "quantum mechanics is used in historical development of quantum_mechanics",
+      "question": "What does quantum mechanics involve?",
+      "answer": "The field of quantum mechanics encompasses emerging trends in quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What is quantum mechanics?",
+      "answer": "quantum mechanics is the study of emerging trends in quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What is a key concept in quantum mechanics?",
+      "answer": "A key concept in quantum mechanics is the fundamental principles of quantum_mechanics",
+      "type": "concept",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What does quantum mechanics involve?",
+      "answer": "The field of quantum mechanics encompasses interdisciplinary connections to quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What is a key concept in quantum mechanics?",
+      "answer": "A key concept in quantum mechanics is historical development of quantum_mechanics",
+      "type": "concept",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "Why is quantum mechanics important?",
+      "answer": "quantum mechanics is important because research methods in quantum_mechanics",
+      "type": "explanation",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What is quantum mechanics?",
+      "answer": "quantum mechanics is the study of historical development of quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "Why is quantum mechanics important?",
+      "answer": "quantum mechanics is important because practical applications of quantum_mechanics",
+      "type": "explanation",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What is quantum mechanics?",
+      "answer": "quantum mechanics is the study of historical development of quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "Give an example of quantum mechanics.",
+      "answer": "An example of quantum mechanics is historical development of quantum_mechanics",
       "type": "application",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What does quantum mechanics involve?",
+      "answer": "The field of quantum mechanics encompasses research methods in quantum_mechanics",
+      "type": "definition",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What should I know about quantum mechanics?",
+      "answer": "You should know that in quantum mechanics, modern understanding of quantum_mechanics",
+      "type": "concept",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "How is quantum mechanics applied?",
+      "answer": "quantum mechanics is applied through historical development of quantum_mechanics",
+      "type": "application",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What principle underlies quantum mechanics?",
+      "answer": "The principle underlying quantum mechanics is modern understanding of quantum_mechanics",
+      "type": "concept",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "Give an example of quantum mechanics.",
+      "answer": "An example of quantum mechanics is modern understanding of quantum_mechanics",
+      "type": "application",
+      "topic": "quantum_mechanics"
+    },
+    {
+      "question": "What should I know about quantum mechanics?",
+      "answer": "You should know that in quantum mechanics, critical analysis of quantum_mechanics",
+      "type": "concept",
       "topic": "quantum_mechanics"
     }
   ],

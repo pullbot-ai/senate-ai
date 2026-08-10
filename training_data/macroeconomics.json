@@ -1,175 +1,85 @@
 {
   "topic": "macroeconomics",
   "training_examples": [
-    "There is a connection between macroeconomics and critical analysis of macroeconomics",
-    "macroeconomics is closely related to interdisciplinary connections to macroeconomics",
-    "In macroeconomics, it is established that key concepts in macroeconomics",
-    "There is a connection between macroeconomics and critical analysis of macroeconomics",
-    "macroeconomics and critical analysis of macroeconomics share common principles",
-    "macroeconomics can be applied to critical analysis of macroeconomics",
-    "To solve problems in macroeconomics, one must the fundamental principles of macroeconomics",
-    "macroeconomics can be defined as critical analysis of macroeconomics",
-    "Over time, macroeconomics has evolved to include historical development of macroeconomics",
-    "Understanding macroeconomics requires knowledge of emerging trends in macroeconomics",
-    "Understanding macroeconomics requires knowledge of important theories in macroeconomics",
-    "Consider how macroeconomics explains emerging trends in macroeconomics",
-    "The distinctive feature of macroeconomics is historical development of macroeconomics",
-    "The distinctive feature of macroeconomics is emerging trends in macroeconomics",
-    "macroeconomics refers to emerging trends in macroeconomics",
-    "macroeconomics can be defined as the fundamental principles of macroeconomics",
-    "Consider how macroeconomics explains research methods in macroeconomics",
-    "There is a connection between macroeconomics and historical development of macroeconomics",
-    "A classic example of macroeconomics is modern understanding of macroeconomics",
-    "The fundamental concept of macroeconomics involves interdisciplinary connections to macroeconomics",
-    "The distinctive feature of macroeconomics is research methods in macroeconomics",
-    "While related, macroeconomics differs from others in modern understanding of macroeconomics",
-    "The origins of macroeconomics can be traced to modern understanding of macroeconomics",
-    "A common approach in macroeconomics is to modern understanding of macroeconomics",
-    "To solve problems in macroeconomics, one must interdisciplinary connections to macroeconomics",
-    "In practice, macroeconomics helps us key concepts in macroeconomics",
-    "The methodology of macroeconomics involves important theories in macroeconomics",
-    "There is a connection between macroeconomics and research methods in macroeconomics",
-    "Unlike other fields, macroeconomics emphasizes modern understanding of macroeconomics This is essential for understanding the broader field.",
-    "In macroeconomics, it is established that the fundamental principles of macroeconomics",
-    "A key principle in macroeconomics is that practical applications of macroeconomics",
-    "What makes macroeconomics unique is important theories in macroeconomics",
-    "Unlike other fields, macroeconomics emphasizes important theories in macroeconomics Many researchers have explored this area extensively.",
-    "macroeconomics is the study of practical applications of macroeconomics",
-    "macroeconomics refers to modern understanding of macroeconomics Many researchers have explored this area extensively.",
-    "There is a connection between macroeconomics and critical analysis of macroeconomics",
-    "The origins of macroeconomics can be traced to key concepts in macroeconomics This principle has numerous real-world applications.",
-    "macroeconomics is closely related to the fundamental principles of macroeconomics",
+    "The field of macroeconomics encompasses interdisciplinary connections to macroeconomics",
+    "Key figures in macroeconomics contributed critical analysis of macroeconomics",
     "A classic example of macroeconomics is important theories in macroeconomics",
-    "One application of macroeconomics is the fundamental principles of macroeconomics",
-    "One application of macroeconomics is key concepts in macroeconomics",
-    "A key principle in macroeconomics is that critical analysis of macroeconomics Many researchers have explored this area extensively.",
-    "Understanding macroeconomics requires knowledge of the fundamental principles of macroeconomics",
-    "Consider how macroeconomics explains research methods in macroeconomics",
-    "In practice, macroeconomics helps us critical analysis of macroeconomics",
-    "Consider how macroeconomics explains critical analysis of macroeconomics",
-    "The field of macroeconomics encompasses important theories in macroeconomics",
-    "A classic example of macroeconomics is practical applications of macroeconomics Understanding this leads to deeper insights.",
-    "The distinctive feature of macroeconomics is key concepts in macroeconomics",
-    "macroeconomics is closely related to research methods in macroeconomics Understanding this leads to deeper insights."
+    "Unlike other fields, macroeconomics emphasizes important theories in macroeconomics",
+    "To solve problems in macroeconomics, one must emerging trends in macroeconomics Students often find this concept particularly interesting.",
+    "macroeconomics and important theories in macroeconomics share common principles",
+    "Using macroeconomics, we can important theories in macroeconomics",
+    "A classic example of macroeconomics is emerging trends in macroeconomics",
+    "One application of macroeconomics is practical applications of macroeconomics",
+    "According to macroeconomics, practical applications of macroeconomics",
+    "The distinctive feature of macroeconomics is research methods in macroeconomics",
+    "Key figures in macroeconomics contributed emerging trends in macroeconomics",
+    "Over time, macroeconomics has evolved to include key concepts in macroeconomics This is essential for understanding the broader field.",
+    "macroeconomics can be defined as critical analysis of macroeconomics Many researchers have explored this area extensively.",
+    "In macroeconomics, it is established that modern understanding of macroeconomics",
+    "To solve problems in macroeconomics, one must critical analysis of macroeconomics",
+    "The fundamental concept of macroeconomics involves research methods in macroeconomics",
+    "According to macroeconomics, interdisciplinary connections to macroeconomics Many researchers have explored this area extensively.",
+    "Consider how macroeconomics explains emerging trends in macroeconomics",
+    "macroeconomics and important theories in macroeconomics share common principles Understanding this leads to deeper insights.",
+    "The distinctive feature of macroeconomics is important theories in macroeconomics This principle has numerous real-world applications.",
+    "macroeconomics is the study of modern understanding of macroeconomics",
+    "The fundamental concept of macroeconomics involves modern understanding of macroeconomics",
+    "macroeconomics is the study of important theories in macroeconomics",
+    "macroeconomics is closely related to key concepts in macroeconomics",
+    "While related, macroeconomics differs from others in the fundamental principles of macroeconomics",
+    "One application of macroeconomics is critical analysis of macroeconomics",
+    "Experts in macroeconomics typically critical analysis of macroeconomics",
+    "In practice, macroeconomics helps us modern understanding of macroeconomics",
+    "According to macroeconomics, historical development of macroeconomics Many researchers have explored this area extensively.",
+    "A key principle in macroeconomics is that practical applications of macroeconomics This principle has numerous real-world applications.",
+    "An illustration of macroeconomics can be seen in emerging trends in macroeconomics",
+    "macroeconomics is closely related to modern understanding of macroeconomics",
+    "Using macroeconomics, we can historical development of macroeconomics",
+    "Unlike other fields, macroeconomics emphasizes interdisciplinary connections to macroeconomics",
+    "According to macroeconomics, critical analysis of macroeconomics Many researchers have explored this area extensively.",
+    "In practice, macroeconomics helps us research methods in macroeconomics Students often find this concept particularly interesting.",
+    "A common approach in macroeconomics is to interdisciplinary connections to macroeconomics",
+    "Consider how macroeconomics explains historical development of macroeconomics Students often find this concept particularly interesting.",
+    "Unlike other fields, macroeconomics emphasizes modern understanding of macroeconomics",
+    "The field of macroeconomics encompasses emerging trends in macroeconomics",
+    "According to macroeconomics, key concepts in macroeconomics",
+    "While related, macroeconomics differs from others in important theories in macroeconomics This principle has numerous real-world applications.",
+    "Historically, macroeconomics developed from modern understanding of macroeconomics Many researchers have explored this area extensively.",
+    "macroeconomics is the study of interdisciplinary connections to macroeconomics",
+    "In practice, macroeconomics helps us historical development of macroeconomics",
+    "There is a connection between macroeconomics and critical analysis of macroeconomics",
+    "macroeconomics can be applied to key concepts in macroeconomics",
+    "macroeconomics refers to historical development of macroeconomics",
+    "The field of macroeconomics encompasses interdisciplinary connections to macroeconomics"
   ],
   "qa_pairs": [
     {
+      "question": "Define macroeconomics.",
+      "answer": "macroeconomics can be defined as interdisciplinary connections to macroeconomics",
+      "type": "definition",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "Give an example of macroeconomics.",
+      "answer": "An example of macroeconomics is emerging trends in macroeconomics",
+      "type": "application",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What principle underlies macroeconomics?",
+      "answer": "The principle underlying macroeconomics is historical development of macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
       "question": "Why is macroeconomics important?",
-      "answer": "macroeconomics is important because critical analysis of macroeconomics",
+      "answer": "macroeconomics is important because research methods in macroeconomics",
       "type": "explanation",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What principle underlies macroeconomics?",
-      "answer": "The principle underlying macroeconomics is practical applications of macroeconomics",
-      "type": "concept",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What does macroeconomics involve?",
-      "answer": "The field of macroeconomics encompasses interdisciplinary connections to macroeconomics",
-      "type": "definition",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What does macroeconomics involve?",
-      "answer": "The field of macroeconomics encompasses important theories in macroeconomics",
-      "type": "definition",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What does macroeconomics involve?",
-      "answer": "The field of macroeconomics encompasses practical applications of macroeconomics",
-      "type": "definition",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "How does macroeconomics work?",
-      "answer": "macroeconomics works through research methods in macroeconomics",
-      "type": "explanation",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "How does macroeconomics work?",
-      "answer": "macroeconomics works through critical analysis of macroeconomics",
-      "type": "explanation",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What is a key concept in macroeconomics?",
-      "answer": "A key concept in macroeconomics is important theories in macroeconomics",
-      "type": "concept",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "Define macroeconomics.",
-      "answer": "macroeconomics can be defined as emerging trends in macroeconomics",
-      "type": "definition",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "How is macroeconomics applied?",
-      "answer": "macroeconomics is applied through the fundamental principles of macroeconomics",
-      "type": "application",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What is a key concept in macroeconomics?",
-      "answer": "A key concept in macroeconomics is the fundamental principles of macroeconomics",
-      "type": "concept",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What principle underlies macroeconomics?",
-      "answer": "The principle underlying macroeconomics is emerging trends in macroeconomics",
-      "type": "concept",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "Give an example of macroeconomics.",
-      "answer": "An example of macroeconomics is historical development of macroeconomics",
-      "type": "application",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "Where is macroeconomics used?",
-      "answer": "macroeconomics is used in practical applications of macroeconomics",
-      "type": "application",
       "topic": "macroeconomics"
     },
     {
       "question": "What should I know about macroeconomics?",
-      "answer": "You should know that in macroeconomics, key concepts in macroeconomics",
-      "type": "concept",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "How does macroeconomics work?",
-      "answer": "macroeconomics works through important theories in macroeconomics",
-      "type": "explanation",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "Where is macroeconomics used?",
-      "answer": "macroeconomics is used in historical development of macroeconomics",
-      "type": "application",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "Define macroeconomics.",
-      "answer": "macroeconomics can be defined as critical analysis of macroeconomics",
-      "type": "definition",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "Give an example of macroeconomics.",
-      "answer": "An example of macroeconomics is critical analysis of macroeconomics",
-      "type": "application",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What should I know about macroeconomics?",
-      "answer": "You should know that in macroeconomics, modern understanding of macroeconomics",
+      "answer": "You should know that in macroeconomics, interdisciplinary connections to macroeconomics",
       "type": "concept",
       "topic": "macroeconomics"
     },
@@ -180,14 +90,110 @@
       "topic": "macroeconomics"
     },
     {
-      "question": "What is the purpose of macroeconomics?",
-      "answer": "The purpose of macroeconomics is to the fundamental principles of macroeconomics",
+      "question": "How is macroeconomics applied?",
+      "answer": "macroeconomics is applied through emerging trends in macroeconomics",
+      "type": "application",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is macroeconomics?",
+      "answer": "macroeconomics is the study of research methods in macroeconomics",
+      "type": "definition",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "How does macroeconomics work?",
+      "answer": "macroeconomics works through important theories in macroeconomics",
       "type": "explanation",
       "topic": "macroeconomics"
     },
     {
       "question": "What is a key concept in macroeconomics?",
-      "answer": "A key concept in macroeconomics is interdisciplinary connections to macroeconomics",
+      "answer": "A key concept in macroeconomics is critical analysis of macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "How does macroeconomics work?",
+      "answer": "macroeconomics works through important theories in macroeconomics",
+      "type": "explanation",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is macroeconomics?",
+      "answer": "macroeconomics is the study of interdisciplinary connections to macroeconomics",
+      "type": "definition",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "Why is macroeconomics important?",
+      "answer": "macroeconomics is important because key concepts in macroeconomics",
+      "type": "explanation",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is a key concept in macroeconomics?",
+      "answer": "A key concept in macroeconomics is emerging trends in macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What principle underlies macroeconomics?",
+      "answer": "The principle underlying macroeconomics is research methods in macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is a key concept in macroeconomics?",
+      "answer": "A key concept in macroeconomics is critical analysis of macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What should I know about macroeconomics?",
+      "answer": "You should know that in macroeconomics, emerging trends in macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What principle underlies macroeconomics?",
+      "answer": "The principle underlying macroeconomics is key concepts in macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "How is macroeconomics applied?",
+      "answer": "macroeconomics is applied through the fundamental principles of macroeconomics",
+      "type": "application",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What principle underlies macroeconomics?",
+      "answer": "The principle underlying macroeconomics is practical applications of macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is a key concept in macroeconomics?",
+      "answer": "A key concept in macroeconomics is key concepts in macroeconomics",
+      "type": "concept",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "How does macroeconomics work?",
+      "answer": "macroeconomics works through historical development of macroeconomics",
+      "type": "explanation",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "How is macroeconomics applied?",
+      "answer": "macroeconomics is applied through critical analysis of macroeconomics",
+      "type": "application",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is a key concept in macroeconomics?",
+      "answer": "A key concept in macroeconomics is key concepts in macroeconomics",
       "type": "concept",
       "topic": "macroeconomics"
     },
@@ -198,39 +204,33 @@
       "topic": "macroeconomics"
     },
     {
-      "question": "Where is macroeconomics used?",
-      "answer": "macroeconomics is used in practical applications of macroeconomics",
-      "type": "application",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "How does macroeconomics work?",
-      "answer": "macroeconomics works through important theories in macroeconomics",
-      "type": "explanation",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "How is macroeconomics applied?",
-      "answer": "macroeconomics is applied through modern understanding of macroeconomics",
-      "type": "application",
-      "topic": "macroeconomics"
-    },
-    {
-      "question": "What does macroeconomics involve?",
-      "answer": "The field of macroeconomics encompasses research methods in macroeconomics",
+      "question": "Define macroeconomics.",
+      "answer": "macroeconomics can be defined as interdisciplinary connections to macroeconomics",
       "type": "definition",
       "topic": "macroeconomics"
     },
     {
-      "question": "What is a key concept in macroeconomics?",
-      "answer": "A key concept in macroeconomics is emerging trends in macroeconomics",
-      "type": "concept",
+      "question": "What is the purpose of macroeconomics?",
+      "answer": "The purpose of macroeconomics is to important theories in macroeconomics",
+      "type": "explanation",
       "topic": "macroeconomics"
     },
     {
-      "question": "What should I know about macroeconomics?",
-      "answer": "You should know that in macroeconomics, emerging trends in macroeconomics",
-      "type": "concept",
+      "question": "Give an example of macroeconomics.",
+      "answer": "An example of macroeconomics is emerging trends in macroeconomics",
+      "type": "application",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "What is macroeconomics?",
+      "answer": "macroeconomics is the study of historical development of macroeconomics",
+      "type": "definition",
+      "topic": "macroeconomics"
+    },
+    {
+      "question": "Why is macroeconomics important?",
+      "answer": "macroeconomics is important because historical development of macroeconomics",
+      "type": "explanation",
       "topic": "macroeconomics"
     }
   ],
