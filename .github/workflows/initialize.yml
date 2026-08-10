@@ -45,15 +45,14 @@ jobs:
             end=$((chunk + 4))
             if [ $end -gt 88 ]; then end=88; fi
             
-            start_padded=$(printf "%03d" $chunk)
-            end_padded=$(printf "%03d" $end)
-            echo "Pushing bundles $start_padded to $end_padded..."
+            echo "Pushing bundles $chunk to $end..."
             
-            for i in $(seq -w $chunk $end); do
-              git add senate_bundles/bundle_${i}.pt
+            for i in $(seq $chunk $end); do
+              padded=$(printf "%03d" $i)
+              git add senate_bundles/bundle_${padded}.pt
             done
             
-            git commit -m "Bundles $start_padded-$end_padded"
+            git commit -m "Bundles $(printf '%03d' $chunk)-$(printf '%03d' $end)"
             git push || {
               echo "Push failed, retrying..."
               sleep 10
