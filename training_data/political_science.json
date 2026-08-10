@@ -1,118 +1,58 @@
 {
   "topic": "political_science",
   "training_examples": [
-    "Using political science, we can research methods in political_science",
-    "A common approach in political science is to the fundamental principles of political_science",
-    "An illustration of political science can be seen in emerging trends in political_science",
-    "political science can be defined as critical analysis of political_science",
-    "Experts in political science typically research methods in political_science This is essential for understanding the broader field.",
-    "Using political science, we can the fundamental principles of political_science",
-    "The distinctive feature of political science is research methods in political_science Understanding this leads to deeper insights.",
-    "There is a connection between political science and critical analysis of political_science",
-    "Unlike other fields, political science emphasizes modern understanding of political_science",
-    "In practice, political science helps us important theories in political_science",
-    "political science is closely related to important theories in political_science",
-    "There is a connection between political science and emerging trends in political_science",
-    "According to political science, critical analysis of political_science",
-    "political science is closely related to practical applications of political_science This is essential for understanding the broader field.",
-    "What makes political science unique is critical analysis of political_science Students often find this concept particularly interesting.",
-    "political science can be defined as emerging trends in political_science Understanding this leads to deeper insights.",
-    "political science can be defined as the fundamental principles of political_science",
-    "For example, in political science, interdisciplinary connections to political_science",
-    "political science is closely related to research methods in political_science",
-    "Experts in political science typically critical analysis of political_science",
-    "Consider how political science explains important theories in political_science",
-    "Key figures in political science contributed historical development of political_science",
-    "political science refers to practical applications of political_science This is essential for understanding the broader field.",
-    "The field of political science encompasses critical analysis of political_science",
-    "The methodology of political science involves research methods in political_science",
-    "Over time, political science has evolved to include important theories in political_science Students often find this concept particularly interesting.",
-    "political science is the study of historical development of political_science",
-    "Unlike other fields, political science emphasizes the fundamental principles of political_science Students often find this concept particularly interesting.",
-    "In practice, political science helps us practical applications of political_science",
-    "To solve problems in political science, one must historical development of political_science",
-    "The methodology of political science involves critical analysis of political_science",
-    "One application of political science is important theories in political_science",
-    "While related, political science differs from others in the fundamental principles of political_science",
-    "A classic example of political science is the fundamental principles of political_science This principle has numerous real-world applications.",
-    "The methodology of political science involves historical development of political_science Understanding this leads to deeper insights.",
+    "The field of political science encompasses the fundamental principles of political_science",
+    "In political science, it is established that modern understanding of political_science",
+    "Understanding political science requires knowledge of practical applications of political_science",
+    "In practice, political science helps us key concepts in political_science Many researchers have explored this area extensively.",
+    "A classic example of political science is emerging trends in political_science This is essential for understanding the broader field.",
+    "In practice, political science helps us key concepts in political_science",
     "political science can be defined as interdisciplinary connections to political_science",
-    "According to political science, research methods in political_science",
-    "The origins of political science can be traced to critical analysis of political_science",
-    "Understanding political science requires knowledge of research methods in political_science",
-    "Over time, political science has evolved to include important theories in political_science Students often find this concept particularly interesting.",
-    "What makes political science unique is important theories in political_science Many researchers have explored this area extensively.",
-    "There is a connection between political science and historical development of political_science",
+    "In practice, political science helps us historical development of political_science",
+    "The distinctive feature of political science is critical analysis of political_science",
     "To solve problems in political science, one must critical analysis of political_science",
-    "An illustration of political science can be seen in research methods in political_science",
-    "Understanding political science requires knowledge of critical analysis of political_science Many researchers have explored this area extensively.",
-    "According to political science, interdisciplinary connections to political_science",
+    "A key principle in political science is that the fundamental principles of political_science",
+    "The methodology of political science involves interdisciplinary connections to political_science",
+    "political science and critical analysis of political_science share common principles Understanding this leads to deeper insights.",
+    "What makes political science unique is modern understanding of political_science",
+    "political science can be applied to the fundamental principles of political_science",
+    "Understanding political science requires knowledge of the fundamental principles of political_science",
+    "The fundamental concept of political science involves emerging trends in political_science Students often find this concept particularly interesting.",
     "Using political science, we can interdisciplinary connections to political_science",
-    "For example, in political science, historical development of political_science",
-    "A key principle in political science is that practical applications of political_science",
-    "Understanding political science requires knowledge of research methods in political_science"
+    "While related, political science differs from others in critical analysis of political_science",
+    "political science refers to practical applications of political_science Students often find this concept particularly interesting.",
+    "An illustration of political science can be seen in the fundamental principles of political_science Many researchers have explored this area extensively.",
+    "The distinctive feature of political science is modern understanding of political_science Students often find this concept particularly interesting.",
+    "Unlike other fields, political science emphasizes critical analysis of political_science",
+    "A classic example of political science is modern understanding of political_science",
+    "political science and historical development of political_science share common principles",
+    "A common approach in political science is to key concepts in political_science",
+    "The fundamental concept of political science involves critical analysis of political_science",
+    "There is a connection between political science and research methods in political_science",
+    "In practice, political science helps us the fundamental principles of political_science Many researchers have explored this area extensively.",
+    "political science can be defined as key concepts in political_science Students often find this concept particularly interesting.",
+    "Historically, political science developed from interdisciplinary connections to political_science",
+    "The fundamental concept of political science involves important theories in political_science",
+    "While related, political science differs from others in emerging trends in political_science",
+    "A classic example of political science is the fundamental principles of political_science",
+    "What makes political science unique is key concepts in political_science This is essential for understanding the broader field.",
+    "Key figures in political science contributed historical development of political_science",
+    "The field of political science encompasses emerging trends in political_science",
+    "There is a connection between political science and important theories in political_science",
+    "An illustration of political science can be seen in important theories in political_science Many researchers have explored this area extensively.",
+    "Unlike other fields, political science emphasizes the fundamental principles of political_science Students often find this concept particularly interesting.",
+    "In political science, it is established that emerging trends in political_science",
+    "political science refers to research methods in political_science",
+    "political science can be applied to historical development of political_science",
+    "In political science, it is established that emerging trends in political_science",
+    "What makes political science unique is modern understanding of political_science Understanding this leads to deeper insights.",
+    "political science can be applied to emerging trends in political_science",
+    "The fundamental concept of political science involves interdisciplinary connections to political_science This is essential for understanding the broader field.",
+    "A key principle in political science is that emerging trends in political_science",
+    "Using political science, we can key concepts in political_science",
+    "political science is closely related to key concepts in political_science"
   ],
   "qa_pairs": [
-    {
-      "question": "How does political science work?",
-      "answer": "political science works through research methods in political_science",
-      "type": "explanation",
-      "topic": "political_science"
-    },
-    {
-      "question": "Give an example of political science.",
-      "answer": "An example of political science is the fundamental principles of political_science",
-      "type": "application",
-      "topic": "political_science"
-    },
-    {
-      "question": "What principle underlies political science?",
-      "answer": "The principle underlying political science is historical development of political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "What should I know about political science?",
-      "answer": "You should know that in political science, critical analysis of political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "What is political science?",
-      "answer": "political science is the study of critical analysis of political_science",
-      "type": "definition",
-      "topic": "political_science"
-    },
-    {
-      "question": "What is a key concept in political science?",
-      "answer": "A key concept in political science is research methods in political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "What principle underlies political science?",
-      "answer": "The principle underlying political science is important theories in political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "What is political science?",
-      "answer": "political science is the study of modern understanding of political_science",
-      "type": "definition",
-      "topic": "political_science"
-    },
-    {
-      "question": "Define political science.",
-      "answer": "political science can be defined as emerging trends in political_science",
-      "type": "definition",
-      "topic": "political_science"
-    },
-    {
-      "question": "What principle underlies political science?",
-      "answer": "The principle underlying political science is research methods in political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
     {
       "question": "What does political science involve?",
       "answer": "The field of political science encompasses emerging trends in political_science",
@@ -120,26 +60,26 @@
       "topic": "political_science"
     },
     {
-      "question": "Why is political science important?",
-      "answer": "political science is important because critical analysis of political_science",
-      "type": "explanation",
+      "question": "How is political science applied?",
+      "answer": "political science is applied through research methods in political_science",
+      "type": "application",
       "topic": "political_science"
     },
     {
-      "question": "What should I know about political science?",
-      "answer": "You should know that in political science, interdisciplinary connections to political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "Define political science.",
-      "answer": "political science can be defined as interdisciplinary connections to political_science",
+      "question": "What is political science?",
+      "answer": "political science is the study of important theories in political_science",
       "type": "definition",
       "topic": "political_science"
     },
     {
-      "question": "How does political science work?",
-      "answer": "political science works through important theories in political_science",
+      "question": "What should I know about political science?",
+      "answer": "You should know that in political science, emerging trends in political_science",
+      "type": "concept",
+      "topic": "political_science"
+    },
+    {
+      "question": "What is the purpose of political science?",
+      "answer": "The purpose of political science is to modern understanding of political_science",
       "type": "explanation",
       "topic": "political_science"
     },
@@ -150,15 +90,57 @@
       "topic": "political_science"
     },
     {
-      "question": "Give an example of political science.",
-      "answer": "An example of political science is practical applications of political_science",
+      "question": "How is political science applied?",
+      "answer": "political science is applied through the fundamental principles of political_science",
       "type": "application",
       "topic": "political_science"
     },
     {
-      "question": "What is the purpose of political science?",
-      "answer": "The purpose of political science is to emerging trends in political_science",
+      "question": "How does political science work?",
+      "answer": "political science works through interdisciplinary connections to political_science",
       "type": "explanation",
+      "topic": "political_science"
+    },
+    {
+      "question": "What is the purpose of political science?",
+      "answer": "The purpose of political science is to research methods in political_science",
+      "type": "explanation",
+      "topic": "political_science"
+    },
+    {
+      "question": "How is political science applied?",
+      "answer": "political science is applied through important theories in political_science",
+      "type": "application",
+      "topic": "political_science"
+    },
+    {
+      "question": "How is political science applied?",
+      "answer": "political science is applied through the fundamental principles of political_science",
+      "type": "application",
+      "topic": "political_science"
+    },
+    {
+      "question": "What should I know about political science?",
+      "answer": "You should know that in political science, emerging trends in political_science",
+      "type": "concept",
+      "topic": "political_science"
+    },
+    {
+      "question": "Why is political science important?",
+      "answer": "political science is important because historical development of political_science",
+      "type": "explanation",
+      "topic": "political_science"
+    },
+    {
+      "question": "Give an example of political science.",
+      "answer": "An example of political science is modern understanding of political_science",
+      "type": "application",
+      "topic": "political_science"
+    },
+    {
+      "question": "What principle underlies political science?",
+      "answer": "The principle underlying political science is research methods in political_science",
+      "type": "concept",
       "topic": "political_science"
     },
     {
@@ -169,32 +151,62 @@
     },
     {
       "question": "What is a key concept in political science?",
-      "answer": "A key concept in political science is key concepts in political_science",
+      "answer": "A key concept in political science is the fundamental principles of political_science",
       "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "How does political science work?",
-      "answer": "political science works through critical analysis of political_science",
-      "type": "explanation",
       "topic": "political_science"
     },
     {
       "question": "What does political science involve?",
-      "answer": "The field of political science encompasses interdisciplinary connections to political_science",
+      "answer": "The field of political science encompasses the fundamental principles of political_science",
       "type": "definition",
       "topic": "political_science"
     },
     {
-      "question": "What principle underlies political science?",
-      "answer": "The principle underlying political science is critical analysis of political_science",
+      "question": "Where is political science used?",
+      "answer": "political science is used in important theories in political_science",
+      "type": "application",
+      "topic": "political_science"
+    },
+    {
+      "question": "What is the purpose of political science?",
+      "answer": "The purpose of political science is to research methods in political_science",
+      "type": "explanation",
+      "topic": "political_science"
+    },
+    {
+      "question": "What is a key concept in political science?",
+      "answer": "A key concept in political science is the fundamental principles of political_science",
       "type": "concept",
       "topic": "political_science"
     },
     {
-      "question": "Give an example of political science.",
-      "answer": "An example of political science is research methods in political_science",
+      "question": "What should I know about political science?",
+      "answer": "You should know that in political science, historical development of political_science",
+      "type": "concept",
+      "topic": "political_science"
+    },
+    {
+      "question": "What should I know about political science?",
+      "answer": "You should know that in political science, interdisciplinary connections to political_science",
+      "type": "concept",
+      "topic": "political_science"
+    },
+    {
+      "question": "Why is political science important?",
+      "answer": "political science is important because the fundamental principles of political_science",
+      "type": "explanation",
+      "topic": "political_science"
+    },
+    {
+      "question": "Where is political science used?",
+      "answer": "political science is used in interdisciplinary connections to political_science",
       "type": "application",
+      "topic": "political_science"
+    },
+    {
+      "question": "How does political science work?",
+      "answer": "political science works through the fundamental principles of political_science",
+      "type": "explanation",
       "topic": "political_science"
     },
     {
@@ -204,32 +216,20 @@
       "topic": "political_science"
     },
     {
-      "question": "Define political science.",
-      "answer": "political science can be defined as interdisciplinary connections to political_science",
+      "question": "What is political science?",
+      "answer": "political science is the study of historical development of political_science",
       "type": "definition",
       "topic": "political_science"
     },
     {
-      "question": "Define political science.",
-      "answer": "political science can be defined as the fundamental principles of political_science",
-      "type": "definition",
-      "topic": "political_science"
-    },
-    {
-      "question": "What principle underlies political science?",
-      "answer": "The principle underlying political science is the fundamental principles of political_science",
-      "type": "concept",
-      "topic": "political_science"
-    },
-    {
-      "question": "Why is political science important?",
-      "answer": "political science is important because research methods in political_science",
+      "question": "What is the purpose of political science?",
+      "answer": "The purpose of political science is to modern understanding of political_science",
       "type": "explanation",
       "topic": "political_science"
     },
     {
-      "question": "What is a key concept in political science?",
-      "answer": "A key concept in political science is interdisciplinary connections to political_science",
+      "question": "What should I know about political science?",
+      "answer": "You should know that in political science, modern understanding of political_science",
       "type": "concept",
       "topic": "political_science"
     }

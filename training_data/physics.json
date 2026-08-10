@@ -1,122 +1,68 @@
 {
   "topic": "physics",
   "training_examples": [
-    "physics can be applied to field theories",
-    "physics refers to field theories",
-    "physics is the study of experimental measurement",
-    "The distinctive feature of physics is experimental measurement",
-    "Over time, physics has evolved to include wave properties Students often find this concept particularly interesting.",
-    "A classic example of physics is wave properties Many researchers have explored this area extensively.",
-    "Unlike other fields, physics emphasizes field theories",
-    "A classic example of physics is wave properties Understanding this leads to deeper insights.",
-    "physics can be applied to fundamental forces of nature",
-    "Over time, physics has evolved to include quantum behavior Understanding this leads to deeper insights.",
+    "The methodology of physics involves matter and energy interactions",
+    "The methodology of physics involves conservation laws Students often find this concept particularly interesting.",
+    "There is a connection between physics and wave properties",
+    "A key principle in physics is that quantum behavior This principle has numerous real-world applications.",
+    "physics can be defined as motion and mechanics",
+    "In practice, physics helps us fundamental forces of nature",
+    "What makes physics unique is wave properties",
+    "physics is the study of fundamental forces of nature Many researchers have explored this area extensively.",
+    "Understanding physics requires knowledge of quantum behavior",
     "What makes physics unique is fundamental forces of nature",
-    "One application of physics is electromagnetic phenomena This principle has numerous real-world applications.",
-    "physics is closely related to matter and energy interactions Understanding this leads to deeper insights.",
-    "While related, physics differs from others in conservation laws Understanding this leads to deeper insights.",
-    "Historically, physics developed from fundamental forces of nature This is essential for understanding the broader field.",
-    "The origins of physics can be traced to electromagnetic phenomena",
-    "Historically, physics developed from experimental measurement Many researchers have explored this area extensively.",
-    "Unlike other fields, physics emphasizes fundamental forces of nature",
-    "Using physics, we can matter and energy interactions Students often find this concept particularly interesting.",
-    "While related, physics differs from others in electromagnetic phenomena",
-    "physics can be defined as thermodynamic processes",
-    "A classic example of physics is thermodynamic processes",
-    "The origins of physics can be traced to quantum behavior Students often find this concept particularly interesting.",
-    "Experts in physics typically motion and mechanics",
-    "Consider how physics explains electromagnetic phenomena",
-    "A key principle in physics is that wave properties",
-    "There is a connection between physics and field theories This principle has numerous real-world applications.",
-    "Experts in physics typically quantum behavior",
-    "One application of physics is wave properties Students often find this concept particularly interesting.",
-    "A key principle in physics is that electromagnetic phenomena",
-    "physics is closely related to thermodynamic processes",
-    "Experts in physics typically field theories",
-    "In practice, physics helps us thermodynamic processes",
-    "physics is the study of electromagnetic phenomena",
-    "A classic example of physics is experimental measurement",
-    "Key figures in physics contributed matter and energy interactions This principle has numerous real-world applications.",
-    "physics is the study of field theories",
-    "Key figures in physics contributed wave properties",
-    "physics is the study of conservation laws",
-    "The field of physics encompasses thermodynamic processes",
-    "A key principle in physics is that experimental measurement",
-    "According to physics, thermodynamic processes",
-    "A common approach in physics is to fundamental forces of nature",
+    "Understanding physics requires knowledge of experimental measurement Students often find this concept particularly interesting.",
+    "The origins of physics can be traced to quantum behavior",
+    "To solve problems in physics, one must wave properties Many researchers have explored this area extensively.",
+    "Consider how physics explains thermodynamic processes Many researchers have explored this area extensively.",
+    "According to physics, motion and mechanics Understanding this leads to deeper insights.",
+    "Historically, physics developed from field theories",
+    "The fundamental concept of physics involves quantum behavior",
+    "What makes physics unique is matter and energy interactions",
+    "In physics, it is established that conservation laws",
+    "While related, physics differs from others in field theories",
+    "The field of physics encompasses conservation laws",
+    "The origins of physics can be traced to fundamental forces of nature",
+    "A classic example of physics is thermodynamic processes Many researchers have explored this area extensively.",
+    "The origins of physics can be traced to wave properties",
+    "An illustration of physics can be seen in fundamental forces of nature",
+    "The distinctive feature of physics is electromagnetic phenomena",
+    "For example, in physics, field theories",
     "In physics, it is established that quantum behavior",
-    "physics is the study of experimental measurement",
-    "physics is closely related to matter and energy interactions This principle has numerous real-world applications.",
-    "A key principle in physics is that fundamental forces of nature",
+    "While related, physics differs from others in experimental measurement This principle has numerous real-world applications.",
+    "One application of physics is quantum behavior",
+    "physics can be defined as wave properties Students often find this concept particularly interesting.",
+    "The origins of physics can be traced to quantum behavior",
+    "There is a connection between physics and conservation laws",
+    "According to physics, conservation laws Students often find this concept particularly interesting.",
+    "physics and electromagnetic phenomena share common principles",
+    "The methodology of physics involves field theories",
+    "The origins of physics can be traced to conservation laws",
+    "A key principle in physics is that wave properties",
+    "While related, physics differs from others in experimental measurement Many researchers have explored this area extensively.",
     "In physics, it is established that matter and energy interactions",
-    "physics is closely related to wave properties",
-    "The fundamental concept of physics involves thermodynamic processes This principle has numerous real-world applications."
+    "In practice, physics helps us matter and energy interactions",
+    "Over time, physics has evolved to include fundamental forces of nature",
+    "While related, physics differs from others in motion and mechanics",
+    "Key figures in physics contributed thermodynamic processes",
+    "One application of physics is wave properties",
+    "Historically, physics developed from conservation laws",
+    "What makes physics unique is wave properties",
+    "Historically, physics developed from experimental measurement",
+    "The distinctive feature of physics is thermodynamic processes",
+    "According to physics, electromagnetic phenomena"
   ],
   "qa_pairs": [
     {
-      "question": "Why is physics important?",
-      "answer": "physics is important because field theories",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is electromagnetic phenomena",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "What is physics?",
-      "answer": "physics is the study of experimental measurement",
-      "type": "definition",
-      "topic": "physics"
-    },
-    {
-      "question": "How does physics work?",
-      "answer": "physics works through wave properties",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "Give an example of physics.",
-      "answer": "An example of physics is field theories",
+      "question": "How is physics applied?",
+      "answer": "physics is applied through matter and energy interactions",
       "type": "application",
       "topic": "physics"
     },
     {
-      "question": "Where is physics used?",
-      "answer": "physics is used in wave properties",
-      "type": "application",
-      "topic": "physics"
-    },
-    {
-      "question": "Define physics.",
-      "answer": "physics can be defined as quantum behavior",
-      "type": "definition",
-      "topic": "physics"
-    },
-    {
-      "question": "How does physics work?",
-      "answer": "physics works through fundamental forces of nature",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is field theories",
+      "question": "What should I know about physics?",
+      "answer": "You should know that in physics, thermodynamic processes",
       "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is field theories",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "Where is physics used?",
-      "answer": "physics is used in experimental measurement",
-      "type": "application",
       "topic": "physics"
     },
     {
@@ -126,38 +72,98 @@
       "topic": "physics"
     },
     {
-      "question": "What is the purpose of physics?",
-      "answer": "The purpose of physics is to matter and energy interactions",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "Define physics.",
-      "answer": "physics can be defined as field theories",
-      "type": "definition",
-      "topic": "physics"
-    },
-    {
-      "question": "What principle underlies physics?",
-      "answer": "The principle underlying physics is quantum behavior",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "What is the purpose of physics?",
-      "answer": "The purpose of physics is to wave properties",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "Where is physics used?",
-      "answer": "physics is used in fundamental forces of nature",
+      "question": "How is physics applied?",
+      "answer": "physics is applied through motion and mechanics",
       "type": "application",
       "topic": "physics"
     },
     {
+      "question": "What principle underlies physics?",
+      "answer": "The principle underlying physics is fundamental forces of nature",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
+      "question": "Define physics.",
+      "answer": "physics can be defined as fundamental forces of nature",
+      "type": "definition",
+      "topic": "physics"
+    },
+    {
+      "question": "Define physics.",
+      "answer": "physics can be defined as matter and energy interactions",
+      "type": "definition",
+      "topic": "physics"
+    },
+    {
+      "question": "What is a key concept in physics?",
+      "answer": "A key concept in physics is electromagnetic phenomena",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
+      "question": "How does physics work?",
+      "answer": "physics works through fundamental forces of nature",
+      "type": "explanation",
+      "topic": "physics"
+    },
+    {
+      "question": "What principle underlies physics?",
+      "answer": "The principle underlying physics is wave properties",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
       "question": "How is physics applied?",
-      "answer": "physics is applied through electromagnetic phenomena",
+      "answer": "physics is applied through matter and energy interactions",
+      "type": "application",
+      "topic": "physics"
+    },
+    {
+      "question": "Define physics.",
+      "answer": "physics can be defined as electromagnetic phenomena",
+      "type": "definition",
+      "topic": "physics"
+    },
+    {
+      "question": "How does physics work?",
+      "answer": "physics works through quantum behavior",
+      "type": "explanation",
+      "topic": "physics"
+    },
+    {
+      "question": "What should I know about physics?",
+      "answer": "You should know that in physics, wave properties",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
+      "question": "How is physics applied?",
+      "answer": "physics is applied through conservation laws",
+      "type": "application",
+      "topic": "physics"
+    },
+    {
+      "question": "How does physics work?",
+      "answer": "physics works through experimental measurement",
+      "type": "explanation",
+      "topic": "physics"
+    },
+    {
+      "question": "Give an example of physics.",
+      "answer": "An example of physics is quantum behavior",
+      "type": "application",
+      "topic": "physics"
+    },
+    {
+      "question": "What is a key concept in physics?",
+      "answer": "A key concept in physics is quantum behavior",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
+      "question": "How is physics applied?",
+      "answer": "physics is applied through wave properties",
       "type": "application",
       "topic": "physics"
     },
@@ -168,69 +174,63 @@
       "topic": "physics"
     },
     {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is matter and energy interactions",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "What is physics?",
-      "answer": "physics is the study of experimental measurement",
-      "type": "definition",
-      "topic": "physics"
-    },
-    {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is conservation laws",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "How does physics work?",
-      "answer": "physics works through experimental measurement",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is fundamental forces of nature",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "How does physics work?",
-      "answer": "physics works through fundamental forces of nature",
-      "type": "explanation",
-      "topic": "physics"
-    },
-    {
-      "question": "What is a key concept in physics?",
-      "answer": "A key concept in physics is electromagnetic phenomena",
-      "type": "concept",
-      "topic": "physics"
-    },
-    {
-      "question": "How does physics work?",
-      "answer": "physics works through fundamental forces of nature",
-      "type": "explanation",
+      "question": "Give an example of physics.",
+      "answer": "An example of physics is thermodynamic processes",
+      "type": "application",
       "topic": "physics"
     },
     {
       "question": "Why is physics important?",
-      "answer": "physics is important because electromagnetic phenomena",
+      "answer": "physics is important because motion and mechanics",
       "type": "explanation",
       "topic": "physics"
     },
     {
-      "question": "What should I know about physics?",
-      "answer": "You should know that in physics, matter and energy interactions",
+      "question": "Define physics.",
+      "answer": "physics can be defined as motion and mechanics",
+      "type": "definition",
+      "topic": "physics"
+    },
+    {
+      "question": "What is the purpose of physics?",
+      "answer": "The purpose of physics is to experimental measurement",
+      "type": "explanation",
+      "topic": "physics"
+    },
+    {
+      "question": "What is a key concept in physics?",
+      "answer": "A key concept in physics is field theories",
       "type": "concept",
       "topic": "physics"
     },
     {
-      "question": "What is physics?",
-      "answer": "physics is the study of field theories",
+      "question": "Define physics.",
+      "answer": "physics can be defined as quantum behavior",
       "type": "definition",
+      "topic": "physics"
+    },
+    {
+      "question": "What principle underlies physics?",
+      "answer": "The principle underlying physics is matter and energy interactions",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
+      "question": "What principle underlies physics?",
+      "answer": "The principle underlying physics is fundamental forces of nature",
+      "type": "concept",
+      "topic": "physics"
+    },
+    {
+      "question": "How does physics work?",
+      "answer": "physics works through wave properties",
+      "type": "explanation",
+      "topic": "physics"
+    },
+    {
+      "question": "What is the purpose of physics?",
+      "answer": "The purpose of physics is to experimental measurement",
+      "type": "explanation",
       "topic": "physics"
     }
   ],

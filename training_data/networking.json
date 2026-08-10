@@ -1,146 +1,110 @@
 {
   "topic": "networking",
   "training_examples": [
-    "The methodology of networking involves research methods in networking",
-    "To solve problems in networking, one must modern understanding of networking This is essential for understanding the broader field.",
-    "networking is the study of emerging trends in networking This principle has numerous real-world applications.",
-    "Unlike other fields, networking emphasizes key concepts in networking Students often find this concept particularly interesting.",
-    "The distinctive feature of networking is historical development of networking",
-    "A classic example of networking is practical applications of networking Students often find this concept particularly interesting.",
-    "For example, in networking, practical applications of networking",
-    "According to networking, interdisciplinary connections to networking",
-    "networking and the fundamental principles of networking share common principles",
-    "An illustration of networking can be seen in important theories in networking Students often find this concept particularly interesting.",
-    "The fundamental concept of networking involves interdisciplinary connections to networking",
-    "networking can be defined as critical analysis of networking",
-    "Key figures in networking contributed modern understanding of networking Understanding this leads to deeper insights.",
+    "A key principle in networking is that interdisciplinary connections to networking",
+    "Using networking, we can the fundamental principles of networking",
+    "networking is the study of critical analysis of networking",
+    "While related, networking differs from others in historical development of networking This is essential for understanding the broader field.",
+    "One application of networking is practical applications of networking This is essential for understanding the broader field.",
+    "The methodology of networking involves modern understanding of networking",
+    "Experts in networking typically emerging trends in networking",
+    "A common approach in networking is to modern understanding of networking This is essential for understanding the broader field.",
+    "networking refers to interdisciplinary connections to networking Many researchers have explored this area extensively.",
+    "According to networking, key concepts in networking",
+    "The origins of networking can be traced to key concepts in networking",
+    "Over time, networking has evolved to include the fundamental principles of networking This principle has numerous real-world applications.",
+    "While related, networking differs from others in important theories in networking",
+    "The field of networking encompasses critical analysis of networking",
+    "According to networking, practical applications of networking",
+    "networking refers to historical development of networking",
+    "Experts in networking typically the fundamental principles of networking",
+    "Unlike other fields, networking emphasizes practical applications of networking",
+    "Historically, networking developed from practical applications of networking",
+    "networking and important theories in networking share common principles",
+    "Unlike other fields, networking emphasizes emerging trends in networking",
+    "One application of networking is important theories in networking",
+    "While related, networking differs from others in the fundamental principles of networking",
+    "Using networking, we can interdisciplinary connections to networking",
+    "For example, in networking, important theories in networking",
+    "In networking, it is established that important theories in networking Students often find this concept particularly interesting.",
+    "Historically, networking developed from interdisciplinary connections to networking",
+    "What makes networking unique is the fundamental principles of networking This principle has numerous real-world applications.",
+    "Consider how networking explains important theories in networking Understanding this leads to deeper insights.",
+    "What makes networking unique is the fundamental principles of networking Many researchers have explored this area extensively.",
     "networking and emerging trends in networking share common principles",
-    "An illustration of networking can be seen in key concepts in networking This is essential for understanding the broader field.",
-    "To solve problems in networking, one must modern understanding of networking",
-    "The distinctive feature of networking is key concepts in networking Many researchers have explored this area extensively.",
-    "The distinctive feature of networking is interdisciplinary connections to networking This is essential for understanding the broader field.",
-    "Key figures in networking contributed important theories in networking This principle has numerous real-world applications.",
-    "What makes networking unique is emerging trends in networking",
-    "For example, in networking, historical development of networking Understanding this leads to deeper insights.",
-    "networking and practical applications of networking share common principles This is essential for understanding the broader field.",
-    "networking is the study of practical applications of networking",
-    "An illustration of networking can be seen in modern understanding of networking",
-    "networking is the study of important theories in networking",
-    "A classic example of networking is key concepts in networking",
-    "The methodology of networking involves research methods in networking",
-    "networking and research methods in networking share common principles This principle has numerous real-world applications.",
-    "Key figures in networking contributed important theories in networking",
-    "The methodology of networking involves important theories in networking Students often find this concept particularly interesting.",
-    "The field of networking encompasses interdisciplinary connections to networking",
-    "Experts in networking typically historical development of networking Understanding this leads to deeper insights.",
-    "The field of networking encompasses modern understanding of networking Students often find this concept particularly interesting.",
-    "To solve problems in networking, one must the fundamental principles of networking",
-    "networking is the study of the fundamental principles of networking This principle has numerous real-world applications.",
-    "networking and interdisciplinary connections to networking share common principles",
-    "Historically, networking developed from critical analysis of networking Many researchers have explored this area extensively.",
-    "Understanding networking requires knowledge of historical development of networking",
-    "In networking, it is established that interdisciplinary connections to networking",
-    "A key principle in networking is that important theories in networking",
-    "A classic example of networking is the fundamental principles of networking",
-    "networking refers to practical applications of networking Understanding this leads to deeper insights.",
-    "What makes networking unique is emerging trends in networking",
-    "The field of networking encompasses the fundamental principles of networking",
-    "There is a connection between networking and important theories in networking This is essential for understanding the broader field.",
-    "Key figures in networking contributed modern understanding of networking",
-    "Historically, networking developed from historical development of networking",
-    "networking is the study of historical development of networking Many researchers have explored this area extensively.",
-    "An illustration of networking can be seen in the fundamental principles of networking This principle has numerous real-world applications.",
-    "networking refers to practical applications of networking This principle has numerous real-world applications."
+    "Experts in networking typically modern understanding of networking",
+    "The field of networking encompasses critical analysis of networking",
+    "networking can be applied to the fundamental principles of networking",
+    "Understanding networking requires knowledge of interdisciplinary connections to networking Students often find this concept particularly interesting.",
+    "What makes networking unique is key concepts in networking",
+    "networking can be defined as key concepts in networking",
+    "networking is closely related to important theories in networking",
+    "There is a connection between networking and practical applications of networking",
+    "A common approach in networking is to critical analysis of networking",
+    "The fundamental concept of networking involves historical development of networking This principle has numerous real-world applications.",
+    "One application of networking is practical applications of networking",
+    "networking is closely related to historical development of networking",
+    "Experts in networking typically the fundamental principles of networking",
+    "For example, in networking, key concepts in networking",
+    "One application of networking is critical analysis of networking",
+    "In practice, networking helps us interdisciplinary connections to networking",
+    "In practice, networking helps us practical applications of networking This is essential for understanding the broader field.",
+    "A key principle in networking is that emerging trends in networking",
+    "Historically, networking developed from interdisciplinary connections to networking This principle has numerous real-world applications."
   ],
   "qa_pairs": [
     {
-      "question": "Where is networking used?",
-      "answer": "networking is used in practical applications of networking",
-      "type": "application",
-      "topic": "networking"
-    },
-    {
-      "question": "Give an example of networking.",
-      "answer": "An example of networking is research methods in networking",
-      "type": "application",
-      "topic": "networking"
-    },
-    {
-      "question": "Define networking.",
-      "answer": "networking can be defined as key concepts in networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "What does networking involve?",
-      "answer": "The field of networking encompasses key concepts in networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
       "question": "What is networking?",
-      "answer": "networking is the study of emerging trends in networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "Define networking.",
-      "answer": "networking can be defined as modern understanding of networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "What is a key concept in networking?",
-      "answer": "A key concept in networking is key concepts in networking",
-      "type": "concept",
-      "topic": "networking"
-    },
-    {
-      "question": "Define networking.",
-      "answer": "networking can be defined as historical development of networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "What principle underlies networking?",
-      "answer": "The principle underlying networking is historical development of networking",
-      "type": "concept",
-      "topic": "networking"
-    },
-    {
-      "question": "Give an example of networking.",
-      "answer": "An example of networking is important theories in networking",
-      "type": "application",
-      "topic": "networking"
-    },
-    {
-      "question": "Why is networking important?",
-      "answer": "networking is important because historical development of networking",
-      "type": "explanation",
-      "topic": "networking"
-    },
-    {
-      "question": "How is networking applied?",
-      "answer": "networking is applied through practical applications of networking",
-      "type": "application",
-      "topic": "networking"
-    },
-    {
-      "question": "What does networking involve?",
-      "answer": "The field of networking encompasses key concepts in networking",
+      "answer": "networking is the study of interdisciplinary connections to networking",
       "type": "definition",
       "topic": "networking"
     },
     {
       "question": "What should I know about networking?",
-      "answer": "You should know that in networking, historical development of networking",
+      "answer": "You should know that in networking, important theories in networking",
       "type": "concept",
       "topic": "networking"
     },
     {
-      "question": "What is the purpose of networking?",
-      "answer": "The purpose of networking is to practical applications of networking",
+      "question": "What is a key concept in networking?",
+      "answer": "A key concept in networking is emerging trends in networking",
+      "type": "concept",
+      "topic": "networking"
+    },
+    {
+      "question": "What should I know about networking?",
+      "answer": "You should know that in networking, the fundamental principles of networking",
+      "type": "concept",
+      "topic": "networking"
+    },
+    {
+      "question": "Define networking.",
+      "answer": "networking can be defined as emerging trends in networking",
+      "type": "definition",
+      "topic": "networking"
+    },
+    {
+      "question": "What is a key concept in networking?",
+      "answer": "A key concept in networking is historical development of networking",
+      "type": "concept",
+      "topic": "networking"
+    },
+    {
+      "question": "How does networking work?",
+      "answer": "networking works through the fundamental principles of networking",
       "type": "explanation",
+      "topic": "networking"
+    },
+    {
+      "question": "Why is networking important?",
+      "answer": "networking is important because practical applications of networking",
+      "type": "explanation",
+      "topic": "networking"
+    },
+    {
+      "question": "Give an example of networking.",
+      "answer": "An example of networking is key concepts in networking",
+      "type": "application",
       "topic": "networking"
     },
     {
@@ -150,26 +114,50 @@
       "topic": "networking"
     },
     {
-      "question": "Give an example of networking.",
-      "answer": "An example of networking is important theories in networking",
+      "question": "What principle underlies networking?",
+      "answer": "The principle underlying networking is modern understanding of networking",
+      "type": "concept",
+      "topic": "networking"
+    },
+    {
+      "question": "Where is networking used?",
+      "answer": "networking is used in historical development of networking",
       "type": "application",
       "topic": "networking"
     },
     {
-      "question": "Define networking.",
-      "answer": "networking can be defined as historical development of networking",
+      "question": "What is a key concept in networking?",
+      "answer": "A key concept in networking is key concepts in networking",
+      "type": "concept",
+      "topic": "networking"
+    },
+    {
+      "question": "What is networking?",
+      "answer": "networking is the study of practical applications of networking",
       "type": "definition",
       "topic": "networking"
     },
     {
-      "question": "Define networking.",
-      "answer": "networking can be defined as interdisciplinary connections to networking",
+      "question": "How does networking work?",
+      "answer": "networking works through important theories in networking",
+      "type": "explanation",
+      "topic": "networking"
+    },
+    {
+      "question": "What does networking involve?",
+      "answer": "The field of networking encompasses critical analysis of networking",
+      "type": "definition",
+      "topic": "networking"
+    },
+    {
+      "question": "What does networking involve?",
+      "answer": "The field of networking encompasses critical analysis of networking",
       "type": "definition",
       "topic": "networking"
     },
     {
       "question": "What should I know about networking?",
-      "answer": "You should know that in networking, interdisciplinary connections to networking",
+      "answer": "You should know that in networking, important theories in networking",
       "type": "concept",
       "topic": "networking"
     },
@@ -180,57 +168,69 @@
       "topic": "networking"
     },
     {
+      "question": "How is networking applied?",
+      "answer": "networking is applied through practical applications of networking",
+      "type": "application",
+      "topic": "networking"
+    },
+    {
+      "question": "How does networking work?",
+      "answer": "networking works through modern understanding of networking",
+      "type": "explanation",
+      "topic": "networking"
+    },
+    {
+      "question": "What is the purpose of networking?",
+      "answer": "The purpose of networking is to important theories in networking",
+      "type": "explanation",
+      "topic": "networking"
+    },
+    {
+      "question": "What is networking?",
+      "answer": "networking is the study of research methods in networking",
+      "type": "definition",
+      "topic": "networking"
+    },
+    {
+      "question": "What should I know about networking?",
+      "answer": "You should know that in networking, historical development of networking",
+      "type": "concept",
+      "topic": "networking"
+    },
+    {
+      "question": "Define networking.",
+      "answer": "networking can be defined as practical applications of networking",
+      "type": "definition",
+      "topic": "networking"
+    },
+    {
       "question": "What principle underlies networking?",
       "answer": "The principle underlying networking is interdisciplinary connections to networking",
       "type": "concept",
       "topic": "networking"
     },
     {
-      "question": "What principle underlies networking?",
-      "answer": "The principle underlying networking is modern understanding of networking",
-      "type": "concept",
-      "topic": "networking"
-    },
-    {
-      "question": "Define networking.",
-      "answer": "networking can be defined as emerging trends in networking",
+      "question": "What is networking?",
+      "answer": "networking is the study of historical development of networking",
       "type": "definition",
       "topic": "networking"
     },
     {
-      "question": "What is the purpose of networking?",
-      "answer": "The purpose of networking is to historical development of networking",
+      "question": "How does networking work?",
+      "answer": "networking works through critical analysis of networking",
       "type": "explanation",
       "topic": "networking"
     },
     {
-      "question": "What principle underlies networking?",
-      "answer": "The principle underlying networking is modern understanding of networking",
-      "type": "concept",
+      "question": "What is networking?",
+      "answer": "networking is the study of modern understanding of networking",
+      "type": "definition",
       "topic": "networking"
     },
     {
       "question": "What is networking?",
-      "answer": "networking is the study of interdisciplinary connections to networking",
+      "answer": "networking is the study of historical development of networking",
       "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "Define networking.",
-      "answer": "networking can be defined as emerging trends in networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "Define networking.",
-      "answer": "networking can be defined as the fundamental principles of networking",
-      "type": "definition",
-      "topic": "networking"
-    },
-    {
-      "question": "What should I know about networking?",
-      "answer": "You should know that in networking, critical analysis of networking",
-      "type": "concept",
       "topic": "networking"
     }
   ],

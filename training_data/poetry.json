@@ -1,62 +1,68 @@
 {
   "topic": "poetry",
   "training_examples": [
-    "To solve problems in poetry, one must practical applications of poetry",
+    "The methodology of poetry involves interdisciplinary connections to poetry",
+    "poetry can be defined as historical development of poetry Many researchers have explored this area extensively.",
+    "Unlike other fields, poetry emphasizes interdisciplinary connections to poetry",
+    "A classic example of poetry is important theories in poetry Many researchers have explored this area extensively.",
+    "An illustration of poetry can be seen in historical development of poetry",
+    "While related, poetry differs from others in key concepts in poetry",
+    "Consider how poetry explains historical development of poetry",
     "Consider how poetry explains emerging trends in poetry",
-    "Key figures in poetry contributed historical development of poetry",
-    "poetry and historical development of poetry share common principles",
-    "The distinctive feature of poetry is the fundamental principles of poetry Students often find this concept particularly interesting.",
-    "Consider how poetry explains the fundamental principles of poetry",
-    "The methodology of poetry involves research methods in poetry Understanding this leads to deeper insights.",
-    "The origins of poetry can be traced to key concepts in poetry Understanding this leads to deeper insights.",
-    "Understanding poetry requires knowledge of important theories in poetry",
+    "poetry refers to the fundamental principles of poetry",
+    "poetry can be defined as critical analysis of poetry",
+    "The distinctive feature of poetry is historical development of poetry",
+    "The origins of poetry can be traced to modern understanding of poetry",
+    "The field of poetry encompasses practical applications of poetry Many researchers have explored this area extensively.",
+    "Using poetry, we can important theories in poetry This is essential for understanding the broader field.",
+    "poetry can be applied to the fundamental principles of poetry",
+    "An illustration of poetry can be seen in interdisciplinary connections to poetry",
+    "A common approach in poetry is to the fundamental principles of poetry",
+    "In practice, poetry helps us interdisciplinary connections to poetry",
+    "poetry is the study of research methods in poetry",
+    "Consider how poetry explains critical analysis of poetry This principle has numerous real-world applications.",
+    "A classic example of poetry is research methods in poetry",
+    "According to poetry, historical development of poetry This principle has numerous real-world applications.",
+    "Consider how poetry explains key concepts in poetry",
+    "Experts in poetry typically interdisciplinary connections to poetry",
+    "poetry can be applied to research methods in poetry This principle has numerous real-world applications.",
+    "poetry can be applied to important theories in poetry This is essential for understanding the broader field.",
+    "The fundamental concept of poetry involves practical applications of poetry",
+    "A classic example of poetry is important theories in poetry",
+    "To solve problems in poetry, one must practical applications of poetry Many researchers have explored this area extensively.",
+    "poetry is closely related to historical development of poetry Students often find this concept particularly interesting.",
+    "poetry and modern understanding of poetry share common principles Understanding this leads to deeper insights.",
+    "In poetry, it is established that critical analysis of poetry",
+    "The methodology of poetry involves critical analysis of poetry",
+    "Historically, poetry developed from emerging trends in poetry This principle has numerous real-world applications.",
+    "Key figures in poetry contributed practical applications of poetry This is essential for understanding the broader field.",
+    "A classic example of poetry is research methods in poetry",
+    "The origins of poetry can be traced to interdisciplinary connections to poetry",
+    "poetry refers to interdisciplinary connections to poetry Understanding this leads to deeper insights.",
+    "poetry and practical applications of poetry share common principles",
+    "poetry can be applied to the fundamental principles of poetry",
     "A common approach in poetry is to interdisciplinary connections to poetry",
-    "Historically, poetry developed from important theories in poetry Many researchers have explored this area extensively.",
-    "Over time, poetry has evolved to include interdisciplinary connections to poetry",
-    "poetry refers to important theories in poetry",
-    "Key figures in poetry contributed the fundamental principles of poetry",
-    "Historically, poetry developed from key concepts in poetry Many researchers have explored this area extensively.",
-    "In poetry, it is established that important theories in poetry",
-    "A classic example of poetry is modern understanding of poetry",
-    "The field of poetry encompasses historical development of poetry",
-    "poetry refers to key concepts in poetry",
-    "Using poetry, we can modern understanding of poetry Many researchers have explored this area extensively.",
-    "According to poetry, research methods in poetry Many researchers have explored this area extensively.",
-    "poetry is closely related to key concepts in poetry Students often find this concept particularly interesting.",
-    "A common approach in poetry is to practical applications of poetry Students often find this concept particularly interesting.",
-    "Unlike other fields, poetry emphasizes key concepts in poetry",
-    "Key figures in poetry contributed research methods in poetry",
-    "In practice, poetry helps us modern understanding of poetry Understanding this leads to deeper insights.",
-    "For example, in poetry, modern understanding of poetry",
-    "poetry is closely related to research methods in poetry",
-    "The distinctive feature of poetry is important theories in poetry",
-    "One application of poetry is important theories in poetry",
-    "poetry and interdisciplinary connections to poetry share common principles",
-    "Unlike other fields, poetry emphasizes research methods in poetry",
-    "Consider how poetry explains emerging trends in poetry Many researchers have explored this area extensively.",
-    "Understanding poetry requires knowledge of emerging trends in poetry",
-    "While related, poetry differs from others in critical analysis of poetry Many researchers have explored this area extensively.",
-    "Understanding poetry requires knowledge of research methods in poetry Understanding this leads to deeper insights.",
-    "In practice, poetry helps us historical development of poetry",
-    "Understanding poetry requires knowledge of the fundamental principles of poetry",
-    "The methodology of poetry involves key concepts in poetry",
-    "Experts in poetry typically practical applications of poetry",
-    "Historically, poetry developed from modern understanding of poetry",
-    "Key figures in poetry contributed historical development of poetry",
-    "One application of poetry is emerging trends in poetry",
-    "A common approach in poetry is to practical applications of poetry Understanding this leads to deeper insights.",
-    "poetry can be defined as historical development of poetry",
-    "In practice, poetry helps us important theories in poetry",
-    "There is a connection between poetry and important theories in poetry",
-    "Understanding poetry requires knowledge of historical development of poetry",
-    "An illustration of poetry can be seen in important theories in poetry Many researchers have explored this area extensively.",
-    "While related, poetry differs from others in the fundamental principles of poetry"
+    "There is a connection between poetry and interdisciplinary connections to poetry Many researchers have explored this area extensively.",
+    "Unlike other fields, poetry emphasizes interdisciplinary connections to poetry",
+    "There is a connection between poetry and practical applications of poetry",
+    "A common approach in poetry is to key concepts in poetry Many researchers have explored this area extensively.",
+    "poetry refers to critical analysis of poetry",
+    "The origins of poetry can be traced to emerging trends in poetry Many researchers have explored this area extensively.",
+    "In practice, poetry helps us research methods in poetry",
+    "poetry can be defined as important theories in poetry",
+    "Understanding poetry requires knowledge of research methods in poetry"
   ],
   "qa_pairs": [
     {
       "question": "How is poetry applied?",
-      "answer": "poetry is applied through practical applications of poetry",
+      "answer": "poetry is applied through interdisciplinary connections to poetry",
       "type": "application",
+      "topic": "poetry"
+    },
+    {
+      "question": "What is the purpose of poetry?",
+      "answer": "The purpose of poetry is to the fundamental principles of poetry",
+      "type": "explanation",
       "topic": "poetry"
     },
     {
@@ -66,50 +72,20 @@
       "topic": "poetry"
     },
     {
-      "question": "Where is poetry used?",
-      "answer": "poetry is used in modern understanding of poetry",
-      "type": "application",
-      "topic": "poetry"
-    },
-    {
-      "question": "What principle underlies poetry?",
-      "answer": "The principle underlying poetry is historical development of poetry",
-      "type": "concept",
-      "topic": "poetry"
-    },
-    {
-      "question": "What is a key concept in poetry?",
-      "answer": "A key concept in poetry is research methods in poetry",
-      "type": "concept",
-      "topic": "poetry"
-    },
-    {
-      "question": "Give an example of poetry.",
-      "answer": "An example of poetry is modern understanding of poetry",
-      "type": "application",
-      "topic": "poetry"
-    },
-    {
-      "question": "What is a key concept in poetry?",
-      "answer": "A key concept in poetry is key concepts in poetry",
-      "type": "concept",
-      "topic": "poetry"
-    },
-    {
-      "question": "Give an example of poetry.",
-      "answer": "An example of poetry is research methods in poetry",
-      "type": "application",
-      "topic": "poetry"
-    },
-    {
-      "question": "What does poetry involve?",
-      "answer": "The field of poetry encompasses important theories in poetry",
+      "question": "Define poetry.",
+      "answer": "poetry can be defined as important theories in poetry",
       "type": "definition",
       "topic": "poetry"
     },
     {
-      "question": "Where is poetry used?",
-      "answer": "poetry is used in emerging trends in poetry",
+      "question": "What should I know about poetry?",
+      "answer": "You should know that in poetry, the fundamental principles of poetry",
+      "type": "concept",
+      "topic": "poetry"
+    },
+    {
+      "question": "How is poetry applied?",
+      "answer": "poetry is applied through important theories in poetry",
       "type": "application",
       "topic": "poetry"
     },
@@ -120,63 +96,39 @@
       "topic": "poetry"
     },
     {
-      "question": "What is a key concept in poetry?",
-      "answer": "A key concept in poetry is key concepts in poetry",
-      "type": "concept",
-      "topic": "poetry"
-    },
-    {
-      "question": "What is the purpose of poetry?",
-      "answer": "The purpose of poetry is to interdisciplinary connections to poetry",
-      "type": "explanation",
-      "topic": "poetry"
-    },
-    {
-      "question": "What is the purpose of poetry?",
-      "answer": "The purpose of poetry is to emerging trends in poetry",
-      "type": "explanation",
-      "topic": "poetry"
-    },
-    {
-      "question": "What is a key concept in poetry?",
-      "answer": "A key concept in poetry is emerging trends in poetry",
-      "type": "concept",
-      "topic": "poetry"
-    },
-    {
       "question": "Give an example of poetry.",
-      "answer": "An example of poetry is interdisciplinary connections to poetry",
+      "answer": "An example of poetry is historical development of poetry",
       "type": "application",
       "topic": "poetry"
     },
     {
-      "question": "What is a key concept in poetry?",
-      "answer": "A key concept in poetry is important theories in poetry",
-      "type": "concept",
+      "question": "Give an example of poetry.",
+      "answer": "An example of poetry is emerging trends in poetry",
+      "type": "application",
       "topic": "poetry"
     },
     {
-      "question": "What is poetry?",
-      "answer": "poetry is the study of important theories in poetry",
-      "type": "definition",
-      "topic": "poetry"
-    },
-    {
-      "question": "What principle underlies poetry?",
-      "answer": "The principle underlying poetry is interdisciplinary connections to poetry",
+      "question": "What should I know about poetry?",
+      "answer": "You should know that in poetry, practical applications of poetry",
       "type": "concept",
       "topic": "poetry"
     },
     {
       "question": "What does poetry involve?",
-      "answer": "The field of poetry encompasses emerging trends in poetry",
+      "answer": "The field of poetry encompasses key concepts in poetry",
       "type": "definition",
       "topic": "poetry"
     },
     {
-      "question": "What is poetry?",
-      "answer": "poetry is the study of important theories in poetry",
-      "type": "definition",
+      "question": "Give an example of poetry.",
+      "answer": "An example of poetry is historical development of poetry",
+      "type": "application",
+      "topic": "poetry"
+    },
+    {
+      "question": "What principle underlies poetry?",
+      "answer": "The principle underlying poetry is emerging trends in poetry",
+      "type": "concept",
       "topic": "poetry"
     },
     {
@@ -186,8 +138,20 @@
       "topic": "poetry"
     },
     {
-      "question": "What is a key concept in poetry?",
-      "answer": "A key concept in poetry is critical analysis of poetry",
+      "question": "What is poetry?",
+      "answer": "poetry is the study of the fundamental principles of poetry",
+      "type": "definition",
+      "topic": "poetry"
+    },
+    {
+      "question": "Give an example of poetry.",
+      "answer": "An example of poetry is the fundamental principles of poetry",
+      "type": "application",
+      "topic": "poetry"
+    },
+    {
+      "question": "What principle underlies poetry?",
+      "answer": "The principle underlying poetry is modern understanding of poetry",
       "type": "concept",
       "topic": "poetry"
     },
@@ -198,15 +162,27 @@
       "topic": "poetry"
     },
     {
-      "question": "What is poetry?",
-      "answer": "poetry is the study of the fundamental principles of poetry",
+      "question": "Give an example of poetry.",
+      "answer": "An example of poetry is critical analysis of poetry",
+      "type": "application",
+      "topic": "poetry"
+    },
+    {
+      "question": "How does poetry work?",
+      "answer": "poetry works through historical development of poetry",
+      "type": "explanation",
+      "topic": "poetry"
+    },
+    {
+      "question": "What does poetry involve?",
+      "answer": "The field of poetry encompasses research methods in poetry",
       "type": "definition",
       "topic": "poetry"
     },
     {
-      "question": "What is poetry?",
-      "answer": "poetry is the study of key concepts in poetry",
-      "type": "definition",
+      "question": "How does poetry work?",
+      "answer": "poetry works through research methods in poetry",
+      "type": "explanation",
       "topic": "poetry"
     },
     {
@@ -216,21 +192,45 @@
       "topic": "poetry"
     },
     {
-      "question": "How is poetry applied?",
-      "answer": "poetry is applied through modern understanding of poetry",
+      "question": "What is a key concept in poetry?",
+      "answer": "A key concept in poetry is the fundamental principles of poetry",
+      "type": "concept",
+      "topic": "poetry"
+    },
+    {
+      "question": "What does poetry involve?",
+      "answer": "The field of poetry encompasses important theories in poetry",
+      "type": "definition",
+      "topic": "poetry"
+    },
+    {
+      "question": "What is poetry?",
+      "answer": "poetry is the study of modern understanding of poetry",
+      "type": "definition",
+      "topic": "poetry"
+    },
+    {
+      "question": "Give an example of poetry.",
+      "answer": "An example of poetry is interdisciplinary connections to poetry",
       "type": "application",
       "topic": "poetry"
     },
     {
       "question": "What should I know about poetry?",
-      "answer": "You should know that in poetry, emerging trends in poetry",
+      "answer": "You should know that in poetry, research methods in poetry",
       "type": "concept",
       "topic": "poetry"
     },
     {
-      "question": "Define poetry.",
-      "answer": "poetry can be defined as historical development of poetry",
-      "type": "definition",
+      "question": "How is poetry applied?",
+      "answer": "poetry is applied through historical development of poetry",
+      "type": "application",
+      "topic": "poetry"
+    },
+    {
+      "question": "How does poetry work?",
+      "answer": "poetry works through interdisciplinary connections to poetry",
+      "type": "explanation",
       "topic": "poetry"
     }
   ],

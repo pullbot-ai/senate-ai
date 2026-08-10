@@ -1,122 +1,200 @@
 {
   "topic": "statistics",
   "training_examples": [
-    "Key figures in statistics contributed historical development of statistics",
-    "Understanding statistics requires knowledge of important theories in statistics",
-    "The fundamental concept of statistics involves critical analysis of statistics This principle has numerous real-world applications.",
-    "Using statistics, we can critical analysis of statistics",
-    "What makes statistics unique is practical applications of statistics Understanding this leads to deeper insights.",
-    "In practice, statistics helps us critical analysis of statistics",
-    "A common approach in statistics is to emerging trends in statistics Understanding this leads to deeper insights.",
-    "Experts in statistics typically important theories in statistics",
-    "Over time, statistics has evolved to include emerging trends in statistics Understanding this leads to deeper insights.",
-    "The origins of statistics can be traced to key concepts in statistics Understanding this leads to deeper insights.",
-    "statistics and interdisciplinary connections to statistics share common principles Understanding this leads to deeper insights.",
-    "The methodology of statistics involves key concepts in statistics",
-    "What makes statistics unique is modern understanding of statistics This is essential for understanding the broader field.",
-    "In statistics, it is established that key concepts in statistics",
-    "There is a connection between statistics and modern understanding of statistics",
-    "Over time, statistics has evolved to include the fundamental principles of statistics Many researchers have explored this area extensively.",
-    "Consider how statistics explains emerging trends in statistics",
-    "statistics is the study of research methods in statistics Understanding this leads to deeper insights.",
-    "To solve problems in statistics, one must interdisciplinary connections to statistics",
-    "An illustration of statistics can be seen in research methods in statistics",
-    "Over time, statistics has evolved to include modern understanding of statistics",
-    "In practice, statistics helps us emerging trends in statistics",
-    "What makes statistics unique is critical analysis of statistics",
-    "statistics can be applied to critical analysis of statistics",
-    "The origins of statistics can be traced to interdisciplinary connections to statistics",
-    "One application of statistics is practical applications of statistics",
-    "statistics is closely related to key concepts in statistics This is essential for understanding the broader field.",
-    "The field of statistics encompasses research methods in statistics Students often find this concept particularly interesting.",
-    "The origins of statistics can be traced to emerging trends in statistics",
-    "In practice, statistics helps us important theories in statistics",
-    "statistics and interdisciplinary connections to statistics share common principles",
-    "Over time, statistics has evolved to include modern understanding of statistics",
-    "Understanding statistics requires knowledge of modern understanding of statistics Understanding this leads to deeper insights.",
-    "statistics can be applied to critical analysis of statistics Many researchers have explored this area extensively.",
-    "The fundamental concept of statistics involves modern understanding of statistics",
-    "The origins of statistics can be traced to important theories in statistics",
-    "According to statistics, interdisciplinary connections to statistics",
-    "A common approach in statistics is to key concepts in statistics",
-    "A common approach in statistics is to interdisciplinary connections to statistics Students often find this concept particularly interesting.",
-    "statistics is closely related to the fundamental principles of statistics",
-    "There is a connection between statistics and interdisciplinary connections to statistics",
-    "A key principle in statistics is that critical analysis of statistics This principle has numerous real-world applications.",
-    "Historically, statistics developed from critical analysis of statistics",
-    "What makes statistics unique is key concepts in statistics",
+    "statistics can be applied to modern understanding of statistics Students often find this concept particularly interesting.",
+    "In statistics, it is established that critical analysis of statistics",
+    "A classic example of statistics is critical analysis of statistics",
+    "To solve problems in statistics, one must critical analysis of statistics",
+    "The methodology of statistics involves the fundamental principles of statistics",
+    "statistics refers to modern understanding of statistics Students often find this concept particularly interesting.",
+    "The fundamental concept of statistics involves research methods in statistics Understanding this leads to deeper insights.",
+    "Consider how statistics explains key concepts in statistics",
+    "The origins of statistics can be traced to important theories in statistics Many researchers have explored this area extensively.",
+    "Using statistics, we can emerging trends in statistics",
+    "The methodology of statistics involves emerging trends in statistics",
+    "Key figures in statistics contributed research methods in statistics This principle has numerous real-world applications.",
+    "Using statistics, we can emerging trends in statistics",
+    "The methodology of statistics involves historical development of statistics",
+    "Consider how statistics explains interdisciplinary connections to statistics",
+    "To solve problems in statistics, one must practical applications of statistics Understanding this leads to deeper insights.",
     "While related, statistics differs from others in historical development of statistics",
-    "One application of statistics is research methods in statistics This is essential for understanding the broader field.",
-    "Understanding statistics requires knowledge of important theories in statistics",
-    "Over time, statistics has evolved to include emerging trends in statistics This is essential for understanding the broader field.",
-    "A classic example of statistics is practical applications of statistics",
-    "statistics refers to interdisciplinary connections to statistics Many researchers have explored this area extensively."
+    "Consider how statistics explains emerging trends in statistics This is essential for understanding the broader field.",
+    "A classic example of statistics is the fundamental principles of statistics",
+    "The origins of statistics can be traced to modern understanding of statistics",
+    "According to statistics, interdisciplinary connections to statistics",
+    "One application of statistics is important theories in statistics",
+    "Unlike other fields, statistics emphasizes important theories in statistics",
+    "statistics can be defined as practical applications of statistics",
+    "statistics can be applied to modern understanding of statistics Many researchers have explored this area extensively.",
+    "To solve problems in statistics, one must practical applications of statistics",
+    "While related, statistics differs from others in interdisciplinary connections to statistics This is essential for understanding the broader field.",
+    "statistics is the study of emerging trends in statistics",
+    "Using statistics, we can important theories in statistics",
+    "What makes statistics unique is historical development of statistics",
+    "To solve problems in statistics, one must the fundamental principles of statistics",
+    "A classic example of statistics is research methods in statistics",
+    "Key figures in statistics contributed historical development of statistics",
+    "Consider how statistics explains research methods in statistics",
+    "The origins of statistics can be traced to interdisciplinary connections to statistics",
+    "Using statistics, we can the fundamental principles of statistics",
+    "A key principle in statistics is that historical development of statistics",
+    "One application of statistics is important theories in statistics Many researchers have explored this area extensively.",
+    "An illustration of statistics can be seen in modern understanding of statistics",
+    "statistics can be applied to the fundamental principles of statistics",
+    "A classic example of statistics is modern understanding of statistics",
+    "A classic example of statistics is key concepts in statistics This principle has numerous real-world applications.",
+    "To solve problems in statistics, one must critical analysis of statistics",
+    "statistics can be defined as practical applications of statistics",
+    "statistics refers to important theories in statistics",
+    "Unlike other fields, statistics emphasizes important theories in statistics",
+    "A common approach in statistics is to modern understanding of statistics",
+    "In statistics, it is established that interdisciplinary connections to statistics Students often find this concept particularly interesting.",
+    "For example, in statistics, historical development of statistics",
+    "According to statistics, interdisciplinary connections to statistics"
   ],
   "qa_pairs": [
     {
-      "question": "What principle underlies statistics?",
-      "answer": "The principle underlying statistics is historical development of statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
-      "question": "How does statistics work?",
-      "answer": "statistics works through important theories in statistics",
+      "question": "Why is statistics important?",
+      "answer": "statistics is important because modern understanding of statistics",
       "type": "explanation",
       "topic": "statistics"
     },
     {
-      "question": "What is a key concept in statistics?",
-      "answer": "A key concept in statistics is interdisciplinary connections to statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
       "question": "Give an example of statistics.",
-      "answer": "An example of statistics is practical applications of statistics",
+      "answer": "An example of statistics is historical development of statistics",
       "type": "application",
       "topic": "statistics"
     },
     {
       "question": "What does statistics involve?",
-      "answer": "The field of statistics encompasses critical analysis of statistics",
+      "answer": "The field of statistics encompasses important theories in statistics",
       "type": "definition",
       "topic": "statistics"
     },
     {
-      "question": "What is the purpose of statistics?",
-      "answer": "The purpose of statistics is to interdisciplinary connections to statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "What principle underlies statistics?",
-      "answer": "The principle underlying statistics is critical analysis of statistics",
+      "question": "What is a key concept in statistics?",
+      "answer": "A key concept in statistics is emerging trends in statistics",
       "type": "concept",
       "topic": "statistics"
     },
     {
-      "question": "What should I know about statistics?",
-      "answer": "You should know that in statistics, historical development of statistics",
+      "question": "Where is statistics used?",
+      "answer": "statistics is used in important theories in statistics",
+      "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "What is a key concept in statistics?",
+      "answer": "A key concept in statistics is research methods in statistics",
       "type": "concept",
       "topic": "statistics"
     },
     {
-      "question": "Why is statistics important?",
-      "answer": "statistics is important because historical development of statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "How does statistics work?",
-      "answer": "statistics works through critical analysis of statistics",
-      "type": "explanation",
+      "question": "Define statistics.",
+      "answer": "statistics can be defined as historical development of statistics",
+      "type": "definition",
       "topic": "statistics"
     },
     {
       "question": "Where is statistics used?",
       "answer": "statistics is used in emerging trends in statistics",
       "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "Why is statistics important?",
+      "answer": "statistics is important because the fundamental principles of statistics",
+      "type": "explanation",
+      "topic": "statistics"
+    },
+    {
+      "question": "How does statistics work?",
+      "answer": "statistics works through key concepts in statistics",
+      "type": "explanation",
+      "topic": "statistics"
+    },
+    {
+      "question": "How does statistics work?",
+      "answer": "statistics works through key concepts in statistics",
+      "type": "explanation",
+      "topic": "statistics"
+    },
+    {
+      "question": "Give an example of statistics.",
+      "answer": "An example of statistics is key concepts in statistics",
+      "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "What does statistics involve?",
+      "answer": "The field of statistics encompasses interdisciplinary connections to statistics",
+      "type": "definition",
+      "topic": "statistics"
+    },
+    {
+      "question": "Give an example of statistics.",
+      "answer": "An example of statistics is key concepts in statistics",
+      "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "What is a key concept in statistics?",
+      "answer": "A key concept in statistics is important theories in statistics",
+      "type": "concept",
+      "topic": "statistics"
+    },
+    {
+      "question": "What does statistics involve?",
+      "answer": "The field of statistics encompasses important theories in statistics",
+      "type": "definition",
+      "topic": "statistics"
+    },
+    {
+      "question": "How does statistics work?",
+      "answer": "statistics works through emerging trends in statistics",
+      "type": "explanation",
+      "topic": "statistics"
+    },
+    {
+      "question": "Define statistics.",
+      "answer": "statistics can be defined as important theories in statistics",
+      "type": "definition",
+      "topic": "statistics"
+    },
+    {
+      "question": "Where is statistics used?",
+      "answer": "statistics is used in critical analysis of statistics",
+      "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "What should I know about statistics?",
+      "answer": "You should know that in statistics, research methods in statistics",
+      "type": "concept",
+      "topic": "statistics"
+    },
+    {
+      "question": "Why is statistics important?",
+      "answer": "statistics is important because critical analysis of statistics",
+      "type": "explanation",
+      "topic": "statistics"
+    },
+    {
+      "question": "How does statistics work?",
+      "answer": "statistics works through emerging trends in statistics",
+      "type": "explanation",
+      "topic": "statistics"
+    },
+    {
+      "question": "How is statistics applied?",
+      "answer": "statistics is applied through historical development of statistics",
+      "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "What should I know about statistics?",
+      "answer": "You should know that in statistics, emerging trends in statistics",
+      "type": "concept",
       "topic": "statistics"
     },
     {
@@ -126,110 +204,32 @@
       "topic": "statistics"
     },
     {
-      "question": "Define statistics.",
-      "answer": "statistics can be defined as interdisciplinary connections to statistics",
-      "type": "definition",
-      "topic": "statistics"
-    },
-    {
-      "question": "Give an example of statistics.",
-      "answer": "An example of statistics is important theories in statistics",
-      "type": "application",
-      "topic": "statistics"
-    },
-    {
-      "question": "How does statistics work?",
-      "answer": "statistics works through research methods in statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "Why is statistics important?",
-      "answer": "statistics is important because emerging trends in statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "What is a key concept in statistics?",
-      "answer": "A key concept in statistics is key concepts in statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
-      "question": "How does statistics work?",
-      "answer": "statistics works through interdisciplinary connections to statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "What is the purpose of statistics?",
-      "answer": "The purpose of statistics is to interdisciplinary connections to statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "Where is statistics used?",
-      "answer": "statistics is used in research methods in statistics",
-      "type": "application",
-      "topic": "statistics"
-    },
-    {
-      "question": "What should I know about statistics?",
-      "answer": "You should know that in statistics, research methods in statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
-      "question": "Why is statistics important?",
-      "answer": "statistics is important because interdisciplinary connections to statistics",
-      "type": "explanation",
-      "topic": "statistics"
-    },
-    {
-      "question": "What should I know about statistics?",
-      "answer": "You should know that in statistics, research methods in statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
-      "question": "What is a key concept in statistics?",
-      "answer": "A key concept in statistics is practical applications of statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
-      "question": "What is statistics?",
-      "answer": "statistics is the study of practical applications of statistics",
-      "type": "definition",
-      "topic": "statistics"
-    },
-    {
-      "question": "What is statistics?",
-      "answer": "statistics is the study of important theories in statistics",
-      "type": "definition",
-      "topic": "statistics"
-    },
-    {
-      "question": "What is a key concept in statistics?",
-      "answer": "A key concept in statistics is critical analysis of statistics",
-      "type": "concept",
-      "topic": "statistics"
-    },
-    {
       "question": "How is statistics applied?",
-      "answer": "statistics is applied through research methods in statistics",
+      "answer": "statistics is applied through practical applications of statistics",
       "type": "application",
       "topic": "statistics"
     },
     {
       "question": "What does statistics involve?",
-      "answer": "The field of statistics encompasses practical applications of statistics",
+      "answer": "The field of statistics encompasses emerging trends in statistics",
       "type": "definition",
       "topic": "statistics"
     },
     {
+      "question": "What should I know about statistics?",
+      "answer": "You should know that in statistics, practical applications of statistics",
+      "type": "concept",
+      "topic": "statistics"
+    },
+    {
       "question": "Where is statistics used?",
-      "answer": "statistics is used in emerging trends in statistics",
+      "answer": "statistics is used in historical development of statistics",
+      "type": "application",
+      "topic": "statistics"
+    },
+    {
+      "question": "Where is statistics used?",
+      "answer": "statistics is used in important theories in statistics",
       "type": "application",
       "topic": "statistics"
     }

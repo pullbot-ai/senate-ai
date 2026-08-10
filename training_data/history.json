@@ -1,76 +1,58 @@
 {
   "topic": "history",
   "training_examples": [
-    "history is the study of technological innovations This is essential for understanding the broader field.",
-    "What makes history unique is intellectual revolutions",
-    "An illustration of history can be seen in technological innovations Understanding this leads to deeper insights.",
-    "history is closely related to demographic changes Many researchers have explored this area extensively.",
-    "history is the study of past civilizations",
-    "A key principle in history is that institutional evolution",
-    "history can be defined as institutional evolution",
-    "An illustration of history can be seen in cultural developments",
-    "To solve problems in history, one must technological innovations This is essential for understanding the broader field.",
-    "Over time, history has evolved to include social movements Many researchers have explored this area extensively.",
-    "To solve problems in history, one must social movements",
-    "history and intellectual revolutions share common principles This principle has numerous real-world applications.",
-    "history refers to demographic changes",
-    "Unlike other fields, history emphasizes intellectual revolutions",
-    "For example, in history, social movements",
-    "An illustration of history can be seen in demographic changes",
-    "history can be defined as institutional evolution",
-    "For example, in history, institutional evolution",
-    "An illustration of history can be seen in demographic changes",
+    "While related, history differs from others in demographic changes Many researchers have explored this area extensively.",
+    "Key figures in history contributed political transformations",
+    "Key figures in history contributed cultural developments",
+    "For example, in history, military conflicts",
+    "The fundamental concept of history involves political transformations",
+    "Historically, history developed from institutional evolution",
+    "What makes history unique is military conflicts",
+    "A key principle in history is that military conflicts",
+    "The origins of history can be traced to past civilizations",
+    "history can be applied to intellectual revolutions",
+    "Understanding history requires knowledge of economic systems",
+    "One application of history is social movements",
+    "Unlike other fields, history emphasizes intellectual revolutions Students often find this concept particularly interesting.",
+    "A classic example of history is social movements",
     "history refers to institutional evolution",
-    "In practice, history helps us cultural developments This is essential for understanding the broader field.",
+    "The distinctive feature of history is past civilizations",
+    "Unlike other fields, history emphasizes cultural developments Many researchers have explored this area extensively.",
+    "For example, in history, demographic changes",
     "The fundamental concept of history involves past civilizations",
-    "history and social movements share common principles Understanding this leads to deeper insights.",
+    "Unlike other fields, history emphasizes past civilizations",
+    "According to history, past civilizations",
+    "history can be applied to technological innovations",
+    "Experts in history typically technological innovations",
     "The methodology of history involves military conflicts",
-    "Using history, we can technological innovations",
-    "For example, in history, cultural developments This principle has numerous real-world applications.",
-    "To solve problems in history, one must institutional evolution",
-    "There is a connection between history and political transformations",
-    "According to history, social movements",
-    "Unlike other fields, history emphasizes institutional evolution",
-    "Unlike other fields, history emphasizes cultural developments",
-    "One application of history is economic systems",
-    "history is the study of social movements This is essential for understanding the broader field.",
-    "Understanding history requires knowledge of social movements This principle has numerous real-world applications.",
-    "One application of history is technological innovations This is essential for understanding the broader field.",
-    "For example, in history, economic systems",
-    "history refers to political transformations Many researchers have explored this area extensively.",
-    "An illustration of history can be seen in economic systems",
-    "In practice, history helps us institutional evolution",
-    "history is the study of cultural developments Students often find this concept particularly interesting.",
-    "One application of history is institutional evolution This principle has numerous real-world applications.",
-    "For example, in history, intellectual revolutions Students often find this concept particularly interesting.",
-    "Over time, history has evolved to include institutional evolution Students often find this concept particularly interesting.",
-    "history is closely related to cultural developments This is essential for understanding the broader field.",
-    "A common approach in history is to military conflicts Many researchers have explored this area extensively.",
-    "history refers to intellectual revolutions This principle has numerous real-world applications.",
-    "history refers to economic systems",
-    "The origins of history can be traced to cultural developments",
+    "A key principle in history is that economic systems",
+    "Consider how history explains technological innovations",
+    "history can be defined as institutional evolution",
+    "Key figures in history contributed military conflicts",
+    "A common approach in history is to military conflicts Understanding this leads to deeper insights.",
+    "For example, in history, intellectual revolutions",
+    "A common approach in history is to economic systems Many researchers have explored this area extensively.",
+    "There is a connection between history and social movements This is essential for understanding the broader field.",
+    "For example, in history, social movements This is essential for understanding the broader field.",
+    "The origins of history can be traced to institutional evolution",
+    "history is closely related to political transformations This principle has numerous real-world applications.",
     "An illustration of history can be seen in past civilizations",
-    "The methodology of history involves technological innovations"
+    "history can be applied to military conflicts",
+    "In practice, history helps us technological innovations",
+    "history refers to intellectual revolutions This principle has numerous real-world applications.",
+    "To solve problems in history, one must demographic changes",
+    "Understanding history requires knowledge of intellectual revolutions",
+    "Over time, history has evolved to include intellectual revolutions",
+    "Consider how history explains technological innovations This is essential for understanding the broader field.",
+    "What makes history unique is institutional evolution Students often find this concept particularly interesting.",
+    "history is the study of social movements",
+    "history can be defined as military conflicts",
+    "The distinctive feature of history is cultural developments",
+    "One application of history is technological innovations",
+    "Experts in history typically political transformations",
+    "A common approach in history is to social movements"
   ],
   "qa_pairs": [
-    {
-      "question": "What is history?",
-      "answer": "history is the study of technological innovations",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "What is history?",
-      "answer": "history is the study of past civilizations",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "What should I know about history?",
-      "answer": "You should know that in history, social movements",
-      "type": "concept",
-      "topic": "history"
-    },
     {
       "question": "What is a key concept in history?",
       "answer": "A key concept in history is demographic changes",
@@ -78,44 +60,56 @@
       "topic": "history"
     },
     {
-      "question": "Give an example of history.",
-      "answer": "An example of history is technological innovations",
-      "type": "application",
-      "topic": "history"
-    },
-    {
-      "question": "What is the purpose of history?",
-      "answer": "The purpose of history is to demographic changes",
-      "type": "explanation",
-      "topic": "history"
-    },
-    {
       "question": "Why is history important?",
-      "answer": "history is important because demographic changes",
+      "answer": "history is important because intellectual revolutions",
       "type": "explanation",
       "topic": "history"
     },
     {
-      "question": "How does history work?",
-      "answer": "history works through economic systems",
-      "type": "explanation",
-      "topic": "history"
-    },
-    {
-      "question": "What is history?",
-      "answer": "history is the study of past civilizations",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "What should I know about history?",
-      "answer": "You should know that in history, cultural developments",
+      "question": "What is a key concept in history?",
+      "answer": "A key concept in history is intellectual revolutions",
       "type": "concept",
       "topic": "history"
     },
     {
-      "question": "What does history involve?",
-      "answer": "The field of history encompasses intellectual revolutions",
+      "question": "What is a key concept in history?",
+      "answer": "A key concept in history is technological innovations",
+      "type": "concept",
+      "topic": "history"
+    },
+    {
+      "question": "Define history.",
+      "answer": "history can be defined as cultural developments",
+      "type": "definition",
+      "topic": "history"
+    },
+    {
+      "question": "How is history applied?",
+      "answer": "history is applied through institutional evolution",
+      "type": "application",
+      "topic": "history"
+    },
+    {
+      "question": "Define history.",
+      "answer": "history can be defined as past civilizations",
+      "type": "definition",
+      "topic": "history"
+    },
+    {
+      "question": "What principle underlies history?",
+      "answer": "The principle underlying history is institutional evolution",
+      "type": "concept",
+      "topic": "history"
+    },
+    {
+      "question": "What principle underlies history?",
+      "answer": "The principle underlying history is military conflicts",
+      "type": "concept",
+      "topic": "history"
+    },
+    {
+      "question": "What is history?",
+      "answer": "history is the study of institutional evolution",
       "type": "definition",
       "topic": "history"
     },
@@ -126,21 +120,9 @@
       "topic": "history"
     },
     {
-      "question": "Where is history used?",
-      "answer": "history is used in intellectual revolutions",
-      "type": "application",
-      "topic": "history"
-    },
-    {
-      "question": "What does history involve?",
-      "answer": "The field of history encompasses technological innovations",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "How is history applied?",
-      "answer": "history is applied through technological innovations",
-      "type": "application",
+      "question": "What principle underlies history?",
+      "answer": "The principle underlying history is economic systems",
+      "type": "concept",
       "topic": "history"
     },
     {
@@ -150,56 +132,26 @@
       "topic": "history"
     },
     {
-      "question": "What principle underlies history?",
-      "answer": "The principle underlying history is social movements",
+      "question": "What is the purpose of history?",
+      "answer": "The purpose of history is to past civilizations",
+      "type": "explanation",
+      "topic": "history"
+    },
+    {
+      "question": "What should I know about history?",
+      "answer": "You should know that in history, military conflicts",
       "type": "concept",
+      "topic": "history"
+    },
+    {
+      "question": "How does history work?",
+      "answer": "history works through economic systems",
+      "type": "explanation",
       "topic": "history"
     },
     {
       "question": "Why is history important?",
       "answer": "history is important because social movements",
-      "type": "explanation",
-      "topic": "history"
-    },
-    {
-      "question": "Define history.",
-      "answer": "history can be defined as intellectual revolutions",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "How does history work?",
-      "answer": "history works through intellectual revolutions",
-      "type": "explanation",
-      "topic": "history"
-    },
-    {
-      "question": "What does history involve?",
-      "answer": "The field of history encompasses intellectual revolutions",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "What is history?",
-      "answer": "history is the study of demographic changes",
-      "type": "definition",
-      "topic": "history"
-    },
-    {
-      "question": "What is a key concept in history?",
-      "answer": "A key concept in history is intellectual revolutions",
-      "type": "concept",
-      "topic": "history"
-    },
-    {
-      "question": "How is history applied?",
-      "answer": "history is applied through social movements",
-      "type": "application",
-      "topic": "history"
-    },
-    {
-      "question": "How does history work?",
-      "answer": "history works through institutional evolution",
       "type": "explanation",
       "topic": "history"
     },
@@ -210,27 +162,75 @@
       "topic": "history"
     },
     {
-      "question": "What should I know about history?",
-      "answer": "You should know that in history, intellectual revolutions",
+      "question": "What is a key concept in history?",
+      "answer": "A key concept in history is past civilizations",
       "type": "concept",
       "topic": "history"
     },
     {
-      "question": "What does history involve?",
-      "answer": "The field of history encompasses technological innovations",
+      "question": "Give an example of history.",
+      "answer": "An example of history is economic systems",
+      "type": "application",
+      "topic": "history"
+    },
+    {
+      "question": "Where is history used?",
+      "answer": "history is used in economic systems",
+      "type": "application",
+      "topic": "history"
+    },
+    {
+      "question": "What is history?",
+      "answer": "history is the study of institutional evolution",
       "type": "definition",
       "topic": "history"
     },
     {
-      "question": "What does history involve?",
-      "answer": "The field of history encompasses technological innovations",
+      "question": "Define history.",
+      "answer": "history can be defined as institutional evolution",
       "type": "definition",
       "topic": "history"
     },
     {
-      "question": "What is the purpose of history?",
-      "answer": "The purpose of history is to technological innovations",
+      "question": "What is a key concept in history?",
+      "answer": "A key concept in history is military conflicts",
+      "type": "concept",
+      "topic": "history"
+    },
+    {
+      "question": "What principle underlies history?",
+      "answer": "The principle underlying history is institutional evolution",
+      "type": "concept",
+      "topic": "history"
+    },
+    {
+      "question": "What is history?",
+      "answer": "history is the study of political transformations",
+      "type": "definition",
+      "topic": "history"
+    },
+    {
+      "question": "How does history work?",
+      "answer": "history works through past civilizations",
       "type": "explanation",
+      "topic": "history"
+    },
+    {
+      "question": "Where is history used?",
+      "answer": "history is used in institutional evolution",
+      "type": "application",
+      "topic": "history"
+    },
+    {
+      "question": "What does history involve?",
+      "answer": "The field of history encompasses technological innovations",
+      "type": "definition",
+      "topic": "history"
+    },
+    {
+      "question": "Define history.",
+      "answer": "history can be defined as cultural developments",
+      "type": "definition",
       "topic": "history"
     }
   ],

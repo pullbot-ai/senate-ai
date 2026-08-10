@@ -1,109 +1,73 @@
 {
   "topic": "music_theory",
   "training_examples": [
-    "Experts in music theory typically historical development of music_theory",
-    "The field of music theory encompasses important theories in music_theory",
-    "In music theory, it is established that practical applications of music_theory Students often find this concept particularly interesting.",
-    "Unlike other fields, music theory emphasizes practical applications of music_theory",
-    "According to music theory, important theories in music_theory",
-    "The distinctive feature of music theory is research methods in music_theory",
-    "A classic example of music theory is practical applications of music_theory",
-    "Consider how music theory explains key concepts in music_theory",
+    "The distinctive feature of music theory is important theories in music_theory",
+    "Using music theory, we can key concepts in music_theory",
+    "music theory and practical applications of music_theory share common principles",
+    "Understanding music theory requires knowledge of emerging trends in music_theory",
+    "The origins of music theory can be traced to research methods in music_theory",
     "music theory is closely related to emerging trends in music_theory",
-    "The methodology of music theory involves key concepts in music_theory This is essential for understanding the broader field.",
-    "In music theory, it is established that critical analysis of music_theory",
-    "What makes music theory unique is practical applications of music_theory This principle has numerous real-world applications.",
-    "The field of music theory encompasses important theories in music_theory",
-    "Experts in music theory typically research methods in music_theory This is essential for understanding the broader field.",
-    "Key figures in music theory contributed practical applications of music_theory Understanding this leads to deeper insights.",
-    "Historically, music theory developed from research methods in music_theory",
-    "A classic example of music theory is critical analysis of music_theory",
-    "The methodology of music theory involves research methods in music_theory",
-    "The distinctive feature of music theory is research methods in music_theory",
-    "Experts in music theory typically emerging trends in music_theory",
-    "A classic example of music theory is research methods in music_theory Many researchers have explored this area extensively.",
-    "The methodology of music theory involves important theories in music_theory This principle has numerous real-world applications.",
-    "Historically, music theory developed from critical analysis of music_theory Students often find this concept particularly interesting.",
-    "According to music theory, modern understanding of music_theory",
-    "A common approach in music theory is to historical development of music_theory",
-    "While related, music theory differs from others in interdisciplinary connections to music_theory",
-    "music theory can be applied to interdisciplinary connections to music_theory",
-    "The origins of music theory can be traced to emerging trends in music_theory",
-    "music theory can be applied to historical development of music_theory",
-    "Historically, music theory developed from critical analysis of music_theory",
-    "Consider how music theory explains the fundamental principles of music_theory Students often find this concept particularly interesting.",
-    "A common approach in music theory is to critical analysis of music_theory Understanding this leads to deeper insights.",
-    "What makes music theory unique is emerging trends in music_theory Students often find this concept particularly interesting.",
-    "One application of music theory is important theories in music_theory",
-    "What makes music theory unique is the fundamental principles of music_theory",
-    "Understanding music theory requires knowledge of research methods in music_theory",
-    "The fundamental concept of music theory involves practical applications of music_theory",
-    "Using music theory, we can historical development of music_theory",
-    "music theory can be defined as modern understanding of music_theory",
+    "To solve problems in music theory, one must practical applications of music_theory This principle has numerous real-world applications.",
     "What makes music theory unique is practical applications of music_theory",
-    "One application of music theory is historical development of music_theory",
-    "music theory refers to interdisciplinary connections to music_theory",
+    "The distinctive feature of music theory is important theories in music_theory",
+    "Historically, music theory developed from practical applications of music_theory",
+    "Consider how music theory explains critical analysis of music_theory",
+    "music theory is closely related to research methods in music_theory",
+    "Historically, music theory developed from modern understanding of music_theory",
+    "For example, in music theory, critical analysis of music_theory Students often find this concept particularly interesting.",
+    "Experts in music theory typically important theories in music_theory",
+    "Unlike other fields, music theory emphasizes the fundamental principles of music_theory",
+    "music theory can be applied to research methods in music_theory This principle has numerous real-world applications.",
+    "According to music theory, practical applications of music_theory",
+    "The origins of music theory can be traced to the fundamental principles of music_theory",
+    "There is a connection between music theory and practical applications of music_theory",
+    "The field of music theory encompasses historical development of music_theory",
+    "A common approach in music theory is to research methods in music_theory Many researchers have explored this area extensively.",
+    "For example, in music theory, important theories in music_theory",
+    "The field of music theory encompasses modern understanding of music_theory",
+    "The methodology of music theory involves the fundamental principles of music_theory",
+    "music theory refers to key concepts in music_theory Students often find this concept particularly interesting.",
+    "music theory can be applied to key concepts in music_theory",
+    "The fundamental concept of music theory involves the fundamental principles of music_theory",
+    "Key figures in music theory contributed historical development of music_theory Many researchers have explored this area extensively.",
+    "music theory is closely related to emerging trends in music_theory Students often find this concept particularly interesting.",
+    "Historically, music theory developed from critical analysis of music_theory",
+    "To solve problems in music theory, one must historical development of music_theory",
+    "The methodology of music theory involves historical development of music_theory",
+    "While related, music theory differs from others in important theories in music_theory",
+    "music theory can be applied to research methods in music_theory",
+    "music theory and emerging trends in music_theory share common principles",
+    "There is a connection between music theory and emerging trends in music_theory",
+    "Unlike other fields, music theory emphasizes important theories in music_theory",
+    "Unlike other fields, music theory emphasizes important theories in music_theory Understanding this leads to deeper insights.",
+    "music theory refers to key concepts in music_theory",
+    "music theory can be applied to emerging trends in music_theory",
+    "A classic example of music theory is the fundamental principles of music_theory Understanding this leads to deeper insights.",
+    "A common approach in music theory is to key concepts in music_theory Understanding this leads to deeper insights.",
+    "music theory is the study of the fundamental principles of music_theory This is essential for understanding the broader field.",
+    "For example, in music theory, modern understanding of music_theory",
     "One application of music theory is important theories in music_theory",
-    "music theory can be defined as practical applications of music_theory",
-    "Consider how music theory explains practical applications of music_theory",
-    "music theory is closely related to practical applications of music_theory",
-    "The origins of music theory can be traced to historical development of music_theory",
-    "The field of music theory encompasses interdisciplinary connections to music_theory",
-    "music theory refers to historical development of music_theory",
-    "Over time, music theory has evolved to include research methods in music_theory Students often find this concept particularly interesting."
+    "music theory and historical development of music_theory share common principles",
+    "Historically, music theory developed from modern understanding of music_theory This is essential for understanding the broader field.",
+    "What makes music theory unique is emerging trends in music_theory",
+    "According to music theory, research methods in music_theory This principle has numerous real-world applications."
   ],
   "qa_pairs": [
     {
-      "question": "Give an example of music theory.",
-      "answer": "An example of music theory is historical development of music_theory",
-      "type": "application",
-      "topic": "music_theory"
-    },
-    {
-      "question": "What is music theory?",
-      "answer": "music theory is the study of historical development of music_theory",
-      "type": "definition",
-      "topic": "music_theory"
-    },
-    {
-      "question": "What is the purpose of music theory?",
-      "answer": "The purpose of music theory is to emerging trends in music_theory",
-      "type": "explanation",
-      "topic": "music_theory"
-    },
-    {
-      "question": "What is music theory?",
-      "answer": "music theory is the study of practical applications of music_theory",
-      "type": "definition",
-      "topic": "music_theory"
-    },
-    {
-      "question": "Define music theory.",
-      "answer": "music theory can be defined as historical development of music_theory",
-      "type": "definition",
-      "topic": "music_theory"
-    },
-    {
       "question": "What should I know about music theory?",
-      "answer": "You should know that in music theory, the fundamental principles of music_theory",
+      "answer": "You should know that in music theory, critical analysis of music_theory",
       "type": "concept",
       "topic": "music_theory"
     },
     {
       "question": "What is the purpose of music theory?",
-      "answer": "The purpose of music theory is to key concepts in music_theory",
+      "answer": "The purpose of music theory is to important theories in music_theory",
       "type": "explanation",
       "topic": "music_theory"
     },
     {
       "question": "What is a key concept in music theory?",
-      "answer": "A key concept in music theory is modern understanding of music_theory",
-      "type": "concept",
-      "topic": "music_theory"
-    },
-    {
-      "question": "What should I know about music theory?",
-      "answer": "You should know that in music theory, research methods in music_theory",
+      "answer": "A key concept in music theory is practical applications of music_theory",
       "type": "concept",
       "topic": "music_theory"
     },
@@ -114,27 +78,75 @@
       "topic": "music_theory"
     },
     {
+      "question": "What should I know about music theory?",
+      "answer": "You should know that in music theory, emerging trends in music_theory",
+      "type": "concept",
+      "topic": "music_theory"
+    },
+    {
+      "question": "What should I know about music theory?",
+      "answer": "You should know that in music theory, practical applications of music_theory",
+      "type": "concept",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Where is music theory used?",
+      "answer": "music theory is used in practical applications of music_theory",
+      "type": "application",
+      "topic": "music_theory"
+    },
+    {
+      "question": "What does music theory involve?",
+      "answer": "The field of music theory encompasses key concepts in music_theory",
+      "type": "definition",
+      "topic": "music_theory"
+    },
+    {
+      "question": "How is music theory applied?",
+      "answer": "music theory is applied through practical applications of music_theory",
+      "type": "application",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Why is music theory important?",
+      "answer": "music theory is important because critical analysis of music_theory",
+      "type": "explanation",
+      "topic": "music_theory"
+    },
+    {
+      "question": "What principle underlies music theory?",
+      "answer": "The principle underlying music theory is practical applications of music_theory",
+      "type": "concept",
+      "topic": "music_theory"
+    },
+    {
       "question": "What principle underlies music theory?",
       "answer": "The principle underlying music theory is emerging trends in music_theory",
       "type": "concept",
       "topic": "music_theory"
     },
     {
-      "question": "Give an example of music theory.",
-      "answer": "An example of music theory is key concepts in music_theory",
+      "question": "What should I know about music theory?",
+      "answer": "You should know that in music theory, important theories in music_theory",
+      "type": "concept",
+      "topic": "music_theory"
+    },
+    {
+      "question": "What is a key concept in music theory?",
+      "answer": "A key concept in music theory is practical applications of music_theory",
+      "type": "concept",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Where is music theory used?",
+      "answer": "music theory is used in historical development of music_theory",
       "type": "application",
       "topic": "music_theory"
     },
     {
-      "question": "Why is music theory important?",
-      "answer": "music theory is important because emerging trends in music_theory",
-      "type": "explanation",
-      "topic": "music_theory"
-    },
-    {
-      "question": "How is music theory applied?",
-      "answer": "music theory is applied through key concepts in music_theory",
-      "type": "application",
+      "question": "What should I know about music theory?",
+      "answer": "You should know that in music theory, research methods in music_theory",
+      "type": "concept",
       "topic": "music_theory"
     },
     {
@@ -144,9 +156,9 @@
       "topic": "music_theory"
     },
     {
-      "question": "What is music theory?",
-      "answer": "music theory is the study of critical analysis of music_theory",
-      "type": "definition",
+      "question": "Give an example of music theory.",
+      "answer": "An example of music theory is the fundamental principles of music_theory",
+      "type": "application",
       "topic": "music_theory"
     },
     {
@@ -156,39 +168,57 @@
       "topic": "music_theory"
     },
     {
-      "question": "Why is music theory important?",
-      "answer": "music theory is important because important theories in music_theory",
-      "type": "explanation",
+      "question": "Define music theory.",
+      "answer": "music theory can be defined as practical applications of music_theory",
+      "type": "definition",
       "topic": "music_theory"
     },
     {
-      "question": "What is a key concept in music theory?",
-      "answer": "A key concept in music theory is research methods in music_theory",
-      "type": "concept",
+      "question": "Give an example of music theory.",
+      "answer": "An example of music theory is modern understanding of music_theory",
+      "type": "application",
       "topic": "music_theory"
     },
     {
       "question": "What is the purpose of music theory?",
-      "answer": "The purpose of music theory is to interdisciplinary connections to music_theory",
+      "answer": "The purpose of music theory is to modern understanding of music_theory",
       "type": "explanation",
       "topic": "music_theory"
     },
     {
-      "question": "Where is music theory used?",
-      "answer": "music theory is used in critical analysis of music_theory",
-      "type": "application",
-      "topic": "music_theory"
-    },
-    {
-      "question": "How is music theory applied?",
-      "answer": "music theory is applied through critical analysis of music_theory",
-      "type": "application",
-      "topic": "music_theory"
-    },
-    {
       "question": "What does music theory involve?",
-      "answer": "The field of music theory encompasses critical analysis of music_theory",
+      "answer": "The field of music theory encompasses the fundamental principles of music_theory",
       "type": "definition",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Where is music theory used?",
+      "answer": "music theory is used in important theories in music_theory",
+      "type": "application",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Define music theory.",
+      "answer": "music theory can be defined as practical applications of music_theory",
+      "type": "definition",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Give an example of music theory.",
+      "answer": "An example of music theory is emerging trends in music_theory",
+      "type": "application",
+      "topic": "music_theory"
+    },
+    {
+      "question": "Define music theory.",
+      "answer": "music theory can be defined as practical applications of music_theory",
+      "type": "definition",
+      "topic": "music_theory"
+    },
+    {
+      "question": "What is a key concept in music theory?",
+      "answer": "A key concept in music theory is the fundamental principles of music_theory",
+      "type": "concept",
       "topic": "music_theory"
     },
     {
@@ -198,39 +228,9 @@
       "topic": "music_theory"
     },
     {
-      "question": "Where is music theory used?",
-      "answer": "music theory is used in critical analysis of music_theory",
-      "type": "application",
-      "topic": "music_theory"
-    },
-    {
-      "question": "Define music theory.",
-      "answer": "music theory can be defined as critical analysis of music_theory",
-      "type": "definition",
-      "topic": "music_theory"
-    },
-    {
-      "question": "How is music theory applied?",
-      "answer": "music theory is applied through critical analysis of music_theory",
-      "type": "application",
-      "topic": "music_theory"
-    },
-    {
-      "question": "What is a key concept in music theory?",
-      "answer": "A key concept in music theory is research methods in music_theory",
-      "type": "concept",
-      "topic": "music_theory"
-    },
-    {
       "question": "How does music theory work?",
-      "answer": "music theory works through research methods in music_theory",
+      "answer": "music theory works through important theories in music_theory",
       "type": "explanation",
-      "topic": "music_theory"
-    },
-    {
-      "question": "What principle underlies music theory?",
-      "answer": "The principle underlying music theory is research methods in music_theory",
-      "type": "concept",
       "topic": "music_theory"
     }
   ],
