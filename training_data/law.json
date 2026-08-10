@@ -1,58 +1,88 @@
 {
   "topic": "law",
   "training_examples": [
-    "Consider how law explains modern understanding of law",
-    "The methodology of law involves historical development of law",
-    "Using law, we can emerging trends in law",
-    "law can be defined as the fundamental principles of law",
-    "law is the study of practical applications of law This is essential for understanding the broader field.",
-    "A key principle in law is that the fundamental principles of law",
-    "law is the study of emerging trends in law",
-    "A key principle in law is that critical analysis of law",
-    "law is the study of emerging trends in law",
-    "While related, law differs from others in important theories in law",
-    "Key figures in law contributed important theories in law Many researchers have explored this area extensively.",
-    "A common approach in law is to research methods in law",
-    "What makes law unique is critical analysis of law",
-    "An illustration of law can be seen in the fundamental principles of law This is essential for understanding the broader field.",
-    "For example, in law, interdisciplinary connections to law This is essential for understanding the broader field.",
-    "The origins of law can be traced to historical development of law Many researchers have explored this area extensively.",
-    "law refers to the fundamental principles of law",
-    "In law, it is established that modern understanding of law",
-    "The fundamental concept of law involves interdisciplinary connections to law Many researchers have explored this area extensively.",
-    "The origins of law can be traced to practical applications of law",
-    "In practice, law helps us emerging trends in law",
-    "law can be applied to historical development of law Students often find this concept particularly interesting.",
-    "The field of law encompasses research methods in law",
-    "Unlike other fields, law emphasizes key concepts in law",
-    "Historically, law developed from emerging trends in law This is essential for understanding the broader field.",
-    "A common approach in law is to the fundamental principles of law",
-    "Experts in law typically critical analysis of law",
-    "While related, law differs from others in modern understanding of law",
-    "According to law, important theories in law",
-    "The field of law encompasses modern understanding of law",
-    "One application of law is critical analysis of law Students often find this concept particularly interesting.",
-    "law can be defined as important theories in law",
-    "Experts in law typically important theories in law Understanding this leads to deeper insights.",
-    "Over time, law has evolved to include key concepts in law",
-    "Experts in law typically critical analysis of law",
-    "The distinctive feature of law is emerging trends in law",
-    "law and interdisciplinary connections to law share common principles",
-    "While related, law differs from others in key concepts in law",
-    "Over time, law has evolved to include emerging trends in law",
-    "law and key concepts in law share common principles Many researchers have explored this area extensively.",
-    "law is closely related to key concepts in law This is essential for understanding the broader field.",
-    "A key principle in law is that critical analysis of law Understanding this leads to deeper insights.",
-    "The methodology of law involves the fundamental principles of law Understanding this leads to deeper insights.",
-    "law can be defined as research methods in law",
-    "In law, it is established that interdisciplinary connections to law",
-    "The origins of law can be traced to practical applications of law",
-    "law and emerging trends in law share common principles Understanding this leads to deeper insights.",
+    "law can be applied to important theories in law",
+    "While related, law differs from others in critical analysis of law",
+    "law is closely related to interdisciplinary connections to law",
+    "An illustration of law can be seen in critical analysis of law",
+    "law refers to key concepts in law This principle has numerous real-world applications.",
+    "law can be applied to practical applications of law",
+    "Consider how law explains important theories in law",
+    "In law, it is established that research methods in law Understanding this leads to deeper insights.",
+    "The distinctive feature of law is important theories in law",
     "In practice, law helps us critical analysis of law",
+    "Understanding law requires knowledge of research methods in law",
+    "The field of law encompasses interdisciplinary connections to law Students often find this concept particularly interesting.",
+    "law refers to modern understanding of law",
+    "One application of law is practical applications of law",
+    "Key figures in law contributed interdisciplinary connections to law",
+    "The fundamental concept of law involves modern understanding of law This is essential for understanding the broader field.",
+    "law and key concepts in law share common principles Students often find this concept particularly interesting.",
+    "law and modern understanding of law share common principles Understanding this leads to deeper insights.",
+    "law is closely related to modern understanding of law",
+    "A common approach in law is to emerging trends in law This principle has numerous real-world applications.",
     "In practice, law helps us critical analysis of law",
-    "The field of law encompasses interdisciplinary connections to law Many researchers have explored this area extensively."
+    "A key principle in law is that research methods in law",
+    "There is a connection between law and interdisciplinary connections to law",
+    "Using law, we can historical development of law",
+    "The fundamental concept of law involves the fundamental principles of law",
+    "The field of law encompasses important theories in law Understanding this leads to deeper insights.",
+    "Unlike other fields, law emphasizes research methods in law",
+    "The fundamental concept of law involves emerging trends in law",
+    "Historically, law developed from practical applications of law",
+    "While related, law differs from others in the fundamental principles of law Understanding this leads to deeper insights.",
+    "law can be applied to the fundamental principles of law",
+    "A common approach in law is to modern understanding of law",
+    "Key figures in law contributed interdisciplinary connections to law",
+    "law is the study of emerging trends in law",
+    "The fundamental concept of law involves key concepts in law",
+    "The origins of law can be traced to practical applications of law",
+    "There is a connection between law and important theories in law This is essential for understanding the broader field.",
+    "There is a connection between law and practical applications of law",
+    "Understanding law requires knowledge of critical analysis of law",
+    "The origins of law can be traced to research methods in law",
+    "The distinctive feature of law is key concepts in law",
+    "An illustration of law can be seen in the fundamental principles of law",
+    "law can be defined as critical analysis of law Understanding this leads to deeper insights.",
+    "According to law, historical development of law",
+    "An illustration of law can be seen in historical development of law",
+    "Over time, law has evolved to include research methods in law",
+    "To solve problems in law, one must important theories in law",
+    "In law, it is established that practical applications of law Many researchers have explored this area extensively.",
+    "Using law, we can key concepts in law This is essential for understanding the broader field.",
+    "Experts in law typically interdisciplinary connections to law Understanding this leads to deeper insights."
   ],
   "qa_pairs": [
+    {
+      "question": "What is the purpose of law?",
+      "answer": "The purpose of law is to key concepts in law",
+      "type": "explanation",
+      "topic": "law"
+    },
+    {
+      "question": "What is the purpose of law?",
+      "answer": "The purpose of law is to historical development of law",
+      "type": "explanation",
+      "topic": "law"
+    },
+    {
+      "question": "What is a key concept in law?",
+      "answer": "A key concept in law is critical analysis of law",
+      "type": "concept",
+      "topic": "law"
+    },
+    {
+      "question": "Where is law used?",
+      "answer": "law is used in emerging trends in law",
+      "type": "application",
+      "topic": "law"
+    },
+    {
+      "question": "Why is law important?",
+      "answer": "law is important because interdisciplinary connections to law",
+      "type": "explanation",
+      "topic": "law"
+    },
     {
       "question": "Where is law used?",
       "answer": "law is used in historical development of law",
@@ -60,39 +90,9 @@
       "topic": "law"
     },
     {
-      "question": "What should I know about law?",
-      "answer": "You should know that in law, critical analysis of law",
+      "question": "What principle underlies law?",
+      "answer": "The principle underlying law is emerging trends in law",
       "type": "concept",
-      "topic": "law"
-    },
-    {
-      "question": "How is law applied?",
-      "answer": "law is applied through historical development of law",
-      "type": "application",
-      "topic": "law"
-    },
-    {
-      "question": "How is law applied?",
-      "answer": "law is applied through critical analysis of law",
-      "type": "application",
-      "topic": "law"
-    },
-    {
-      "question": "What does law involve?",
-      "answer": "The field of law encompasses modern understanding of law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
-      "question": "What does law involve?",
-      "answer": "The field of law encompasses critical analysis of law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
-      "question": "What is law?",
-      "answer": "law is the study of practical applications of law",
-      "type": "definition",
       "topic": "law"
     },
     {
@@ -102,92 +102,26 @@
       "topic": "law"
     },
     {
-      "question": "What is law?",
-      "answer": "law is the study of critical analysis of law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
-      "question": "What does law involve?",
-      "answer": "The field of law encompasses the fundamental principles of law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
-      "question": "What does law involve?",
-      "answer": "The field of law encompasses the fundamental principles of law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
-      "question": "What is law?",
-      "answer": "law is the study of critical analysis of law",
+      "question": "Define law.",
+      "answer": "law can be defined as modern understanding of law",
       "type": "definition",
       "topic": "law"
     },
     {
       "question": "Why is law important?",
-      "answer": "law is important because key concepts in law",
+      "answer": "law is important because practical applications of law",
       "type": "explanation",
-      "topic": "law"
-    },
-    {
-      "question": "Give an example of law.",
-      "answer": "An example of law is practical applications of law",
-      "type": "application",
-      "topic": "law"
-    },
-    {
-      "question": "How does law work?",
-      "answer": "law works through critical analysis of law",
-      "type": "explanation",
-      "topic": "law"
-    },
-    {
-      "question": "What is a key concept in law?",
-      "answer": "A key concept in law is key concepts in law",
-      "type": "concept",
-      "topic": "law"
-    },
-    {
-      "question": "What is the purpose of law?",
-      "answer": "The purpose of law is to research methods in law",
-      "type": "explanation",
-      "topic": "law"
-    },
-    {
-      "question": "Give an example of law.",
-      "answer": "An example of law is emerging trends in law",
-      "type": "application",
       "topic": "law"
     },
     {
       "question": "What principle underlies law?",
-      "answer": "The principle underlying law is critical analysis of law",
+      "answer": "The principle underlying law is interdisciplinary connections to law",
       "type": "concept",
       "topic": "law"
     },
     {
-      "question": "Where is law used?",
-      "answer": "law is used in modern understanding of law",
-      "type": "application",
-      "topic": "law"
-    },
-    {
-      "question": "What is law?",
-      "answer": "law is the study of critical analysis of law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
-      "question": "Define law.",
-      "answer": "law can be defined as key concepts in law",
-      "type": "definition",
-      "topic": "law"
-    },
-    {
       "question": "How is law applied?",
-      "answer": "law is applied through critical analysis of law",
+      "answer": "law is applied through key concepts in law",
       "type": "application",
       "topic": "law"
     },
@@ -198,14 +132,38 @@
       "topic": "law"
     },
     {
-      "question": "Why is law important?",
-      "answer": "law is important because practical applications of law",
+      "question": "What principle underlies law?",
+      "answer": "The principle underlying law is important theories in law",
+      "type": "concept",
+      "topic": "law"
+    },
+    {
+      "question": "What is the purpose of law?",
+      "answer": "The purpose of law is to historical development of law",
       "type": "explanation",
       "topic": "law"
     },
     {
-      "question": "What does law involve?",
-      "answer": "The field of law encompasses interdisciplinary connections to law",
+      "question": "What principle underlies law?",
+      "answer": "The principle underlying law is practical applications of law",
+      "type": "concept",
+      "topic": "law"
+    },
+    {
+      "question": "What principle underlies law?",
+      "answer": "The principle underlying law is modern understanding of law",
+      "type": "concept",
+      "topic": "law"
+    },
+    {
+      "question": "Define law.",
+      "answer": "law can be defined as interdisciplinary connections to law",
+      "type": "definition",
+      "topic": "law"
+    },
+    {
+      "question": "What is law?",
+      "answer": "law is the study of historical development of law",
       "type": "definition",
       "topic": "law"
     },
@@ -216,20 +174,62 @@
       "topic": "law"
     },
     {
-      "question": "What is a key concept in law?",
-      "answer": "A key concept in law is key concepts in law",
+      "question": "Why is law important?",
+      "answer": "law is important because practical applications of law",
+      "type": "explanation",
+      "topic": "law"
+    },
+    {
+      "question": "What principle underlies law?",
+      "answer": "The principle underlying law is modern understanding of law",
       "type": "concept",
       "topic": "law"
     },
     {
+      "question": "What does law involve?",
+      "answer": "The field of law encompasses research methods in law",
+      "type": "definition",
+      "topic": "law"
+    },
+    {
+      "question": "What is a key concept in law?",
+      "answer": "A key concept in law is emerging trends in law",
+      "type": "concept",
+      "topic": "law"
+    },
+    {
+      "question": "What is law?",
+      "answer": "law is the study of research methods in law",
+      "type": "definition",
+      "topic": "law"
+    },
+    {
+      "question": "What is law?",
+      "answer": "law is the study of historical development of law",
+      "type": "definition",
+      "topic": "law"
+    },
+    {
+      "question": "How is law applied?",
+      "answer": "law is applied through interdisciplinary connections to law",
+      "type": "application",
+      "topic": "law"
+    },
+    {
       "question": "Where is law used?",
-      "answer": "law is used in the fundamental principles of law",
+      "answer": "law is used in modern understanding of law",
       "type": "application",
       "topic": "law"
     },
     {
       "question": "What is the purpose of law?",
-      "answer": "The purpose of law is to critical analysis of law",
+      "answer": "The purpose of law is to emerging trends in law",
+      "type": "explanation",
+      "topic": "law"
+    },
+    {
+      "question": "Why is law important?",
+      "answer": "law is important because modern understanding of law",
       "type": "explanation",
       "topic": "law"
     }

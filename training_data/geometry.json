@@ -1,86 +1,68 @@
 {
   "topic": "geometry",
   "training_examples": [
-    "geometry refers to interdisciplinary connections to geometry",
-    "In practice, geometry helps us key concepts in geometry",
-    "The field of geometry encompasses the fundamental principles of geometry This principle has numerous real-world applications.",
-    "Consider how geometry explains interdisciplinary connections to geometry",
-    "What makes geometry unique is key concepts in geometry",
-    "geometry is closely related to the fundamental principles of geometry",
-    "A common approach in geometry is to emerging trends in geometry This is essential for understanding the broader field.",
-    "A classic example of geometry is critical analysis of geometry",
-    "geometry refers to practical applications of geometry",
+    "The origins of geometry can be traced to important theories in geometry Understanding this leads to deeper insights.",
+    "geometry is the study of research methods in geometry",
+    "The distinctive feature of geometry is key concepts in geometry",
+    "geometry can be applied to practical applications of geometry",
+    "Using geometry, we can research methods in geometry",
+    "In geometry, it is established that important theories in geometry",
+    "geometry is closely related to the fundamental principles of geometry Students often find this concept particularly interesting.",
     "One application of geometry is emerging trends in geometry",
-    "Key figures in geometry contributed interdisciplinary connections to geometry",
-    "In practice, geometry helps us practical applications of geometry",
+    "For example, in geometry, historical development of geometry Understanding this leads to deeper insights.",
+    "The methodology of geometry involves critical analysis of geometry This is essential for understanding the broader field.",
+    "Historically, geometry developed from practical applications of geometry Many researchers have explored this area extensively.",
+    "A common approach in geometry is to the fundamental principles of geometry",
+    "Over time, geometry has evolved to include historical development of geometry",
+    "A common approach in geometry is to practical applications of geometry",
+    "What makes geometry unique is modern understanding of geometry",
+    "The distinctive feature of geometry is interdisciplinary connections to geometry This principle has numerous real-world applications.",
+    "Unlike other fields, geometry emphasizes research methods in geometry",
+    "An illustration of geometry can be seen in historical development of geometry This principle has numerous real-world applications.",
+    "Experts in geometry typically the fundamental principles of geometry",
+    "Using geometry, we can the fundamental principles of geometry",
     "In geometry, it is established that emerging trends in geometry",
-    "Over time, geometry has evolved to include research methods in geometry This principle has numerous real-world applications.",
-    "Using geometry, we can emerging trends in geometry",
-    "What makes geometry unique is key concepts in geometry",
-    "geometry can be applied to modern understanding of geometry",
-    "Experts in geometry typically important theories in geometry",
-    "The field of geometry encompasses important theories in geometry Many researchers have explored this area extensively.",
-    "geometry is the study of critical analysis of geometry",
-    "A key principle in geometry is that practical applications of geometry",
-    "According to geometry, the fundamental principles of geometry",
-    "For example, in geometry, the fundamental principles of geometry",
-    "Understanding geometry requires knowledge of emerging trends in geometry This is essential for understanding the broader field.",
-    "One application of geometry is interdisciplinary connections to geometry",
-    "While related, geometry differs from others in critical analysis of geometry Understanding this leads to deeper insights.",
-    "For example, in geometry, interdisciplinary connections to geometry",
-    "geometry and historical development of geometry share common principles",
-    "geometry is closely related to key concepts in geometry",
-    "Using geometry, we can interdisciplinary connections to geometry Students often find this concept particularly interesting.",
-    "A common approach in geometry is to interdisciplinary connections to geometry",
-    "In geometry, it is established that modern understanding of geometry",
-    "For example, in geometry, important theories in geometry Understanding this leads to deeper insights.",
-    "The origins of geometry can be traced to important theories in geometry This is essential for understanding the broader field.",
-    "One application of geometry is historical development of geometry",
-    "Experts in geometry typically practical applications of geometry",
-    "The field of geometry encompasses emerging trends in geometry Understanding this leads to deeper insights.",
-    "Historically, geometry developed from research methods in geometry Understanding this leads to deeper insights.",
-    "geometry is the study of interdisciplinary connections to geometry",
-    "There is a connection between geometry and key concepts in geometry",
-    "The origins of geometry can be traced to key concepts in geometry Students often find this concept particularly interesting.",
-    "A key principle in geometry is that practical applications of geometry Understanding this leads to deeper insights.",
-    "In geometry, it is established that practical applications of geometry",
-    "A key principle in geometry is that key concepts in geometry",
-    "A common approach in geometry is to important theories in geometry",
-    "One application of geometry is interdisciplinary connections to geometry Students often find this concept particularly interesting.",
-    "geometry refers to important theories in geometry",
-    "The origins of geometry can be traced to important theories in geometry",
-    "One application of geometry is research methods in geometry Students often find this concept particularly interesting.",
-    "In geometry, it is established that the fundamental principles of geometry"
+    "Experts in geometry typically critical analysis of geometry Many researchers have explored this area extensively.",
+    "Historically, geometry developed from modern understanding of geometry",
+    "geometry refers to the fundamental principles of geometry",
+    "Key figures in geometry contributed practical applications of geometry Understanding this leads to deeper insights.",
+    "geometry can be applied to important theories in geometry",
+    "The origins of geometry can be traced to key concepts in geometry",
+    "One application of geometry is practical applications of geometry Students often find this concept particularly interesting.",
+    "Consider how geometry explains key concepts in geometry",
+    "The origins of geometry can be traced to research methods in geometry Students often find this concept particularly interesting.",
+    "Using geometry, we can historical development of geometry",
+    "Unlike other fields, geometry emphasizes interdisciplinary connections to geometry",
+    "Historically, geometry developed from key concepts in geometry Understanding this leads to deeper insights.",
+    "A key principle in geometry is that emerging trends in geometry",
+    "A classic example of geometry is important theories in geometry",
+    "geometry is the study of practical applications of geometry",
+    "One application of geometry is important theories in geometry",
+    "To solve problems in geometry, one must critical analysis of geometry",
+    "What makes geometry unique is emerging trends in geometry",
+    "geometry can be applied to research methods in geometry",
+    "The field of geometry encompasses critical analysis of geometry Many researchers have explored this area extensively.",
+    "There is a connection between geometry and practical applications of geometry",
+    "The fundamental concept of geometry involves important theories in geometry",
+    "There is a connection between geometry and emerging trends in geometry",
+    "Historically, geometry developed from critical analysis of geometry",
+    "A key principle in geometry is that research methods in geometry",
+    "Consider how geometry explains practical applications of geometry",
+    "The origins of geometry can be traced to key concepts in geometry",
+    "In practice, geometry helps us modern understanding of geometry",
+    "geometry is closely related to interdisciplinary connections to geometry"
   ],
   "qa_pairs": [
     {
-      "question": "What is geometry?",
-      "answer": "geometry is the study of interdisciplinary connections to geometry",
-      "type": "definition",
-      "topic": "geometry"
-    },
-    {
-      "question": "What is a key concept in geometry?",
-      "answer": "A key concept in geometry is research methods in geometry",
-      "type": "concept",
-      "topic": "geometry"
-    },
-    {
-      "question": "Define geometry.",
-      "answer": "geometry can be defined as the fundamental principles of geometry",
-      "type": "definition",
-      "topic": "geometry"
-    },
-    {
-      "question": "How is geometry applied?",
-      "answer": "geometry is applied through key concepts in geometry",
-      "type": "application",
-      "topic": "geometry"
-    },
-    {
       "question": "What should I know about geometry?",
-      "answer": "You should know that in geometry, historical development of geometry",
+      "answer": "You should know that in geometry, emerging trends in geometry",
       "type": "concept",
+      "topic": "geometry"
+    },
+    {
+      "question": "Why is geometry important?",
+      "answer": "geometry is important because research methods in geometry",
+      "type": "explanation",
       "topic": "geometry"
     },
     {
@@ -90,50 +72,32 @@
       "topic": "geometry"
     },
     {
-      "question": "How does geometry work?",
-      "answer": "geometry works through historical development of geometry",
-      "type": "explanation",
-      "topic": "geometry"
-    },
-    {
-      "question": "What is geometry?",
-      "answer": "geometry is the study of emerging trends in geometry",
-      "type": "definition",
-      "topic": "geometry"
-    },
-    {
       "question": "What is geometry?",
       "answer": "geometry is the study of research methods in geometry",
       "type": "definition",
       "topic": "geometry"
     },
     {
-      "question": "Where is geometry used?",
-      "answer": "geometry is used in research methods in geometry",
-      "type": "application",
-      "topic": "geometry"
-    },
-    {
-      "question": "What is a key concept in geometry?",
-      "answer": "A key concept in geometry is historical development of geometry",
+      "question": "What should I know about geometry?",
+      "answer": "You should know that in geometry, interdisciplinary connections to geometry",
       "type": "concept",
       "topic": "geometry"
     },
     {
-      "question": "How does geometry work?",
-      "answer": "geometry works through emerging trends in geometry",
-      "type": "explanation",
+      "question": "What is a key concept in geometry?",
+      "answer": "A key concept in geometry is emerging trends in geometry",
+      "type": "concept",
       "topic": "geometry"
     },
     {
-      "question": "What is geometry?",
-      "answer": "geometry is the study of practical applications of geometry",
-      "type": "definition",
+      "question": "What is a key concept in geometry?",
+      "answer": "A key concept in geometry is the fundamental principles of geometry",
+      "type": "concept",
       "topic": "geometry"
     },
     {
-      "question": "Why is geometry important?",
-      "answer": "geometry is important because practical applications of geometry",
+      "question": "What is the purpose of geometry?",
+      "answer": "The purpose of geometry is to important theories in geometry",
       "type": "explanation",
       "topic": "geometry"
     },
@@ -144,44 +108,104 @@
       "topic": "geometry"
     },
     {
-      "question": "What should I know about geometry?",
-      "answer": "You should know that in geometry, emerging trends in geometry",
-      "type": "concept",
+      "question": "What does geometry involve?",
+      "answer": "The field of geometry encompasses practical applications of geometry",
+      "type": "definition",
       "topic": "geometry"
     },
     {
       "question": "How does geometry work?",
-      "answer": "geometry works through practical applications of geometry",
+      "answer": "geometry works through interdisciplinary connections to geometry",
       "type": "explanation",
       "topic": "geometry"
     },
     {
-      "question": "What does geometry involve?",
-      "answer": "The field of geometry encompasses emerging trends in geometry",
-      "type": "definition",
-      "topic": "geometry"
-    },
-    {
-      "question": "What is the purpose of geometry?",
-      "answer": "The purpose of geometry is to interdisciplinary connections to geometry",
+      "question": "Why is geometry important?",
+      "answer": "geometry is important because the fundamental principles of geometry",
       "type": "explanation",
-      "topic": "geometry"
-    },
-    {
-      "question": "What principle underlies geometry?",
-      "answer": "The principle underlying geometry is research methods in geometry",
-      "type": "concept",
       "topic": "geometry"
     },
     {
       "question": "Define geometry.",
-      "answer": "geometry can be defined as important theories in geometry",
+      "answer": "geometry can be defined as research methods in geometry",
       "type": "definition",
       "topic": "geometry"
     },
     {
+      "question": "Why is geometry important?",
+      "answer": "geometry is important because emerging trends in geometry",
+      "type": "explanation",
+      "topic": "geometry"
+    },
+    {
+      "question": "Give an example of geometry.",
+      "answer": "An example of geometry is key concepts in geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
+      "question": "How is geometry applied?",
+      "answer": "geometry is applied through interdisciplinary connections to geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
+      "question": "Where is geometry used?",
+      "answer": "geometry is used in important theories in geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
+      "question": "What is a key concept in geometry?",
+      "answer": "A key concept in geometry is the fundamental principles of geometry",
+      "type": "concept",
+      "topic": "geometry"
+    },
+    {
+      "question": "What is a key concept in geometry?",
+      "answer": "A key concept in geometry is practical applications of geometry",
+      "type": "concept",
+      "topic": "geometry"
+    },
+    {
+      "question": "What is geometry?",
+      "answer": "geometry is the study of important theories in geometry",
+      "type": "definition",
+      "topic": "geometry"
+    },
+    {
+      "question": "Give an example of geometry.",
+      "answer": "An example of geometry is the fundamental principles of geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
+      "question": "Where is geometry used?",
+      "answer": "geometry is used in critical analysis of geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
+      "question": "Give an example of geometry.",
+      "answer": "An example of geometry is research methods in geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
+      "question": "How is geometry applied?",
+      "answer": "geometry is applied through key concepts in geometry",
+      "type": "application",
+      "topic": "geometry"
+    },
+    {
       "question": "What should I know about geometry?",
-      "answer": "You should know that in geometry, emerging trends in geometry",
+      "answer": "You should know that in geometry, research methods in geometry",
+      "type": "concept",
+      "topic": "geometry"
+    },
+    {
+      "question": "What should I know about geometry?",
+      "answer": "You should know that in geometry, practical applications of geometry",
       "type": "concept",
       "topic": "geometry"
     },
@@ -192,45 +216,21 @@
       "topic": "geometry"
     },
     {
-      "question": "How is geometry applied?",
-      "answer": "geometry is applied through important theories in geometry",
-      "type": "application",
-      "topic": "geometry"
-    },
-    {
-      "question": "Why is geometry important?",
-      "answer": "geometry is important because modern understanding of geometry",
-      "type": "explanation",
-      "topic": "geometry"
-    },
-    {
-      "question": "How does geometry work?",
-      "answer": "geometry works through emerging trends in geometry",
-      "type": "explanation",
-      "topic": "geometry"
-    },
-    {
-      "question": "What is a key concept in geometry?",
-      "answer": "A key concept in geometry is emerging trends in geometry",
-      "type": "concept",
-      "topic": "geometry"
-    },
-    {
-      "question": "What does geometry involve?",
-      "answer": "The field of geometry encompasses research methods in geometry",
+      "question": "Define geometry.",
+      "answer": "geometry can be defined as modern understanding of geometry",
       "type": "definition",
       "topic": "geometry"
     },
     {
-      "question": "Why is geometry important?",
-      "answer": "geometry is important because historical development of geometry",
-      "type": "explanation",
+      "question": "Define geometry.",
+      "answer": "geometry can be defined as historical development of geometry",
+      "type": "definition",
       "topic": "geometry"
     },
     {
-      "question": "What is the purpose of geometry?",
-      "answer": "The purpose of geometry is to the fundamental principles of geometry",
-      "type": "explanation",
+      "question": "Where is geometry used?",
+      "answer": "geometry is used in modern understanding of geometry",
+      "type": "application",
       "topic": "geometry"
     }
   ],

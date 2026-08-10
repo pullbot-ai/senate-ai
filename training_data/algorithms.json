@@ -1,211 +1,103 @@
 {
   "topic": "algorithms",
   "training_examples": [
-    "A common approach in algorithms is to research methods in algorithms",
-    "Historically, algorithms developed from critical analysis of algorithms Understanding this leads to deeper insights.",
-    "To solve problems in algorithms, one must historical development of algorithms",
-    "Consider how algorithms explains modern understanding of algorithms",
-    "The origins of algorithms can be traced to historical development of algorithms Understanding this leads to deeper insights.",
-    "The field of algorithms encompasses historical development of algorithms Understanding this leads to deeper insights.",
-    "Experts in algorithms typically modern understanding of algorithms This is essential for understanding the broader field.",
-    "Unlike other fields, algorithms emphasizes interdisciplinary connections to algorithms",
-    "algorithms can be applied to research methods in algorithms",
-    "For example, in algorithms, practical applications of algorithms",
-    "For example, in algorithms, the fundamental principles of algorithms",
-    "The origins of algorithms can be traced to key concepts in algorithms",
-    "There is a connection between algorithms and emerging trends in algorithms Students often find this concept particularly interesting.",
-    "Historically, algorithms developed from critical analysis of algorithms This principle has numerous real-world applications.",
-    "algorithms and practical applications of algorithms share common principles",
-    "Over time, algorithms has evolved to include practical applications of algorithms",
-    "The distinctive feature of algorithms is emerging trends in algorithms Students often find this concept particularly interesting.",
-    "The origins of algorithms can be traced to practical applications of algorithms Many researchers have explored this area extensively.",
+    "algorithms is the study of important theories in algorithms Students often find this concept particularly interesting.",
+    "An illustration of algorithms can be seen in critical analysis of algorithms",
+    "Over time, algorithms has evolved to include emerging trends in algorithms",
+    "The origins of algorithms can be traced to modern understanding of algorithms",
+    "According to algorithms, research methods in algorithms Many researchers have explored this area extensively.",
+    "The methodology of algorithms involves emerging trends in algorithms",
+    "A key principle in algorithms is that modern understanding of algorithms",
+    "The fundamental concept of algorithms involves interdisciplinary connections to algorithms",
+    "algorithms is the study of key concepts in algorithms Many researchers have explored this area extensively.",
+    "There is a connection between algorithms and research methods in algorithms This principle has numerous real-world applications.",
+    "The fundamental concept of algorithms involves research methods in algorithms",
+    "Unlike other fields, algorithms emphasizes research methods in algorithms This is essential for understanding the broader field.",
+    "Experts in algorithms typically research methods in algorithms This principle has numerous real-world applications.",
+    "The origins of algorithms can be traced to research methods in algorithms",
+    "While related, algorithms differs from others in research methods in algorithms",
+    "What makes algorithms unique is interdisciplinary connections to algorithms Students often find this concept particularly interesting.",
+    "Unlike other fields, algorithms emphasizes key concepts in algorithms",
+    "While related, algorithms differs from others in key concepts in algorithms",
+    "The origins of algorithms can be traced to the fundamental principles of algorithms",
+    "The distinctive feature of algorithms is practical applications of algorithms",
+    "The origins of algorithms can be traced to the fundamental principles of algorithms Understanding this leads to deeper insights.",
+    "algorithms can be defined as critical analysis of algorithms",
+    "algorithms and key concepts in algorithms share common principles Many researchers have explored this area extensively.",
+    "A key principle in algorithms is that critical analysis of algorithms",
+    "Over time, algorithms has evolved to include key concepts in algorithms",
+    "Experts in algorithms typically practical applications of algorithms",
+    "algorithms refers to key concepts in algorithms",
+    "algorithms is the study of important theories in algorithms This is essential for understanding the broader field.",
+    "The methodology of algorithms involves historical development of algorithms",
+    "algorithms can be defined as key concepts in algorithms",
+    "For example, in algorithms, key concepts in algorithms",
+    "A common approach in algorithms is to modern understanding of algorithms",
+    "Key figures in algorithms contributed the fundamental principles of algorithms",
+    "algorithms can be applied to important theories in algorithms",
+    "Understanding algorithms requires knowledge of historical development of algorithms",
+    "To solve problems in algorithms, one must modern understanding of algorithms Many researchers have explored this area extensively.",
+    "A classic example of algorithms is historical development of algorithms",
+    "Key figures in algorithms contributed research methods in algorithms",
+    "What makes algorithms unique is practical applications of algorithms",
+    "The fundamental concept of algorithms involves critical analysis of algorithms",
+    "algorithms refers to research methods in algorithms",
+    "A key principle in algorithms is that practical applications of algorithms This principle has numerous real-world applications.",
+    "To solve problems in algorithms, one must important theories in algorithms",
+    "Unlike other fields, algorithms emphasizes key concepts in algorithms",
+    "A classic example of algorithms is practical applications of algorithms",
+    "The methodology of algorithms involves historical development of algorithms",
     "algorithms can be defined as important theories in algorithms This principle has numerous real-world applications.",
-    "An illustration of algorithms can be seen in historical development of algorithms",
-    "algorithms is the study of critical analysis of algorithms",
-    "The field of algorithms encompasses key concepts in algorithms",
-    "Key figures in algorithms contributed modern understanding of algorithms",
-    "algorithms is closely related to historical development of algorithms",
-    "Historically, algorithms developed from research methods in algorithms",
-    "algorithms is closely related to key concepts in algorithms",
-    "algorithms refers to interdisciplinary connections to algorithms",
-    "Using algorithms, we can critical analysis of algorithms Many researchers have explored this area extensively.",
-    "To solve problems in algorithms, one must important theories in algorithms Understanding this leads to deeper insights.",
-    "algorithms refers to historical development of algorithms",
-    "Unlike other fields, algorithms emphasizes research methods in algorithms",
-    "An illustration of algorithms can be seen in emerging trends in algorithms",
-    "There is a connection between algorithms and modern understanding of algorithms Understanding this leads to deeper insights.",
-    "algorithms and practical applications of algorithms share common principles Many researchers have explored this area extensively.",
-    "An illustration of algorithms can be seen in emerging trends in algorithms",
-    "According to algorithms, emerging trends in algorithms",
-    "While related, algorithms differs from others in important theories in algorithms",
-    "algorithms and practical applications of algorithms share common principles Understanding this leads to deeper insights.",
-    "A key principle in algorithms is that practical applications of algorithms",
-    "According to algorithms, historical development of algorithms This is essential for understanding the broader field.",
-    "While related, algorithms differs from others in key concepts in algorithms Many researchers have explored this area extensively.",
-    "Key figures in algorithms contributed emerging trends in algorithms",
-    "Historically, algorithms developed from practical applications of algorithms",
-    "One application of algorithms is important theories in algorithms This is essential for understanding the broader field.",
-    "Experts in algorithms typically historical development of algorithms",
-    "In algorithms, it is established that important theories in algorithms",
-    "algorithms refers to important theories in algorithms",
-    "While related, algorithms differs from others in important theories in algorithms",
-    "The fundamental concept of algorithms involves modern understanding of algorithms",
-    "algorithms and the fundamental principles of algorithms share common principles"
+    "Over time, algorithms has evolved to include emerging trends in algorithms Many researchers have explored this area extensively.",
+    "The origins of algorithms can be traced to key concepts in algorithms Understanding this leads to deeper insights.",
+    "Unlike other fields, algorithms emphasizes research methods in algorithms"
   ],
   "qa_pairs": [
     {
-      "question": "Where is algorithms used?",
-      "answer": "algorithms is used in research methods in algorithms",
-      "type": "application",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Give an example of algorithms.",
-      "answer": "An example of algorithms is important theories in algorithms",
-      "type": "application",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is a key concept in algorithms?",
-      "answer": "A key concept in algorithms is critical analysis of algorithms",
-      "type": "concept",
-      "topic": "algorithms"
-    },
-    {
-      "question": "How does algorithms work?",
-      "answer": "algorithms works through interdisciplinary connections to algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "How is algorithms applied?",
-      "answer": "algorithms is applied through historical development of algorithms",
-      "type": "application",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Where is algorithms used?",
-      "answer": "algorithms is used in historical development of algorithms",
-      "type": "application",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What should I know about algorithms?",
-      "answer": "You should know that in algorithms, key concepts in algorithms",
-      "type": "concept",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is a key concept in algorithms?",
-      "answer": "A key concept in algorithms is historical development of algorithms",
-      "type": "concept",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Why is algorithms important?",
-      "answer": "algorithms is important because interdisciplinary connections to algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Define algorithms.",
-      "answer": "algorithms can be defined as historical development of algorithms",
-      "type": "definition",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is the purpose of algorithms?",
-      "answer": "The purpose of algorithms is to research methods in algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What principle underlies algorithms?",
-      "answer": "The principle underlying algorithms is important theories in algorithms",
-      "type": "concept",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What does algorithms involve?",
-      "answer": "The field of algorithms encompasses modern understanding of algorithms",
+      "question": "What is algorithms?",
+      "answer": "algorithms is the study of important theories in algorithms",
       "type": "definition",
       "topic": "algorithms"
     },
     {
       "question": "What does algorithms involve?",
-      "answer": "The field of algorithms encompasses interdisciplinary connections to algorithms",
+      "answer": "The field of algorithms encompasses historical development of algorithms",
       "type": "definition",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is algorithms?",
-      "answer": "algorithms is the study of the fundamental principles of algorithms",
-      "type": "definition",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Where is algorithms used?",
-      "answer": "algorithms is used in research methods in algorithms",
-      "type": "application",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Where is algorithms used?",
-      "answer": "algorithms is used in key concepts in algorithms",
-      "type": "application",
-      "topic": "algorithms"
-    },
-    {
-      "question": "How does algorithms work?",
-      "answer": "algorithms works through historical development of algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is algorithms?",
-      "answer": "algorithms is the study of interdisciplinary connections to algorithms",
-      "type": "definition",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is the purpose of algorithms?",
-      "answer": "The purpose of algorithms is to emerging trends in algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What should I know about algorithms?",
-      "answer": "You should know that in algorithms, interdisciplinary connections to algorithms",
-      "type": "concept",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Why is algorithms important?",
-      "answer": "algorithms is important because modern understanding of algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Why is algorithms important?",
-      "answer": "algorithms is important because emerging trends in algorithms",
-      "type": "explanation",
-      "topic": "algorithms"
-    },
-    {
-      "question": "Define algorithms.",
-      "answer": "algorithms can be defined as research methods in algorithms",
-      "type": "definition",
-      "topic": "algorithms"
-    },
-    {
-      "question": "What is a key concept in algorithms?",
-      "answer": "A key concept in algorithms is critical analysis of algorithms",
-      "type": "concept",
       "topic": "algorithms"
     },
     {
       "question": "Where is algorithms used?",
       "answer": "algorithms is used in modern understanding of algorithms",
+      "type": "application",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What principle underlies algorithms?",
+      "answer": "The principle underlying algorithms is interdisciplinary connections to algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What should I know about algorithms?",
+      "answer": "You should know that in algorithms, historical development of algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is a key concept in algorithms?",
+      "answer": "A key concept in algorithms is modern understanding of algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is a key concept in algorithms?",
+      "answer": "A key concept in algorithms is modern understanding of algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "How is algorithms applied?",
+      "answer": "algorithms is applied through practical applications of algorithms",
       "type": "application",
       "topic": "algorithms"
     },
@@ -216,20 +108,128 @@
       "topic": "algorithms"
     },
     {
+      "question": "Why is algorithms important?",
+      "answer": "algorithms is important because key concepts in algorithms",
+      "type": "explanation",
+      "topic": "algorithms"
+    },
+    {
       "question": "What should I know about algorithms?",
-      "answer": "You should know that in algorithms, critical analysis of algorithms",
+      "answer": "You should know that in algorithms, key concepts in algorithms",
       "type": "concept",
       "topic": "algorithms"
     },
     {
-      "question": "How is algorithms applied?",
-      "answer": "algorithms is applied through interdisciplinary connections to algorithms",
+      "question": "Where is algorithms used?",
+      "answer": "algorithms is used in interdisciplinary connections to algorithms",
       "type": "application",
       "topic": "algorithms"
     },
     {
+      "question": "How is algorithms applied?",
+      "answer": "algorithms is applied through key concepts in algorithms",
+      "type": "application",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is algorithms?",
+      "answer": "algorithms is the study of the fundamental principles of algorithms",
+      "type": "definition",
+      "topic": "algorithms"
+    },
+    {
+      "question": "Why is algorithms important?",
+      "answer": "algorithms is important because practical applications of algorithms",
+      "type": "explanation",
+      "topic": "algorithms"
+    },
+    {
+      "question": "How is algorithms applied?",
+      "answer": "algorithms is applied through critical analysis of algorithms",
+      "type": "application",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What does algorithms involve?",
+      "answer": "The field of algorithms encompasses historical development of algorithms",
+      "type": "definition",
+      "topic": "algorithms"
+    },
+    {
+      "question": "Where is algorithms used?",
+      "answer": "algorithms is used in emerging trends in algorithms",
+      "type": "application",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is a key concept in algorithms?",
+      "answer": "A key concept in algorithms is research methods in algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What does algorithms involve?",
+      "answer": "The field of algorithms encompasses key concepts in algorithms",
+      "type": "definition",
+      "topic": "algorithms"
+    },
+    {
+      "question": "Give an example of algorithms.",
+      "answer": "An example of algorithms is research methods in algorithms",
+      "type": "application",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is the purpose of algorithms?",
+      "answer": "The purpose of algorithms is to critical analysis of algorithms",
+      "type": "explanation",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is a key concept in algorithms?",
+      "answer": "A key concept in algorithms is research methods in algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is the purpose of algorithms?",
+      "answer": "The purpose of algorithms is to modern understanding of algorithms",
+      "type": "explanation",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is the purpose of algorithms?",
+      "answer": "The purpose of algorithms is to research methods in algorithms",
+      "type": "explanation",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What principle underlies algorithms?",
+      "answer": "The principle underlying algorithms is modern understanding of algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
+      "question": "Where is algorithms used?",
+      "answer": "algorithms is used in interdisciplinary connections to algorithms",
+      "type": "application",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What does algorithms involve?",
+      "answer": "The field of algorithms encompasses historical development of algorithms",
+      "type": "definition",
+      "topic": "algorithms"
+    },
+    {
+      "question": "What is a key concept in algorithms?",
+      "answer": "A key concept in algorithms is key concepts in algorithms",
+      "type": "concept",
+      "topic": "algorithms"
+    },
+    {
       "question": "What should I know about algorithms?",
-      "answer": "You should know that in algorithms, critical analysis of algorithms",
+      "answer": "You should know that in algorithms, modern understanding of algorithms",
       "type": "concept",
       "topic": "algorithms"
     }

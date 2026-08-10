@@ -1,182 +1,134 @@
 {
   "topic": "literature",
   "training_examples": [
-    "According to literature, research methods in literature",
-    "Understanding literature requires knowledge of emerging trends in literature",
+    "According to literature, key concepts in literature",
     "One application of literature is critical analysis of literature",
-    "literature can be defined as critical analysis of literature",
+    "A common approach in literature is to the fundamental principles of literature",
+    "While related, literature differs from others in interdisciplinary connections to literature",
+    "Key figures in literature contributed critical analysis of literature",
+    "literature is the study of critical analysis of literature Understanding this leads to deeper insights.",
+    "literature is the study of emerging trends in literature",
+    "A classic example of literature is interdisciplinary connections to literature",
+    "The field of literature encompasses important theories in literature",
+    "literature can be applied to research methods in literature",
+    "literature is closely related to interdisciplinary connections to literature Students often find this concept particularly interesting.",
+    "Consider how literature explains the fundamental principles of literature",
+    "In practice, literature helps us important theories in literature",
+    "literature is the study of emerging trends in literature",
+    "For example, in literature, key concepts in literature",
+    "literature is closely related to interdisciplinary connections to literature Students often find this concept particularly interesting.",
+    "In practice, literature helps us research methods in literature",
+    "The field of literature encompasses the fundamental principles of literature Many researchers have explored this area extensively.",
+    "Over time, literature has evolved to include historical development of literature",
+    "Using literature, we can the fundamental principles of literature",
     "The origins of literature can be traced to interdisciplinary connections to literature",
-    "literature and emerging trends in literature share common principles",
-    "An illustration of literature can be seen in interdisciplinary connections to literature This is essential for understanding the broader field.",
-    "literature is the study of modern understanding of literature This principle has numerous real-world applications.",
-    "An illustration of literature can be seen in interdisciplinary connections to literature",
-    "Historically, literature developed from critical analysis of literature",
-    "While related, literature differs from others in research methods in literature",
-    "There is a connection between literature and critical analysis of literature Understanding this leads to deeper insights.",
-    "In literature, it is established that important theories in literature",
-    "The distinctive feature of literature is emerging trends in literature",
-    "literature is the study of the fundamental principles of literature",
-    "A classic example of literature is critical analysis of literature Understanding this leads to deeper insights.",
-    "While related, literature differs from others in emerging trends in literature",
-    "A classic example of literature is practical applications of literature",
-    "literature refers to historical development of literature",
-    "The fundamental concept of literature involves the fundamental principles of literature",
-    "For example, in literature, important theories in literature This principle has numerous real-world applications.",
-    "The methodology of literature involves important theories in literature This principle has numerous real-world applications.",
-    "The fundamental concept of literature involves the fundamental principles of literature",
-    "There is a connection between literature and the fundamental principles of literature",
-    "The origins of literature can be traced to modern understanding of literature",
-    "Using literature, we can modern understanding of literature",
-    "The fundamental concept of literature involves key concepts in literature",
-    "literature can be applied to critical analysis of literature",
-    "One application of literature is practical applications of literature",
-    "literature is closely related to key concepts in literature",
-    "While related, literature differs from others in historical development of literature",
-    "In literature, it is established that key concepts in literature",
-    "The methodology of literature involves the fundamental principles of literature This principle has numerous real-world applications.",
-    "There is a connection between literature and critical analysis of literature",
-    "Consider how literature explains critical analysis of literature Understanding this leads to deeper insights.",
-    "There is a connection between literature and modern understanding of literature This principle has numerous real-world applications.",
-    "Unlike other fields, literature emphasizes practical applications of literature",
-    "A key principle in literature is that practical applications of literature",
-    "In literature, it is established that emerging trends in literature Understanding this leads to deeper insights.",
-    "Experts in literature typically research methods in literature",
-    "literature is the study of interdisciplinary connections to literature",
-    "While related, literature differs from others in critical analysis of literature",
-    "What makes literature unique is emerging trends in literature",
-    "A key principle in literature is that critical analysis of literature",
-    "One application of literature is emerging trends in literature",
-    "While related, literature differs from others in the fundamental principles of literature",
-    "A key principle in literature is that practical applications of literature Many researchers have explored this area extensively.",
     "The origins of literature can be traced to interdisciplinary connections to literature",
-    "literature can be applied to practical applications of literature Students often find this concept particularly interesting.",
-    "Using literature, we can key concepts in literature"
+    "A key principle in literature is that emerging trends in literature",
+    "In practice, literature helps us emerging trends in literature",
+    "literature is the study of emerging trends in literature",
+    "Key figures in literature contributed critical analysis of literature Students often find this concept particularly interesting.",
+    "The methodology of literature involves the fundamental principles of literature",
+    "In literature, it is established that interdisciplinary connections to literature",
+    "In practice, literature helps us important theories in literature Understanding this leads to deeper insights.",
+    "While related, literature differs from others in important theories in literature Understanding this leads to deeper insights.",
+    "The origins of literature can be traced to interdisciplinary connections to literature",
+    "Over time, literature has evolved to include historical development of literature",
+    "Over time, literature has evolved to include critical analysis of literature",
+    "Unlike other fields, literature emphasizes modern understanding of literature",
+    "A key principle in literature is that important theories in literature This is essential for understanding the broader field.",
+    "Consider how literature explains emerging trends in literature",
+    "In literature, it is established that critical analysis of literature This principle has numerous real-world applications.",
+    "A key principle in literature is that emerging trends in literature",
+    "literature and historical development of literature share common principles",
+    "The fundamental concept of literature involves modern understanding of literature This is essential for understanding the broader field.",
+    "To solve problems in literature, one must historical development of literature",
+    "Unlike other fields, literature emphasizes the fundamental principles of literature",
+    "For example, in literature, important theories in literature Understanding this leads to deeper insights.",
+    "The distinctive feature of literature is interdisciplinary connections to literature This is essential for understanding the broader field.",
+    "A classic example of literature is critical analysis of literature",
+    "literature is the study of practical applications of literature",
+    "literature refers to practical applications of literature This is essential for understanding the broader field.",
+    "literature and historical development of literature share common principles",
+    "One application of literature is interdisciplinary connections to literature Many researchers have explored this area extensively.",
+    "A common approach in literature is to the fundamental principles of literature This is essential for understanding the broader field."
   ],
   "qa_pairs": [
     {
       "question": "Define literature.",
-      "answer": "literature can be defined as research methods in literature",
+      "answer": "literature can be defined as key concepts in literature",
       "type": "definition",
-      "topic": "literature"
-    },
-    {
-      "question": "What should I know about literature?",
-      "answer": "You should know that in literature, practical applications of literature",
-      "type": "concept",
-      "topic": "literature"
-    },
-    {
-      "question": "What should I know about literature?",
-      "answer": "You should know that in literature, historical development of literature",
-      "type": "concept",
-      "topic": "literature"
-    },
-    {
-      "question": "Why is literature important?",
-      "answer": "literature is important because critical analysis of literature",
-      "type": "explanation",
-      "topic": "literature"
-    },
-    {
-      "question": "Define literature.",
-      "answer": "literature can be defined as critical analysis of literature",
-      "type": "definition",
-      "topic": "literature"
-    },
-    {
-      "question": "Define literature.",
-      "answer": "literature can be defined as interdisciplinary connections to literature",
-      "type": "definition",
-      "topic": "literature"
-    },
-    {
-      "question": "What is the purpose of literature?",
-      "answer": "The purpose of literature is to key concepts in literature",
-      "type": "explanation",
-      "topic": "literature"
-    },
-    {
-      "question": "What is the purpose of literature?",
-      "answer": "The purpose of literature is to historical development of literature",
-      "type": "explanation",
-      "topic": "literature"
-    },
-    {
-      "question": "Give an example of literature.",
-      "answer": "An example of literature is interdisciplinary connections to literature",
-      "type": "application",
-      "topic": "literature"
-    },
-    {
-      "question": "Why is literature important?",
-      "answer": "literature is important because key concepts in literature",
-      "type": "explanation",
-      "topic": "literature"
-    },
-    {
-      "question": "What is literature?",
-      "answer": "literature is the study of modern understanding of literature",
-      "type": "definition",
-      "topic": "literature"
-    },
-    {
-      "question": "Define literature.",
-      "answer": "literature can be defined as critical analysis of literature",
-      "type": "definition",
-      "topic": "literature"
-    },
-    {
-      "question": "Give an example of literature.",
-      "answer": "An example of literature is interdisciplinary connections to literature",
-      "type": "application",
       "topic": "literature"
     },
     {
       "question": "What is a key concept in literature?",
-      "answer": "A key concept in literature is critical analysis of literature",
-      "type": "concept",
-      "topic": "literature"
-    },
-    {
-      "question": "What is a key concept in literature?",
-      "answer": "A key concept in literature is research methods in literature",
+      "answer": "A key concept in literature is practical applications of literature",
       "type": "concept",
       "topic": "literature"
     },
     {
       "question": "What should I know about literature?",
-      "answer": "You should know that in literature, practical applications of literature",
+      "answer": "You should know that in literature, research methods in literature",
       "type": "concept",
       "topic": "literature"
     },
     {
-      "question": "How does literature work?",
-      "answer": "literature works through practical applications of literature",
-      "type": "explanation",
+      "question": "Where is literature used?",
+      "answer": "literature is used in historical development of literature",
+      "type": "application",
       "topic": "literature"
     },
     {
       "question": "What does literature involve?",
-      "answer": "The field of literature encompasses key concepts in literature",
+      "answer": "The field of literature encompasses practical applications of literature",
       "type": "definition",
       "topic": "literature"
     },
     {
-      "question": "Why is literature important?",
-      "answer": "literature is important because emerging trends in literature",
+      "question": "What is a key concept in literature?",
+      "answer": "A key concept in literature is interdisciplinary connections to literature",
+      "type": "concept",
+      "topic": "literature"
+    },
+    {
+      "question": "What principle underlies literature?",
+      "answer": "The principle underlying literature is critical analysis of literature",
+      "type": "concept",
+      "topic": "literature"
+    },
+    {
+      "question": "What should I know about literature?",
+      "answer": "You should know that in literature, the fundamental principles of literature",
+      "type": "concept",
+      "topic": "literature"
+    },
+    {
+      "question": "Define literature.",
+      "answer": "literature can be defined as important theories in literature",
+      "type": "definition",
+      "topic": "literature"
+    },
+    {
+      "question": "What does literature involve?",
+      "answer": "The field of literature encompasses the fundamental principles of literature",
+      "type": "definition",
+      "topic": "literature"
+    },
+    {
+      "question": "What is the purpose of literature?",
+      "answer": "The purpose of literature is to emerging trends in literature",
       "type": "explanation",
       "topic": "literature"
     },
     {
-      "question": "What principle underlies literature?",
-      "answer": "The principle underlying literature is emerging trends in literature",
-      "type": "concept",
+      "question": "Where is literature used?",
+      "answer": "literature is used in interdisciplinary connections to literature",
+      "type": "application",
       "topic": "literature"
     },
     {
-      "question": "What principle underlies literature?",
-      "answer": "The principle underlying literature is the fundamental principles of literature",
-      "type": "concept",
+      "question": "What is the purpose of literature?",
+      "answer": "The purpose of literature is to critical analysis of literature",
+      "type": "explanation",
       "topic": "literature"
     },
     {
@@ -187,25 +139,13 @@
     },
     {
       "question": "What is the purpose of literature?",
-      "answer": "The purpose of literature is to critical analysis of literature",
+      "answer": "The purpose of literature is to research methods in literature",
       "type": "explanation",
       "topic": "literature"
     },
     {
-      "question": "How is literature applied?",
-      "answer": "literature is applied through interdisciplinary connections to literature",
-      "type": "application",
-      "topic": "literature"
-    },
-    {
-      "question": "What should I know about literature?",
-      "answer": "You should know that in literature, interdisciplinary connections to literature",
-      "type": "concept",
-      "topic": "literature"
-    },
-    {
-      "question": "What is the purpose of literature?",
-      "answer": "The purpose of literature is to historical development of literature",
+      "question": "Why is literature important?",
+      "answer": "literature is important because research methods in literature",
       "type": "explanation",
       "topic": "literature"
     },
@@ -222,14 +162,74 @@
       "topic": "literature"
     },
     {
+      "question": "What should I know about literature?",
+      "answer": "You should know that in literature, historical development of literature",
+      "type": "concept",
+      "topic": "literature"
+    },
+    {
       "question": "Give an example of literature.",
-      "answer": "An example of literature is interdisciplinary connections to literature",
+      "answer": "An example of literature is the fundamental principles of literature",
+      "type": "application",
+      "topic": "literature"
+    },
+    {
+      "question": "Where is literature used?",
+      "answer": "literature is used in important theories in literature",
+      "type": "application",
+      "topic": "literature"
+    },
+    {
+      "question": "How is literature applied?",
+      "answer": "literature is applied through historical development of literature",
+      "type": "application",
+      "topic": "literature"
+    },
+    {
+      "question": "What is literature?",
+      "answer": "literature is the study of emerging trends in literature",
+      "type": "definition",
+      "topic": "literature"
+    },
+    {
+      "question": "How is literature applied?",
+      "answer": "literature is applied through key concepts in literature",
+      "type": "application",
+      "topic": "literature"
+    },
+    {
+      "question": "Where is literature used?",
+      "answer": "literature is used in practical applications of literature",
       "type": "application",
       "topic": "literature"
     },
     {
       "question": "What does literature involve?",
-      "answer": "The field of literature encompasses research methods in literature",
+      "answer": "The field of literature encompasses interdisciplinary connections to literature",
+      "type": "definition",
+      "topic": "literature"
+    },
+    {
+      "question": "Define literature.",
+      "answer": "literature can be defined as historical development of literature",
+      "type": "definition",
+      "topic": "literature"
+    },
+    {
+      "question": "How does literature work?",
+      "answer": "literature works through research methods in literature",
+      "type": "explanation",
+      "topic": "literature"
+    },
+    {
+      "question": "What should I know about literature?",
+      "answer": "You should know that in literature, emerging trends in literature",
+      "type": "concept",
+      "topic": "literature"
+    },
+    {
+      "question": "Define literature.",
+      "answer": "literature can be defined as the fundamental principles of literature",
       "type": "definition",
       "topic": "literature"
     }

@@ -1,133 +1,103 @@
 {
   "topic": "microbiology",
   "training_examples": [
-    "microbiology can be applied to the fundamental principles of microbiology",
-    "microbiology is the study of key concepts in microbiology",
-    "To solve problems in microbiology, one must historical development of microbiology Students often find this concept particularly interesting.",
-    "microbiology is closely related to modern understanding of microbiology",
-    "Consider how microbiology explains research methods in microbiology",
-    "Over time, microbiology has evolved to include the fundamental principles of microbiology Many researchers have explored this area extensively.",
-    "Understanding microbiology requires knowledge of critical analysis of microbiology",
-    "microbiology is the study of key concepts in microbiology",
-    "Using microbiology, we can interdisciplinary connections to microbiology",
-    "There is a connection between microbiology and emerging trends in microbiology",
-    "For example, in microbiology, modern understanding of microbiology",
-    "The field of microbiology encompasses modern understanding of microbiology",
-    "The distinctive feature of microbiology is practical applications of microbiology",
-    "The origins of microbiology can be traced to modern understanding of microbiology",
-    "In microbiology, it is established that the fundamental principles of microbiology",
-    "A key principle in microbiology is that research methods in microbiology Many researchers have explored this area extensively.",
-    "A key principle in microbiology is that practical applications of microbiology Understanding this leads to deeper insights.",
-    "microbiology and interdisciplinary connections to microbiology share common principles Understanding this leads to deeper insights.",
-    "There is a connection between microbiology and emerging trends in microbiology Understanding this leads to deeper insights.",
+    "For example, in microbiology, the fundamental principles of microbiology",
+    "The origins of microbiology can be traced to emerging trends in microbiology",
+    "A common approach in microbiology is to research methods in microbiology This is essential for understanding the broader field.",
+    "A common approach in microbiology is to key concepts in microbiology",
+    "The fundamental concept of microbiology involves important theories in microbiology",
+    "The fundamental concept of microbiology involves critical analysis of microbiology",
+    "For example, in microbiology, interdisciplinary connections to microbiology",
+    "According to microbiology, important theories in microbiology Students often find this concept particularly interesting.",
+    "In practice, microbiology helps us interdisciplinary connections to microbiology This principle has numerous real-world applications.",
+    "One application of microbiology is critical analysis of microbiology This is essential for understanding the broader field.",
+    "In practice, microbiology helps us interdisciplinary connections to microbiology",
+    "microbiology is closely related to research methods in microbiology Many researchers have explored this area extensively.",
+    "The methodology of microbiology involves practical applications of microbiology",
+    "To solve problems in microbiology, one must research methods in microbiology Understanding this leads to deeper insights.",
+    "For example, in microbiology, historical development of microbiology Many researchers have explored this area extensively.",
+    "In practice, microbiology helps us modern understanding of microbiology This is essential for understanding the broader field.",
+    "An illustration of microbiology can be seen in emerging trends in microbiology",
+    "A key principle in microbiology is that the fundamental principles of microbiology",
     "One application of microbiology is the fundamental principles of microbiology",
-    "microbiology refers to modern understanding of microbiology Understanding this leads to deeper insights.",
+    "Historically, microbiology developed from research methods in microbiology",
+    "In practice, microbiology helps us modern understanding of microbiology",
+    "A common approach in microbiology is to modern understanding of microbiology Many researchers have explored this area extensively.",
+    "The methodology of microbiology involves key concepts in microbiology",
+    "microbiology can be defined as key concepts in microbiology Students often find this concept particularly interesting.",
+    "Key figures in microbiology contributed the fundamental principles of microbiology",
+    "Over time, microbiology has evolved to include key concepts in microbiology",
+    "For example, in microbiology, the fundamental principles of microbiology",
+    "What makes microbiology unique is important theories in microbiology This principle has numerous real-world applications.",
+    "What makes microbiology unique is practical applications of microbiology",
+    "microbiology and research methods in microbiology share common principles",
+    "microbiology refers to interdisciplinary connections to microbiology Many researchers have explored this area extensively.",
+    "An illustration of microbiology can be seen in historical development of microbiology",
+    "One application of microbiology is practical applications of microbiology",
+    "microbiology is the study of modern understanding of microbiology",
+    "While related, microbiology differs from others in interdisciplinary connections to microbiology",
+    "A common approach in microbiology is to emerging trends in microbiology",
+    "microbiology is closely related to historical development of microbiology",
+    "Unlike other fields, microbiology emphasizes critical analysis of microbiology",
+    "microbiology is closely related to research methods in microbiology Many researchers have explored this area extensively.",
+    "In microbiology, it is established that emerging trends in microbiology",
+    "microbiology is the study of research methods in microbiology",
+    "microbiology refers to critical analysis of microbiology This is essential for understanding the broader field.",
+    "microbiology is closely related to the fundamental principles of microbiology",
+    "Using microbiology, we can research methods in microbiology",
+    "There is a connection between microbiology and critical analysis of microbiology",
+    "For example, in microbiology, practical applications of microbiology Students often find this concept particularly interesting.",
+    "There is a connection between microbiology and practical applications of microbiology This is essential for understanding the broader field.",
     "microbiology and critical analysis of microbiology share common principles",
     "The fundamental concept of microbiology involves important theories in microbiology",
-    "The origins of microbiology can be traced to emerging trends in microbiology This principle has numerous real-world applications.",
-    "microbiology is the study of key concepts in microbiology",
-    "While related, microbiology differs from others in the fundamental principles of microbiology",
-    "While related, microbiology differs from others in the fundamental principles of microbiology Understanding this leads to deeper insights.",
-    "In practice, microbiology helps us critical analysis of microbiology",
-    "A key principle in microbiology is that interdisciplinary connections to microbiology",
-    "Key figures in microbiology contributed interdisciplinary connections to microbiology",
-    "A common approach in microbiology is to interdisciplinary connections to microbiology",
-    "One application of microbiology is the fundamental principles of microbiology",
-    "In microbiology, it is established that research methods in microbiology",
-    "microbiology refers to interdisciplinary connections to microbiology Students often find this concept particularly interesting.",
-    "The fundamental concept of microbiology involves emerging trends in microbiology This is essential for understanding the broader field.",
-    "For example, in microbiology, historical development of microbiology",
-    "To solve problems in microbiology, one must modern understanding of microbiology",
-    "According to microbiology, emerging trends in microbiology This is essential for understanding the broader field.",
-    "The origins of microbiology can be traced to research methods in microbiology This principle has numerous real-world applications.",
-    "The fundamental concept of microbiology involves modern understanding of microbiology",
-    "Experts in microbiology typically interdisciplinary connections to microbiology",
-    "A classic example of microbiology is practical applications of microbiology",
-    "Key figures in microbiology contributed critical analysis of microbiology",
-    "In practice, microbiology helps us interdisciplinary connections to microbiology",
-    "A classic example of microbiology is the fundamental principles of microbiology",
-    "A classic example of microbiology is modern understanding of microbiology Students often find this concept particularly interesting.",
-    "Experts in microbiology typically important theories in microbiology",
-    "Experts in microbiology typically modern understanding of microbiology",
-    "microbiology is the study of the fundamental principles of microbiology",
-    "The methodology of microbiology involves modern understanding of microbiology Students often find this concept particularly interesting."
+    "Understanding microbiology requires knowledge of research methods in microbiology"
   ],
   "qa_pairs": [
     {
-      "question": "What is the purpose of microbiology?",
-      "answer": "The purpose of microbiology is to the fundamental principles of microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "What is microbiology?",
-      "answer": "microbiology is the study of the fundamental principles of microbiology",
-      "type": "definition",
-      "topic": "microbiology"
-    },
-    {
-      "question": "What is microbiology?",
-      "answer": "microbiology is the study of modern understanding of microbiology",
-      "type": "definition",
-      "topic": "microbiology"
-    },
-    {
-      "question": "How is microbiology applied?",
-      "answer": "microbiology is applied through historical development of microbiology",
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in key concepts in microbiology",
       "type": "application",
       "topic": "microbiology"
     },
     {
-      "question": "What is microbiology?",
-      "answer": "microbiology is the study of historical development of microbiology",
+      "question": "Define microbiology.",
+      "answer": "microbiology can be defined as key concepts in microbiology",
       "type": "definition",
       "topic": "microbiology"
     },
     {
-      "question": "Why is microbiology important?",
-      "answer": "microbiology is important because modern understanding of microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "How does microbiology work?",
-      "answer": "microbiology works through emerging trends in microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "Give an example of microbiology.",
-      "answer": "An example of microbiology is critical analysis of microbiology",
-      "type": "application",
-      "topic": "microbiology"
-    },
-    {
-      "question": "How is microbiology applied?",
-      "answer": "microbiology is applied through research methods in microbiology",
-      "type": "application",
-      "topic": "microbiology"
-    },
-    {
-      "question": "Why is microbiology important?",
-      "answer": "microbiology is important because modern understanding of microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "What principle underlies microbiology?",
-      "answer": "The principle underlying microbiology is the fundamental principles of microbiology",
+      "question": "What is a key concept in microbiology?",
+      "answer": "A key concept in microbiology is emerging trends in microbiology",
       "type": "concept",
       "topic": "microbiology"
     },
     {
-      "question": "What is microbiology?",
-      "answer": "microbiology is the study of key concepts in microbiology",
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in research methods in microbiology",
+      "type": "application",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Give an example of microbiology.",
+      "answer": "An example of microbiology is practical applications of microbiology",
+      "type": "application",
+      "topic": "microbiology"
+    },
+    {
+      "question": "What does microbiology involve?",
+      "answer": "The field of microbiology encompasses research methods in microbiology",
       "type": "definition",
       "topic": "microbiology"
     },
     {
-      "question": "How does microbiology work?",
-      "answer": "microbiology works through interdisciplinary connections to microbiology",
+      "question": "How is microbiology applied?",
+      "answer": "microbiology is applied through critical analysis of microbiology",
+      "type": "application",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Why is microbiology important?",
+      "answer": "microbiology is important because interdisciplinary connections to microbiology",
       "type": "explanation",
       "topic": "microbiology"
     },
@@ -138,99 +108,129 @@
       "topic": "microbiology"
     },
     {
-      "question": "What is the purpose of microbiology?",
-      "answer": "The purpose of microbiology is to emerging trends in microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "How does microbiology work?",
-      "answer": "microbiology works through interdisciplinary connections to microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "Define microbiology.",
-      "answer": "microbiology can be defined as historical development of microbiology",
+      "question": "What does microbiology involve?",
+      "answer": "The field of microbiology encompasses historical development of microbiology",
       "type": "definition",
       "topic": "microbiology"
     },
     {
-      "question": "Define microbiology.",
-      "answer": "microbiology can be defined as modern understanding of microbiology",
+      "question": "What should I know about microbiology?",
+      "answer": "You should know that in microbiology, historical development of microbiology",
+      "type": "concept",
+      "topic": "microbiology"
+    },
+    {
+      "question": "What does microbiology involve?",
+      "answer": "The field of microbiology encompasses modern understanding of microbiology",
       "type": "definition",
       "topic": "microbiology"
     },
     {
-      "question": "What principle underlies microbiology?",
-      "answer": "The principle underlying microbiology is practical applications of microbiology",
-      "type": "concept",
-      "topic": "microbiology"
-    },
-    {
-      "question": "What is a key concept in microbiology?",
-      "answer": "A key concept in microbiology is critical analysis of microbiology",
-      "type": "concept",
-      "topic": "microbiology"
-    },
-    {
-      "question": "How does microbiology work?",
-      "answer": "microbiology works through emerging trends in microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "How is microbiology applied?",
-      "answer": "microbiology is applied through emerging trends in microbiology",
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in key concepts in microbiology",
       "type": "application",
       "topic": "microbiology"
     },
     {
-      "question": "Why is microbiology important?",
-      "answer": "microbiology is important because key concepts in microbiology",
+      "question": "What should I know about microbiology?",
+      "answer": "You should know that in microbiology, important theories in microbiology",
+      "type": "concept",
+      "topic": "microbiology"
+    },
+    {
+      "question": "How does microbiology work?",
+      "answer": "microbiology works through important theories in microbiology",
       "type": "explanation",
       "topic": "microbiology"
     },
     {
-      "question": "Define microbiology.",
-      "answer": "microbiology can be defined as practical applications of microbiology",
-      "type": "definition",
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in important theories in microbiology",
+      "type": "application",
       "topic": "microbiology"
     },
     {
-      "question": "Why is microbiology important?",
-      "answer": "microbiology is important because key concepts in microbiology",
-      "type": "explanation",
-      "topic": "microbiology"
-    },
-    {
-      "question": "Why is microbiology important?",
-      "answer": "microbiology is important because practical applications of microbiology",
-      "type": "explanation",
+      "question": "What principle underlies microbiology?",
+      "answer": "The principle underlying microbiology is important theories in microbiology",
+      "type": "concept",
       "topic": "microbiology"
     },
     {
       "question": "What is the purpose of microbiology?",
-      "answer": "The purpose of microbiology is to research methods in microbiology",
+      "answer": "The purpose of microbiology is to critical analysis of microbiology",
       "type": "explanation",
       "topic": "microbiology"
     },
     {
       "question": "What is microbiology?",
-      "answer": "microbiology is the study of emerging trends in microbiology",
+      "answer": "microbiology is the study of important theories in microbiology",
+      "type": "definition",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in emerging trends in microbiology",
+      "type": "application",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Why is microbiology important?",
+      "answer": "microbiology is important because research methods in microbiology",
+      "type": "explanation",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Why is microbiology important?",
+      "answer": "microbiology is important because important theories in microbiology",
+      "type": "explanation",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in important theories in microbiology",
+      "type": "application",
+      "topic": "microbiology"
+    },
+    {
+      "question": "What is the purpose of microbiology?",
+      "answer": "The purpose of microbiology is to the fundamental principles of microbiology",
+      "type": "explanation",
+      "topic": "microbiology"
+    },
+    {
+      "question": "How is microbiology applied?",
+      "answer": "microbiology is applied through research methods in microbiology",
+      "type": "application",
+      "topic": "microbiology"
+    },
+    {
+      "question": "What is the purpose of microbiology?",
+      "answer": "The purpose of microbiology is to historical development of microbiology",
+      "type": "explanation",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Define microbiology.",
+      "answer": "microbiology can be defined as important theories in microbiology",
       "type": "definition",
       "topic": "microbiology"
     },
     {
       "question": "Why is microbiology important?",
-      "answer": "microbiology is important because emerging trends in microbiology",
+      "answer": "microbiology is important because historical development of microbiology",
       "type": "explanation",
       "topic": "microbiology"
     },
     {
-      "question": "What does microbiology involve?",
-      "answer": "The field of microbiology encompasses important theories in microbiology",
-      "type": "definition",
+      "question": "What is a key concept in microbiology?",
+      "answer": "A key concept in microbiology is key concepts in microbiology",
+      "type": "concept",
+      "topic": "microbiology"
+    },
+    {
+      "question": "Where is microbiology used?",
+      "answer": "microbiology is used in modern understanding of microbiology",
+      "type": "application",
       "topic": "microbiology"
     }
   ],

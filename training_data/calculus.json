@@ -1,91 +1,85 @@
 {
   "topic": "calculus",
   "training_examples": [
-    "The origins of calculus can be traced to emerging trends in calculus",
-    "While related, calculus differs from others in historical development of calculus",
-    "calculus is closely related to key concepts in calculus",
-    "For example, in calculus, important theories in calculus",
-    "A common approach in calculus is to critical analysis of calculus",
-    "To solve problems in calculus, one must emerging trends in calculus",
-    "The methodology of calculus involves modern understanding of calculus",
-    "calculus is closely related to the fundamental principles of calculus Many researchers have explored this area extensively.",
-    "calculus refers to important theories in calculus",
-    "Over time, calculus has evolved to include practical applications of calculus",
-    "Over time, calculus has evolved to include the fundamental principles of calculus Many researchers have explored this area extensively.",
-    "calculus can be defined as research methods in calculus",
-    "A key principle in calculus is that emerging trends in calculus",
-    "To solve problems in calculus, one must historical development of calculus Students often find this concept particularly interesting.",
-    "According to calculus, interdisciplinary connections to calculus",
-    "Consider how calculus explains historical development of calculus",
-    "The origins of calculus can be traced to modern understanding of calculus",
-    "A key principle in calculus is that emerging trends in calculus",
-    "calculus refers to important theories in calculus",
-    "One application of calculus is the fundamental principles of calculus",
-    "To solve problems in calculus, one must important theories in calculus",
-    "For example, in calculus, historical development of calculus",
-    "For example, in calculus, historical development of calculus This is essential for understanding the broader field.",
-    "Key figures in calculus contributed emerging trends in calculus Understanding this leads to deeper insights.",
-    "calculus and key concepts in calculus share common principles",
-    "One application of calculus is research methods in calculus",
-    "What makes calculus unique is key concepts in calculus",
-    "The field of calculus encompasses emerging trends in calculus",
-    "Experts in calculus typically research methods in calculus This is essential for understanding the broader field.",
-    "There is a connection between calculus and critical analysis of calculus",
-    "One application of calculus is the fundamental principles of calculus Many researchers have explored this area extensively.",
-    "calculus refers to interdisciplinary connections to calculus",
-    "For example, in calculus, practical applications of calculus This is essential for understanding the broader field.",
-    "Using calculus, we can important theories in calculus",
-    "Understanding calculus requires knowledge of modern understanding of calculus This principle has numerous real-world applications.",
-    "calculus refers to modern understanding of calculus",
-    "Using calculus, we can critical analysis of calculus Many researchers have explored this area extensively.",
-    "The field of calculus encompasses the fundamental principles of calculus",
-    "calculus is the study of the fundamental principles of calculus",
+    "According to calculus, interdisciplinary connections to calculus Understanding this leads to deeper insights.",
+    "Historically, calculus developed from emerging trends in calculus",
+    "Unlike other fields, calculus emphasizes key concepts in calculus",
+    "To solve problems in calculus, one must historical development of calculus",
+    "In practice, calculus helps us emerging trends in calculus Understanding this leads to deeper insights.",
+    "One application of calculus is research methods in calculus Understanding this leads to deeper insights.",
+    "calculus and interdisciplinary connections to calculus share common principles",
+    "An illustration of calculus can be seen in modern understanding of calculus",
+    "Using calculus, we can the fundamental principles of calculus",
+    "Experts in calculus typically important theories in calculus",
+    "A key principle in calculus is that research methods in calculus",
+    "A common approach in calculus is to modern understanding of calculus",
+    "calculus can be defined as the fundamental principles of calculus",
+    "A common approach in calculus is to research methods in calculus",
     "An illustration of calculus can be seen in key concepts in calculus",
-    "calculus is closely related to important theories in calculus",
-    "The fundamental concept of calculus involves modern understanding of calculus",
-    "The field of calculus encompasses modern understanding of calculus",
-    "For example, in calculus, key concepts in calculus",
+    "The field of calculus encompasses critical analysis of calculus",
+    "calculus refers to important theories in calculus",
+    "For example, in calculus, the fundamental principles of calculus",
+    "To solve problems in calculus, one must critical analysis of calculus Students often find this concept particularly interesting.",
+    "Unlike other fields, calculus emphasizes important theories in calculus",
+    "Key figures in calculus contributed practical applications of calculus",
+    "calculus refers to historical development of calculus This principle has numerous real-world applications.",
+    "There is a connection between calculus and the fundamental principles of calculus Students often find this concept particularly interesting.",
+    "According to calculus, interdisciplinary connections to calculus",
+    "While related, calculus differs from others in key concepts in calculus This principle has numerous real-world applications.",
     "calculus can be applied to emerging trends in calculus",
-    "Using calculus, we can important theories in calculus",
-    "Consider how calculus explains research methods in calculus Understanding this leads to deeper insights.",
-    "An illustration of calculus can be seen in research methods in calculus",
-    "An illustration of calculus can be seen in the fundamental principles of calculus Many researchers have explored this area extensively.",
-    "The methodology of calculus involves practical applications of calculus"
+    "calculus and important theories in calculus share common principles",
+    "The origins of calculus can be traced to interdisciplinary connections to calculus",
+    "Key figures in calculus contributed practical applications of calculus",
+    "A key principle in calculus is that key concepts in calculus",
+    "There is a connection between calculus and key concepts in calculus Students often find this concept particularly interesting.",
+    "While related, calculus differs from others in critical analysis of calculus",
+    "For example, in calculus, research methods in calculus This principle has numerous real-world applications.",
+    "Unlike other fields, calculus emphasizes key concepts in calculus",
+    "To solve problems in calculus, one must practical applications of calculus Many researchers have explored this area extensively.",
+    "Using calculus, we can key concepts in calculus",
+    "Using calculus, we can practical applications of calculus",
+    "A common approach in calculus is to important theories in calculus Students often find this concept particularly interesting.",
+    "Key figures in calculus contributed important theories in calculus",
+    "Experts in calculus typically practical applications of calculus",
+    "Experts in calculus typically historical development of calculus",
+    "calculus can be applied to the fundamental principles of calculus Many researchers have explored this area extensively.",
+    "For example, in calculus, modern understanding of calculus",
+    "calculus refers to modern understanding of calculus",
+    "A classic example of calculus is historical development of calculus",
+    "The field of calculus encompasses interdisciplinary connections to calculus",
+    "calculus and historical development of calculus share common principles This principle has numerous real-world applications.",
+    "In calculus, it is established that critical analysis of calculus Understanding this leads to deeper insights.",
+    "The origins of calculus can be traced to interdisciplinary connections to calculus Students often find this concept particularly interesting.",
+    "An illustration of calculus can be seen in research methods in calculus This principle has numerous real-world applications."
   ],
   "qa_pairs": [
     {
-      "question": "What should I know about calculus?",
-      "answer": "You should know that in calculus, interdisciplinary connections to calculus",
-      "type": "concept",
-      "topic": "calculus"
-    },
-    {
-      "question": "What is the purpose of calculus?",
-      "answer": "The purpose of calculus is to modern understanding of calculus",
-      "type": "explanation",
-      "topic": "calculus"
-    },
-    {
-      "question": "How does calculus work?",
-      "answer": "calculus works through practical applications of calculus",
-      "type": "explanation",
-      "topic": "calculus"
-    },
-    {
-      "question": "What does calculus involve?",
-      "answer": "The field of calculus encompasses key concepts in calculus",
+      "question": "Define calculus.",
+      "answer": "calculus can be defined as interdisciplinary connections to calculus",
       "type": "definition",
       "topic": "calculus"
     },
     {
-      "question": "How is calculus applied?",
-      "answer": "calculus is applied through important theories in calculus",
-      "type": "application",
+      "question": "What is the purpose of calculus?",
+      "answer": "The purpose of calculus is to interdisciplinary connections to calculus",
+      "type": "explanation",
       "topic": "calculus"
     },
     {
-      "question": "Give an example of calculus.",
-      "answer": "An example of calculus is historical development of calculus",
+      "question": "What is a key concept in calculus?",
+      "answer": "A key concept in calculus is emerging trends in calculus",
+      "type": "concept",
+      "topic": "calculus"
+    },
+    {
+      "question": "What is a key concept in calculus?",
+      "answer": "A key concept in calculus is key concepts in calculus",
+      "type": "concept",
+      "topic": "calculus"
+    },
+    {
+      "question": "How is calculus applied?",
+      "answer": "calculus is applied through historical development of calculus",
       "type": "application",
       "topic": "calculus"
     },
@@ -96,117 +90,75 @@
       "topic": "calculus"
     },
     {
-      "question": "What does calculus involve?",
-      "answer": "The field of calculus encompasses critical analysis of calculus",
-      "type": "definition",
-      "topic": "calculus"
-    },
-    {
       "question": "How is calculus applied?",
-      "answer": "calculus is applied through modern understanding of calculus",
+      "answer": "calculus is applied through emerging trends in calculus",
       "type": "application",
       "topic": "calculus"
     },
     {
-      "question": "What should I know about calculus?",
-      "answer": "You should know that in calculus, practical applications of calculus",
-      "type": "concept",
-      "topic": "calculus"
-    },
-    {
-      "question": "What is calculus?",
-      "answer": "calculus is the study of key concepts in calculus",
-      "type": "definition",
-      "topic": "calculus"
-    },
-    {
       "question": "Why is calculus important?",
-      "answer": "calculus is important because important theories in calculus",
+      "answer": "calculus is important because research methods in calculus",
       "type": "explanation",
+      "topic": "calculus"
+    },
+    {
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is interdisciplinary connections to calculus",
+      "type": "application",
       "topic": "calculus"
     },
     {
       "question": "How does calculus work?",
-      "answer": "calculus works through critical analysis of calculus",
+      "answer": "calculus works through interdisciplinary connections to calculus",
       "type": "explanation",
       "topic": "calculus"
     },
     {
-      "question": "How is calculus applied?",
-      "answer": "calculus is applied through key concepts in calculus",
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is critical analysis of calculus",
       "type": "application",
       "topic": "calculus"
     },
     {
       "question": "What principle underlies calculus?",
-      "answer": "The principle underlying calculus is the fundamental principles of calculus",
+      "answer": "The principle underlying calculus is emerging trends in calculus",
       "type": "concept",
       "topic": "calculus"
     },
     {
       "question": "How does calculus work?",
-      "answer": "calculus works through important theories in calculus",
+      "answer": "calculus works through the fundamental principles of calculus",
+      "type": "explanation",
+      "topic": "calculus"
+    },
+    {
+      "question": "What principle underlies calculus?",
+      "answer": "The principle underlying calculus is modern understanding of calculus",
+      "type": "concept",
+      "topic": "calculus"
+    },
+    {
+      "question": "Why is calculus important?",
+      "answer": "calculus is important because key concepts in calculus",
       "type": "explanation",
       "topic": "calculus"
     },
     {
       "question": "Define calculus.",
-      "answer": "calculus can be defined as research methods in calculus",
+      "answer": "calculus can be defined as the fundamental principles of calculus",
       "type": "definition",
       "topic": "calculus"
     },
     {
-      "question": "What is calculus?",
-      "answer": "calculus is the study of the fundamental principles of calculus",
-      "type": "definition",
-      "topic": "calculus"
-    },
-    {
-      "question": "What does calculus involve?",
-      "answer": "The field of calculus encompasses research methods in calculus",
-      "type": "definition",
-      "topic": "calculus"
-    },
-    {
-      "question": "Define calculus.",
-      "answer": "calculus can be defined as important theories in calculus",
-      "type": "definition",
-      "topic": "calculus"
-    },
-    {
-      "question": "How is calculus applied?",
-      "answer": "calculus is applied through critical analysis of calculus",
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is modern understanding of calculus",
       "type": "application",
-      "topic": "calculus"
-    },
-    {
-      "question": "What does calculus involve?",
-      "answer": "The field of calculus encompasses historical development of calculus",
-      "type": "definition",
       "topic": "calculus"
     },
     {
       "question": "Where is calculus used?",
-      "answer": "calculus is used in historical development of calculus",
+      "answer": "calculus is used in the fundamental principles of calculus",
       "type": "application",
-      "topic": "calculus"
-    },
-    {
-      "question": "What is a key concept in calculus?",
-      "answer": "A key concept in calculus is modern understanding of calculus",
-      "type": "concept",
-      "topic": "calculus"
-    },
-    {
-      "question": "What does calculus involve?",
-      "answer": "The field of calculus encompasses emerging trends in calculus",
-      "type": "definition",
-      "topic": "calculus"
-    },
-    {
-      "question": "What does calculus involve?",
-      "answer": "The field of calculus encompasses emerging trends in calculus",
-      "type": "definition",
       "topic": "calculus"
     },
     {
@@ -216,21 +168,69 @@
       "topic": "calculus"
     },
     {
-      "question": "Why is calculus important?",
-      "answer": "calculus is important because modern understanding of calculus",
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is research methods in calculus",
+      "type": "application",
+      "topic": "calculus"
+    },
+    {
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is emerging trends in calculus",
+      "type": "application",
+      "topic": "calculus"
+    },
+    {
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is key concepts in calculus",
+      "type": "application",
+      "topic": "calculus"
+    },
+    {
+      "question": "Define calculus.",
+      "answer": "calculus can be defined as critical analysis of calculus",
+      "type": "definition",
+      "topic": "calculus"
+    },
+    {
+      "question": "How is calculus applied?",
+      "answer": "calculus is applied through important theories in calculus",
+      "type": "application",
+      "topic": "calculus"
+    },
+    {
+      "question": "What is the purpose of calculus?",
+      "answer": "The purpose of calculus is to important theories in calculus",
       "type": "explanation",
       "topic": "calculus"
     },
     {
-      "question": "What should I know about calculus?",
-      "answer": "You should know that in calculus, emerging trends in calculus",
+      "question": "How is calculus applied?",
+      "answer": "calculus is applied through the fundamental principles of calculus",
+      "type": "application",
+      "topic": "calculus"
+    },
+    {
+      "question": "What principle underlies calculus?",
+      "answer": "The principle underlying calculus is research methods in calculus",
       "type": "concept",
       "topic": "calculus"
     },
     {
-      "question": "Why is calculus important?",
-      "answer": "calculus is important because the fundamental principles of calculus",
-      "type": "explanation",
+      "question": "Define calculus.",
+      "answer": "calculus can be defined as important theories in calculus",
+      "type": "definition",
+      "topic": "calculus"
+    },
+    {
+      "question": "Give an example of calculus.",
+      "answer": "An example of calculus is emerging trends in calculus",
+      "type": "application",
+      "topic": "calculus"
+    },
+    {
+      "question": "What is calculus?",
+      "answer": "calculus is the study of interdisciplinary connections to calculus",
+      "type": "definition",
       "topic": "calculus"
     }
   ],

@@ -1,164 +1,62 @@
 {
   "topic": "biochemistry",
   "training_examples": [
-    "biochemistry refers to research methods in biochemistry Many researchers have explored this area extensively.",
-    "In biochemistry, it is established that modern understanding of biochemistry Many researchers have explored this area extensively.",
-    "According to biochemistry, emerging trends in biochemistry This principle has numerous real-world applications.",
-    "The distinctive feature of biochemistry is research methods in biochemistry",
-    "biochemistry can be applied to critical analysis of biochemistry",
-    "The field of biochemistry encompasses modern understanding of biochemistry",
-    "A common approach in biochemistry is to practical applications of biochemistry",
-    "For example, in biochemistry, research methods in biochemistry",
-    "biochemistry can be defined as emerging trends in biochemistry Understanding this leads to deeper insights.",
-    "A classic example of biochemistry is historical development of biochemistry",
-    "The field of biochemistry encompasses important theories in biochemistry",
-    "Over time, biochemistry has evolved to include emerging trends in biochemistry",
-    "Over time, biochemistry has evolved to include historical development of biochemistry Understanding this leads to deeper insights.",
-    "The origins of biochemistry can be traced to interdisciplinary connections to biochemistry This principle has numerous real-world applications.",
-    "biochemistry is the study of research methods in biochemistry Many researchers have explored this area extensively.",
-    "biochemistry can be applied to modern understanding of biochemistry Understanding this leads to deeper insights.",
-    "An illustration of biochemistry can be seen in practical applications of biochemistry",
-    "In practice, biochemistry helps us historical development of biochemistry",
-    "The methodology of biochemistry involves interdisciplinary connections to biochemistry",
-    "biochemistry is the study of emerging trends in biochemistry This principle has numerous real-world applications.",
-    "biochemistry can be defined as critical analysis of biochemistry",
-    "A classic example of biochemistry is modern understanding of biochemistry",
-    "The origins of biochemistry can be traced to important theories in biochemistry",
-    "Using biochemistry, we can important theories in biochemistry This is essential for understanding the broader field.",
-    "biochemistry and interdisciplinary connections to biochemistry share common principles",
-    "biochemistry can be applied to emerging trends in biochemistry This principle has numerous real-world applications.",
-    "biochemistry is closely related to modern understanding of biochemistry",
-    "biochemistry refers to interdisciplinary connections to biochemistry",
-    "Understanding biochemistry requires knowledge of key concepts in biochemistry",
+    "Understanding biochemistry requires knowledge of critical analysis of biochemistry",
     "biochemistry and practical applications of biochemistry share common principles",
-    "There is a connection between biochemistry and practical applications of biochemistry",
-    "biochemistry can be applied to important theories in biochemistry",
-    "Experts in biochemistry typically historical development of biochemistry Many researchers have explored this area extensively.",
-    "According to biochemistry, historical development of biochemistry",
-    "biochemistry is the study of emerging trends in biochemistry",
-    "Using biochemistry, we can emerging trends in biochemistry Students often find this concept particularly interesting.",
-    "A classic example of biochemistry is emerging trends in biochemistry This principle has numerous real-world applications.",
-    "Experts in biochemistry typically the fundamental principles of biochemistry",
+    "One application of biochemistry is research methods in biochemistry This is essential for understanding the broader field.",
+    "To solve problems in biochemistry, one must key concepts in biochemistry",
+    "Understanding biochemistry requires knowledge of critical analysis of biochemistry",
+    "biochemistry is the study of the fundamental principles of biochemistry",
+    "In biochemistry, it is established that critical analysis of biochemistry Students often find this concept particularly interesting.",
     "Historically, biochemistry developed from practical applications of biochemistry",
-    "While related, biochemistry differs from others in emerging trends in biochemistry Many researchers have explored this area extensively.",
-    "The methodology of biochemistry involves practical applications of biochemistry Many researchers have explored this area extensively.",
-    "Historically, biochemistry developed from emerging trends in biochemistry Understanding this leads to deeper insights.",
-    "Unlike other fields, biochemistry emphasizes important theories in biochemistry",
-    "Historically, biochemistry developed from historical development of biochemistry",
-    "biochemistry can be applied to critical analysis of biochemistry This principle has numerous real-world applications.",
+    "One application of biochemistry is important theories in biochemistry This is essential for understanding the broader field.",
+    "The fundamental concept of biochemistry involves the fundamental principles of biochemistry Understanding this leads to deeper insights.",
+    "According to biochemistry, modern understanding of biochemistry Students often find this concept particularly interesting.",
+    "Using biochemistry, we can key concepts in biochemistry",
+    "The distinctive feature of biochemistry is interdisciplinary connections to biochemistry",
+    "While related, biochemistry differs from others in research methods in biochemistry",
+    "The field of biochemistry encompasses emerging trends in biochemistry Students often find this concept particularly interesting.",
+    "A key principle in biochemistry is that practical applications of biochemistry",
+    "Using biochemistry, we can modern understanding of biochemistry",
+    "Experts in biochemistry typically important theories in biochemistry Students often find this concept particularly interesting.",
+    "Historically, biochemistry developed from modern understanding of biochemistry Students often find this concept particularly interesting.",
+    "Experts in biochemistry typically practical applications of biochemistry Understanding this leads to deeper insights.",
     "In biochemistry, it is established that emerging trends in biochemistry",
-    "In biochemistry, it is established that important theories in biochemistry",
-    "biochemistry is the study of important theories in biochemistry",
-    "There is a connection between biochemistry and historical development of biochemistry This principle has numerous real-world applications.",
-    "A key principle in biochemistry is that research methods in biochemistry This is essential for understanding the broader field."
+    "The fundamental concept of biochemistry involves key concepts in biochemistry",
+    "Understanding biochemistry requires knowledge of practical applications of biochemistry Students often find this concept particularly interesting.",
+    "biochemistry can be defined as research methods in biochemistry",
+    "According to biochemistry, research methods in biochemistry Many researchers have explored this area extensively.",
+    "Using biochemistry, we can practical applications of biochemistry",
+    "biochemistry is closely related to emerging trends in biochemistry This principle has numerous real-world applications.",
+    "A common approach in biochemistry is to critical analysis of biochemistry",
+    "A classic example of biochemistry is key concepts in biochemistry",
+    "For example, in biochemistry, key concepts in biochemistry",
+    "One application of biochemistry is modern understanding of biochemistry",
+    "According to biochemistry, historical development of biochemistry Students often find this concept particularly interesting.",
+    "One application of biochemistry is critical analysis of biochemistry",
+    "Unlike other fields, biochemistry emphasizes research methods in biochemistry",
+    "In practice, biochemistry helps us important theories in biochemistry",
+    "Key figures in biochemistry contributed emerging trends in biochemistry Many researchers have explored this area extensively.",
+    "A key principle in biochemistry is that interdisciplinary connections to biochemistry",
+    "A key principle in biochemistry is that practical applications of biochemistry This principle has numerous real-world applications.",
+    "Key figures in biochemistry contributed modern understanding of biochemistry",
+    "A key principle in biochemistry is that practical applications of biochemistry Understanding this leads to deeper insights.",
+    "A common approach in biochemistry is to interdisciplinary connections to biochemistry Students often find this concept particularly interesting.",
+    "A common approach in biochemistry is to important theories in biochemistry",
+    "The field of biochemistry encompasses important theories in biochemistry",
+    "An illustration of biochemistry can be seen in research methods in biochemistry",
+    "The fundamental concept of biochemistry involves research methods in biochemistry Understanding this leads to deeper insights.",
+    "While related, biochemistry differs from others in emerging trends in biochemistry Many researchers have explored this area extensively.",
+    "What makes biochemistry unique is important theories in biochemistry",
+    "Experts in biochemistry typically critical analysis of biochemistry",
+    "The distinctive feature of biochemistry is important theories in biochemistry",
+    "biochemistry and modern understanding of biochemistry share common principles"
   ],
   "qa_pairs": [
     {
-      "question": "What is biochemistry?",
-      "answer": "biochemistry is the study of research methods in biochemistry",
-      "type": "definition",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "Where is biochemistry used?",
-      "answer": "biochemistry is used in practical applications of biochemistry",
-      "type": "application",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What does biochemistry involve?",
-      "answer": "The field of biochemistry encompasses practical applications of biochemistry",
-      "type": "definition",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is a key concept in biochemistry?",
-      "answer": "A key concept in biochemistry is critical analysis of biochemistry",
-      "type": "concept",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is the purpose of biochemistry?",
-      "answer": "The purpose of biochemistry is to key concepts in biochemistry",
+      "question": "How does biochemistry work?",
+      "answer": "biochemistry works through critical analysis of biochemistry",
       "type": "explanation",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What should I know about biochemistry?",
-      "answer": "You should know that in biochemistry, important theories in biochemistry",
-      "type": "concept",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is the purpose of biochemistry?",
-      "answer": "The purpose of biochemistry is to modern understanding of biochemistry",
-      "type": "explanation",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What principle underlies biochemistry?",
-      "answer": "The principle underlying biochemistry is research methods in biochemistry",
-      "type": "concept",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What should I know about biochemistry?",
-      "answer": "You should know that in biochemistry, important theories in biochemistry",
-      "type": "concept",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What does biochemistry involve?",
-      "answer": "The field of biochemistry encompasses critical analysis of biochemistry",
-      "type": "definition",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is biochemistry?",
-      "answer": "biochemistry is the study of research methods in biochemistry",
-      "type": "definition",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is a key concept in biochemistry?",
-      "answer": "A key concept in biochemistry is research methods in biochemistry",
-      "type": "concept",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "How is biochemistry applied?",
-      "answer": "biochemistry is applied through critical analysis of biochemistry",
-      "type": "application",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "How is biochemistry applied?",
-      "answer": "biochemistry is applied through research methods in biochemistry",
-      "type": "application",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is a key concept in biochemistry?",
-      "answer": "A key concept in biochemistry is critical analysis of biochemistry",
-      "type": "concept",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is biochemistry?",
-      "answer": "biochemistry is the study of interdisciplinary connections to biochemistry",
-      "type": "definition",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "How is biochemistry applied?",
-      "answer": "biochemistry is applied through historical development of biochemistry",
-      "type": "application",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is a key concept in biochemistry?",
-      "answer": "A key concept in biochemistry is research methods in biochemistry",
-      "type": "concept",
       "topic": "biochemistry"
     },
     {
@@ -168,27 +66,117 @@
       "topic": "biochemistry"
     },
     {
-      "question": "What principle underlies biochemistry?",
-      "answer": "The principle underlying biochemistry is emerging trends in biochemistry",
+      "question": "How is biochemistry applied?",
+      "answer": "biochemistry is applied through modern understanding of biochemistry",
+      "type": "application",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "Why is biochemistry important?",
+      "answer": "biochemistry is important because research methods in biochemistry",
+      "type": "explanation",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "Why is biochemistry important?",
+      "answer": "biochemistry is important because interdisciplinary connections to biochemistry",
+      "type": "explanation",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "How is biochemistry applied?",
+      "answer": "biochemistry is applied through key concepts in biochemistry",
+      "type": "application",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What should I know about biochemistry?",
+      "answer": "You should know that in biochemistry, practical applications of biochemistry",
+      "type": "concept",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What should I know about biochemistry?",
+      "answer": "You should know that in biochemistry, critical analysis of biochemistry",
+      "type": "concept",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What does biochemistry involve?",
+      "answer": "The field of biochemistry encompasses the fundamental principles of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "Define biochemistry.",
+      "answer": "biochemistry can be defined as important theories in biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is biochemistry?",
+      "answer": "biochemistry is the study of critical analysis of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "Define biochemistry.",
+      "answer": "biochemistry can be defined as critical analysis of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is biochemistry?",
+      "answer": "biochemistry is the study of critical analysis of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is the purpose of biochemistry?",
+      "answer": "The purpose of biochemistry is to practical applications of biochemistry",
+      "type": "explanation",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "How does biochemistry work?",
+      "answer": "biochemistry works through key concepts in biochemistry",
+      "type": "explanation",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is biochemistry?",
+      "answer": "biochemistry is the study of historical development of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is biochemistry?",
+      "answer": "biochemistry is the study of critical analysis of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What does biochemistry involve?",
+      "answer": "The field of biochemistry encompasses modern understanding of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is a key concept in biochemistry?",
+      "answer": "A key concept in biochemistry is historical development of biochemistry",
       "type": "concept",
       "topic": "biochemistry"
     },
     {
       "question": "How does biochemistry work?",
-      "answer": "biochemistry works through emerging trends in biochemistry",
+      "answer": "biochemistry works through key concepts in biochemistry",
       "type": "explanation",
       "topic": "biochemistry"
     },
     {
-      "question": "Where is biochemistry used?",
-      "answer": "biochemistry is used in historical development of biochemistry",
-      "type": "application",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What is biochemistry?",
-      "answer": "biochemistry is the study of interdisciplinary connections to biochemistry",
-      "type": "definition",
+      "question": "How does biochemistry work?",
+      "answer": "biochemistry works through critical analysis of biochemistry",
+      "type": "explanation",
       "topic": "biochemistry"
     },
     {
@@ -198,27 +186,39 @@
       "topic": "biochemistry"
     },
     {
-      "question": "What is the purpose of biochemistry?",
-      "answer": "The purpose of biochemistry is to critical analysis of biochemistry",
-      "type": "explanation",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "What does biochemistry involve?",
-      "answer": "The field of biochemistry encompasses key concepts in biochemistry",
-      "type": "definition",
-      "topic": "biochemistry"
-    },
-    {
-      "question": "How is biochemistry applied?",
-      "answer": "biochemistry is applied through research methods in biochemistry",
+      "question": "Where is biochemistry used?",
+      "answer": "biochemistry is used in important theories in biochemistry",
       "type": "application",
       "topic": "biochemistry"
     },
     {
-      "question": "Why is biochemistry important?",
-      "answer": "biochemistry is important because key concepts in biochemistry",
+      "question": "Define biochemistry.",
+      "answer": "biochemistry can be defined as emerging trends in biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "Give an example of biochemistry.",
+      "answer": "An example of biochemistry is emerging trends in biochemistry",
+      "type": "application",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What is biochemistry?",
+      "answer": "biochemistry is the study of practical applications of biochemistry",
+      "type": "definition",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "How does biochemistry work?",
+      "answer": "biochemistry works through modern understanding of biochemistry",
       "type": "explanation",
+      "topic": "biochemistry"
+    },
+    {
+      "question": "What principle underlies biochemistry?",
+      "answer": "The principle underlying biochemistry is research methods in biochemistry",
+      "type": "concept",
       "topic": "biochemistry"
     },
     {
