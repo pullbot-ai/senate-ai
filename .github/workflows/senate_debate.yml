@@ -15,8 +15,6 @@ jobs:
   debate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,25 +26,32 @@ jobs:
       
       - run: pip install torch numpy pyyaml
       
-      - name: Senate Debate
+      - name: Write debate script
         run: |
-          python -c "
-import sys
-sys.path.insert(0, 'src')
-from senate import Senate
-
-senate = Senate()
-result = senate.ask('${{ github.event.inputs.question }}')
-
-print()
-print('='*60)
-print('  SENATE FINAL ANSWER')
-print('='*60)
-print()
-print(f'Question: ${{ github.event.inputs.question }}')
-print(f'Answer: {result[\"consensus\"]}')
-print(f'Confidence: {result[\"confidence\"]:.1%}')
-print(f'Rounds: {result[\"rounds\"]}')
-print(f'Senators: {result[\"senators_involved\"]}')
-print(f'Topics: {\", \".join(result[\"topics\"])}')
-"
+          cat > debate.py << 'PYEOF'
+          import sys
+          sys.path.insert(0, "src")
+          from senate import Senate
+          
+          question = """$QUESTION"""
+          
+          senate = Senate()
+          result = senate.ask(question)
+          
+          print()
+          print("=" * 60)
+          print("  SENATE FINAL ANSWER")
+          print("=" * 60)
+          print()
+          print("Question:", question)
+          print("Answer:", result["consensus"])
+          print(f"Confidence: {result['confidence']:.1%}")
+          print("Rounds:", result["rounds"])
+          print("Senators:", result["senators_involved"])
+          print("Topics:", ", ".join(result["topics"]))
+          PYEOF
+        env:
+          QUESTION: ${{ github.event.inputs.question }}
+      
+      - name: Run debate
+        run: python debate.py
