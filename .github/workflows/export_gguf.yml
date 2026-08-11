@@ -1,0 +1,42 @@
+name: Export GGUF
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Bundle ID (b0-b88) or Senator ID (0-4004)'
+        required: true
+        default: 'b0'
+      quant:
+        description: 'Quantization (f16 or q4)'
+        required: false
+        default: 'f16'
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - run: pip install torch numpy
+      
+      - name: Export to GGUF
+        run: python src/export_gguf.py ${{ github.event.inputs.target }} --quant ${{ github.event.inputs.quant }}
+      
+      - name: Push GGUF files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add gguf_exports/
+          git commit -m "Export GGUF - ${{ github.event.inputs.target }} (${{ github.event.inputs.quant }})"
+          git push
