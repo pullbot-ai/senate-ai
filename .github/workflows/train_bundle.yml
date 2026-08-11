@@ -4,107 +4,99 @@ on:
   workflow_dispatch:
     inputs:
       bundle_id:
-        description: 'Bundle ID (0-88)'
+        description: 'Bundle ID to train (0-88)'
         required: true
         type: number
 
+permissions:
+  actions: write
+  contents: read
+
 jobs:
-  # Strategy 1: Conservative - slow and careful
   train-conservative:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      
       - run: pip install torch numpy pyyaml
-      - uses: actions/download-artifact@v4
-        with:
-          name: workspace
-        continue-on-error: true
+      
       - name: Train conservative
         run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy conservative --epochs 5 --lr 0.0005
+      
       - uses: actions/upload-artifact@v4
         with:
-          name: conservative-bundle-${{ github.event.inputs.bundle_id }}
-          path: models/bundle_*.pt
+          name: trained-bundle-${{ github.event.inputs.bundle_id }}-conservative
+          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
 
-  # Strategy 2: Aggressive - fast and bold
   train-aggressive:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      
       - run: pip install torch numpy pyyaml
-      - uses: actions/download-artifact@v4
-        with:
-          name: workspace
-        continue-on-error: true
+      
       - name: Train aggressive
         run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy aggressive --epochs 2 --lr 0.01
+      
       - uses: actions/upload-artifact@v4
         with:
-          name: aggressive-bundle-${{ github.event.inputs.bundle_id }}
-          path: models/bundle_*.pt
+          name: trained-bundle-${{ github.event.inputs.bundle_id }}-aggressive
+          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
 
-  # Strategy 3: Curriculum - easy to hard
   train-curriculum:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      
       - run: pip install torch numpy pyyaml
-      - uses: actions/download-artifact@v4
-        with:
-          name: workspace
-        continue-on-error: true
+      
       - name: Train curriculum
         run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy curriculum --epochs 4 --lr 0.001
+      
       - uses: actions/upload-artifact@v4
         with:
-          name: curriculum-bundle-${{ github.event.inputs.bundle_id }}
-          path: models/bundle_*.pt
+          name: trained-bundle-${{ github.event.inputs.bundle_id }}-curriculum
+          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
 
-  # Strategy 4: Adversarial - with challenger
   train-adversarial:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      
       - run: pip install torch numpy pyyaml
-      - uses: actions/download-artifact@v4
-        with:
-          name: workspace
-        continue-on-error: true
+      
       - name: Train adversarial
         run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy adversarial --epochs 3 --lr 0.002
-      - uses: actions/upload-artifact@v4
-        with:
-          name: adversarial-bundle-${{ github.event.inputs.bundle_id }}
-          path: models/bundle_*.pt
-
-  # Compare results and pick best
-  select-best:
-    needs: [train-conservative, train-aggressive, train-curriculum, train-adversarial]
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Download all strategies
-        uses: actions/download-artifact@v4
-      
-      - name: Compare and select best model
-        run: |
-          echo "Comparing training strategies..."
-          # Logic to pick best based on grading scores
-          python src/select_best.py ${{ github.event.inputs.bundle_id }}
       
       - uses: actions/upload-artifact@v4
         with:
-          name: best-bundle-${{ github.event.inputs.bundle_id }}
-          path: models/bundle_*.pt
+          name: trained-bundle-${{ github.event.inputs.bundle_id }}-adversarial
+          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
