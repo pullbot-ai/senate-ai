@@ -10,12 +10,174 @@ on:
 
 permissions:
   actions: write
-  contents: read
+  contents: write
 
 jobs:
-  train-conservative:
+  # Train topic groups in parallel
+  train-math:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train math topics
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics mathematics,algebra,geometry,calculus,statistics --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-math-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  train-science:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train science topics
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics physics,chemistry,biology,astronomy,environmental_science --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-science-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  train-cs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train CS topics
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics computer_science,algorithms,machine_learning,cybersecurity,networking --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-cs-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  train-humanities:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train humanities
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics history,ancient_civilizations,world_wars,geography,philosophy --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-humanities-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  train-social:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train social topics
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics psychology,economics,political_science,law,linguistics --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-social-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  train-arts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train arts topics
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics art_history,music_theory,literature,poetry,ethics --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-arts-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  train-medical:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train medical topics
+        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics medicine,anatomy,neuroscience,genetics,microbiology --epochs 3 --lr 0.001
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trained-medical-${{ github.event.inputs.bundle_id }}
+          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
+
+  merge-and-push:
+    needs: [train-math, train-science, train-cs, train-humanities, train-social, train-arts, train-medical]
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,117 +186,29 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      
-      - name: Cache pip packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      
       - run: pip install torch numpy pyyaml
       
-      - name: Train conservative
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy conservative --epochs 5 --lr 0.0005
-      
-      - uses: actions/upload-artifact@v4
+      - name: Download and merge all topic trainings
+        uses: actions/download-artifact@v4
         with:
-          name: bundle-${{ github.event.inputs.bundle_id }}-conservative
-          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
-
-  train-aggressive:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
+          pattern: trained-*-${{ github.event.inputs.bundle_id }}
+          merge-multiple: true
+          path: senate_bundles/
       
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+      - name: Merge bundles keeping best scores
+        run: python src/merge_bundles.py ${{ github.event.inputs.bundle_id }}
       
-      - name: Cache pip packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
+      - name: Push trained bundle
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          BUNDLE=$(printf "%03d" ${{ github.event.inputs.bundle_id }})
+          git add senate_bundles/bundle_${BUNDLE}.pt
+          git commit -m "Train bundle ${{ github.event.inputs.bundle_id }}"
+          git push
       
-      - run: pip install torch numpy pyyaml
-      
-      - name: Train aggressive
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy aggressive --epochs 2 --lr 0.01
-      
-      - uses: actions/upload-artifact@v4
-        with:
-          name: bundle-${{ github.event.inputs.bundle_id }}-aggressive
-          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
-
-  train-curriculum:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      
-      - name: Cache pip packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      
-      - run: pip install torch numpy pyyaml
-      
-      - name: Train curriculum
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy curriculum --epochs 4 --lr 0.001
-      
-      - uses: actions/upload-artifact@v4
-        with:
-          name: bundle-${{ github.event.inputs.bundle_id }}-curriculum
-          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
-
-  train-adversarial:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      
-      - name: Cache pip packages
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      
-      - run: pip install torch numpy pyyaml
-      
-      - name: Train adversarial
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --strategy adversarial --epochs 3 --lr 0.002
-      
-      - uses: actions/upload-artifact@v4
-        with:
-          name: bundle-${{ github.event.inputs.bundle_id }}-adversarial
-          path: senate_bundles/bundle_${{ github.event.inputs.bundle_id }}*.pt
-
-  trigger-next:
-    needs: [train-conservative, train-aggressive, train-curriculum, train-adversarial]
-    if: ${{ github.event.inputs.bundle_id < 88 }}
-    runs-on: ubuntu-latest
-    steps:
       - name: Trigger next bundle
+        if: ${{ github.event.inputs.bundle_id < 88 }}
         run: |
           NEXT=$(( ${{ github.event.inputs.bundle_id }} + 1 ))
           curl -X POST \
