@@ -1,130 +1,58 @@
 {
   "topic": "geography",
   "training_examples": [
-    "Consider how geography explains historical development of geography",
-    "geography can be applied to critical analysis of geography Students often find this concept particularly interesting.",
-    "Understanding geography requires knowledge of practical applications of geography",
-    "A key principle in geography is that practical applications of geography Students often find this concept particularly interesting.",
-    "To solve problems in geography, one must research methods in geography",
-    "Consider how geography explains modern understanding of geography This is essential for understanding the broader field.",
-    "geography is closely related to important theories in geography",
-    "geography and key concepts in geography share common principles Students often find this concept particularly interesting.",
-    "An illustration of geography can be seen in interdisciplinary connections to geography",
-    "geography refers to emerging trends in geography",
-    "To solve problems in geography, one must key concepts in geography Students often find this concept particularly interesting.",
-    "A common approach in geography is to key concepts in geography",
-    "What makes geography unique is modern understanding of geography",
-    "The distinctive feature of geography is the fundamental principles of geography",
-    "A key principle in geography is that modern understanding of geography",
-    "Unlike other fields, geography emphasizes critical analysis of geography",
-    "Experts in geography typically important theories in geography",
-    "In practice, geography helps us important theories in geography This is essential for understanding the broader field.",
-    "The methodology of geography involves emerging trends in geography",
-    "What makes geography unique is research methods in geography",
-    "geography is closely related to historical development of geography",
-    "Consider how geography explains historical development of geography",
-    "Understanding geography requires knowledge of the fundamental principles of geography",
-    "In practice, geography helps us modern understanding of geography",
-    "Experts in geography typically emerging trends in geography",
-    "geography and research methods in geography share common principles",
-    "In practice, geography helps us key concepts in geography",
-    "A classic example of geography is emerging trends in geography This is essential for understanding the broader field.",
-    "The fundamental concept of geography involves interdisciplinary connections to geography",
-    "Over time, geography has evolved to include modern understanding of geography This is essential for understanding the broader field.",
-    "One application of geography is historical development of geography",
-    "The methodology of geography involves important theories in geography",
-    "The fundamental concept of geography involves emerging trends in geography Understanding this leads to deeper insights.",
-    "geography can be applied to important theories in geography",
-    "In practice, geography helps us the fundamental principles of geography This principle has numerous real-world applications.",
-    "Unlike other fields, geography emphasizes the fundamental principles of geography Many researchers have explored this area extensively.",
-    "Key figures in geography contributed interdisciplinary connections to geography Students often find this concept particularly interesting.",
-    "The distinctive feature of geography is the fundamental principles of geography",
-    "Consider how geography explains practical applications of geography",
-    "There is a connection between geography and emerging trends in geography Understanding this leads to deeper insights.",
-    "One application of geography is practical applications of geography",
-    "The field of geography encompasses important theories in geography",
+    "The fundamental concept of geography involves research methods in geography",
+    "Unlike other fields, geography emphasizes key concepts in geography",
+    "geography refers to important theories in geography",
     "For example, in geography, critical analysis of geography",
-    "The origins of geography can be traced to key concepts in geography Understanding this leads to deeper insights.",
-    "For example, in geography, research methods in geography",
-    "In practice, geography helps us research methods in geography",
-    "According to geography, interdisciplinary connections to geography",
-    "geography can be defined as important theories in geography",
-    "Key figures in geography contributed interdisciplinary connections to geography",
-    "For example, in geography, practical applications of geography"
+    "A key principle in geography is that key concepts in geography",
+    "The field of geography encompasses the fundamental principles of geography",
+    "In geography, it is established that critical analysis of geography This is essential for understanding the broader field.",
+    "geography and key concepts in geography share common principles This is essential for understanding the broader field.",
+    "The origins of geography can be traced to modern understanding of geography Many researchers have explored this area extensively.",
+    "What makes geography unique is the fundamental principles of geography",
+    "Consider how geography explains important theories in geography",
+    "According to geography, modern understanding of geography",
+    "According to geography, critical analysis of geography",
+    "Consider how geography explains modern understanding of geography",
+    "geography and the fundamental principles of geography share common principles",
+    "geography and research methods in geography share common principles Understanding this leads to deeper insights.",
+    "In geography, it is established that historical development of geography Many researchers have explored this area extensively.",
+    "geography is closely related to key concepts in geography",
+    "The methodology of geography involves modern understanding of geography Understanding this leads to deeper insights.",
+    "In practice, geography helps us critical analysis of geography This is essential for understanding the broader field.",
+    "What makes geography unique is key concepts in geography",
+    "What makes geography unique is modern understanding of geography This is essential for understanding the broader field.",
+    "geography can be defined as critical analysis of geography",
+    "The distinctive feature of geography is modern understanding of geography",
+    "geography can be applied to the fundamental principles of geography",
+    "While related, geography differs from others in critical analysis of geography",
+    "In geography, it is established that interdisciplinary connections to geography This principle has numerous real-world applications.",
+    "Historically, geography developed from interdisciplinary connections to geography",
+    "An illustration of geography can be seen in practical applications of geography",
+    "Consider how geography explains the fundamental principles of geography",
+    "geography can be applied to critical analysis of geography Many researchers have explored this area extensively.",
+    "geography is the study of research methods in geography",
+    "The origins of geography can be traced to the fundamental principles of geography",
+    "Consider how geography explains emerging trends in geography Understanding this leads to deeper insights.",
+    "geography is the study of interdisciplinary connections to geography This is essential for understanding the broader field.",
+    "geography and research methods in geography share common principles",
+    "Key figures in geography contributed practical applications of geography",
+    "The origins of geography can be traced to modern understanding of geography Many researchers have explored this area extensively.",
+    "One application of geography is modern understanding of geography",
+    "To solve problems in geography, one must interdisciplinary connections to geography This is essential for understanding the broader field.",
+    "Understanding geography requires knowledge of important theories in geography Understanding this leads to deeper insights.",
+    "A common approach in geography is to historical development of geography",
+    "An illustration of geography can be seen in the fundamental principles of geography Understanding this leads to deeper insights.",
+    "A key principle in geography is that interdisciplinary connections to geography",
+    "geography can be applied to research methods in geography",
+    "The methodology of geography involves emerging trends in geography This is essential for understanding the broader field.",
+    "Over time, geography has evolved to include modern understanding of geography Understanding this leads to deeper insights.",
+    "geography refers to interdisciplinary connections to geography",
+    "geography refers to emerging trends in geography This is essential for understanding the broader field.",
+    "Consider how geography explains critical analysis of geography"
   ],
   "qa_pairs": [
-    {
-      "question": "Give an example of geography.",
-      "answer": "An example of geography is historical development of geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "What is the purpose of geography?",
-      "answer": "The purpose of geography is to key concepts in geography",
-      "type": "explanation",
-      "topic": "geography"
-    },
-    {
-      "question": "What is a key concept in geography?",
-      "answer": "A key concept in geography is practical applications of geography",
-      "type": "concept",
-      "topic": "geography"
-    },
-    {
-      "question": "How is geography applied?",
-      "answer": "geography is applied through modern understanding of geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "What is the purpose of geography?",
-      "answer": "The purpose of geography is to key concepts in geography",
-      "type": "explanation",
-      "topic": "geography"
-    },
-    {
-      "question": "What is geography?",
-      "answer": "geography is the study of important theories in geography",
-      "type": "definition",
-      "topic": "geography"
-    },
-    {
-      "question": "Where is geography used?",
-      "answer": "geography is used in research methods in geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "Define geography.",
-      "answer": "geography can be defined as historical development of geography",
-      "type": "definition",
-      "topic": "geography"
-    },
-    {
-      "question": "Give an example of geography.",
-      "answer": "An example of geography is the fundamental principles of geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "How is geography applied?",
-      "answer": "geography is applied through practical applications of geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "What is geography?",
-      "answer": "geography is the study of research methods in geography",
-      "type": "definition",
-      "topic": "geography"
-    },
-    {
-      "question": "How does geography work?",
-      "answer": "geography works through key concepts in geography",
-      "type": "explanation",
-      "topic": "geography"
-    },
     {
       "question": "What does geography involve?",
       "answer": "The field of geography encompasses research methods in geography",
@@ -132,57 +60,9 @@
       "topic": "geography"
     },
     {
-      "question": "Where is geography used?",
-      "answer": "geography is used in critical analysis of geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "What is a key concept in geography?",
-      "answer": "A key concept in geography is practical applications of geography",
-      "type": "concept",
-      "topic": "geography"
-    },
-    {
-      "question": "How is geography applied?",
-      "answer": "geography is applied through key concepts in geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "How does geography work?",
-      "answer": "geography works through research methods in geography",
-      "type": "explanation",
-      "topic": "geography"
-    },
-    {
       "question": "Give an example of geography.",
-      "answer": "An example of geography is key concepts in geography",
+      "answer": "An example of geography is critical analysis of geography",
       "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "What principle underlies geography?",
-      "answer": "The principle underlying geography is modern understanding of geography",
-      "type": "concept",
-      "topic": "geography"
-    },
-    {
-      "question": "Give an example of geography.",
-      "answer": "An example of geography is modern understanding of geography",
-      "type": "application",
-      "topic": "geography"
-    },
-    {
-      "question": "What is the purpose of geography?",
-      "answer": "The purpose of geography is to modern understanding of geography",
-      "type": "explanation",
-      "topic": "geography"
-    },
-    {
-      "question": "What should I know about geography?",
-      "answer": "You should know that in geography, the fundamental principles of geography",
-      "type": "concept",
       "topic": "geography"
     },
     {
@@ -193,26 +73,92 @@
     },
     {
       "question": "What principle underlies geography?",
-      "answer": "The principle underlying geography is key concepts in geography",
+      "answer": "The principle underlying geography is the fundamental principles of geography",
       "type": "concept",
       "topic": "geography"
     },
     {
-      "question": "What is a key concept in geography?",
-      "answer": "A key concept in geography is critical analysis of geography",
-      "type": "concept",
+      "question": "Why is geography important?",
+      "answer": "geography is important because research methods in geography",
+      "type": "explanation",
+      "topic": "geography"
+    },
+    {
+      "question": "Where is geography used?",
+      "answer": "geography is used in key concepts in geography",
+      "type": "application",
       "topic": "geography"
     },
     {
       "question": "What should I know about geography?",
-      "answer": "You should know that in geography, research methods in geography",
+      "answer": "You should know that in geography, key concepts in geography",
       "type": "concept",
       "topic": "geography"
     },
     {
-      "question": "What is a key concept in geography?",
-      "answer": "A key concept in geography is modern understanding of geography",
-      "type": "concept",
+      "question": "What does geography involve?",
+      "answer": "The field of geography encompasses key concepts in geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "How is geography applied?",
+      "answer": "geography is applied through research methods in geography",
+      "type": "application",
+      "topic": "geography"
+    },
+    {
+      "question": "What does geography involve?",
+      "answer": "The field of geography encompasses historical development of geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "What does geography involve?",
+      "answer": "The field of geography encompasses emerging trends in geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "How does geography work?",
+      "answer": "geography works through key concepts in geography",
+      "type": "explanation",
+      "topic": "geography"
+    },
+    {
+      "question": "What is geography?",
+      "answer": "geography is the study of practical applications of geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "How is geography applied?",
+      "answer": "geography is applied through practical applications of geography",
+      "type": "application",
+      "topic": "geography"
+    },
+    {
+      "question": "What does geography involve?",
+      "answer": "The field of geography encompasses critical analysis of geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "How does geography work?",
+      "answer": "geography works through the fundamental principles of geography",
+      "type": "explanation",
+      "topic": "geography"
+    },
+    {
+      "question": "What is the purpose of geography?",
+      "answer": "The purpose of geography is to modern understanding of geography",
+      "type": "explanation",
+      "topic": "geography"
+    },
+    {
+      "question": "How is geography applied?",
+      "answer": "geography is applied through critical analysis of geography",
+      "type": "application",
       "topic": "geography"
     },
     {
@@ -222,14 +168,68 @@
       "topic": "geography"
     },
     {
-      "question": "Why is geography important?",
-      "answer": "geography is important because important theories in geography",
-      "type": "explanation",
+      "question": "How is geography applied?",
+      "answer": "geography is applied through interdisciplinary connections to geography",
+      "type": "application",
       "topic": "geography"
     },
     {
       "question": "Define geography.",
-      "answer": "geography can be defined as practical applications of geography",
+      "answer": "geography can be defined as modern understanding of geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "How is geography applied?",
+      "answer": "geography is applied through modern understanding of geography",
+      "type": "application",
+      "topic": "geography"
+    },
+    {
+      "question": "What should I know about geography?",
+      "answer": "You should know that in geography, research methods in geography",
+      "type": "concept",
+      "topic": "geography"
+    },
+    {
+      "question": "Where is geography used?",
+      "answer": "geography is used in research methods in geography",
+      "type": "application",
+      "topic": "geography"
+    },
+    {
+      "question": "What principle underlies geography?",
+      "answer": "The principle underlying geography is practical applications of geography",
+      "type": "concept",
+      "topic": "geography"
+    },
+    {
+      "question": "How is geography applied?",
+      "answer": "geography is applied through practical applications of geography",
+      "type": "application",
+      "topic": "geography"
+    },
+    {
+      "question": "Give an example of geography.",
+      "answer": "An example of geography is practical applications of geography",
+      "type": "application",
+      "topic": "geography"
+    },
+    {
+      "question": "What does geography involve?",
+      "answer": "The field of geography encompasses emerging trends in geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "What is geography?",
+      "answer": "geography is the study of historical development of geography",
+      "type": "definition",
+      "topic": "geography"
+    },
+    {
+      "question": "What is geography?",
+      "answer": "geography is the study of practical applications of geography",
       "type": "definition",
       "topic": "geography"
     }

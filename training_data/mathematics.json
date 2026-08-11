@@ -1,92 +1,110 @@
 {
   "topic": "mathematics",
   "training_examples": [
-    "mathematics is closely related to abstract reasoning and logic Understanding this leads to deeper insights.",
-    "An illustration of mathematics can be seen in numbers and their properties",
-    "There is a connection between mathematics and mathematical proofs and theorems",
-    "Unlike other fields, mathematics emphasizes mathematical proofs and theorems",
-    "mathematics can be applied to geometric visualization",
-    "The methodology of mathematics involves calculating probabilities",
-    "In mathematics, it is established that algebraic manipulation",
-    "The fundamental concept of mathematics involves statistical analysis",
-    "mathematics refers to solving equations systematically",
-    "For example, in mathematics, patterns and structures",
-    "mathematics can be applied to calculating probabilities",
-    "Using mathematics, we can calculating probabilities",
-    "The fundamental concept of mathematics involves quantitative relationships",
-    "mathematics is the study of statistical analysis",
-    "mathematics and abstract reasoning and logic share common principles",
-    "There is a connection between mathematics and algebraic manipulation",
-    "mathematics can be applied to abstract reasoning and logic",
-    "Key figures in mathematics contributed geometric visualization",
-    "The fundamental concept of mathematics involves abstract reasoning and logic",
-    "Understanding mathematics requires knowledge of algebraic manipulation Understanding this leads to deeper insights.",
-    "In mathematics, it is established that calculating probabilities",
-    "The origins of mathematics can be traced to solving equations systematically",
-    "mathematics can be applied to solving equations systematically Students often find this concept particularly interesting.",
-    "Unlike other fields, mathematics emphasizes algebraic manipulation This is essential for understanding the broader field.",
-    "mathematics can be applied to geometric visualization",
-    "mathematics is the study of numbers and their properties This is essential for understanding the broader field.",
-    "Using mathematics, we can abstract reasoning and logic Understanding this leads to deeper insights.",
+    "For example, in mathematics, numbers and their properties",
+    "An illustration of mathematics can be seen in solving equations systematically",
+    "The field of mathematics encompasses patterns and structures",
+    "A key principle in mathematics is that mathematical proofs and theorems",
+    "An illustration of mathematics can be seen in algebraic manipulation Many researchers have explored this area extensively.",
+    "There is a connection between mathematics and abstract reasoning and logic This is essential for understanding the broader field.",
+    "A common approach in mathematics is to quantitative relationships",
+    "According to mathematics, abstract reasoning and logic",
+    "mathematics refers to statistical analysis",
+    "One application of mathematics is statistical analysis",
+    "The methodology of mathematics involves statistical analysis",
+    "Historically, mathematics developed from mathematical proofs and theorems",
+    "mathematics can be defined as algebraic manipulation Students often find this concept particularly interesting.",
     "mathematics can be defined as numbers and their properties",
-    "A classic example of mathematics is mathematical proofs and theorems Students often find this concept particularly interesting.",
-    "mathematics can be applied to numbers and their properties Students often find this concept particularly interesting.",
-    "In practice, mathematics helps us statistical analysis This is essential for understanding the broader field.",
-    "The origins of mathematics can be traced to mathematical proofs and theorems",
-    "Historically, mathematics developed from solving equations systematically Many researchers have explored this area extensively.",
+    "In mathematics, it is established that geometric visualization",
+    "While related, mathematics differs from others in solving equations systematically This principle has numerous real-world applications.",
+    "According to mathematics, quantitative relationships",
+    "An illustration of mathematics can be seen in patterns and structures",
+    "To solve problems in mathematics, one must geometric visualization",
+    "While related, mathematics differs from others in statistical analysis",
+    "According to mathematics, geometric visualization",
+    "mathematics is the study of statistical analysis",
+    "For example, in mathematics, patterns and structures",
+    "There is a connection between mathematics and statistical analysis",
+    "The distinctive feature of mathematics is solving equations systematically",
     "Historically, mathematics developed from algebraic manipulation",
-    "Using mathematics, we can solving equations systematically",
-    "Understanding mathematics requires knowledge of numbers and their properties",
-    "While related, mathematics differs from others in solving equations systematically",
-    "For example, in mathematics, abstract reasoning and logic Students often find this concept particularly interesting.",
-    "mathematics is closely related to abstract reasoning and logic Students often find this concept particularly interesting.",
-    "Consider how mathematics explains solving equations systematically This is essential for understanding the broader field.",
-    "Experts in mathematics typically algebraic manipulation Students often find this concept particularly interesting.",
-    "mathematics and patterns and structures share common principles Students often find this concept particularly interesting.",
-    "The field of mathematics encompasses solving equations systematically",
-    "Over time, mathematics has evolved to include quantitative relationships This is essential for understanding the broader field.",
-    "The methodology of mathematics involves solving equations systematically",
-    "mathematics can be defined as quantitative relationships Understanding this leads to deeper insights.",
-    "One application of mathematics is abstract reasoning and logic",
-    "Using mathematics, we can geometric visualization Students often find this concept particularly interesting.",
-    "While related, mathematics differs from others in abstract reasoning and logic Understanding this leads to deeper insights.",
-    "Unlike other fields, mathematics emphasizes abstract reasoning and logic"
+    "Unlike other fields, mathematics emphasizes solving equations systematically",
+    "There is a connection between mathematics and abstract reasoning and logic",
+    "Experts in mathematics typically statistical analysis",
+    "Understanding mathematics requires knowledge of abstract reasoning and logic",
+    "The origins of mathematics can be traced to patterns and structures",
+    "The origins of mathematics can be traced to solving equations systematically",
+    "The field of mathematics encompasses statistical analysis",
+    "Unlike other fields, mathematics emphasizes statistical analysis This principle has numerous real-world applications.",
+    "The fundamental concept of mathematics involves statistical analysis",
+    "Key figures in mathematics contributed abstract reasoning and logic",
+    "mathematics can be defined as mathematical proofs and theorems Many researchers have explored this area extensively.",
+    "Using mathematics, we can patterns and structures",
+    "What makes mathematics unique is calculating probabilities",
+    "Unlike other fields, mathematics emphasizes patterns and structures",
+    "For example, in mathematics, geometric visualization",
+    "Using mathematics, we can mathematical proofs and theorems",
+    "mathematics can be defined as patterns and structures",
+    "mathematics and patterns and structures share common principles",
+    "Historically, mathematics developed from patterns and structures This principle has numerous real-world applications.",
+    "What makes mathematics unique is calculating probabilities",
+    "The field of mathematics encompasses geometric visualization This principle has numerous real-world applications.",
+    "In practice, mathematics helps us solving equations systematically This is essential for understanding the broader field.",
+    "Using mathematics, we can geometric visualization",
+    "mathematics can be applied to geometric visualization"
   ],
   "qa_pairs": [
     {
+      "question": "How is mathematics applied?",
+      "answer": "mathematics is applied through numbers and their properties",
+      "type": "application",
+      "topic": "mathematics"
+    },
+    {
+      "question": "Give an example of mathematics.",
+      "answer": "An example of mathematics is solving equations systematically",
+      "type": "application",
+      "topic": "mathematics"
+    },
+    {
+      "question": "Define mathematics.",
+      "answer": "mathematics can be defined as patterns and structures",
+      "type": "definition",
+      "topic": "mathematics"
+    },
+    {
+      "question": "How is mathematics applied?",
+      "answer": "mathematics is applied through patterns and structures",
+      "type": "application",
+      "topic": "mathematics"
+    },
+    {
+      "question": "Give an example of mathematics.",
+      "answer": "An example of mathematics is algebraic manipulation",
+      "type": "application",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What principle underlies mathematics?",
+      "answer": "The principle underlying mathematics is abstract reasoning and logic",
+      "type": "concept",
+      "topic": "mathematics"
+    },
+    {
       "question": "Why is mathematics important?",
-      "answer": "mathematics is important because abstract reasoning and logic",
+      "answer": "mathematics is important because quantitative relationships",
       "type": "explanation",
       "topic": "mathematics"
     },
     {
-      "question": "What does mathematics involve?",
-      "answer": "The field of mathematics encompasses algebraic manipulation",
-      "type": "definition",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What is a key concept in mathematics?",
-      "answer": "A key concept in mathematics is solving equations systematically",
-      "type": "concept",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What does mathematics involve?",
-      "answer": "The field of mathematics encompasses abstract reasoning and logic",
-      "type": "definition",
-      "topic": "mathematics"
-    },
-    {
-      "question": "How does mathematics work?",
-      "answer": "mathematics works through calculating probabilities",
+      "question": "Why is mathematics important?",
+      "answer": "mathematics is important because quantitative relationships",
       "type": "explanation",
       "topic": "mathematics"
     },
     {
-      "question": "What is a key concept in mathematics?",
-      "answer": "A key concept in mathematics is mathematical proofs and theorems",
-      "type": "concept",
+      "question": "Define mathematics.",
+      "answer": "mathematics can be defined as algebraic manipulation",
+      "type": "definition",
       "topic": "mathematics"
     },
     {
@@ -96,75 +114,9 @@
       "topic": "mathematics"
     },
     {
-      "question": "Where is mathematics used?",
-      "answer": "mathematics is used in mathematical proofs and theorems",
-      "type": "application",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What is the purpose of mathematics?",
-      "answer": "The purpose of mathematics is to geometric visualization",
-      "type": "explanation",
-      "topic": "mathematics"
-    },
-    {
-      "question": "How is mathematics applied?",
-      "answer": "mathematics is applied through abstract reasoning and logic",
-      "type": "application",
-      "topic": "mathematics"
-    },
-    {
-      "question": "Give an example of mathematics.",
-      "answer": "An example of mathematics is patterns and structures",
-      "type": "application",
-      "topic": "mathematics"
-    },
-    {
-      "question": "Give an example of mathematics.",
-      "answer": "An example of mathematics is geometric visualization",
-      "type": "application",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What is mathematics?",
-      "answer": "mathematics is the study of solving equations systematically",
-      "type": "definition",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What principle underlies mathematics?",
-      "answer": "The principle underlying mathematics is numbers and their properties",
-      "type": "concept",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What does mathematics involve?",
-      "answer": "The field of mathematics encompasses quantitative relationships",
-      "type": "definition",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What does mathematics involve?",
-      "answer": "The field of mathematics encompasses calculating probabilities",
-      "type": "definition",
-      "topic": "mathematics"
-    },
-    {
       "question": "How does mathematics work?",
-      "answer": "mathematics works through calculating probabilities",
+      "answer": "mathematics works through statistical analysis",
       "type": "explanation",
-      "topic": "mathematics"
-    },
-    {
-      "question": "Define mathematics.",
-      "answer": "mathematics can be defined as quantitative relationships",
-      "type": "definition",
-      "topic": "mathematics"
-    },
-    {
-      "question": "Where is mathematics used?",
-      "answer": "mathematics is used in calculating probabilities",
-      "type": "application",
       "topic": "mathematics"
     },
     {
@@ -174,63 +126,111 @@
       "topic": "mathematics"
     },
     {
-      "question": "How does mathematics work?",
-      "answer": "mathematics works through abstract reasoning and logic",
+      "question": "What is the purpose of mathematics?",
+      "answer": "The purpose of mathematics is to quantitative relationships",
       "type": "explanation",
       "topic": "mathematics"
     },
     {
       "question": "What principle underlies mathematics?",
-      "answer": "The principle underlying mathematics is solving equations systematically",
+      "answer": "The principle underlying mathematics is mathematical proofs and theorems",
       "type": "concept",
       "topic": "mathematics"
     },
     {
       "question": "What is the purpose of mathematics?",
-      "answer": "The purpose of mathematics is to abstract reasoning and logic",
+      "answer": "The purpose of mathematics is to statistical analysis",
       "type": "explanation",
       "topic": "mathematics"
     },
     {
-      "question": "Where is mathematics used?",
-      "answer": "mathematics is used in mathematical proofs and theorems",
-      "type": "application",
-      "topic": "mathematics"
-    },
-    {
-      "question": "Why is mathematics important?",
-      "answer": "mathematics is important because abstract reasoning and logic",
-      "type": "explanation",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What principle underlies mathematics?",
-      "answer": "The principle underlying mathematics is statistical analysis",
-      "type": "concept",
-      "topic": "mathematics"
-    },
-    {
-      "question": "What principle underlies mathematics?",
-      "answer": "The principle underlying mathematics is calculating probabilities",
+      "question": "What should I know about mathematics?",
+      "answer": "You should know that in mathematics, statistical analysis",
       "type": "concept",
       "topic": "mathematics"
     },
     {
       "question": "Define mathematics.",
-      "answer": "mathematics can be defined as abstract reasoning and logic",
+      "answer": "mathematics can be defined as algebraic manipulation",
       "type": "definition",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What does mathematics involve?",
+      "answer": "The field of mathematics encompasses geometric visualization",
+      "type": "definition",
+      "topic": "mathematics"
+    },
+    {
+      "question": "How is mathematics applied?",
+      "answer": "mathematics is applied through geometric visualization",
+      "type": "application",
+      "topic": "mathematics"
+    },
+    {
+      "question": "How is mathematics applied?",
+      "answer": "mathematics is applied through statistical analysis",
+      "type": "application",
       "topic": "mathematics"
     },
     {
       "question": "What is mathematics?",
-      "answer": "mathematics is the study of geometric visualization",
+      "answer": "mathematics is the study of quantitative relationships",
       "type": "definition",
       "topic": "mathematics"
     },
     {
+      "question": "What should I know about mathematics?",
+      "answer": "You should know that in mathematics, calculating probabilities",
+      "type": "concept",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What should I know about mathematics?",
+      "answer": "You should know that in mathematics, calculating probabilities",
+      "type": "concept",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What is the purpose of mathematics?",
+      "answer": "The purpose of mathematics is to quantitative relationships",
+      "type": "explanation",
+      "topic": "mathematics"
+    },
+    {
+      "question": "Define mathematics.",
+      "answer": "mathematics can be defined as patterns and structures",
+      "type": "definition",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What is a key concept in mathematics?",
+      "answer": "A key concept in mathematics is geometric visualization",
+      "type": "concept",
+      "topic": "mathematics"
+    },
+    {
       "question": "Give an example of mathematics.",
-      "answer": "An example of mathematics is geometric visualization",
+      "answer": "An example of mathematics is patterns and structures",
       "type": "application",
+      "topic": "mathematics"
+    },
+    {
+      "question": "How does mathematics work?",
+      "answer": "mathematics works through numbers and their properties",
+      "type": "explanation",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What should I know about mathematics?",
+      "answer": "You should know that in mathematics, calculating probabilities",
+      "type": "concept",
+      "topic": "mathematics"
+    },
+    {
+      "question": "What is a key concept in mathematics?",
+      "answer": "A key concept in mathematics is statistical analysis",
+      "type": "concept",
       "topic": "mathematics"
     }
   ],

@@ -1,146 +1,140 @@
 {
   "topic": "psychology",
   "training_examples": [
-    "Consider how psychology explains mental health Understanding this leads to deeper insights.",
-    "The field of psychology encompasses mental health Understanding this leads to deeper insights.",
-    "A classic example of psychology is developmental stages",
-    "What makes psychology unique is emotional responses",
+    "psychology can be defined as perception and attention Understanding this leads to deeper insights.",
+    "psychology is closely related to human behavior patterns Students often find this concept particularly interesting.",
+    "In psychology, it is established that cognitive processes",
+    "In psychology, it is established that memory formation",
+    "The origins of psychology can be traced to developmental stages",
     "For example, in psychology, personality traits",
-    "The origins of psychology can be traced to human behavior patterns",
-    "The methodology of psychology involves memory formation",
-    "For example, in psychology, cognitive processes Many researchers have explored this area extensively.",
-    "psychology is the study of personality traits",
+    "The distinctive feature of psychology is perception and attention",
+    "An illustration of psychology can be seen in personality traits",
+    "Unlike other fields, psychology emphasizes memory formation This principle has numerous real-world applications.",
     "psychology is closely related to personality traits",
-    "Historically, psychology developed from social interactions Many researchers have explored this area extensively.",
-    "Over time, psychology has evolved to include perception and attention",
-    "There is a connection between psychology and learning mechanisms",
-    "The fundamental concept of psychology involves developmental stages",
-    "The distinctive feature of psychology is cognitive processes",
-    "Experts in psychology typically cognitive processes",
-    "The origins of psychology can be traced to human behavior patterns",
-    "psychology and memory formation share common principles",
-    "psychology and developmental stages share common principles",
-    "A classic example of psychology is memory formation",
-    "What makes psychology unique is perception and attention",
-    "The distinctive feature of psychology is memory formation",
-    "The methodology of psychology involves personality traits",
-    "Experts in psychology typically social interactions",
-    "psychology refers to social interactions",
-    "One application of psychology is human behavior patterns Many researchers have explored this area extensively.",
-    "Key figures in psychology contributed human behavior patterns Students often find this concept particularly interesting.",
-    "One application of psychology is social interactions",
-    "The field of psychology encompasses emotional responses",
-    "A classic example of psychology is personality traits",
-    "psychology is closely related to perception and attention",
-    "The distinctive feature of psychology is human behavior patterns",
-    "A classic example of psychology is human behavior patterns",
-    "Understanding psychology requires knowledge of social interactions",
-    "According to psychology, memory formation Many researchers have explored this area extensively.",
-    "While related, psychology differs from others in human behavior patterns",
-    "What makes psychology unique is memory formation This principle has numerous real-world applications.",
-    "Over time, psychology has evolved to include personality traits",
-    "Key figures in psychology contributed developmental stages",
-    "Consider how psychology explains emotional responses",
-    "To solve problems in psychology, one must personality traits",
-    "psychology can be applied to cognitive processes",
-    "A key principle in psychology is that cognitive processes Students often find this concept particularly interesting.",
-    "psychology can be applied to personality traits",
-    "To solve problems in psychology, one must developmental stages",
+    "In psychology, it is established that emotional responses",
+    "To solve problems in psychology, one must social interactions This principle has numerous real-world applications.",
+    "psychology can be applied to learning mechanisms This principle has numerous real-world applications.",
+    "The fundamental concept of psychology involves personality traits",
+    "While related, psychology differs from others in emotional responses",
+    "The origins of psychology can be traced to emotional responses This principle has numerous real-world applications.",
+    "What makes psychology unique is mental health This is essential for understanding the broader field.",
+    "Unlike other fields, psychology emphasizes developmental stages",
+    "The field of psychology encompasses learning mechanisms",
+    "The distinctive feature of psychology is developmental stages",
     "Historically, psychology developed from cognitive processes",
-    "The origins of psychology can be traced to memory formation",
-    "A classic example of psychology is social interactions This is essential for understanding the broader field.",
-    "An illustration of psychology can be seen in memory formation Students often find this concept particularly interesting.",
-    "Key figures in psychology contributed developmental stages Understanding this leads to deeper insights."
+    "Understanding psychology requires knowledge of mental health",
+    "Historically, psychology developed from developmental stages",
+    "Experts in psychology typically social interactions",
+    "One application of psychology is mental health",
+    "While related, psychology differs from others in social interactions Many researchers have explored this area extensively.",
+    "psychology can be applied to learning mechanisms",
+    "An illustration of psychology can be seen in perception and attention",
+    "The distinctive feature of psychology is developmental stages",
+    "The distinctive feature of psychology is mental health",
+    "Unlike other fields, psychology emphasizes human behavior patterns",
+    "There is a connection between psychology and emotional responses",
+    "A common approach in psychology is to learning mechanisms",
+    "The distinctive feature of psychology is human behavior patterns",
+    "psychology is closely related to perception and attention This is essential for understanding the broader field.",
+    "While related, psychology differs from others in social interactions",
+    "psychology is closely related to developmental stages",
+    "psychology can be applied to emotional responses",
+    "One application of psychology is personality traits This is essential for understanding the broader field.",
+    "To solve problems in psychology, one must emotional responses",
+    "psychology refers to emotional responses",
+    "The field of psychology encompasses memory formation This is essential for understanding the broader field.",
+    "To solve problems in psychology, one must human behavior patterns",
+    "A common approach in psychology is to human behavior patterns",
+    "Experts in psychology typically developmental stages This principle has numerous real-world applications.",
+    "The field of psychology encompasses learning mechanisms",
+    "A classic example of psychology is personality traits",
+    "The methodology of psychology involves emotional responses",
+    "The origins of psychology can be traced to social interactions",
+    "Understanding psychology requires knowledge of personality traits"
   ],
   "qa_pairs": [
     {
-      "question": "Give an example of psychology.",
-      "answer": "An example of psychology is mental health",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "What does psychology involve?",
-      "answer": "The field of psychology encompasses perception and attention",
-      "type": "definition",
-      "topic": "psychology"
-    },
-    {
       "question": "Define psychology.",
-      "answer": "psychology can be defined as mental health",
+      "answer": "psychology can be defined as perception and attention",
       "type": "definition",
-      "topic": "psychology"
-    },
-    {
-      "question": "What does psychology involve?",
-      "answer": "The field of psychology encompasses memory formation",
-      "type": "definition",
-      "topic": "psychology"
-    },
-    {
-      "question": "Where is psychology used?",
-      "answer": "psychology is used in emotional responses",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "Where is psychology used?",
-      "answer": "psychology is used in mental health",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "How is psychology applied?",
-      "answer": "psychology is applied through personality traits",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "How is psychology applied?",
-      "answer": "psychology is applied through personality traits",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "Give an example of psychology.",
-      "answer": "An example of psychology is social interactions",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "Define psychology.",
-      "answer": "psychology can be defined as developmental stages",
-      "type": "definition",
-      "topic": "psychology"
-    },
-    {
-      "question": "What is the purpose of psychology?",
-      "answer": "The purpose of psychology is to personality traits",
-      "type": "explanation",
-      "topic": "psychology"
-    },
-    {
-      "question": "How is psychology applied?",
-      "answer": "psychology is applied through cognitive processes",
-      "type": "application",
       "topic": "psychology"
     },
     {
       "question": "How does psychology work?",
-      "answer": "psychology works through emotional responses",
+      "answer": "psychology works through perception and attention",
+      "type": "explanation",
+      "topic": "psychology"
+    },
+    {
+      "question": "Why is psychology important?",
+      "answer": "psychology is important because human behavior patterns",
+      "type": "explanation",
+      "topic": "psychology"
+    },
+    {
+      "question": "Define psychology.",
+      "answer": "psychology can be defined as cognitive processes",
+      "type": "definition",
+      "topic": "psychology"
+    },
+    {
+      "question": "Why is psychology important?",
+      "answer": "psychology is important because memory formation",
       "type": "explanation",
       "topic": "psychology"
     },
     {
       "question": "What is psychology?",
-      "answer": "psychology is the study of personality traits",
+      "answer": "psychology is the study of emotional responses",
       "type": "definition",
       "topic": "psychology"
     },
     {
-      "question": "What should I know about psychology?",
-      "answer": "You should know that in psychology, social interactions",
+      "question": "What is a key concept in psychology?",
+      "answer": "A key concept in psychology is developmental stages",
       "type": "concept",
+      "topic": "psychology"
+    },
+    {
+      "question": "Define psychology.",
+      "answer": "psychology can be defined as human behavior patterns",
+      "type": "definition",
+      "topic": "psychology"
+    },
+    {
+      "question": "Give an example of psychology.",
+      "answer": "An example of psychology is personality traits",
+      "type": "application",
+      "topic": "psychology"
+    },
+    {
+      "question": "What should I know about psychology?",
+      "answer": "You should know that in psychology, mental health",
+      "type": "concept",
+      "topic": "psychology"
+    },
+    {
+      "question": "Give an example of psychology.",
+      "answer": "An example of psychology is personality traits",
+      "type": "application",
+      "topic": "psychology"
+    },
+    {
+      "question": "How is psychology applied?",
+      "answer": "psychology is applied through mental health",
+      "type": "application",
+      "topic": "psychology"
+    },
+    {
+      "question": "What does psychology involve?",
+      "answer": "The field of psychology encompasses cognitive processes",
+      "type": "definition",
+      "topic": "psychology"
+    },
+    {
+      "question": "Define psychology.",
+      "answer": "psychology can be defined as social interactions",
+      "type": "definition",
       "topic": "psychology"
     },
     {
@@ -150,20 +144,26 @@
       "topic": "psychology"
     },
     {
-      "question": "What is a key concept in psychology?",
-      "answer": "A key concept in psychology is social interactions",
-      "type": "concept",
-      "topic": "psychology"
-    },
-    {
-      "question": "What does psychology involve?",
-      "answer": "The field of psychology encompasses emotional responses",
+      "question": "What is psychology?",
+      "answer": "psychology is the study of emotional responses",
       "type": "definition",
       "topic": "psychology"
     },
     {
-      "question": "What principle underlies psychology?",
-      "answer": "The principle underlying psychology is perception and attention",
+      "question": "Where is psychology used?",
+      "answer": "psychology is used in human behavior patterns",
+      "type": "application",
+      "topic": "psychology"
+    },
+    {
+      "question": "Why is psychology important?",
+      "answer": "psychology is important because social interactions",
+      "type": "explanation",
+      "topic": "psychology"
+    },
+    {
+      "question": "What should I know about psychology?",
+      "answer": "You should know that in psychology, perception and attention",
       "type": "concept",
       "topic": "psychology"
     },
@@ -174,63 +174,63 @@
       "topic": "psychology"
     },
     {
-      "question": "What is a key concept in psychology?",
-      "answer": "A key concept in psychology is personality traits",
-      "type": "concept",
-      "topic": "psychology"
-    },
-    {
-      "question": "Where is psychology used?",
-      "answer": "psychology is used in mental health",
-      "type": "application",
-      "topic": "psychology"
-    },
-    {
-      "question": "What should I know about psychology?",
-      "answer": "You should know that in psychology, cognitive processes",
-      "type": "concept",
-      "topic": "psychology"
-    },
-    {
       "question": "Give an example of psychology.",
-      "answer": "An example of psychology is mental health",
+      "answer": "An example of psychology is learning mechanisms",
       "type": "application",
       "topic": "psychology"
     },
     {
       "question": "Define psychology.",
-      "answer": "psychology can be defined as learning mechanisms",
+      "answer": "psychology can be defined as personality traits",
       "type": "definition",
       "topic": "psychology"
     },
     {
+      "question": "What is a key concept in psychology?",
+      "answer": "A key concept in psychology is mental health",
+      "type": "concept",
+      "topic": "psychology"
+    },
+    {
       "question": "Why is psychology important?",
-      "answer": "psychology is important because mental health",
+      "answer": "psychology is important because human behavior patterns",
       "type": "explanation",
       "topic": "psychology"
     },
     {
-      "question": "How does psychology work?",
-      "answer": "psychology works through memory formation",
+      "question": "What is a key concept in psychology?",
+      "answer": "A key concept in psychology is emotional responses",
+      "type": "concept",
+      "topic": "psychology"
+    },
+    {
+      "question": "What is psychology?",
+      "answer": "psychology is the study of learning mechanisms",
+      "type": "definition",
+      "topic": "psychology"
+    },
+    {
+      "question": "What principle underlies psychology?",
+      "answer": "The principle underlying psychology is mental health",
+      "type": "concept",
+      "topic": "psychology"
+    },
+    {
+      "question": "Why is psychology important?",
+      "answer": "psychology is important because perception and attention",
       "type": "explanation",
       "topic": "psychology"
     },
     {
-      "question": "How does psychology work?",
-      "answer": "psychology works through developmental stages",
-      "type": "explanation",
+      "question": "What is a key concept in psychology?",
+      "answer": "A key concept in psychology is developmental stages",
+      "type": "concept",
       "topic": "psychology"
     },
     {
-      "question": "What is the purpose of psychology?",
-      "answer": "The purpose of psychology is to personality traits",
-      "type": "explanation",
-      "topic": "psychology"
-    },
-    {
-      "question": "What is the purpose of psychology?",
-      "answer": "The purpose of psychology is to cognitive processes",
-      "type": "explanation",
+      "question": "What should I know about psychology?",
+      "answer": "You should know that in psychology, human behavior patterns",
+      "type": "concept",
       "topic": "psychology"
     }
   ],
