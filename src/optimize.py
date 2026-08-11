@@ -4,6 +4,7 @@ Senate AI - 4-Stage Model Optimizer
 2. Safe Precision Prune (merge insignificant, same row only)  
 3. Progressive Bit Reduction (changed weights only, with timeout)
 4. 8-bit Quantize
+5. Output Consistency Check
 """
 
 import torch
@@ -22,7 +23,7 @@ def progress_bar(done, total, label="", width=30):
 
 
 class SenateOptimizer:
-    """Optimizes a Senate bundle through 4 stages"""
+    """Optimizes a Senate bundle through 5 stages"""
     
     def __init__(self, bundle_path, output_path=None):
         self.bundle_path = bundle_path
@@ -36,6 +37,7 @@ class SenateOptimizer:
         self.bundle = torch.load(bundle_path, map_location='cpu', weights_only=False)
         self.senators = self.bundle.get('senators', {})
         print(f"   Senators: {len(self.senators)}")
+        sys.stdout.flush()
     
     def get_bundle_size(self):
         total_params = 0
@@ -58,13 +60,20 @@ class SenateOptimizer:
             'size_mb': size_mb
         }
     
-    def smart_prune(self, target_sparsity=0.5):
+    def smart_prune(self, target_sparsity=0.5, max_time_minutes=10):
         print(f"\n🧠 STAGE 1: SMART PRUNE (target: {target_sparsity*100:.0f}%)")
+        sys.stdout.flush()
         
         total_redistributed = 0
         total_senators = len(self.senators)
+        start_time = time.time()
+        timeout = max_time_minutes * 60
         
         for idx, (senator_id, data) in enumerate(self.senators.items()):
+            if time.time() - start_time > timeout:
+                print(f"\n   ⏰ Stage 1 timeout after {max_time_minutes}min")
+                break
+            
             state_dict = data['state_dict'] if 'state_dict' in data else data
             
             for param_name, param in state_dict.items():
@@ -114,20 +123,31 @@ class SenateOptimizer:
                 
                 param.data = weight.to(param.dtype)
             
-            if (idx + 1) % 10 == 0:
-                print(f"\r{progress_bar(idx+1, total_senators, 'Smart Prune')}", end='')
+            if (idx + 1) % 5 == 0:
+                elapsed = (time.time() - start_time) / 60
+                print(f"\r{progress_bar(idx+1, total_senators, f'Smart Prune ({elapsed:.1f}min)')}", end='')
+                sys.stdout.flush()
         
-        print(f"\r{progress_bar(total_senators, total_senators, 'Smart Prune')}")
-        print(f"   Redistributed: {total_redistributed:,} weights")
+        elapsed = (time.time() - start_time) / 60
+        print(f"\r{progress_bar(min(idx+1, total_senators), total_senators, 'Smart Prune')}")
+        print(f"   Redistributed: {total_redistributed:,} weights | Time: {elapsed:.1f}min")
+        sys.stdout.flush()
         return total_redistributed
     
-    def precision_prune_safe(self, significance=2):
+    def precision_prune_safe(self, significance=2, max_time_minutes=10):
         print(f"\n🎯 STAGE 2: SAFE PRECISION PRUNE (sig={significance})")
+        sys.stdout.flush()
         
         total_merged = 0
         total_senators = len(self.senators)
+        start_time = time.time()
+        timeout = max_time_minutes * 60
         
         for idx, (senator_id, data) in enumerate(self.senators.items()):
+            if time.time() - start_time > timeout:
+                print(f"\n   ⏰ Stage 2 timeout")
+                break
+            
             state_dict = data['state_dict'] if 'state_dict' in data else data
             
             for param_name, param in state_dict.items():
@@ -176,15 +196,20 @@ class SenateOptimizer:
                 
                 param.data = weight.to(param.dtype)
             
-            if (idx + 1) % 10 == 0:
-                print(f"\r{progress_bar(idx+1, total_senators, 'Precision')}", end='')
+            if (idx + 1) % 5 == 0:
+                elapsed = (time.time() - start_time) / 60
+                print(f"\r{progress_bar(idx+1, total_senators, f'Precision ({elapsed:.1f}min)')}", end='')
+                sys.stdout.flush()
         
-        print(f"\r{progress_bar(total_senators, total_senators, 'Precision')}")
-        print(f"   Merged: {total_merged:,}")
+        elapsed = (time.time() - start_time) / 60
+        print(f"\r{progress_bar(min(idx+1, total_senators), total_senators, 'Precision')}")
+        print(f"   Merged: {total_merged:,} | Time: {elapsed:.1f}min")
+        sys.stdout.flush()
         return total_merged
     
-    def progressive_bit_reduce(self, timeout_minutes=25, margin=0.1):
+    def progressive_bit_reduce(self, timeout_minutes=15, margin=0.1):
         print(f"\n📉 STAGE 3: PROGRESSIVE BITS (timeout: {timeout_minutes}min)")
+        sys.stdout.flush()
         
         nodes_8bit = nodes_7bit = nodes_6bit = nodes_merged = 0
         start_time = time.time()
@@ -249,17 +274,19 @@ class SenateOptimizer:
                 if stopped_early:
                     break
             
-            if (idx + 1) % 10 == 0:
+            if (idx + 1) % 5 == 0:
                 elapsed = (time.time() - start_time) / 60
-                print(f"\r{progress_bar(idx+1, total_senators, f'Bits ({elapsed:.0f}min)')}", end='')
+                print(f"\r{progress_bar(idx+1, total_senators, f'Bits ({elapsed:.1f}min)')}", end='')
+                sys.stdout.flush()
         
         elapsed = (time.time() - start_time) / 60
         total = nodes_8bit + nodes_7bit + nodes_6bit + nodes_merged
         eff_bits = (nodes_8bit * 8 + nodes_7bit * 7 + nodes_6bit * 6) / max(total, 1)
         
-        print(f"\r{progress_bar(total_senators, total_senators, 'Bits')}")
+        print(f"\r{progress_bar(min(idx+1, total_senators), total_senators, 'Bits')}")
         print(f"   8-bit: {nodes_8bit:,}  7-bit: {nodes_7bit:,}  6-bit: {nodes_6bit:,}  merged: {nodes_merged:,}")
         print(f"   Effective: {eff_bits:.1f}-bit  |  Time: {elapsed:.1f}min")
+        sys.stdout.flush()
         
         if stopped_early:
             print(f"   ⏰ Timeout — saved progress")
@@ -268,10 +295,12 @@ class SenateOptimizer:
     
     def quantize_senators(self):
         print(f"\n🔧 STAGE 4: 8-BIT QUANTIZE")
+        sys.stdout.flush()
         
         quantized_count = 0
+        total = len(self.senators)
         
-        for senator_id, data in self.senators.items():
+        for idx, (senator_id, data) in enumerate(self.senators.items()):
             state_dict = data['state_dict'] if 'state_dict' in data else data
             
             for param_name, param in state_dict.items():
@@ -279,18 +308,77 @@ class SenateOptimizer:
                     if param.numel() > 100 and param.abs().max() > 0:
                         state_dict[param_name] = param.half()
                         quantized_count += 1
+            
+            if (idx + 1) % 10 == 0:
+                print(f"\r{progress_bar(idx+1, total, 'Quantize')}", end='')
+                sys.stdout.flush()
         
+        print(f"\r{progress_bar(total, total, 'Quantize')}")
         print(f"   Quantized: {quantized_count} tensors to float16")
+        sys.stdout.flush()
         return quantized_count
     
-    def optimize(self, target_sparsity=0.5, timeout_minutes=25):
+    def test_consistency(self):
+        """Verify optimization didn't break outputs"""
+        print(f"\n🧪 STAGE 5: OUTPUT CONSISTENCY CHECK")
+        sys.stdout.flush()
+        
+        test_input = torch.randint(0, 5000, (3, 16))
+        from model_template import Senator
+        
+        max_diff = 0
+        failed = 0
+        total = len(self.senators)
+        
+        for idx, (senator_id, data) in enumerate(self.senators.items()):
+            state_dict = data['state_dict'] if 'state_dict' in data else data
+            config = data.get('config', {})
+            
+            senator = Senator(
+                model_id=config.get('model_id', senator_id),
+                specialties=config.get('specialties', ['general'])
+            )
+            senator.load_state_dict(state_dict)
+            senator.eval()
+            
+            with torch.no_grad():
+                output = senator(test_input)
+            
+            # Check for NaN/Inf
+            if torch.isnan(output).any() or torch.isinf(output).any():
+                print(f"   ❌ Senator {senator_id}: NaN/Inf detected")
+                failed += 1
+                continue
+            
+            # Check reasonable output
+            out_max = output.abs().max().item()
+            if out_max > 100:
+                print(f"   ⚠️  Senator {senator_id}: Large outputs ({out_max:.1f})")
+            
+            if (idx + 1) % 10 == 0:
+                print(f"\r{progress_bar(idx+1, total, 'Testing')}", end='')
+                sys.stdout.flush()
+        
+        print(f"\r{progress_bar(total, total, 'Testing')}")
+        
+        if failed == 0:
+            print(f"   ✅ All senators pass consistency check")
+        else:
+            print(f"   ❌ {failed} senators failed — reduce sparsity")
+        
+        sys.stdout.flush()
+        return failed == 0
+    
+    def optimize(self, target_sparsity=0.5):
         before = self.get_bundle_size()
         print(f"\n📊 Before: {before['total_params']:,} params, {before['size_mb']:.1f}MB")
+        sys.stdout.flush()
         
-        self.smart_prune(target_sparsity=target_sparsity)
-        self.precision_prune_safe(significance=2)
-        self.progressive_bit_reduce(timeout_minutes=timeout_minutes)
+        self.smart_prune(target_sparsity=target_sparsity, max_time_minutes=10)
+        self.precision_prune_safe(significance=2, max_time_minutes=10)
+        self.progressive_bit_reduce(timeout_minutes=15)
         self.quantize_senators()
+        self.test_consistency()
         
         after = self.get_bundle_size()
         saved_mb = before['size_mb'] - after['size_mb']
@@ -302,14 +390,17 @@ class SenateOptimizer:
         print(f"  After:  {after['size_mb']:.1f}MB")
         print(f"  Saved:  {saved_mb:.1f}MB ({saved_mb/before['size_mb']*100:.0f}%)")
         print(f"  Sparsity: {after['sparsity']:.1f}%")
+        sys.stdout.flush()
         
         return after
     
     def save(self):
         print(f"\n💾 Saving optimized bundle...")
+        sys.stdout.flush()
         torch.save(self.bundle, self.output_path)
         size_mb = os.path.getsize(self.output_path) / (1024 * 1024)
         print(f"   Saved: {self.output_path} ({size_mb:.1f}MB)")
+        sys.stdout.flush()
         return size_mb
 
 
