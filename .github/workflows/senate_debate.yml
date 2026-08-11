@@ -28,12 +28,13 @@ jobs:
       
       - name: Write debate script
         run: |
-          cat > debate.py << 'PYEOF'
+          cat > debate.py << 'ENDOFPYTHON'
           import sys
           sys.path.insert(0, "src")
           from senate import Senate
+          import os
           
-          question = """$QUESTION"""
+          question = os.environ["DEBATE_QUESTION"]
           
           senate = Senate()
           result = senate.ask(question)
@@ -49,9 +50,11 @@ jobs:
           print("Rounds:", result["rounds"])
           print("Senators:", result["senators_involved"])
           print("Topics:", ", ".join(result["topics"]))
-          PYEOF
+          ENDOFPYTHON
         env:
-          QUESTION: ${{ github.event.inputs.question }}
+          DEBATE_QUESTION: ${{ github.event.inputs.question }}
       
       - name: Run debate
+        env:
+          DEBATE_QUESTION: ${{ github.event.inputs.question }}
         run: python debate.py
