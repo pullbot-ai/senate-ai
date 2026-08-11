@@ -1,0 +1,52 @@
+name: Senate Debate
+
+on:
+  workflow_dispatch:
+    inputs:
+      question:
+        description: 'Question for the Senate'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  debate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - run: pip install torch numpy pyyaml
+      
+      - name: Senate Debate
+        run: |
+          python -c "
+import sys
+sys.path.insert(0, 'src')
+from senate import Senate
+
+senate = Senate()
+result = senate.ask('${{ github.event.inputs.question }}')
+
+print()
+print('='*60)
+print('  SENATE FINAL ANSWER')
+print('='*60)
+print()
+print(f'Question: ${{ github.event.inputs.question }}')
+print(f'Answer: {result[\"consensus\"]}')
+print(f'Confidence: {result[\"confidence\"]:.1%}')
+print(f'Rounds: {result[\"rounds\"]}')
+print(f'Senators: {result[\"senators_involved\"]}')
+print(f'Topics: {\", \".join(result[\"topics\"])}')
+"
