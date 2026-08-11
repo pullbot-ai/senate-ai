@@ -1,6 +1,6 @@
 """
 Senate AI - GGUF Exporter
-Converts a trained senator bundle to GGUF format for size comparison.
+Exports all 4,005 senators into chunked GGUF files (~300MB each).
 """
 
 import torch
@@ -9,265 +9,266 @@ import struct
 import numpy as np
 from pathlib import Path
 from collections import OrderedDict
+import json
 
 
-def tensor_to_gguf_type(tensor):
-    """Map torch dtype to GGUF type"""
-    dtype_map = {
-        torch.float32: 0,   # F32
-        torch.float16: 1,   # F16
-        torch.int32: 4,     # I32
-        torch.int16: 5,     # I16
-        torch.int8: 7,      # I8
-    }
-    return dtype_map.get(tensor.dtype, 0)
-
-
-def write_gguf_header(f, num_tensors, metadata=None):
-    """Write GGUF magic and header"""
-    # Magic
-    f.write(b'GGUF')
+def write_gguf_file(filepath, tensors_dict, metadata=None):
+    """Write multiple senators' tensors into one GGUF file"""
     
-    # Version 3
-    f.write(struct.pack('<I', 3))
+    # Flatten all tensors with senator prefix
+    all_tensors = OrderedDict()
+    total_params = 0
     
-    # Number of tensors
-    f.write(struct.pack('<Q', num_tensors))
-    
-    # Metadata key count (minimal)
-    f.write(struct.pack('<Q', 0))
-    
-    return f.tell()
-
-
-def write_tensor_info(f, name, tensor, offset):
-    """Write tensor info entry"""
-    # Name
-    name_bytes = name.encode('utf-8')
-    f.write(struct.pack('<Q', len(name_bytes)))
-    f.write(name_bytes)
-    
-    # Dimensions
-    shape = tensor.shape
-    f.write(struct.pack('<I', len(shape)))
-    for dim in shape:
-        f.write(struct.pack('<Q', dim))
-    
-    # Type
-    f.write(struct.pack('<I', tensor_to_gguf_type(tensor)))
-    
-    # Offset (will be patched)
-    f.write(struct.pack('<Q', offset))
-
-
-def convert_to_f16(tensor):
-    """Convert tensor to float16"""
-    return tensor.half()
-
-
-def convert_to_q4_0(tensor):
-    """Simple 4-bit quantization (GGUF Q4_0 style)"""
-    if tensor.dim() < 2 or tensor.numel() < 32:
-        return tensor.half()
-    
-    # Reshape to 2D for block quantization
-    original_shape = tensor.shape
-    if tensor.dim() > 2:
-        tensor = tensor.reshape(-1, tensor.shape[-1])
-    
-    rows, cols = tensor.shape
-    block_size = 32
-    
-    # Pad columns
-    padded_cols = ((cols + block_size - 1) // block_size) * block_size
-    padded = torch.zeros(rows, padded_cols, dtype=tensor.dtype)
-    padded[:, :cols] = tensor
-    
-    quantized = torch.zeros(rows, padded_cols // 2 + rows * 2, dtype=torch.float16)
-    
-    for r in range(rows):
-        row = padded[r]
-        
-        # Find scale (max abs value)
-        max_val = row.abs().max()
-        if max_val == 0:
-            max_val = 1.0
-        scale = max_val / 7.0
-        
-        # Store scale as float16
-        quantized[r, 0] = scale
-        
-        # Quantize each block
-        for b in range(0, padded_cols, block_size):
-            block = row[b:b+block_size]
+    for senator_key, state_dict in tensors_dict.items():
+        for name, tensor in state_dict.items():
+            if not isinstance(tensor, torch.Tensor):
+                continue
+            full_name = f"{senator_key}.{name}"
             
-            # Quantize to 4-bit
-            q_block = torch.clamp(torch.round(block / scale), -8, 7).to(torch.int8)
+            # Convert to float16
+            if tensor.dtype == torch.float32:
+                tensor = tensor.half()
             
-            # Pack 4-bit values
-            byte_offset = 1 + (b // 2)
-            for i in range(0, len(q_block), 2):
-                if i + 1 < len(q_block):
-                    packed = ((q_block[i].item() + 8) & 0xF) | (((q_block[i+1].item() + 8) & 0xF) << 4)
-                else:
-                    packed = ((q_block[i].item() + 8) & 0xF)
-                
-                if byte_offset + i//2 < quantized.shape[1]:
-                    quantized[r, byte_offset + i//2] = packed
+            all_tensors[full_name] = tensor
+            total_params += tensor.numel()
     
-    return quantized
+    # Write file
+    with open(filepath, 'wb') as f:
+        # GGUF magic
+        f.write(b'GGUF')
+        
+        # Version 3
+        f.write(struct.pack('<I', 3))
+        
+        # Number of tensors
+        f.write(struct.pack('<Q', len(all_tensors)))
+        
+        # Metadata count
+        if metadata:
+            metadata_json = json.dumps(metadata)
+            f.write(struct.pack('<Q', 1))
+            f.write(struct.pack('<Q', len(b'general.metadata')))
+            f.write(b'general.metadata')
+            f.write(struct.pack('<I', 8))  # string type
+            f.write(struct.pack('<Q', len(metadata_json)))
+            f.write(metadata_json.encode('utf-8'))
+        else:
+            f.write(struct.pack('<Q', 0))
+        
+        # Calculate offsets
+        header_size = f.tell()
+        
+        # Tensor info size estimation
+        tensor_info_size = len(all_tensors) * 128
+        data_offset = header_size + tensor_info_size
+        data_offset = ((data_offset + 31) // 32) * 32  # Align
+        
+        # Write tensor infos
+        current_offset = data_offset
+        for name, tensor in all_tensors.items():
+            # Name
+            name_bytes = name.encode('utf-8')
+            f.write(struct.pack('<Q', len(name_bytes)))
+            f.write(name_bytes)
+            
+            # Dimensions
+            shape = tensor.shape
+            f.write(struct.pack('<I', len(shape)))
+            for dim in shape:
+                f.write(struct.pack('<Q', dim))
+            
+            # Type (1 = F16)
+            f.write(struct.pack('<I', 1))
+            
+            # Offset
+            f.write(struct.pack('<Q', current_offset))
+            
+            # Calculate next offset
+            tensor_size = tensor.numel() * 2  # float16 = 2 bytes
+            current_offset += tensor_size
+            current_offset = ((current_offset + 31) // 32) * 32  # Align
+        
+        # Write tensor data
+        for name, tensor in all_tensors.items():
+            # Seek to aligned offset
+            f.seek(current_offset - (current_offset - f.tell()) if f.tell() < current_offset else f.tell())
+            
+            # Pad to alignment
+            target = ((f.tell() + 31) // 32) * 32
+            while f.tell() < target:
+                f.write(b'\x00')
+                if f.tell() >= target:
+                    break
+            
+            # Write tensor bytes
+            f.write(tensor.numpy().tobytes())
+    
+    size_mb = filepath.stat().st_size / (1024 * 1024)
+    return size_mb, total_params
 
 
-def export_senator_gguf(senator_id, quantization='f16'):
-    """Export a single senator to GGUF"""
+def export_all_bundles(output_name="senate_ai", max_size_mb=300):
+    """Export all bundles into chunked GGUF files"""
     
-    # Load senator from bundle
-    bundle_id = senator_id // 45
-    bundle_path = f"senate_bundles/bundle_{bundle_id:03d}.pt"
-    
-    if not Path(bundle_path).exists():
-        print(f"❌ Bundle {bundle_id} not found")
-        return
-    
-    bundle = torch.load(bundle_path, map_location='cpu', weights_only=False)
-    senators = bundle.get('senators', {})
-    
-    senator_key = str(senator_id)
-    if senator_key not in senators:
-        print(f"❌ Senator {senator_id} not found in bundle {bundle_id}")
-        return
-    
-    data = senators[senator_key]
-    state_dict = data.get('state_dict', data)
-    config = data.get('config', {})
-    
-    # Create output
     output_dir = Path("gguf_exports")
     output_dir.mkdir(exist_ok=True)
     
-    qname = {'f16': 'f16', 'q4': 'Q4_0'}.get(quantization, 'f16')
-    output_path = output_dir / f"senator_{senator_id:04d}_{qname}.gguf"
+    # Load index
+    with open('senate_bundles/senate_index.json') as f:
+        index = json.load(f)
     
-    print(f"\nExporting Senator {senator_id} ({config.get('specialties', [])})")
-    print(f"Quantization: {quantization}")
+    total_senators = len(index['senators'])
+    print(f"\n{'='*60}")
+    print(f"  SENATE AI - GGUF EXPORT")
+    print(f"{'='*60}")
+    print(f"  Senators: {total_senators}")
+    print(f"  Target: {max_size_mb}MB per file")
+    print(f"  Format: Float16 (GGUF)")
+    print(f"{'='*60}\n")
     
-    # Process tensors
-    tensors = OrderedDict()
-    total_params = 0
+    # Process all bundles
+    all_tensors = OrderedDict()
+    current_file = 1
+    current_size_est = 0
+    senators_in_current = 0
+    file_info = []
     
-    for name, tensor in state_dict.items():
-        if not isinstance(tensor, torch.Tensor):
+    for senator_info in index['senators']:
+        senator_id = senator_info['senator_id']
+        bundle_id = senator_info['bundle_id']
+        
+        # Load bundle if not cached
+        bundle_path = f"senate_bundles/bundle_{bundle_id:03d}.pt"
+        if not hasattr(export_all_bundles, 'bundle_cache'):
+            export_all_bundles.bundle_cache = {}
+        
+        if bundle_id not in export_all_bundles.bundle_cache:
+            export_all_bundles.bundle_cache[bundle_id] = torch.load(
+                bundle_path, map_location='cpu', weights_only=False
+            )
+        
+        bundle = export_all_bundles.bundle_cache[bundle_id]
+        senators = bundle.get('senators', {})
+        
+        senator_key = str(senator_id)
+        if senator_key not in senators:
             continue
         
-        total_params += tensor.numel()
+        data = senators[senator_key]
+        state_dict = data.get('state_dict', data)
         
-        if quantization == 'q4' and tensor.dim() >= 2 and tensor.numel() >= 32:
-            tensors[name] = convert_to_q4_0(tensor)
-        elif quantization == 'f16':
-            tensors[name] = convert_to_f16(tensor)
-        else:
-            tensors[name] = tensor
-    
-    print(f"Parameters: {total_params:,}")
-    
-    # Write GGUF file
-    with open(output_path, 'wb') as f:
-        # Header
-        write_gguf_header(f, len(tensors))
+        # Estimate size (params × 2 bytes for float16)
+        senator_params = sum(
+            v.numel() for v in state_dict.values() 
+            if isinstance(v, torch.Tensor)
+        )
+        senator_size_mb = senator_params * 2 / (1024 * 1024)
         
-        # Calculate offsets
-        header_end = f.tell()
-        tensor_info_start = header_end
-        
-        # Tensor info size: each entry is ~32 bytes + name
-        tensor_info_size = len(tensors) * 64
-        tensor_data_start = tensor_info_start + tensor_info_size
-        
-        # Write tensor info placeholders
-        current_offset = tensor_data_start
-        tensor_offsets = []
-        
-        for name, tensor in tensors.items():
-            write_tensor_info(f, name, tensor, current_offset)
-            tensor_offsets.append(current_offset)
+        # If adding this senator exceeds max size, save current file
+        if current_size_est + senator_size_mb > max_size_mb and all_tensors:
+            # Save current chunk
+            filename = f"{output_name}_{current_file:02d}.gguf"
+            filepath = output_dir / filename
             
-            # Calculate tensor data size
-            if tensor.dtype == torch.float16:
-                current_offset += tensor.numel() * 2
-            elif tensor.dtype == torch.int8:
-                current_offset += tensor.numel()
-            else:
-                current_offset += tensor.numel() * 4
+            metadata = {
+                "model": "Senate AI",
+                "file": current_file,
+                "senators": f"{senators_in_current - len(all_tensors)}-{senators_in_current - 1}" if len(all_tensors) > 0 else "0-0",
+                "total_files": "TBD",
+                "format": "GGUF F16"
+            }
             
-            # Align to 32 bytes
-            current_offset = ((current_offset + 31) // 32) * 32
+            print(f"\n💾 Saving {filename}...")
+            size_mb, params = write_gguf_file(filepath, all_tensors, metadata)
+            
+            file_info.append({
+                "file": filename,
+                "size_mb": round(size_mb, 1),
+                "senators": len(all_tensors),
+                "params": params
+            })
+            
+            print(f"   ✅ {size_mb:.1f}MB | {len(all_tensors)} senators | {params:,} params")
+            
+            # Reset for next file
+            all_tensors = OrderedDict()
+            current_size_est = 0
+            current_file += 1
         
-        # Write tensor data
-        for (name, tensor), offset in zip(tensors.items(), tensor_offsets):
-            # Pad to offset
-            f.seek(offset)
-            
-            # Write raw bytes
-            if tensor.dtype == torch.float16:
-                f.write(tensor.numpy().tobytes())
-            elif tensor.dtype == torch.int8:
-                f.write(tensor.numpy().astype(np.int8).tobytes())
-            else:
-                f.write(tensor.numpy().tobytes())
+        # Add senator tensors
+        senator_prefix = f"s{senator_id:04d}"
+        for name, tensor in state_dict.items():
+            if isinstance(tensor, torch.Tensor):
+                all_tensors[f"{senator_prefix}.{name}"] = tensor
+        
+        current_size_est += senator_size_mb
+        senators_in_current = senator_id + 1
+        
+        # Progress
+        if senator_id % 100 == 0:
+            print(f"\r  Processing senator {senator_id}/{total_senators}...", end='')
+            sys.stdout.flush()
     
-    # Get size
-    size_bytes = output_path.stat().st_size
-    size_mb = size_bytes / (1024 * 1024)
-    size_kb = size_bytes / 1024
+    # Save final file
+    if all_tensors:
+        filename = f"{output_name}_{current_file:02d}.gguf"
+        filepath = output_dir / filename
+        
+        metadata = {
+            "model": "Senate AI",
+            "file": current_file,
+            "total_files": current_file,
+            "format": "GGUF F16"
+        }
+        
+        print(f"\n\n💾 Saving {filename} (final)...")
+        size_mb, params = write_gguf_file(filepath, all_tensors, metadata)
+        
+        file_info.append({
+            "file": filename,
+            "size_mb": round(size_mb, 1),
+            "senators": len(all_tensors),
+            "params": params
+        })
+        
+        print(f"   ✅ {size_mb:.1f}MB | {len(all_tensors)} senators | {params:,} params")
     
-    print(f"GGUF size: {size_mb:.2f}MB ({size_kb:.0f}KB)")
+    # Print summary
+    total_size = sum(f["size_mb"] for f in file_info)
+    total_senators_exported = sum(f["senators"] for f in file_info)
     
-    # Compare to original
-    original_params_mb = total_params * 4 / (1024 * 1024)
-    compression = (1 - size_mb / original_params_mb) * 100 if original_params_mb > 0 else 0
-    print(f"Original (f32): {original_params_mb:.1f}MB")
-    print(f"Compression: {compression:.1f}%")
-    print(f"Saved to: {output_path}")
+    print(f"\n{'='*60}")
+    print(f"  EXPORT COMPLETE")
+    print(f"{'='*60}")
+    print(f"  Files: {len(file_info)}")
+    print(f"  Total size: {total_size:.0f}MB")
+    print(f"  Senators: {total_senators_exported}")
+    print(f"  Avg per senator: {total_size/total_senators_exported*1024:.0f}KB")
+    print(f"\n  Files:")
+    for info in file_info:
+        print(f"    {info['file']}: {info['size_mb']:.1f}MB ({info['senators']} senators)")
     
-    return size_mb
-
-
-def export_bundle_gguf(bundle_id, quantization='f16'):
-    """Export all senators in a bundle"""
-    start_id = bundle_id * 45
-    end_id = start_id + 45
+    # Save manifest
+    manifest = {
+        "model": "Senate AI",
+        "total_senators": total_senators_exported,
+        "total_size_mb": round(total_size, 1),
+        "files": file_info
+    }
     
-    total_size = 0
-    print(f"\n{'='*50}")
-    print(f"  EXPORTING BUNDLE {bundle_id} ({quantization})")
-    print(f"  Senators {start_id}-{end_id-1}")
-    print(f"{'='*50}")
+    with open(output_dir / "manifest.json", 'w') as f:
+        json.dump(manifest, f, indent=2)
     
-    for senator_id in range(start_id, end_id):
-        size = export_senator_gguf(senator_id, quantization)
-        if size:
-            total_size += size
-    
-    print(f"\n{'='*50}")
-    print(f"  Bundle {bundle_id} total: {total_size:.1f}MB")
-    print(f"  Per senator avg: {total_size/45:.2f}MB")
-    print(f"{'='*50}")
-    
-    return total_size
+    print(f"\n📋 Manifest saved to gguf_exports/manifest.json")
 
 
 if __name__ == "__main__":
     import argparse
     
     parser = argparse.ArgumentParser()
-    parser.add_argument('target', help='Senator ID or Bundle ID (prefixed with b)')
-    parser.add_argument('--quant', default='f16', choices=['f16', 'q4'], help='Quantization')
+    parser.add_argument('--max-size', type=int, default=300, help='Max file size in MB')
+    parser.add_argument('--name', default='senate_ai', help='Output file prefix')
     
     args = parser.parse_args()
     
-    if args.target.startswith('b'):
-        bundle_id = int(args.target[1:])
-        export_bundle_gguf(bundle_id, args.quant)
-    else:
-        senator_id = int(args.target)
-        export_senator_gguf(senator_id, args.quant)
+    export_all_bundles(output_name=args.name, max_size_mb=args.max_size)
