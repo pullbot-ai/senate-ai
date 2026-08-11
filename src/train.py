@@ -338,17 +338,17 @@ def grade_senator(senator, qa_pairs):
     return grades
 
 
-def train_bundle(bundle_id):
+def train_bundle(bundle_id, strategy='conservative', epochs=3, lr=0.001):
     """Train all senators in a bundle with AI grading"""
     
     with open('config.yaml') as f:
         config = yaml.safe_load(f)
     
     # Load the bundle
-    bundle_path = f"models/bundle_{bundle_id:03d}.pt"
+    bundle_path = f"senate_bundles/bundle_{bundle_id:03d}.pt"
     
     if not Path(bundle_path).exists():
-        print(f"❌ Bundle {bundle_id} not found. Run initialize first.")
+        print(f"❌ Bundle {bundle_id} not found at {bundle_path}")
         return
     
     print(f"📦 Loading bundle {bundle_id}...")
@@ -356,6 +356,7 @@ def train_bundle(bundle_id):
     
     print(f"\n{'='*60}")
     print(f"  TRAINING SENATE BUNDLE {bundle_id}")
+    print(f"  Strategy: {strategy} | Epochs: {epochs} | LR: {lr}")
     print(f"  Senators: {len(bundle.senators)}")
     print(f"  With AI Grading Enabled")
     print(f"{'='*60}")
@@ -373,8 +374,8 @@ def train_bundle(bundle_id):
         losses, grades = train_senator(
             senator,
             senator.specialties,
-            epochs=config['training']['epochs'],
-            lr=config['training']['learning_rate'],
+            epochs=epochs,
+            lr=lr,
             batch_size=config['training']['batch_size']
         )
         
@@ -423,6 +424,7 @@ def train_bundle(bundle_id):
     with open(report_path, 'w') as f:
         json.dump({
             'bundle_id': bundle_id,
+            'strategy': strategy,
             'senator_grades': serializable_grades,
             'average_bundle_score': sum(d['score'] for d in bundle_grades.values()) / len(bundle_grades) if bundle_grades else 0
         }, f, indent=2)
@@ -437,17 +439,19 @@ def train_bundle(bundle_id):
         print(f"{'='*60}")
         print(f"  📊 Bundle Average: {avg_bundle_score:.1f}/100")
         print(f"  🏆 Best Senator: {max(bundle_grades, key=lambda k: bundle_grades[k]['score'])} ({max(scores):.1f})")
-        print(f"  📈 Most Improved: Senator {max(bundle_grades, key=lambda k: bundle_grades[k]['score'])}")
         print(f"  📁 Grade report: {report_path}")
     
     print(f"  💾 Saved: {bundle_path} ({size_mb:.1f}MB)")
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python train.py <bundle_id>")
-        print("Example: python train.py 0")
-        sys.exit(1)
+    import argparse
     
-    bundle_id = int(sys.argv[1])
-    train_bundle(bundle_id)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('bundle_id', type=int)
+    parser.add_argument('--strategy', default='conservative')
+    parser.add_argument('--epochs', type=int, default=3)
+    parser.add_argument('--lr', type=float, default=0.001)
+    
+    args = parser.parse_args()
+    train_bundle(args.bundle_id, args.strategy, args.epochs, args.lr)
