@@ -3,14 +3,10 @@ name: Export GGUF
 on:
   workflow_dispatch:
     inputs:
-      target:
-        description: 'Bundle ID (b0-b88) or Senator ID (0-4004)'
-        required: true
-        default: 'b0'
-      quant:
-        description: 'Quantization (f16 or q4)'
+      max_size:
+        description: 'Max file size in MB'
         required: false
-        default: 'f16'
+        default: '300'
 
 permissions:
   contents: write
@@ -18,7 +14,9 @@ permissions:
 jobs:
   export:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
+    env:
+      NODE_OPTIONS: "--max-old-space-size=4096"
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,15 +26,38 @@ jobs:
         with:
           python-version: '3.10'
       
-      - run: pip install torch numpy
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
       
-      - name: Export to GGUF
-        run: python src/export_gguf.py ${{ github.event.inputs.target }} --quant ${{ github.event.inputs.quant }}
+      - run: pip install torch numpy pyyaml
       
-      - name: Push GGUF files
+      - name: Export all senators to GGUF
+        run: python src/export_gguf.py --max-size ${{ github.event.inputs.max_size }}
+      
+      - name: Configure git
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add gguf_exports/
-          git commit -m "Export GGUF - ${{ github.event.inputs.target }} (${{ github.event.inputs.quant }})"
+          git lfs track "gguf_exports/*.gguf"
+      
+      - name: Push manifest and small files
+        run: |
+          git add gguf_exports/manifest.json .gitattributes
+          git commit -m "Export GGUF manifest"
           git push
+      
+      - name: Push GGUF files one at a time
+        run: |
+          for f in gguf_exports/*.gguf; do
+            echo "Pushing $(basename $f)..."
+            git add "$f"
+            git commit -m "Add $(basename $f)"
+            git push || {
+              echo "Retrying..."
+              sleep 10
+              git push
+            }
+          done
