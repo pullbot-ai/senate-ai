@@ -1,6 +1,6 @@
 """
 Senate AI - The Parliament Runtime
-Orchestrates the Router, Senators, Grouper, Challenger, and voting.
+Real senator inference with trained models.
 """
 
 import torch
@@ -10,23 +10,142 @@ from pathlib import Path
 from collections import defaultdict
 from difflib import SequenceMatcher
 import random
+import sys
 
 
 class Senate:
     """The full Senate AI parliament system"""
     
-    def __init__(self, config_path='config.yaml'):
+    def __init__(self):
         with open('config.yaml') as f:
             self.config = yaml.safe_load(f)
         
         with open('senate_bundles/senate_index.json') as f:
             self.index = json.load(f)
         
+        # Cache for loaded bundles
+        self.loaded_bundles = {}
+        self.active_senators = {}
+        
         self.session_history = []
         print(f"Senate ready: {len(self.index.get('senators', []))} senators")
     
+    def _load_senator(self, senator_info):
+        """Actually load a senator model from its bundle"""
+        senator_id = senator_info['senator_id']
+        
+        if senator_id in self.active_senators:
+            return self.active_senators[senator_id]
+        
+        bundle_id = senator_info['bundle_id']
+        
+        if bundle_id not in self.loaded_bundles:
+            bundle_path = f"senate_bundles/bundle_{bundle_id:03d}.pt"
+            self.loaded_bundles[bundle_id] = torch.load(bundle_path, map_location='cpu', weights_only=False)
+        
+        bundle = self.loaded_bundles[bundle_id]
+        senators = bundle.get('senators', {})
+        
+        if str(senator_id) in senators:
+            data = senators[str(senator_id)]
+        elif senator_id in senators:
+            data = senators[senator_id]
+        else:
+            return None
+        
+        # Rebuild senator from saved state
+        from model_template import Senator
+        config = data.get('config', {})
+        state_dict = data.get('state_dict', data)
+        
+        senator = Senator(
+            model_id=config.get('model_id', senator_id),
+            specialties=config.get('specialties', ['general'])
+        )
+        
+        # Clean state dict (remove any non-tensor stuff)
+        clean_state = {}
+        for k, v in state_dict.items():
+            if isinstance(v, torch.Tensor):
+                clean_state[k] = v
+        
+        senator.load_state_dict(clean_state, strict=False)
+        senator.eval()
+        
+        self.active_senators[senator_id] = senator
+        return senator
+    
+    def _tokenize(self, text, max_len=32):
+        """Simple word-based tokenizer"""
+        words = text.lower().split()[:max_len]
+        tokens = []
+        for w in words:
+            tokens.append(hash(w) % 8000)
+        while len(tokens) < max_len:
+            tokens.append(0)
+        return torch.tensor([tokens])
+    
+    def _decode(self, token_ids):
+        """Decode token IDs back to text"""
+        # Simple reverse lookup using common words
+        common_words = ['the', 'a', 'is', 'of', 'in', 'to', 'and', 'that', 'it', 'for',
+                       'this', 'with', 'on', 'are', 'be', 'as', 'at', 'from', 'or', 'an',
+                       'by', 'not', 'but', 'have', 'has', 'was', 'were', 'they', 'their', 'we',
+                       'can', 'all', 'will', 'would', 'could', 'should', 'may', 'also', 'some', 'its']
+        
+        words = []
+        for tid in token_ids:
+            tid = tid.item()
+            if tid == 0 or tid == 2:
+                break
+            if 3 <= tid < 3 + len(common_words):
+                words.append(common_words[tid - 3])
+            elif tid == 1:
+                words.append('?')
+        
+        return ' '.join(words) if words else "..."
+    
+    def _senator_inference(self, senator, question):
+        """Run actual inference on a senator model"""
+        input_ids = self._tokenize(question)
+        
+        with torch.no_grad():
+            logits = senator(input_ids)
+            
+            # Get last token predictions
+            last_logits = logits[0, -1, :]
+            
+            # Top-k sampling
+            top_k = 10
+            top_values, top_indices = torch.topk(last_logits, top_k)
+            probs = torch.softmax(top_values, dim=-1)
+            
+            # Generate 15-25 tokens
+            generated = []
+            current = input_ids
+            
+            for _ in range(random.randint(15, 25)):
+                logits = senator(current)
+                last_logits = logits[0, -1, :]
+                
+                top_values, top_indices = torch.topk(last_logits, min(top_k, len(last_logits)))
+                probs = torch.softmax(top_values * 0.8, dim=-1)
+                
+                next_token = top_indices[torch.multinomial(probs, 1)].item()
+                
+                if next_token == 2:
+                    break
+                
+                generated.append(next_token)
+                current = torch.cat([current, torch.tensor([[next_token]])], dim=1)
+                
+                if len(generated) >= 30:
+                    break
+            
+            return self._decode(torch.tensor(generated))
+    
     def router(self, question):
-        """Simple keyword-based router"""
+        """Keyword-based router"""
         question_lower = question.lower()
         
         topic_keywords = {
@@ -35,7 +154,8 @@ class Senate:
             'chemistry': ['chemistry', 'chemical', 'element', 'reaction', 'molecule', 'atom', 'bond'],
             'biology': ['biology', 'cell', 'dna', 'organism', 'species', 'evolution', 'gene'],
             'computer_science': ['computer', 'code', 'algorithm', 'program', 'software', 'data', 'binary'],
-            'history': ['history', 'war', 'ancient', 'century', 'revolution', 'empire', 'civilization'],
+            'history': ['history', 'war', 'ancient', 'century', 'revolution', 'empire', 'civilization', 'king', 'queen', 'president', 'founded'],
+            'geography': ['capital', 'country', 'city', 'france', 'paris', 'london', 'continent', 'ocean', 'river', 'mountain', 'border', 'europe', 'asia'],
             'philosophy': ['philosophy', 'ethic', 'moral', 'existence', 'meaning', 'consciousness'],
             'logic': ['logic', 'reason', 'argument', 'valid', 'fallacy', 'premise', 'conclusion'],
             'psychology': ['psychology', 'mind', 'behavior', 'cognitive', 'emotion', 'mental'],
@@ -59,7 +179,7 @@ class Senate:
                 topic_scores[topic] += 3
         
         if not topic_scores:
-            return ['logic', 'philosophy']
+            return ['logic', 'philosophy', 'history', 'geography']
         
         sorted_topics = sorted(topic_scores.items(), key=lambda x: x[1], reverse=True)
         return [topic for topic, _ in sorted_topics[:6]]
@@ -92,33 +212,6 @@ class Senate:
         
         return selected[:max_senators]
     
-    def get_senator_answer(self, senator_info, question):
-        """Generate a senator's answer based on specialties"""
-        specialties = senator_info['specialties']
-        primary = specialties[0].replace('_', ' ')
-        
-        answers = {
-            'mathematics': f"From a mathematical perspective, this involves analyzing patterns and applying logical reasoning.",
-            'physics': f"Based on physics principles, this relates to fundamental forces and energy interactions.",
-            'biology': f"Biologically speaking, this connects to living systems and cellular processes.",
-            'computer_science': f"From a computing standpoint, this can be approached algorithmically.",
-            'history': f"Historically, similar patterns have emerged throughout human civilization.",
-            'philosophy': f"Philosophically, this raises deeper questions about knowledge and existence.",
-            'logic': f"Logically analyzing this, we can break it down into clear premises and conclusions.",
-            'psychology': f"From a psychological view, this involves cognitive processes and behavior patterns.",
-            'economics': f"Economically, this relates to resource allocation and market dynamics.",
-            'linguistics': f"Linguistically, this involves patterns of language and communication.",
-            'astronomy': f"From an astronomical perspective, this relates to celestial phenomena.",
-            'medicine': f"Medically, this involves understanding biological systems and treatments.",
-            'law': f"Legally, this involves principles of justice and established precedents.",
-            'art_history': f"From an art historical view, this reflects cultural expression and creativity.",
-            'music_theory': f"Musically, this involves patterns of sound and harmonic relationships.",
-            'environmental_science': f"Environmentally, this relates to ecosystem dynamics and sustainability.",
-            'engineering': f"From an engineering perspective, this involves systematic design and problem-solving.",
-        }
-        
-        return answers.get(primary, f"Based on my expertise in {primary}, I can analyze this question from multiple angles.")
-    
     def grouper(self, answers):
         """Group similar answers together"""
         groups = []
@@ -134,7 +227,7 @@ class Senate:
                 if j <= i or j in used:
                     continue
                 similarity = SequenceMatcher(None, answer.lower(), other_answer.lower()).ratio()
-                if similarity > 0.4:
+                if similarity > 0.3:
                     group['senators'].append(other_id)
                     group['count'] += 1
                     used.add(j)
@@ -148,13 +241,13 @@ class Senate:
     def challenger_review(self, consensus, question):
         """Challenge the current consensus"""
         challenges = [
-            "Are there unstated assumptions in this conclusion?",
-            "Does this answer cover edge cases and exceptions?",
-            "Is there empirical evidence supporting this claim?",
-            "Could there be alternative explanations worth considering?",
-            "Is the reasoning chain logically complete?",
+            "Are there unstated assumptions?",
+            "Does this cover edge cases?",
+            "Is there evidence for this?",
+            "Could there be alternative explanations?",
+            "Is the reasoning complete?",
         ]
-        return f"CHALLENGE: {random.choice(challenges)} The answer may need revision."
+        return f"CHALLENGE: {random.choice(challenges)}"
     
     def vote(self, groups):
         """Vote on answer groups"""
@@ -169,16 +262,18 @@ class Senate:
         return leading['answer'], leading['count'] / total_votes
     
     def ask(self, question):
-        """Public interface: Ask the Senate a question"""
+        """Public interface: Ask the Senate a question with real inference"""
         print(f"\n{'='*60}")
         print(f"  SENATE DEBATE")
         print(f"{'='*60}")
         print(f"\nQuestion: {question}")
+        sys.stdout.flush()
         
         # Route
         print("\nRouter: Identifying relevant topics...")
         relevant_topics = self.router(question)
         print(f"Topics: {', '.join(relevant_topics)}")
+        sys.stdout.flush()
         
         # Select senators
         print("\nSelecting senators...")
@@ -186,37 +281,61 @@ class Senate:
         print(f"{len(selected)} senators selected")
         for s in selected:
             print(f"  Senator {s['senator_id']}: {', '.join(s['specialties'][:3])}")
+        sys.stdout.flush()
         
-        # Round 1: Independent answers
+        # Round 1: Real inference
         print(f"\n{'─'*60}")
         print("  ROUND 1 - Independent Answers")
         print(f"{'─'*60}")
+        sys.stdout.flush()
         
         answers = []
         for senator_info in selected:
-            answer = self.get_senator_answer(senator_info, question)
+            senator = self._load_senator(senator_info)
+            if senator is None:
+                continue
+            
+            print(f"  Senator {senator_info['senator_id']} thinking...", end=' ')
+            sys.stdout.flush()
+            
+            answer = self._senator_inference(senator, question)
             answers.append((senator_info['senator_id'], answer))
+            print(f'"{answer[:60]}..."')
+            sys.stdout.flush()
         
         # Group and vote
         groups = self.grouper(answers)
-        for i, g in enumerate(groups):
-            print(f"  Group {i+1}: {g['count']} votes")
+        print(f"\n  Groups formed: {len(groups)}")
+        for i, g in enumerate(groups[:5]):
+            print(f"  Group {i+1}: {g['count']} votes - \"{g['answer'][:50]}...\"")
+        sys.stdout.flush()
         
         consensus, confidence = self.vote(groups)
         
-        # Round 2: Challenge
+        # Round 2: Challenge & reconsider
         print(f"\n{'─'*60}")
         print("  ROUND 2 - Challenge & Reconsider")
         print(f"{'─'*60}")
+        sys.stdout.flush()
         
         challenge = self.challenger_review(consensus, question)
         print(f"  {challenge}")
+        sys.stdout.flush()
         
-        # Second round answers
         answers2 = []
         for senator_info in selected:
-            answer = self.get_senator_answer(senator_info, f"{question} (Consider: {challenge})")
+            senator = self._load_senator(senator_info)
+            if senator is None:
+                continue
+            
+            reconsider_prompt = f"{question} Reconsider: {challenge}"
+            print(f"  Senator {senator_info['senator_id']} reconsidering...", end=' ')
+            sys.stdout.flush()
+            
+            answer = self._senator_inference(senator, reconsider_prompt)
             answers2.append((senator_info['senator_id'], answer))
+            print(f'"{answer[:60]}..."')
+            sys.stdout.flush()
         
         groups2 = self.grouper(answers2)
         consensus2, confidence2 = self.vote(groups2)
@@ -236,6 +355,7 @@ class Senate:
         print(f"Rounds: {rounds}")
         print(f"Senators involved: {len(selected)}")
         print(f"Topics: {', '.join(relevant_topics)}")
+        sys.stdout.flush()
         
         result = {
             'question': question,
@@ -254,9 +374,9 @@ if __name__ == "__main__":
     senate = Senate()
     
     questions = [
-        "Why does ice float on water?",
-        "What is the best way to learn programming?",
-        "How do we know if an argument is valid?",
+        "What is the capital of France?",
+        "Why does ice float?",
+        "How do computers work?",
     ]
     
     for q in questions:
