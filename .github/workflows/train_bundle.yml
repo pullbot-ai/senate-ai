@@ -1,22 +1,29 @@
-name: Train Bundle
+name: Train Topics
 
 on:
   workflow_dispatch:
     inputs:
-      bundle_id:
-        description: 'Bundle ID to train (0-88)'
+      topic_group:
+        description: 'Topic group to train'
         required: true
-        type: number
+        type: choice
+        options:
+          - math
+          - science
+          - cs
+          - humanities
+          - social
+          - arts
+          - medical
 
 permissions:
-  actions: write
   contents: write
 
 jobs:
-  # Train topic groups in parallel
   train-math:
+    if: ${{ github.event.inputs.topic_group == 'math' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,192 +34,177 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
       - run: pip install torch numpy pyyaml
       - name: Train math topics
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics mathematics,algebra,geometry,calculus,statistics --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-math-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  train-science:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Train science topics
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics physics,chemistry,biology,astronomy,environmental_science --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-science-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  train-cs:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Train CS topics
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics computer_science,algorithms,machine_learning,cybersecurity,networking --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-cs-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  train-humanities:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Train humanities
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics history,ancient_civilizations,world_wars,geography,philosophy --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-humanities-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  train-social:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Train social topics
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics psychology,economics,political_science,law,linguistics --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-social-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  train-arts:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Train arts topics
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics art_history,music_theory,literature,poetry,ethics --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-arts-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  train-medical:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Train medical topics
-        run: python src/train.py ${{ github.event.inputs.bundle_id }} --topics medicine,anatomy,neuroscience,genetics,microbiology --epochs 3 --lr 0.001
-      - uses: actions/upload-artifact@v4
-        with:
-          name: trained-medical-${{ github.event.inputs.bundle_id }}
-          path: senate_bundles/bundle_$(printf "%03d" ${{ github.event.inputs.bundle_id }}).pt
-
-  merge-and-push:
-    needs: [train-math, train-science, train-cs, train-humanities, train-social, train-arts, train-medical]
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - run: pip install torch numpy pyyaml
-      
-      - name: Download and merge all topic trainings
-        uses: actions/download-artifact@v4
-        with:
-          pattern: trained-*-${{ github.event.inputs.bundle_id }}
-          merge-multiple: true
-          path: senate_bundles/
-      
-      - name: Merge bundles keeping best scores
-        run: python src/merge_bundles.py ${{ github.event.inputs.bundle_id }}
-      
-      - name: Push trained bundle
+        run: python src/train.py --topics mathematics,algebra,geometry,calculus,statistics --epochs 3 --lr 0.001
+      - name: Push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          BUNDLE=$(printf "%03d" ${{ github.event.inputs.bundle_id }})
-          git add senate_bundles/bundle_${BUNDLE}.pt
-          git commit -m "Train bundle ${{ github.event.inputs.bundle_id }}"
+          git add senate_bundles/
+          git commit -m "Train math topics" || echo "No changes"
           git push
-      
-      - name: Trigger next bundle
-        if: ${{ github.event.inputs.bundle_id < 88 }}
+
+  train-science:
+    if: ${{ github.event.inputs.topic_group == 'science' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train science topics
+        run: python src/train.py --topics physics,chemistry,biology,astronomy,environmental_science --epochs 3 --lr 0.001
+      - name: Push changes
         run: |
-          NEXT=$(( ${{ github.event.inputs.bundle_id }} + 1 ))
-          curl -X POST \
-            -H "Authorization: Bearer ${{ github.token }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches" \
-            -d "{\"ref\":\"${{ github.ref_name }}\",\"inputs\":{\"bundle_id\":\"$NEXT\"}}"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/
+          git commit -m "Train science topics" || echo "No changes"
+          git push
+
+  train-cs:
+    if: ${{ github.event.inputs.topic_group == 'cs' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train CS topics
+        run: python src/train.py --topics computer_science,algorithms,machine_learning,cybersecurity,networking --epochs 3 --lr 0.001
+      - name: Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/
+          git commit -m "Train CS topics" || echo "No changes"
+          git push
+
+  train-humanities:
+    if: ${{ github.event.inputs.topic_group == 'humanities' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train humanities
+        run: python src/train.py --topics history,ancient_civilizations,world_wars,geography,philosophy --epochs 3 --lr 0.001
+      - name: Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/
+          git commit -m "Train humanities" || echo "No changes"
+          git push
+
+  train-social:
+    if: ${{ github.event.inputs.topic_group == 'social' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train social topics
+        run: python src/train.py --topics psychology,economics,political_science,law,linguistics --epochs 3 --lr 0.001
+      - name: Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/
+          git commit -m "Train social topics" || echo "No changes"
+          git push
+
+  train-arts:
+    if: ${{ github.event.inputs.topic_group == 'arts' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train arts topics
+        run: python src/train.py --topics art_history,music_theory,literature,poetry,ethics --epochs 3 --lr 0.001
+      - name: Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/
+          git commit -m "Train arts topics" || echo "No changes"
+          git push
+
+  train-medical:
+    if: ${{ github.event.inputs.topic_group == 'medical' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Train medical topics
+        run: python src/train.py --topics medicine,anatomy,neuroscience,genetics,microbiology --epochs 3 --lr 0.001
+      - name: Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add senate_bundles/
+          git commit -m "Train medical topics" || echo "No changes"
+          git push
