@@ -23,12 +23,35 @@ class Senate:
         with open('senate_bundles/senate_index.json') as f:
             self.index = json.load(f)
         
-        # Cache for loaded bundles
         self.loaded_bundles = {}
         self.active_senators = {}
-        
         self.session_history = []
+        
+        # Build reverse vocabulary from training data
+        self.vocab = self._build_vocab()
+        
         print(f"Senate ready: {len(self.index.get('senators', []))} senators")
+    
+    def _build_vocab(self):
+        """Build reverse vocabulary from training data"""
+        vocab = {0: '<PAD>', 1: '<UNK>', 2: '<END>'}
+        
+        training_dir = Path('training_data')
+        if training_dir.exists():
+            for file in training_dir.glob('*.json'):
+                try:
+                    with open(file) as f:
+                        data = json.load(f)
+                    examples = data.get('training_examples', [])
+                    for text in examples:
+                        for word in text.lower().split():
+                            tid = hash(word) % 8000
+                            if tid not in vocab and tid >= 3:
+                                vocab[tid] = word
+                except:
+                    pass
+        
+        return vocab
     
     def _load_senator(self, senator_info):
         """Actually load a senator model from its bundle"""
@@ -53,7 +76,6 @@ class Senate:
         else:
             return None
         
-        # Rebuild senator from saved state
         from model_template import Senator
         config = data.get('config', {})
         state_dict = data.get('state_dict', data)
@@ -63,7 +85,6 @@ class Senate:
             specialties=config.get('specialties', ['general'])
         )
         
-        # Clean state dict (remove any non-tensor stuff)
         clean_state = {}
         for k, v in state_dict.items():
             if isinstance(v, torch.Tensor):
@@ -86,22 +107,20 @@ class Senate:
         return torch.tensor([tokens])
     
     def _decode(self, token_ids):
-        """Decode token IDs back to text"""
-        # Simple reverse lookup using common words
-        common_words = ['the', 'a', 'is', 'of', 'in', 'to', 'and', 'that', 'it', 'for',
-                       'this', 'with', 'on', 'are', 'be', 'as', 'at', 'from', 'or', 'an',
-                       'by', 'not', 'but', 'have', 'has', 'was', 'were', 'they', 'their', 'we',
-                       'can', 'all', 'will', 'would', 'could', 'should', 'may', 'also', 'some', 'its']
-        
+        """Decode token IDs back to text using vocabulary"""
         words = []
         for tid in token_ids:
             tid = tid.item()
-            if tid == 0 or tid == 2:
+            if tid == 0:
                 break
-            if 3 <= tid < 3 + len(common_words):
-                words.append(common_words[tid - 3])
-            elif tid == 1:
+            if tid == 1:
                 words.append('?')
+            elif tid == 2:
+                break
+            elif tid in self.vocab:
+                words.append(self.vocab[tid])
+            else:
+                words.append(f'[{tid}]')
         
         return ' '.join(words) if words else "..."
     
@@ -111,27 +130,32 @@ class Senate:
         
         with torch.no_grad():
             logits = senator(input_ids)
-            
-            # Get last token predictions
             last_logits = logits[0, -1, :]
             
-            # Top-k sampling
-            top_k = 10
-            top_values, top_indices = torch.topk(last_logits, top_k)
-            probs = torch.softmax(top_values, dim=-1)
+            # Temperature sampling
+            temperature = 0.8
+            probs = torch.softmax(last_logits / temperature, dim=-1)
             
-            # Generate 15-25 tokens
+            # Generate 15-30 tokens
             generated = []
             current = input_ids
             
-            for _ in range(random.randint(15, 25)):
+            for _ in range(random.randint(15, 30)):
                 logits = senator(current)
                 last_logits = logits[0, -1, :]
+                probs = torch.softmax(last_logits / temperature, dim=-1)
                 
-                top_values, top_indices = torch.topk(last_logits, min(top_k, len(last_logits)))
-                probs = torch.softmax(top_values * 0.8, dim=-1)
+                # Sample from top 80% probability mass
+                sorted_probs, sorted_indices = torch.sort(probs, descending=True)
+                cumsum = torch.cumsum(sorted_probs, dim=0)
+                cutoff = (cumsum > 0.8).nonzero()[0].item() + 1
+                cutoff = max(cutoff, 3)
                 
-                next_token = top_indices[torch.multinomial(probs, 1)].item()
+                top_probs = sorted_probs[:cutoff]
+                top_indices = sorted_indices[:cutoff]
+                top_probs = top_probs / top_probs.sum()
+                
+                next_token = top_indices[torch.multinomial(top_probs, 1)].item()
                 
                 if next_token == 2:
                     break
@@ -149,25 +173,25 @@ class Senate:
         question_lower = question.lower()
         
         topic_keywords = {
-            'mathematics': ['math', 'calculate', 'number', 'equation', 'formula', 'prime', 'derivative'],
-            'physics': ['physics', 'force', 'energy', 'motion', 'gravity', 'light', 'speed', 'mass'],
-            'chemistry': ['chemistry', 'chemical', 'element', 'reaction', 'molecule', 'atom', 'bond'],
-            'biology': ['biology', 'cell', 'dna', 'organism', 'species', 'evolution', 'gene'],
-            'computer_science': ['computer', 'code', 'algorithm', 'program', 'software', 'data', 'binary'],
-            'history': ['history', 'war', 'ancient', 'century', 'revolution', 'empire', 'civilization', 'king', 'queen', 'president', 'founded'],
-            'geography': ['capital', 'country', 'city', 'france', 'paris', 'london', 'continent', 'ocean', 'river', 'mountain', 'border', 'europe', 'asia'],
-            'philosophy': ['philosophy', 'ethic', 'moral', 'existence', 'meaning', 'consciousness'],
-            'logic': ['logic', 'reason', 'argument', 'valid', 'fallacy', 'premise', 'conclusion'],
-            'psychology': ['psychology', 'mind', 'behavior', 'cognitive', 'emotion', 'mental'],
-            'economics': ['economy', 'market', 'money', 'trade', 'supply', 'demand', 'price'],
-            'linguistics': ['language', 'grammar', 'word', 'syntax', 'meaning', 'semantic'],
-            'astronomy': ['space', 'star', 'planet', 'galaxy', 'universe', 'cosmic', 'orbit'],
-            'medicine': ['medicine', 'disease', 'treatment', 'symptom', 'diagnosis', 'drug'],
-            'law': ['law', 'legal', 'right', 'constitution', 'court', 'justice', 'crime'],
-            'art_history': ['art', 'painting', 'sculpture', 'artist', 'renaissance', 'modern'],
-            'music_theory': ['music', 'note', 'chord', 'rhythm', 'melody', 'harmony', 'scale'],
-            'environmental_science': ['environment', 'climate', 'ecosystem', 'pollution', 'sustainable'],
-            'engineering': ['engineer', 'design', 'build', 'structure', 'machine', 'technical'],
+            'mathematics': ['math', 'calculate', 'number', 'equation', 'formula', 'prime', 'derivative', 'integral', 'algebra', 'geometry'],
+            'physics': ['physics', 'force', 'energy', 'motion', 'gravity', 'light', 'speed', 'mass', 'quantum', 'wave'],
+            'chemistry': ['chemistry', 'chemical', 'element', 'reaction', 'molecule', 'atom', 'bond', 'acid', 'base'],
+            'biology': ['biology', 'cell', 'dna', 'organism', 'species', 'evolution', 'gene', 'protein', 'bacteria'],
+            'computer_science': ['computer', 'code', 'algorithm', 'program', 'software', 'data', 'binary', 'python', 'java', 'api'],
+            'history': ['history', 'war', 'ancient', 'century', 'revolution', 'empire', 'civilization', 'king', 'queen', 'president', 'founded', 'year'],
+            'geography': ['capital', 'country', 'city', 'france', 'paris', 'london', 'continent', 'ocean', 'river', 'mountain', 'border', 'europe', 'asia', 'africa', 'america', 'australia'],
+            'philosophy': ['philosophy', 'ethic', 'moral', 'existence', 'meaning', 'consciousness', 'reality', 'truth'],
+            'logic': ['logic', 'reason', 'argument', 'valid', 'fallacy', 'premise', 'conclusion', 'deductive', 'inductive'],
+            'psychology': ['psychology', 'mind', 'behavior', 'cognitive', 'emotion', 'mental', 'brain', 'personality'],
+            'economics': ['economy', 'market', 'money', 'trade', 'supply', 'demand', 'price', 'inflation', 'gdp'],
+            'linguistics': ['language', 'grammar', 'word', 'syntax', 'meaning', 'semantic', 'speech', 'phonetic'],
+            'astronomy': ['space', 'star', 'planet', 'galaxy', 'universe', 'cosmic', 'orbit', 'nasa', 'mars'],
+            'medicine': ['medicine', 'disease', 'treatment', 'symptom', 'diagnosis', 'drug', 'cancer', 'virus'],
+            'law': ['law', 'legal', 'right', 'constitution', 'court', 'justice', 'crime', 'attorney', 'judge'],
+            'art_history': ['art', 'painting', 'sculpture', 'artist', 'renaissance', 'modern', 'picasso', 'museum'],
+            'music_theory': ['music', 'note', 'chord', 'rhythm', 'melody', 'harmony', 'scale', 'beat', 'song'],
+            'environmental_science': ['environment', 'climate', 'ecosystem', 'pollution', 'sustainable', 'carbon', 'recycle'],
+            'engineering': ['engineer', 'design', 'build', 'structure', 'machine', 'technical', 'circuit', 'mechanical'],
         }
         
         topic_scores = defaultdict(float)
@@ -182,9 +206,9 @@ class Senate:
             return ['logic', 'philosophy', 'history', 'geography']
         
         sorted_topics = sorted(topic_scores.items(), key=lambda x: x[1], reverse=True)
-        return [topic for topic, _ in sorted_topics[:6]]
+        return [topic for topic, _ in sorted_topics[:8]]
     
-    def select_senators(self, relevant_topics, max_senators=8):
+    def select_senators(self, relevant_topics, max_senators=25):
         """Select senators matching relevant topics"""
         senator_scores = []
         
@@ -206,7 +230,7 @@ class Senate:
             if len(selected) >= max_senators:
                 break
             new_topics = set(senator_info['specialties']) - covered_topics
-            if new_topics or len(selected) < 3:
+            if new_topics or len(selected) < 5:
                 selected.append(senator_info)
                 covered_topics.update(senator_info['specialties'])
         
@@ -247,7 +271,7 @@ class Senate:
             "Could there be alternative explanations?",
             "Is the reasoning complete?",
         ]
-        return f"CHALLENGE: {random.choice(challenges)}"
+        return random.choice(challenges)
     
     def vote(self, groups):
         """Vote on answer groups"""
@@ -277,10 +301,12 @@ class Senate:
         
         # Select senators
         print("\nSelecting senators...")
-        selected = self.select_senators(relevant_topics)
+        selected = self.select_senators(relevant_topics, max_senators=25)
         print(f"{len(selected)} senators selected")
-        for s in selected:
+        for s in selected[:10]:
             print(f"  Senator {s['senator_id']}: {', '.join(s['specialties'][:3])}")
+        if len(selected) > 10:
+            print(f"  ... and {len(selected)-10} more")
         sys.stdout.flush()
         
         # Round 1: Real inference
@@ -290,51 +316,60 @@ class Senate:
         sys.stdout.flush()
         
         answers = []
-        for senator_info in selected:
+        for i, senator_info in enumerate(selected):
             senator = self._load_senator(senator_info)
             if senator is None:
                 continue
             
-            print(f"  Senator {senator_info['senator_id']} thinking...", end=' ')
+            print(f"  [{i+1}/{len(selected)}] Senator {senator_info['senator_id']}...", end=' ')
             sys.stdout.flush()
             
             answer = self._senator_inference(senator, question)
             answers.append((senator_info['senator_id'], answer))
-            print(f'"{answer[:60]}..."')
+            print(f'"{answer[:80]}"')
             sys.stdout.flush()
         
         # Group and vote
         groups = self.grouper(answers)
         print(f"\n  Groups formed: {len(groups)}")
-        for i, g in enumerate(groups[:5]):
-            print(f"  Group {i+1}: {g['count']} votes - \"{g['answer'][:50]}...\"")
+        for i, g in enumerate(groups[:8]):
+            print(f"  Group {i+1}: {g['count']} votes - \"{g['answer'][:60]}...\"")
+        if len(groups) > 8:
+            print(f"  ... and {len(groups)-8} more groups")
         sys.stdout.flush()
         
         consensus, confidence = self.vote(groups)
         
-        # Round 2: Challenge & reconsider
+        # Round 2: Challenge & Reconsider
         print(f"\n{'─'*60}")
-        print("  ROUND 2 - Challenge & Reconsider")
+        print("  ROUND 2 - Reconsider with Challenge")
         print(f"{'─'*60}")
         sys.stdout.flush()
         
         challenge = self.challenger_review(consensus, question)
-        print(f"  {challenge}")
+        print(f"  Current consensus: \"{consensus[:80]}...\"")
+        print(f"  Challenge: {challenge}")
         sys.stdout.flush()
         
         answers2 = []
-        for senator_info in selected:
+        for i, senator_info in enumerate(selected):
             senator = self._load_senator(senator_info)
             if senator is None:
                 continue
             
-            reconsider_prompt = f"{question} Reconsider: {challenge}"
-            print(f"  Senator {senator_info['senator_id']} reconsidering...", end=' ')
+            reconsider_prompt = (
+                f"Question: {question}\n"
+                f"Current answer: {consensus}\n"
+                f"Critique: {challenge}\n"
+                f"Provide your revised answer:"
+            )
+            
+            print(f"  [{i+1}/{len(selected)}] Senator {senator_info['senator_id']}...", end=' ')
             sys.stdout.flush()
             
             answer = self._senator_inference(senator, reconsider_prompt)
             answers2.append((senator_info['senator_id'], answer))
-            print(f'"{answer[:60]}..."')
+            print(f'"{answer[:80]}"')
             sys.stdout.flush()
         
         groups2 = self.grouper(answers2)
