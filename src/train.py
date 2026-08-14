@@ -1,6 +1,7 @@
 """
-Senate AI - Topic-Based Training
+Senate AI - Topic-Based Training with Grading
 Trains all senators matching given topics across all bundles.
+Grades them on Q&A pairs and updates reliability scores.
 """
 
 import torch
@@ -12,6 +13,7 @@ import sys
 from pathlib import Path
 from model_template import SenateBundle
 import random
+from difflib import SequenceMatcher
 
 
 class TopicDataset(Dataset):
@@ -99,20 +101,160 @@ def train_senator_on_topics(senator, topics, epochs=3, lr=0.001, batch_size=8):
     return losses
 
 
+def tokenize_text(text, max_len=32, vocab_size=8000):
+    """Tokenize text for senator inference"""
+    words = text.lower().split()[:max_len]
+    tokens = []
+    for w in words:
+        tokens.append(hash(w) % vocab_size)
+    while len(tokens) < max_len:
+        tokens.append(0)
+    return torch.tensor([tokens])
+
+
+def decode_tokens(token_ids, vocab):
+    """Decode token IDs back to text"""
+    words = []
+    for tid in token_ids:
+        tid = tid.item()
+        if tid == 0:
+            break
+        if tid == 1:
+            words.append('?')
+        elif tid == 2:
+            break
+        elif tid in vocab:
+            words.append(vocab[tid])
+    return ' '.join(words)
+
+
+def build_vocab():
+    """Build reverse vocabulary from training data"""
+    vocab = {0: '<PAD>', 1: '<UNK>', 2: '<END>'}
+    training_dir = Path('training_data')
+    if training_dir.exists():
+        for file in training_dir.glob('*.json'):
+            try:
+                with open(file) as f:
+                    data = json.load(f)
+                examples = data.get('training_examples', [])
+                for text in examples:
+                    for word in text.lower().split():
+                        tid = hash(word) % 8000
+                        if tid not in vocab and tid >= 3:
+                            vocab[tid] = word
+            except:
+                pass
+    return vocab
+
+
+def grade_senator(senator, qa_pairs, vocab):
+    """Grade senator on Q&A pairs and return scores"""
+    senator.eval()
+    scores = []
+    
+    for qa in qa_pairs:
+        question = qa.get('question', '')
+        correct_answer = qa.get('answer', '')
+        topic = qa.get('topic', '')
+        
+        # Get senator's answer
+        input_ids = tokenize_text(question)
+        
+        with torch.no_grad():
+            logits = senator(input_ids)
+            last_logits = logits[0, -1, :]
+            probs = torch.softmax(last_logits / 0.8, dim=-1)
+            
+            # Generate 10 tokens
+            generated = []
+            current = input_ids
+            for _ in range(10):
+                logits = senator(current)
+                last_logits = logits[0, -1, :]
+                probs = torch.softmax(last_logits / 0.8, dim=-1)
+                next_token = torch.multinomial(probs, 1).item()
+                if next_token == 2:
+                    break
+                generated.append(next_token)
+                current = torch.cat([current, torch.tensor([[next_token]])], dim=1)
+        
+        senator_answer = decode_tokens(torch.tensor(generated), vocab)
+        
+        # Score answer
+        similarity = SequenceMatcher(None, correct_answer.lower(), senator_answer.lower()).ratio()
+        keyword_overlap = set(correct_answer.lower().split()) & set(senator_answer.lower().split())
+        keyword_score = min(1.0, len(keyword_overlap) / max(1, len(correct_answer.split()) * 0.3))
+        
+        total_score = (similarity * 0.6 + keyword_score * 0.4) * 100
+        total_score = min(100, max(0, total_score))
+        
+        scores.append({
+            'topic': topic,
+            'question': question,
+            'correct_answer': correct_answer,
+            'senator_answer': senator_answer,
+            'score': total_score
+        })
+    
+    return scores
+
+
+def grade_and_update(senator, topics, vocab):
+    """Grade senator on Q&A pairs and update performance"""
+    
+    all_qa = []
+    for topic in topics:
+        _, qa_pairs = get_topic_data(topic)
+        for qa in qa_pairs:
+            qa['topic'] = topic
+        all_qa.extend(qa_pairs)
+    
+    if not all_qa:
+        return None
+    
+    # Sample up to 10 Q&A pairs
+    sample_qa = random.sample(all_qa, min(10, len(all_qa)))
+    
+    scores = grade_senator(senator, sample_qa, vocab)
+    
+    if not scores:
+        return None
+    
+    # Update performance per topic
+    topic_scores = {}
+    for s in scores:
+        topic = s['topic']
+        if topic not in topic_scores:
+            topic_scores[topic] = []
+        topic_scores[topic].append(s['score'])
+    
+    for topic, topic_score_list in topic_scores.items():
+        avg_score = sum(topic_score_list) / len(topic_score_list)
+        senator.performance[topic] = avg_score / 100
+    
+    avg_score = sum(s['score'] for s in scores) / len(scores)
+    return {
+        'average_score': avg_score,
+        'scores': scores
+    }
+
+
 def train_topics(topic_list, epochs=3, lr=0.001):
-    """Train all senators that specialize in any of the given topics"""
+    """Train all senators matching topics, grade them, update reliability"""
     
     with open('senate_bundles/senate_index.json') as f:
         index = json.load(f)
     
     topics = set(topic_list)
     print(f"\n{'='*60}")
-    print(f"  TOPIC TRAINING")
+    print(f"  TOPIC TRAINING WITH GRADING")
     print(f"{'='*60}")
     print(f"  Topics: {', '.join(sorted(topics))}")
     sys.stdout.flush()
     
-    # Find matching senators across all bundles
+    vocab = build_vocab()
+    
     matching_senators = []
     for senator in index['senators']:
         senator_topics = set(senator['specialties'])
@@ -126,7 +268,6 @@ def train_topics(topic_list, epochs=3, lr=0.001):
         print("  No senators match these topics")
         return
     
-    # Group by bundle
     bundle_groups = {}
     for senator in matching_senators:
         bid = senator['bundle_id']
@@ -139,6 +280,8 @@ def train_topics(topic_list, epochs=3, lr=0.001):
     
     trained = 0
     skipped = 0
+    graded = 0
+    total_score = 0
     
     for bundle_id, senators in sorted(bundle_groups.items()):
         bundle_path = f"senate_bundles/bundle_{bundle_id:03d}.pt"
@@ -169,15 +312,30 @@ def train_topics(topic_list, epochs=3, lr=0.001):
             print(f"    Senator {senator_id} [{', '.join(relevant[:3])}]...", end=' ')
             sys.stdout.flush()
             
+            # Train
             losses = train_senator_on_topics(senator, relevant, epochs=epochs, lr=lr)
             
             if losses:
-                print(f"loss: {losses[-1]:.4f}")
                 trained += 1
                 bundle_changed = True
+                print(f"train done", end=' ')
             else:
-                print("no data")
+                print(f"no data", end=' ')
                 skipped += 1
+                continue
+            
+            # Grade
+            grading_result = grade_and_update(senator, relevant, vocab)
+            
+            if grading_result:
+                score = grading_result['average_score']
+                total_score += score
+                graded += 1
+                print(f"| grade: {score:.1f}/100")
+            else:
+                print(f"| no Q&A data")
+            
+            sys.stdout.flush()
         
         if bundle_changed:
             size_mb = bundle.save(bundle_path)
@@ -188,6 +346,9 @@ def train_topics(topic_list, epochs=3, lr=0.001):
     print(f"  TRAINING COMPLETE")
     print(f"{'='*60}")
     print(f"  Trained: {trained} senators")
+    print(f"  Graded: {graded} senators")
+    if graded > 0:
+        print(f"  Avg score: {total_score/graded:.1f}/100")
     print(f"  Skipped: {skipped}")
     print(f"  Topics: {', '.join(sorted(topics))}")
 
