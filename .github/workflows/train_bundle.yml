@@ -13,7 +13,36 @@ permissions:
   contents: write
 
 jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-${{ runner.os }}-
+      - run: pip install torch numpy pyyaml
+      - name: Cache everything (site-packages + repo)
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            /opt/hostedtoolcache/Python
+            senate_bundles/
+            training_data/
+            src/
+          key: senate-setup-${{ github.run_id }}
+          restore-keys: senate-setup-
+
   train-topic-0:
+    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -23,12 +52,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - uses: actions/cache@v4
+      - name: Restore cache
+        uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
+          path: |
+            ~/.cache/pip
+            /opt/hostedtoolcache/Python
+            senate_bundles/
+            training_data/
+            src/
+          key: senate-setup-${{ github.run_id }}
+          restore-keys: senate-setup-
       - name: Train first topic
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f1)
@@ -42,6 +76,7 @@ jobs:
           git push
 
   train-topic-1:
+    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -51,12 +86,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - uses: actions/cache@v4
+      - name: Restore cache
+        uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
+          path: |
+            ~/.cache/pip
+            /opt/hostedtoolcache/Python
+            senate_bundles/
+            training_data/
+            src/
+          key: senate-setup-${{ github.run_id }}
+          restore-keys: senate-setup-
       - name: Train second topic
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f2)
@@ -70,6 +110,7 @@ jobs:
           git push
 
   train-topic-2:
+    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -79,12 +120,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - uses: actions/cache@v4
+      - name: Restore cache
+        uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
+          path: |
+            ~/.cache/pip
+            /opt/hostedtoolcache/Python
+            senate_bundles/
+            training_data/
+            src/
+          key: senate-setup-${{ github.run_id }}
+          restore-keys: senate-setup-
       - name: Train third topic
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f3)
@@ -98,6 +144,7 @@ jobs:
           git push
 
   train-topic-3:
+    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -107,12 +154,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - uses: actions/cache@v4
+      - name: Restore cache
+        uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
+          path: |
+            ~/.cache/pip
+            /opt/hostedtoolcache/Python
+            senate_bundles/
+            training_data/
+            src/
+          key: senate-setup-${{ github.run_id }}
+          restore-keys: senate-setup-
       - name: Train fourth topic
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f4)
@@ -126,6 +178,7 @@ jobs:
           git push
 
   train-topic-4:
+    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -135,12 +188,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - uses: actions/cache@v4
+      - name: Restore cache
+        uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
+          path: |
+            ~/.cache/pip
+            /opt/hostedtoolcache/Python
+            senate_bundles/
+            training_data/
+            src/
+          key: senate-setup-${{ github.run_id }}
+          restore-keys: senate-setup-
       - name: Train fifth topic
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f5)
