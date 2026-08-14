@@ -10,8 +10,6 @@ jobs:
   train:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -21,14 +19,22 @@ jobs:
         with:
           python-version: '3.10'
       
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      
       - run: pip install torch numpy pyyaml requests
       
-      - run: python src/router_model.py
+      - name: Train router
+        run: python src/router_model.py
       
       - name: Push router model
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git pull --rebase origin main
           git add models/router.pt
-          git commit -m "Train router model"
+          git commit -m "Train router model" || echo "No changes"
           git push
