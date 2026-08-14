@@ -7,59 +7,29 @@ permissions:
   contents: write
 
 jobs:
-  setup:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-${{ runner.os }}
-          restore-keys: pip-${{ runner.os }}-
-      - run: pip install torch numpy pyyaml
-      - name: Cache setup
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            src/
-          key: optimize-setup-${{ github.run_id }}
-          restore-keys: optimize-setup-
-
   optimize:
-    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
         with:
           lfs: true
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Restore cache
-        uses: actions/cache@v4
+      
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            src/
-          key: optimize-setup-${{ github.run_id }}
-          restore-keys: optimize-setup-
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      
+      - run: pip install torch numpy pyyaml
       
       - name: Determine next bundle to optimize
         id: next-bundle
         run: |
-          # Check if we have a rotation tracker
           if [ -f "optimize_progress.json" ]; then
             LAST=$(python -c "import json; print(json.load(open('optimize_progress.json'))['last_bundle'])")
             NEXT=$(( (LAST + 1) % 89 ))
@@ -70,15 +40,11 @@ jobs:
           echo "Optimizing bundle $NEXT"
       
       - name: Run optimization
-        run: |
-          python src/optimize.py ${{ steps.next-bundle.outputs.bundle_id }} 0.5
+        run: python src/optimize.py ${{ steps.next-bundle.outputs.bundle_id }} 0.5
       
       - name: Save progress
         run: |
-          python -c "
-import json
-json.dump({'last_bundle': ${{ steps.next-bundle.outputs.bundle_id }}}, open('optimize_progress.json', 'w'))
-"
+          python -c "import json; json.dump({'last_bundle': ${{ steps.next-bundle.outputs.bundle_id }}}, open('optimize_progress.json', 'w'))"
       
       - name: Push optimized bundle
         run: |
