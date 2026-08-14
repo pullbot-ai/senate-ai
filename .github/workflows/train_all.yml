@@ -10,7 +10,7 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Pick random topics and trigger parallel training
+      - name: Pick random topics and trigger training
         run: |
           TOPIC_GROUPS=(
             "mathematics,algebra,geometry,calculus,statistics"
@@ -26,7 +26,7 @@ jobs:
           )
           
           RANDOM_GROUP=${TOPIC_GROUPS[$RANDOM % ${#TOPIC_GROUPS[@]}]}
-          echo "Pinging parallel training for: $RANDOM_GROUP"
+          echo "Pinging: $RANDOM_GROUP"
           
           curl -X POST \
             -H "Authorization: Bearer ${{ github.token }}" \
