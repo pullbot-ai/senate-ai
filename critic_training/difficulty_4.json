@@ -1,0 +1,83 @@
+{
+  "difficulty": 4,
+  "examples": [],
+  "questions": [
+    {
+      "question": "Explain the key concepts of linguistics.",
+      "topic": "linguistics",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of art_history.",
+      "topic": "art_history",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of calculus.",
+      "topic": "calculus",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of biochemistry.",
+      "topic": "biochemistry",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of logic.",
+      "topic": "logic",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of music_theory.",
+      "topic": "music_theory",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of geometry.",
+      "topic": "geometry",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of chemistry.",
+      "topic": "chemistry",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of algebra.",
+      "topic": "algebra",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of behavioral_economics.",
+      "topic": "behavioral_economics",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of microbiology.",
+      "topic": "microbiology",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of geography.",
+      "topic": "geography",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of philosophy.",
+      "topic": "philosophy",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of cognitive_science.",
+      "topic": "cognitive_science",
+      "difficulty": 4
+    },
+    {
+      "question": "Explain the key concepts of engineering.",
+      "topic": "engineering",
+      "difficulty": 4
+    }
+  ],
+  "example_count": 0,
+  "question_count": 15
+}

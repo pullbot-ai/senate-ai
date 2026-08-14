@@ -1,0 +1,83 @@
+{
+  "difficulty": 5,
+  "examples": [],
+  "questions": [
+    {
+      "question": "Explain the key concepts of political_science.",
+      "topic": "political_science",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of biology.",
+      "topic": "biology",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of astrophysics.",
+      "topic": "astrophysics",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of geometry.",
+      "topic": "geometry",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of microbiology.",
+      "topic": "microbiology",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of physics.",
+      "topic": "physics",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of ethics.",
+      "topic": "ethics",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of mathematics.",
+      "topic": "mathematics",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of biochemistry.",
+      "topic": "biochemistry",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of astronomy.",
+      "topic": "astronomy",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of law.",
+      "topic": "law",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of algorithms.",
+      "topic": "algorithms",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of logic.",
+      "topic": "logic",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of poetry.",
+      "topic": "poetry",
+      "difficulty": 5
+    },
+    {
+      "question": "Explain the key concepts of cognitive_science.",
+      "topic": "cognitive_science",
+      "difficulty": 5
+    }
+  ],
+  "example_count": 0,
+  "question_count": 15
+}

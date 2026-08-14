@@ -1,0 +1,83 @@
+{
+  "difficulty": 2,
+  "examples": [],
+  "questions": [
+    {
+      "question": "Explain the key concepts of algebra.",
+      "topic": "algebra",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of astrophysics.",
+      "topic": "astrophysics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of poetry.",
+      "topic": "poetry",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of climate_science.",
+      "topic": "climate_science",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of epistemology.",
+      "topic": "epistemology",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of logic.",
+      "topic": "logic",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of thermodynamics.",
+      "topic": "thermodynamics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of mathematics.",
+      "topic": "mathematics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of statistics.",
+      "topic": "statistics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of psychology.",
+      "topic": "psychology",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of biochemistry.",
+      "topic": "biochemistry",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of medicine.",
+      "topic": "medicine",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of anatomy.",
+      "topic": "anatomy",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of music_theory.",
+      "topic": "music_theory",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of microeconomics.",
+      "topic": "microeconomics",
+      "difficulty": 2
+    }
+  ],
+  "example_count": 0,
+  "question_count": 15
+}

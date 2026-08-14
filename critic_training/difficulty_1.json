@@ -1,0 +1,83 @@
+{
+  "difficulty": 1,
+  "examples": [],
+  "questions": [
+    {
+      "question": "Explain the key concepts of art_history.",
+      "topic": "art_history",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of world_wars.",
+      "topic": "world_wars",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of geometry.",
+      "topic": "geometry",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of neuroscience.",
+      "topic": "neuroscience",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of economics.",
+      "topic": "economics",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of psychology.",
+      "topic": "psychology",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of ethics.",
+      "topic": "ethics",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of macroeconomics.",
+      "topic": "macroeconomics",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of quantum_mechanics.",
+      "topic": "quantum_mechanics",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of biology.",
+      "topic": "biology",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of microbiology.",
+      "topic": "microbiology",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of algorithms.",
+      "topic": "algorithms",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of physics.",
+      "topic": "physics",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of ancient_civilizations.",
+      "topic": "ancient_civilizations",
+      "difficulty": 1
+    },
+    {
+      "question": "Explain the key concepts of electromagnetism.",
+      "topic": "electromagnetism",
+      "difficulty": 1
+    }
+  ],
+  "example_count": 0,
+  "question_count": 15
+}

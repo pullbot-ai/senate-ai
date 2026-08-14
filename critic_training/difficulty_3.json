@@ -1,0 +1,83 @@
+{
+  "difficulty": 3,
+  "examples": [],
+  "questions": [
+    {
+      "question": "Explain the key concepts of cybersecurity.",
+      "topic": "cybersecurity",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of geography.",
+      "topic": "geography",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of physics.",
+      "topic": "physics",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of quantum_mechanics.",
+      "topic": "quantum_mechanics",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of economics.",
+      "topic": "economics",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of computer_science.",
+      "topic": "computer_science",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of algorithms.",
+      "topic": "algorithms",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of machine_learning.",
+      "topic": "machine_learning",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of logic.",
+      "topic": "logic",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of behavioral_economics.",
+      "topic": "behavioral_economics",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of genetics.",
+      "topic": "genetics",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of constitutional_law.",
+      "topic": "constitutional_law",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of philosophy.",
+      "topic": "philosophy",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of networking.",
+      "topic": "networking",
+      "difficulty": 3
+    },
+    {
+      "question": "Explain the key concepts of neuroscience.",
+      "topic": "neuroscience",
+      "difficulty": 3
+    }
+  ],
+  "example_count": 0,
+  "question_count": 15
+}
