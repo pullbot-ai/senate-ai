@@ -4,63 +4,16 @@ Trains the Challenger to distinguish good answers from bad ones.
 AI generates examples with increasing difficulty levels.
 """
 
-import os
 import json
 import yaml
-import requests
 import time
 import random
 from pathlib import Path
-
-GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
-API_URL = "https://models.inference.ai.azure.com/chat/completions"
-
-
-def call_ai(prompt, max_tokens=1000):
-    """Call GitHub Models API"""
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Content-Type": "application/json"
-    }
-    
-    for attempt in range(3):
-        try:
-            r = requests.post(
-                API_URL,
-                headers=headers,
-                json={
-                    "model": "gpt-4o",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.8,
-                    "max_tokens": max_tokens
-                },
-                timeout=60
-            )
-            
-            if r.status_code == 200:
-                return r.json()['choices'][0]['message']['content']
-            
-            print(f"   API error {r.status_code}: {r.text[:100]}")
-            time.sleep(5)
-        except Exception as e:
-            print(f"   Attempt {attempt+1} failed: {e}")
-            time.sleep(5)
-    
-    return None
+from ai_client import call_ai
 
 
 def generate_critic_examples(topic, difficulty, num_examples=10):
-    """
-    Generate examples for training the critic.
-    Returns pairs of (answer, is_good, feedback_if_bad)
-    
-    Difficulty levels:
-    1 - Obvious errors (beginner)
-    2 - Subtle mistakes (intermediate)
-    3 - Edge cases and nuance (advanced)
-    4 - Expert-level reasoning (expert)
-    5 - Near-impossible distinctions (master)
-    """
+    """Generate examples for training the critic."""
     
     difficulty_descriptions = {
         1: "Make the bad answers have obvious factual errors, logical fallacies, or completely miss the point.",
@@ -151,7 +104,6 @@ def generate_all_critic_data():
     all_examples = []
     all_questions = []
     
-    # Generate for each difficulty level
     for difficulty in range(1, 6):
         print(f"\n{'='*60}")
         print(f"  DIFFICULTY LEVEL {difficulty}/5")
@@ -160,24 +112,21 @@ def generate_all_critic_data():
         level_examples = []
         level_questions = []
         
-        # Sample topics (not all 55, to save time)
         sample_topics = random.sample(topics, min(15, len(topics)))
         
         for i, topic in enumerate(sample_topics):
             print(f"\n[{i+1}/{len(sample_topics)}] {topic} (difficulty {difficulty})...")
             
-            # Generate critic training examples
             print("   Generating good/bad answer pairs...")
             examples = generate_critic_examples(topic, difficulty)
             
             if examples:
                 level_examples.extend(examples)
                 all_examples.extend(examples)
-                print(f"   ✅ {len(examples)} pairs generated")
+                print(f"   {len(examples)} pairs generated")
             else:
-                print(f"   ⚠️  Failed to generate")
+                print(f"   Failed to generate")
             
-            # Generate test questions
             print("   Generating test questions...")
             questions = generate_questions_only(topic, difficulty)
             
@@ -189,11 +138,10 @@ def generate_all_critic_data():
                         "difficulty": difficulty
                     })
                 all_questions.extend(level_questions[-len(questions):])
-                print(f"   ✅ {len(questions)} questions")
+                print(f"   {len(questions)} questions")
             
-            time.sleep(1)
+            time.sleep(0.5)
         
-        # Save per-level data
         level_data = {
             "difficulty": difficulty,
             "examples": level_examples,
@@ -207,7 +155,6 @@ def generate_all_critic_data():
         
         print(f"\n   Level {difficulty} saved: {len(level_examples)} examples, {len(level_questions)} questions")
     
-    # Save combined data
     combined = {
         "total_examples": len(all_examples),
         "total_questions": len(all_questions),
@@ -216,7 +163,6 @@ def generate_all_critic_data():
         "questions": all_questions
     }
     
-    # Organize by difficulty
     for ex in all_examples:
         diff = ex.get('difficulty', 1)
         if str(diff) not in combined['by_difficulty']:
@@ -234,7 +180,6 @@ def generate_all_critic_data():
     print(f"  Difficulty levels: 1-5")
     print(f"  Saved to: {output_dir}/")
     
-    # Print difficulty breakdown
     for diff in range(1, 6):
         count = len(combined['by_difficulty'].get(str(diff), []))
         print(f"    Level {diff}: {count} examples")
