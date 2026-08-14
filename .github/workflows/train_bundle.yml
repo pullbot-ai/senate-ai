@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       topics:
-        description: 'Comma-separated topics (will be split into parallel jobs)'
+        description: 'Comma-separated topics'
         required: true
         type: string
 
@@ -22,24 +22,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Cache pip packages
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: pip-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
       - run: pip install torch numpy pyyaml
-      - name: Cache everything (site-packages + repo)
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            training_data/
-            src/
-          key: senate-setup-${{ github.run_id }}
-          restore-keys: senate-setup-
 
   train-topic-0:
     needs: setup
@@ -52,27 +40,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Restore cache
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            training_data/
-            src/
-          key: senate-setup-${{ github.run_id }}
-          restore-keys: senate-setup-
-      - name: Train first topic
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - name: Train topic 1
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f1)
           python src/train.py --topics $TOPIC --epochs 3 --lr 0.001
-      - name: Push changes
+      - name: Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add senate_bundles/
-          git commit -m "Train $TOPIC" || echo "No changes"
+          git commit -m "Train topic" || echo "No changes"
           git push
 
   train-topic-1:
@@ -86,27 +68,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Restore cache
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            training_data/
-            src/
-          key: senate-setup-${{ github.run_id }}
-          restore-keys: senate-setup-
-      - name: Train second topic
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - name: Train topic 2
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f2)
           python src/train.py --topics $TOPIC --epochs 3 --lr 0.001
-      - name: Push changes
+      - name: Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add senate_bundles/
-          git commit -m "Train $TOPIC" || echo "No changes"
+          git commit -m "Train topic" || echo "No changes"
           git push
 
   train-topic-2:
@@ -120,27 +96,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Restore cache
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            training_data/
-            src/
-          key: senate-setup-${{ github.run_id }}
-          restore-keys: senate-setup-
-      - name: Train third topic
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - name: Train topic 3
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f3)
           python src/train.py --topics $TOPIC --epochs 3 --lr 0.001
-      - name: Push changes
+      - name: Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add senate_bundles/
-          git commit -m "Train $TOPIC" || echo "No changes"
+          git commit -m "Train topic" || echo "No changes"
           git push
 
   train-topic-3:
@@ -154,27 +124,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Restore cache
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            training_data/
-            src/
-          key: senate-setup-${{ github.run_id }}
-          restore-keys: senate-setup-
-      - name: Train fourth topic
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - name: Train topic 4
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f4)
           python src/train.py --topics $TOPIC --epochs 3 --lr 0.001
-      - name: Push changes
+      - name: Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add senate_bundles/
-          git commit -m "Train $TOPIC" || echo "No changes"
+          git commit -m "Train topic" || echo "No changes"
           git push
 
   train-topic-4:
@@ -188,37 +152,31 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Restore cache
-        uses: actions/cache@v4
+      - uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-            /opt/hostedtoolcache/Python
-            senate_bundles/
-            training_data/
-            src/
-          key: senate-setup-${{ github.run_id }}
-          restore-keys: senate-setup-
-      - name: Train fifth topic
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      - name: Train topic 5
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f5)
           python src/train.py --topics $TOPIC --epochs 3 --lr 0.001
-      - name: Push changes
+      - name: Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add senate_bundles/
-          git commit -m "Train $TOPIC" || echo "No changes"
+          git commit -m "Train topic" || echo "No changes"
           git push
 
-  ping-next:
+  ping-optimize:
     needs: [train-topic-0, train-topic-1, train-topic-2, train-topic-3, train-topic-4]
     runs-on: ubuntu-latest
     steps:
-      - name: Ping next training round
+      - name: Trigger optimize
         run: |
           curl -X POST \
             -H "Authorization: Bearer ${{ github.token }}" \
             -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_all.yml/dispatches" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/optimize_bundle.yml/dispatches" \
             -d "{\"ref\":\"${{ github.ref_name }}\"}"
