@@ -1,50 +1,13 @@
 """
 Senate AI - Training Data Generator
-Uses GitHub Models (free GPT-4o) to generate rich training examples.
+Uses Puter.js free AI to generate rich training examples.
 """
 
 import json
-import os
-import requests
 import time
 from pathlib import Path
 import yaml
-
-GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
-API_URL = "https://models.inference.ai.azure.com/chat/completions"
-
-def call_ai(prompt, max_tokens=300):
-    """Call GitHub Models API"""
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Content-Type": "application/json"
-    }
-    
-    for attempt in range(3):
-        try:
-            r = requests.post(
-                API_URL,
-                headers=headers,
-                json={
-                    "model": "gpt-4o",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
-                    "max_tokens": max_tokens
-                },
-                timeout=30
-            )
-            
-            if r.status_code == 200:
-                return r.json()['choices'][0]['message']['content']
-            
-            print(f"   API error {r.status_code}: {r.text[:100]}")
-            time.sleep(5)
-        
-        except Exception as e:
-            print(f"   Attempt {attempt+1} failed: {e}")
-            time.sleep(5)
-    
-    return None
+from ai_client import call_ai
 
 
 def generate_training_examples(topic, num_examples=20):
@@ -59,7 +22,6 @@ Return as a JSON array of strings. Format: ["example1", "example2", ...]"""
     
     if response:
         try:
-            # Extract JSON array from response
             import re
             match = re.search(r'\[.*\]', response, re.DOTALL)
             if match:
@@ -68,7 +30,6 @@ Return as a JSON array of strings. Format: ["example1", "example2", ...]"""
         except:
             pass
     
-    # Fallback: basic examples
     return [
         f"{topic} involves understanding key principles and concepts",
         f"A fundamental aspect of {topic} is pattern recognition",
@@ -98,7 +59,6 @@ Format: [{{"question": "...", "answer": "..."}}, ...]"""
         except:
             pass
     
-    # Fallback
     return [
         {"question": f"What is {topic}?", "answer": f"{topic} is the study of fundamental principles and their applications."}
     ]
@@ -114,7 +74,7 @@ def generate_all_data():
     data_dir = Path('training_data')
     data_dir.mkdir(exist_ok=True)
     
-    print("Generating training data with GitHub Models (GPT-4o)...")
+    print("Generating training data with Puter.js AI...")
     print("=" * 60)
     
     total_examples = 0
@@ -123,15 +83,12 @@ def generate_all_data():
     for i, topic in enumerate(topics):
         print(f"\n[{i+1}/{len(topics)}] {topic}...")
         
-        # Generate training examples
         print("   Generating examples...")
         examples = generate_training_examples(topic)
         
-        # Generate Q&A pairs
         print("   Generating Q&A pairs...")
         qa_pairs = generate_qa_pairs(topic)
         
-        # Save topic data
         topic_data = {
             'topic': topic,
             'training_examples': examples,
@@ -146,15 +103,13 @@ def generate_all_data():
         total_examples += len(examples)
         total_qa += len(qa_pairs)
         
-        print(f"   ✅ {len(examples)} examples, {len(qa_pairs)} Q&A pairs")
-        
-        # Rate limit
-        time.sleep(1)
+        print(f"   {len(examples)} examples, {len(qa_pairs)} Q&A pairs")
+        time.sleep(0.5)
     
     print(f"\n{'='*60}")
-    print(f"✅ Generated {total_examples} examples and {total_qa} Q&A pairs")
-    print(f"   Across {len(topics)} topics")
-    print(f"   Saved to {data_dir}/")
+    print(f"Generated {total_examples} examples and {total_qa} Q&A pairs")
+    print(f"Across {len(topics)} topics")
+    print(f"Saved to {data_dir}/")
 
 
 if __name__ == "__main__":
