@@ -1,19 +1,79 @@
-name: Train All
+name: Train Random Topics Forever
 
 on:
   workflow_dispatch:
 
 permissions:
   actions: write
+  contents: write
 
 jobs:
-  start:
+  train:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     steps:
-      - name: Start bundle 0
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}
+          restore-keys: pip-${{ runner.os }}-
+      
+      - run: pip install torch numpy pyyaml
+      
+      - name: Train random topics forever
         run: |
-          curl -X POST \
-            -H "Authorization: Bearer ${{ github.token }}" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_bundle.yml/dispatches" \
-            -d '{"ref":"${{ github.ref_name }}","inputs":{"bundle_id":"0"}}'
+          import random
+          import subprocess
+          import sys
+          import time
+          
+          TOPICS = [
+              "mathematics,algebra,geometry,calculus,statistics",
+              "physics,chemistry,biology,astronomy,environmental_science",
+              "computer_science,algorithms,machine_learning,cybersecurity,networking",
+              "history,ancient_civilizations,world_wars,geography,philosophy",
+              "psychology,economics,political_science,law,linguistics",
+              "art_history,music_theory,literature,poetry,ethics",
+              "medicine,anatomy,neuroscience,genetics,microbiology",
+              "quantum_mechanics,thermodynamics,electromagnetism,organic_chemistry,biochemistry",
+              "climate_science,behavioral_economics,cognitive_science,epistemology,constitutional_law",
+              "microeconomics,macroeconomics,medieval_history,astrophysics,engineering"
+          ]
+          
+          run_count = 0
+          while True:
+              run_count += 1
+              topics = random.choice(TOPICS)
+              print(f"\\n{'='*60}")
+              print(f"  RUN {run_count}: {topics}")
+              print(f"{'='*60}")
+              
+              result = subprocess.run(
+                  [sys.executable, "src/train.py", "--topics", topics, "--epochs", "2", "--lr", "0.001"],
+                  capture_output=True,
+                  text=True
+              )
+              
+              print(result.stdout[-2000:] if len(result.stdout) > 2000 else result.stdout)
+              
+              if result.returncode != 0:
+                  print(f"  Error: {result.stderr[-500:]}")
+              
+              # Push changes
+              subprocess.run(["git", "config", "user.name", "github-actions"])
+              subprocess.run(["git", "config", "user.email", "actions@github.com"])
+              subprocess.run(["git", "add", "senate_bundles/"])
+              subprocess.run(["git", "commit", "-m", f"Train {topics}"], capture_output=True)
+              subprocess.run(["git", "push"], capture_output=True)
+              
+              print(f"  Run {run_count} complete. Continuing...")
+              time.sleep(1)
+        shell: python
