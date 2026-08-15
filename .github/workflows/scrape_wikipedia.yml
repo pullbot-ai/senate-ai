@@ -1,0 +1,33 @@
+name: Scrape Wikipedia
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install deps
+        run: pip install requests
+      
+      - name: Scrape Wikipedia
+        run: python src/scraper.py 30
+      
+      - name: Push wordbank
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main
+          git add data/wordbank.json data/definitions.json
+          git commit -m "📚 Wikipedia scrape" || echo "No changes"
+          git push
