@@ -1852,5 +1852,599 @@
     "token_id": 1229,
     "definition": "A country's entire sea force, including ships and personnel.",
     "first_seen": "Richard S. Edwards"
+  },
+  {
+    "word": "snail",
+    "token_id": 4246,
+    "definition": "Any of very many animals (either hermaphroditic or nonhermaphroditic), of the class Gastropoda, having a coiled shell.",
+    "first_seen": "Vokesimurex anniae"
+  },
+  {
+    "word": "carl",
+    "token_id": 6742,
+    "definition": "A rude, rustic man; a churl.",
+    "first_seen": "Apantesis virgo"
+  },
+  {
+    "word": "virgin",
+    "token_id": 6053,
+    "definition": "A person who has never had sexual intercourse, or sometimes, one who has never engaged in any sexual activity at all.",
+    "first_seen": "Apantesis virgo"
+  },
+  {
+    "word": "moth",
+    "token_id": 3871,
+    "definition": "A usually nocturnal insect of the order Lepidoptera, distinguished from butterflies by feather-like antennae.",
+    "first_seen": "Apantesis virgo"
+  },
+  {
+    "word": "latter",
+    "token_id": 1660,
+    "definition": "Relating to or being the second of two items.",
+    "first_seen": "Mary Meade"
+  },
+  {
+    "word": "rose",
+    "token_id": 2051,
+    "definition": "A shrub of the genus Rosa, with red, pink, white or yellow flowers.",
+    "first_seen": "Mary Meade"
+  },
+  {
+    "word": "fame",
+    "token_id": 896,
+    "definition": "What is said or reported; gossip, rumour.",
+    "first_seen": "Mary Meade"
+  },
+  {
+    "word": "actress",
+    "token_id": 5557,
+    "definition": "A female who performs on the stage or in films.",
+    "first_seen": "Mary Meade"
+  },
+  {
+    "word": "baker",
+    "token_id": 2125,
+    "definition": "A person who bakes and sells bread, cakes and similar items.",
+    "first_seen": "Baker Congregational Church"
+  },
+  {
+    "word": "heart",
+    "token_id": 7419,
+    "definition": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.",
+    "first_seen": "Love Is Spoken Here"
+  },
+  {
+    "word": "choir",
+    "token_id": 7698,
+    "definition": "Singing group; group of people who sing together; company of people who are trained to sing together.",
+    "first_seen": "Love Is Spoken Here"
+  },
+  {
+    "word": "here",
+    "token_id": 6324,
+    "definition": "(abstract) This place; this location.",
+    "first_seen": "Love Is Spoken Here"
+  },
+  {
+    "word": "lullabies",
+    "token_id": 7942,
+    "definition": "A cradlesong, a soothing song to calm children or lull them to sleep.",
+    "first_seen": "Love Is Spoken Here"
+  },
+  {
+    "word": "orchestral",
+    "token_id": 3687,
+    "definition": "An orchestral performance.",
+    "first_seen": "Love Is Spoken Here"
+  },
+  {
+    "word": "cells",
+    "token_id": 2992,
+    "definition": "A single-room dwelling for a hermit.",
+    "first_seen": "Filaggrin"
+  },
+  {
+    "word": "forms",
+    "token_id": 5827,
+    "definition": "(heading, physical) To do with shape.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "continued",
+    "token_id": 6090,
+    "definition": "To proceed with (doing an activity); to prolong (an activity).",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "various",
+    "token_id": 2784,
+    "definition": "Having a broad range (of different elements).",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "common",
+    "token_id": 6031,
+    "definition": "Mutual good, shared by more than one.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "greek",
+    "token_id": 444,
+    "definition": "An inhabitant, resident, or person of descent from Greece.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "koine",
+    "token_id": 2496,
+    "definition": "A lingua franca.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "movement",
+    "token_id": 5669,
+    "definition": "Physical motion between points in space.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "evolve",
+    "token_id": 7512,
+    "definition": "To move in regular procession through a system.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "contemporary",
+    "token_id": 3968,
+    "definition": "Someone or something living at the same time, or of roughly the same age as another.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "refer",
+    "token_id": 3661,
+    "definition": "To direct the attention of.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "began",
+    "token_id": 6117,
+    "definition": "To start, to initiate or take the first step into something.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "rhetorical",
+    "token_id": 3702,
+    "definition": "Part of or similar to rhetoric, the use of language as a means to persuade.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "contrast",
+    "token_id": 3538,
+    "definition": "A difference in lightness, brightness and/or hue between two colours that makes them more or less distinguishable.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "usages",
+    "token_id": 3073,
+    "definition": "The manner or the amount of using; use.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "typical",
+    "token_id": 715,
+    "definition": "Anything that is typical, normal, or standard.",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "directions",
+    "token_id": 6533,
+    "definition": "A theoretical line (physically or mentally) followed from a point of origin or towards a destination. May be relative (e.g. up, left, outbound, dorsal), geographical (e.g. north), rotational (e.g. clockwise), or with respect to an object or location (e.g. toward Boston).",
+    "first_seen": "Atticism"
+  },
+  {
+    "word": "child",
+    "token_id": 889,
+    "definition": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+    "first_seen": "Peter B. Neubauer"
+  },
+  {
+    "word": "psychoanalyst",
+    "token_id": 1508,
+    "definition": "A practitioner of psychoanalysis.",
+    "first_seen": "Peter B. Neubauer"
+  },
+  {
+    "word": "sides",
+    "token_id": 7521,
+    "definition": "A bounding straight edge of a two-dimensional shape.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "across",
+    "token_id": 4041,
+    "definition": "(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "footpath",
+    "token_id": 299,
+    "definition": "A path for pedestrians.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "passage",
+    "token_id": 1013,
+    "definition": "A paragraph or section of text or music with particular meaning.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "dock",
+    "token_id": 3050,
+    "definition": "Any of the genus Rumex of coarse weedy plants with small green flowers related to buckwheat, especially common dock, and used as potherbs and in folk medicine, especially in curing nettle rash.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "swing",
+    "token_id": 3292,
+    "definition": "The manner in which something is swung.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "port",
+    "token_id": 5900,
+    "definition": "A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "just",
+    "token_id": 3022,
+    "definition": "Factually right, correct; factual.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "harbour",
+    "token_id": 3258,
+    "definition": "Any place of shelter.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "longer",
+    "token_id": 5662,
+    "definition": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below).",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "now",
+    "token_id": 3111,
+    "definition": "The present time.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "improve",
+    "token_id": 1079,
+    "definition": "To make (something) better; to increase the value or productivity (of something).",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "carried",
+    "token_id": 5386,
+    "definition": "To lift (something) and take it to another place; to transport (something) by lifting.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "operational",
+    "token_id": 2582,
+    "definition": "Of or relating to operations, especially military operations.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "bridge",
+    "token_id": 158,
+    "definition": "A construction or natural feature that spans a divide.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "road",
+    "token_id": 6791,
+    "definition": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane.",
+    "first_seen": "Victoria Swing Bridge"
+  },
+  {
+    "word": "currently",
+    "token_id": 2984,
+    "definition": "At this moment, at present, now.",
+    "first_seen": "Iowa Speedway"
+  },
+  {
+    "word": "inaugural",
+    "token_id": 2698,
+    "definition": "An inauguration; a formal beginning.",
+    "first_seen": "Iowa Speedway"
+  },
+  {
+    "word": "calcium",
+    "token_id": 6213,
+    "definition": "The chemical element (Symbol Ca), with an atomic number 20. It is a soft, silvery-white alkaline earth metal which occurs naturally as carbonate in limestone and as silicate in many rocks.",
+    "first_seen": "Nimodipine"
+  },
+  {
+    "word": "talent",
+    "token_id": 3437,
+    "definition": "A marked natural ability or skill.",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "diversity",
+    "token_id": 3975,
+    "definition": "The quality of being diverse or different; difference or unlikeness.",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "live",
+    "token_id": 607,
+    "definition": "To be alive; to have life.",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "troupe",
+    "token_id": 943,
+    "definition": "A company of, often touring, actors, singers or dancers.",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "beating",
+    "token_id": 4730,
+    "definition": "To hit; strike",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "got",
+    "token_id": 5088,
+    "definition": "(ditransitive) To obtain; to acquire.",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "final",
+    "token_id": 7863,
+    "definition": "A final examination; a test or examination given at the end of a term or class; the test that concludes a class.",
+    "first_seen": "Diversity (dance troupe)"
+  },
+  {
+    "word": "falls",
+    "token_id": 4669,
+    "definition": "The act of moving to a lower position under the effect of gravity.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "subtropical",
+    "token_id": 1584,
+    "definition": "A subtropical plant.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "plateau",
+    "token_id": 1255,
+    "definition": "A largely level expanse of land at a high elevation; tableland.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "sits",
+    "token_id": 4465,
+    "definition": "Subsidence of the roof of a coal mine.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "highland",
+    "token_id": 7859,
+    "definition": "An area of land that is at elevation; mountainous land.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "metropolitan",
+    "token_id": 6006,
+    "definition": "A bishop empowered to oversee other bishops; an archbishop.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "capital",
+    "token_id": 6054,
+    "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "country",
+    "token_id": 1188,
+    "definition": "(chiefly British) An area of land; a district, region.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "province",
+    "token_id": 6519,
+    "definition": "A region of the earth or of a continent; a district or country.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "category",
+    "token_id": 6484,
+    "definition": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "proper",
+    "token_id": 4708,
+    "definition": "Something set apart for a special use.",
+    "first_seen": "Harare"
+  },
+  {
+    "word": "desert",
+    "token_id": 145,
+    "definition": "(usually in the plural) That which is deserved or merited; a just punishment or reward",
+    "first_seen": "Al-Zarnug"
+  },
+  {
+    "word": "residents",
+    "token_id": 6704,
+    "definition": "A person, animal or plant living at a certain location or in a certain area.",
+    "first_seen": "Al-Zarnug"
+  },
+  {
+    "word": "kilometres",
+    "token_id": 4252,
+    "definition": "(official BIPM spelling, Australian, New Zealand, Irish, Indian and South African spelling) An SI unit of length equal to 103 metres. Symbol: km",
+    "first_seen": "Al-Zarnug"
+  },
+  {
+    "word": "planning",
+    "token_id": 7133,
+    "definition": "To design (a building, machine, etc.).",
+    "first_seen": "Al-Zarnug"
+  },
+  {
+    "word": "only",
+    "token_id": 3075,
+    "definition": "An only child.",
+    "first_seen": "Adrian Monk (politician)"
+  },
+  {
+    "word": "monk",
+    "token_id": 4420,
+    "definition": "A male member of a monastic order who has devoted his life for religious service.",
+    "first_seen": "Adrian Monk (politician)"
+  },
+  {
+    "word": "due",
+    "token_id": 5086,
+    "definition": "Deserved acknowledgment.",
+    "first_seen": "Adrian Monk (politician)"
+  },
+  {
+    "word": "islands",
+    "token_id": 3139,
+    "definition": "A contiguous area of land, smaller than a continent, totally surrounded by water.",
+    "first_seen": "Adrian Monk (politician)"
+  },
+  {
+    "word": "real",
+    "token_id": 7822,
+    "definition": "A commodity; see realty.",
+    "first_seen": "Adrian Monk (politician)"
+  },
+  {
+    "word": "harpist",
+    "token_id": 5994,
+    "definition": "Someone who plays a harp, especially a pedal harp.",
+    "first_seen": "John Balsir Chatterton"
+  },
+  {
+    "word": "duo",
+    "token_id": 3911,
+    "definition": "Two people who work or collaborate together as partners; especially, those who perform music together.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "subsequently",
+    "token_id": 2268,
+    "definition": "Following, afterwards in either time or place.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "married",
+    "token_id": 6552,
+    "definition": "A married person.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "approaching",
+    "token_id": 862,
+    "definition": "To come or go near, in place or time; to draw nigh; to advance nearer.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "couple",
+    "token_id": 548,
+    "definition": "Two partners in a romantic or sexual relationship.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "singer",
+    "token_id": 5105,
+    "definition": "A person who sings, often professionally.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "alternate",
+    "token_id": 6098,
+    "definition": "That which alternates with something else; vicissitude.",
+    "first_seen": "Jim & Ingrid Croce"
+  },
+  {
+    "word": "abigail",
+    "token_id": 2701,
+    "definition": "A lady's maid.",
+    "first_seen": "Classified (2024 film)"
+  },
+  {
+    "word": "beat",
+    "token_id": 7424,
+    "definition": "A stroke; a blow.",
+    "first_seen": "McEntyre, Alabama"
+  },
+  {
+    "word": "prospect",
+    "token_id": 151,
+    "definition": "The region which the eye overlooks at one time; view; scene; outlook.",
+    "first_seen": "McEntyre, Alabama"
+  },
+  {
+    "word": "community",
+    "token_id": 412,
+    "definition": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
+    "first_seen": "McEntyre, Alabama"
+  },
+  {
+    "word": "adaptation",
+    "token_id": 1579,
+    "definition": "The process of adapting something or becoming adapted to a situation; adjustment, modification.",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "dessert",
+    "token_id": 324,
+    "definition": "A sweet confection served as the last course of a meal",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "block",
+    "token_id": 6508,
+    "definition": "A substantial, often approximately cuboid, piece of any substance.",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "anime",
+    "token_id": 3137,
+    "definition": "An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries.",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "girl",
+    "token_id": 5037,
+    "definition": "A female child, adolescent, or a young woman.",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "illustrated",
+    "token_id": 2976,
+    "definition": "To shed light upon.",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "comics",
+    "token_id": 1488,
+    "definition": "A comedian.",
+    "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "manga",
+    "token_id": 7535,
+    "definition": "A comic originating in Japan.",
+    "first_seen": "Real Girl (manga)"
   }
 ]

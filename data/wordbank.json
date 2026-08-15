@@ -7469,8 +7469,2366 @@
       "first_seen": "Richard S. Edwards",
       "has_definition": false,
       "definition": ""
+    },
+    "murex": {
+      "token_id": 5389,
+      "first_seen": "Vokesimurex anniae",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anniae": {
+      "token_id": 3128,
+      "first_seen": "Vokesimurex anniae",
+      "has_definition": false,
+      "definition": ""
+    },
+    "muricidae": {
+      "token_id": 4253,
+      "first_seen": "Vokesimurex anniae",
+      "has_definition": false,
+      "definition": ""
+    },
+    "snail": {
+      "token_id": 4246,
+      "first_seen": "Vokesimurex anniae",
+      "has_definition": true,
+      "definition": "Any of very many animals (either hermaphroditic or nonhermaphroditic), of the class Gastropoda, having a coiled shell."
+    },
+    "vokesimurex": {
+      "token_id": 857,
+      "first_seen": "Vokesimurex anniae",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mollusk": {
+      "token_id": 2140,
+      "first_seen": "Vokesimurex anniae",
+      "has_definition": false,
+      "definition": ""
+    },
+    "apantesis": {
+      "token_id": 574,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "newfoundland": {
+      "token_id": 5358,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "erebidae": {
+      "token_id": 1158,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "florida": {
+      "token_id": 1043,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "systema": {
+      "token_id": 5268,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "virgo": {
+      "token_id": 840,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alberta": {
+      "token_id": 6586,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "linnaeus": {
+      "token_id": 2065,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "naturae": {
+      "token_id": 4239,
+      "first_seen": "Apantesis virgo",
+      "has_definition": false,
+      "definition": ""
+    },
+    "carl": {
+      "token_id": 6742,
+      "first_seen": "Apantesis virgo",
+      "has_definition": true,
+      "definition": "A rude, rustic man; a churl."
+    },
+    "virgin": {
+      "token_id": 6053,
+      "first_seen": "Apantesis virgo",
+      "has_definition": true,
+      "definition": "A person who has never had sexual intercourse, or sometimes, one who has never engaged in any sexual activity at all."
+    },
+    "moth": {
+      "token_id": 3871,
+      "first_seen": "Apantesis virgo",
+      "has_definition": true,
+      "definition": "A usually nocturnal insect of the order Lepidoptera, distinguished from butterflies by feather-like antennae."
+    },
+    "latter": {
+      "token_id": 1660,
+      "first_seen": "Mary Meade",
+      "has_definition": true,
+      "definition": "Relating to or being the second of two items."
+    },
+    "rose": {
+      "token_id": 2051,
+      "first_seen": "Mary Meade",
+      "has_definition": true,
+      "definition": "A shrub of the genus Rosa, with red, pink, white or yellow flowers."
+    },
+    "fame": {
+      "token_id": 896,
+      "first_seen": "Mary Meade",
+      "has_definition": true,
+      "definition": "What is said or reported; gossip, rumour."
+    },
+    "actress": {
+      "token_id": 5557,
+      "first_seen": "Mary Meade",
+      "has_definition": true,
+      "definition": "A female who performs on the stage or in films."
+    },
+    "meade": {
+      "token_id": 1463,
+      "first_seen": "Mary Meade",
+      "has_definition": false,
+      "definition": ""
+    },
+    "massachusetts": {
+      "token_id": 1251,
+      "first_seen": "Baker Congregational Church",
+      "has_definition": false,
+      "definition": ""
+    },
+    "baker": {
+      "token_id": 2125,
+      "first_seen": "Baker Congregational Church",
+      "has_definition": true,
+      "definition": "A person who bakes and sells bread, cakes and similar items."
+    },
+    "congregational": {
+      "token_id": 1701,
+      "first_seen": "Baker Congregational Church",
+      "has_definition": false,
+      "definition": ""
+    },
+    "saratoga": {
+      "token_id": 1151,
+      "first_seen": "Baker Congregational Church",
+      "has_definition": false,
+      "definition": ""
+    },
+    "boston": {
+      "token_id": 5415,
+      "first_seen": "Baker Congregational Church",
+      "has_definition": false,
+      "definition": ""
+    },
+    "teissier": {
+      "token_id": 7562,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "algiers": {
+      "token_id": 290,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "marie": {
+      "token_id": 510,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "algerian": {
+      "token_id": 7760,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "emeritus": {
+      "token_id": 5303,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "antoine": {
+      "token_id": 7779,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "henri": {
+      "token_id": 5629,
+      "first_seen": "Henri Teissier",
+      "has_definition": false,
+      "definition": ""
+    },
+    "heart": {
+      "token_id": 7419,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": true,
+      "definition": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion."
+    },
+    "choir": {
+      "token_id": 7698,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": true,
+      "definition": "Singing group; group of people who sing together; company of people who are trained to sing together."
+    },
+    "here": {
+      "token_id": 6324,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": true,
+      "definition": "(abstract) This place; this location."
+    },
+    "wilberg": {
+      "token_id": 2340,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lullabies": {
+      "token_id": 7942,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": true,
+      "definition": "A cradlesong, a soothing song to calm children or lull them to sleep."
+    },
+    "orchestral": {
+      "token_id": 3687,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": true,
+      "definition": "An orchestral performance."
+    },
+    "accompaniment": {
+      "token_id": 29,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mormon": {
+      "token_id": 321,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "includes": {
+      "token_id": 3736,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hymns": {
+      "token_id": 2278,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tabernacle": {
+      "token_id": 4819,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "assorted": {
+      "token_id": 7457,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "spoken": {
+      "token_id": 429,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mack": {
+      "token_id": 989,
+      "first_seen": "Love Is Spoken Here",
+      "has_definition": false,
+      "definition": ""
+    },
+    "amen": {
+      "token_id": 6028,
+      "first_seen": "Amen & Goodbye",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mute": {
+      "token_id": 3341,
+      "first_seen": "Amen & Goodbye",
+      "has_definition": false,
+      "definition": ""
+    },
+    "yeasayer": {
+      "token_id": 4087,
+      "first_seen": "Amen & Goodbye",
+      "has_definition": false,
+      "definition": ""
+    },
+    "goodbye": {
+      "token_id": 5425,
+      "first_seen": "Amen & Goodbye",
+      "has_definition": false,
+      "definition": ""
+    },
+    "experimental": {
+      "token_id": 3161,
+      "first_seen": "Amen & Goodbye",
+      "has_definition": false,
+      "definition": ""
+    },
+    "precursor": {
+      "token_id": 795,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "translationally": {
+      "token_id": 1607,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "functional": {
+      "token_id": 3673,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hydrolyzed": {
+      "token_id": 169,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "clade": {
+      "token_id": 1505,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fibers": {
+      "token_id": 5905,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sftp": {
+      "token_id": 3284,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "encoded": {
+      "token_id": 6820,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "protein": {
+      "token_id": 2593,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "type": {
+      "token_id": 1405,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cetaceans": {
+      "token_id": 4331,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chromosome": {
+      "token_id": 1683,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "humans": {
+      "token_id": 2938,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "manatees": {
+      "token_id": 5050,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "retain": {
+      "token_id": 2360,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "curious": {
+      "token_id": 3005,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "keratin": {
+      "token_id": 2922,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "epithelial": {
+      "token_id": 1147,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "flg": {
+      "token_id": 1087,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cells": {
+      "token_id": 2992,
+      "first_seen": "Filaggrin",
+      "has_definition": true,
+      "definition": "A single-room dwelling for a hermit."
+    },
+    "genes": {
+      "token_id": 5469,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "filaggrin": {
+      "token_id": 6889,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "filament": {
+      "token_id": 6864,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "differentiation": {
+      "token_id": 1192,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fused": {
+      "token_id": 1489,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gene": {
+      "token_id": 2381,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "terminal": {
+      "token_id": 658,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "function": {
+      "token_id": 4266,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "binds": {
+      "token_id": 5662,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "units": {
+      "token_id": 4415,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "profilaggrin": {
+      "token_id": 7653,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "associated": {
+      "token_id": 14,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "epidermal": {
+      "token_id": 2875,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "twelve": {
+      "token_id": 743,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sirenians": {
+      "token_id": 848,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "exception": {
+      "token_id": 5879,
+      "first_seen": "Filaggrin",
+      "has_definition": false,
+      "definition": ""
+    },
+    "guided": {
+      "token_id": 5374,
+      "first_seen": "Atticism",
+      "has_definition": false,
+      "definition": ""
+    },
+    "atticism": {
+      "token_id": 4687,
+      "first_seen": "Atticism",
+      "has_definition": false,
+      "definition": ""
+    },
+    "forms": {
+      "token_id": 5827,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "(heading, physical) To do with shape."
+    },
+    "continued": {
+      "token_id": 6090,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "To proceed with (doing an activity); to prolong (an activity)."
+    },
+    "various": {
+      "token_id": 2784,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "Having a broad range (of different elements)."
+    },
+    "common": {
+      "token_id": 6031,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "Mutual good, shared by more than one."
+    },
+    "greek": {
+      "token_id": 444,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "An inhabitant, resident, or person of descent from Greece."
+    },
+    "wordings": {
+      "token_id": 12,
+      "first_seen": "Atticism",
+      "has_definition": false,
+      "definition": ""
+    },
+    "koine": {
+      "token_id": 2496,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "A lingua franca."
+    },
+    "movement": {
+      "token_id": 5669,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "Physical motion between points in space."
+    },
+    "evolve": {
+      "token_id": 7512,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "To move in regular procession through a system."
+    },
+    "contemporary": {
+      "token_id": 3968,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "Someone or something living at the same time, or of roughly the same age as another."
+    },
+    "refer": {
+      "token_id": 3661,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "To direct the attention of."
+    },
+    "began": {
+      "token_id": 6117,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "To start, to initiate or take the first step into something."
+    },
+    "rhetorical": {
+      "token_id": 3702,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "Part of or similar to rhetoric, the use of language as a means to persuade."
+    },
+    "contrast": {
+      "token_id": 3538,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "A difference in lightness, brightness and/or hue between two colours that makes them more or less distinguishable."
+    },
+    "usages": {
+      "token_id": 3073,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "The manner or the amount of using; use."
+    },
+    "typical": {
+      "token_id": 715,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "Anything that is typical, normal, or standard."
+    },
+    "directions": {
+      "token_id": 6533,
+      "first_seen": "Atticism",
+      "has_definition": true,
+      "definition": "A theoretical line (physically or mentally) followed from a point of origin or towards a destination. May be relative (e.g. up, left, outbound, dorsal), geographical (e.g. north), rotational (e.g. clockwise), or with respect to an object or location (e.g. toward Boston)."
+    },
+    "phrasings": {
+      "token_id": 6277,
+      "first_seen": "Atticism",
+      "has_definition": false,
+      "definition": ""
+    },
+    "zhengzhou": {
+      "token_id": 5561,
+      "first_seen": "Qinlinglu station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "qinlinglu": {
+      "token_id": 4278,
+      "first_seen": "Qinlinglu station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "child": {
+      "token_id": 889,
+      "first_seen": "Peter B. Neubauer",
+      "has_definition": true,
+      "definition": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)"
+    },
+    "psychoanalyst": {
+      "token_id": 1508,
+      "first_seen": "Peter B. Neubauer",
+      "has_definition": true,
+      "definition": "A practitioner of psychoanalysis."
+    },
+    "bela": {
+      "token_id": 458,
+      "first_seen": "Peter B. Neubauer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "neubauer": {
+      "token_id": 2508,
+      "first_seen": "Peter B. Neubauer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "psychiatrist": {
+      "token_id": 4021,
+      "first_seen": "Peter B. Neubauer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "peter": {
+      "token_id": 4797,
+      "first_seen": "Peter B. Neubauer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "administratively": {
+      "token_id": 2652,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ttern": {
+      "token_id": 4090,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "forested": {
+      "token_id": 5675,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sterg": {
+      "token_id": 6971,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "desh": {
+      "token_id": 3840,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "foot": {
+      "token_id": 2196,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "municipalities": {
+      "token_id": 5653,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lake": {
+      "token_id": 325,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "split": {
+      "token_id": 1709,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alvastra": {
+      "token_id": 1891,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tland": {
+      "token_id": 3095,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kern": {
+      "token_id": 4765,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "omberg": {
+      "token_id": 3092,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vadstena": {
+      "token_id": 4372,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sweden": {
+      "token_id": 7479,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "abbey": {
+      "token_id": 6143,
+      "first_seen": "Omberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "generation": {
+      "token_id": 4619,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "commercial": {
+      "token_id": 3562,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "isuzu": {
+      "token_id": 2859,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "elf": {
+      "token_id": 3773,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "truck": {
+      "token_id": 5529,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "produced": {
+      "token_id": 4923,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "automaker": {
+      "token_id": 660,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rebadged": {
+      "token_id": 5850,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "titan": {
+      "token_id": 2890,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vehicle": {
+      "token_id": 7051,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "onwards": {
+      "token_id": 1917,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "become": {
+      "token_id": 5441,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mazda": {
+      "token_id": 7794,
+      "first_seen": "Mazda Titan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sides": {
+      "token_id": 7521,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "A bounding straight edge of a two-dimensional shape."
+    },
+    "edinburgh": {
+      "token_id": 1743,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "across": {
+      "token_id": 4041,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue."
+    },
+    "footpath": {
+      "token_id": 299,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "A path for pedestrians."
+    },
+    "passage": {
+      "token_id": 1013,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "A paragraph or section of text or music with particular meaning."
+    },
+    "dock": {
+      "token_id": 3050,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "Any of the genus Rumex of coarse weedy plants with small green flowers related to buckwheat, especially common dock, and used as potherbs and in folk medicine, especially in curing nettle rash."
+    },
+    "canalised": {
+      "token_id": 5756,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "swing": {
+      "token_id": 3292,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "The manner in which something is swung."
+    },
+    "port": {
+      "token_id": 5900,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers."
+    },
+    "leith": {
+      "token_id": 3982,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "just": {
+      "token_id": 3022,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "Factually right, correct; factual."
+    },
+    "harbour": {
+      "token_id": 3258,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "Any place of shelter."
+    },
+    "longer": {
+      "token_id": 5662,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below)."
+    },
+    "now": {
+      "token_id": 3111,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "The present time."
+    },
+    "improve": {
+      "token_id": 1079,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "To make (something) better; to increase the value or productivity (of something)."
+    },
+    "carried": {
+      "token_id": 5386,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "To lift (something) and take it to another place; to transport (something) by lifting."
+    },
+    "operational": {
+      "token_id": 2582,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "Of or relating to operations, especially military operations."
+    },
+    "bridge": {
+      "token_id": 158,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "A construction or natural feature that spans a divide."
+    },
+    "road": {
+      "token_id": 6791,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": true,
+      "definition": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane."
+    },
+    "docks": {
+      "token_id": 6265,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "inner": {
+      "token_id": 4848,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "where": {
+      "token_id": 418,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "victoria": {
+      "token_id": 2736,
+      "first_seen": "Victoria Swing Bridge",
+      "has_definition": false,
+      "definition": ""
+    },
+    "peterson": {
+      "token_id": 698,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "currently": {
+      "token_id": 2984,
+      "first_seen": "Iowa Speedway",
+      "has_definition": true,
+      "definition": "At this moment, at present, now."
+    },
+    "infield": {
+      "token_id": 6497,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "inaugural": {
+      "token_id": 2698,
+      "first_seen": "Iowa Speedway",
+      "has_definition": true,
+      "definition": "An inauguration; a formal beginning."
+    },
+    "nascar": {
+      "token_id": 495,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "short": {
+      "token_id": 4026,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "combines": {
+      "token_id": 6093,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "indycar": {
+      "token_id": 4926,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "events": {
+      "token_id": 687,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oval": {
+      "token_id": 2879,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "seven": {
+      "token_id": 3347,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "led": {
+      "token_id": 34,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "make": {
+      "token_id": 4445,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "layouts": {
+      "token_id": 390,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "owned": {
+      "token_id": 7467,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "track": {
+      "token_id": 6637,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "newton": {
+      "token_id": 1512,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "layout": {
+      "token_id": 4526,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "iowa": {
+      "token_id": 3384,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hosted": {
+      "token_id": 4777,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "parts": {
+      "token_id": 2898,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "speedway": {
+      "token_id": 6133,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "racing": {
+      "token_id": 6761,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roval": {
+      "token_id": 468,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "president": {
+      "token_id": 1616,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "season": {
+      "token_id": 929,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "eric": {
+      "token_id": 6159,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sanctioned": {
+      "token_id": 952,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "course": {
+      "token_id": 130,
+      "first_seen": "Iowa Speedway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "subarachnoid": {
+      "token_id": 5952,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "preventing": {
+      "token_id": 644,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nimodipine": {
+      "token_id": 5580,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "blocker": {
+      "token_id": 765,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hemorrhage": {
+      "token_id": 418,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "secondary": {
+      "token_id": 7619,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pressure": {
+      "token_id": 1063,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "class": {
+      "token_id": 2395,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "developed": {
+      "token_id": 2375,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "treatment": {
+      "token_id": 2838,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "blood": {
+      "token_id": 2694,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "channel": {
+      "token_id": 322,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "indication": {
+      "token_id": 2778,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "calcium": {
+      "token_id": 6213,
+      "first_seen": "Nimodipine",
+      "has_definition": true,
+      "definition": "The chemical element (Symbol Ca), with an atomic number 20. It is a soft, silvery-white alkaline earth metal which occurs naturally as carbonate in limestone and as silicate in many rocks."
+    },
+    "nimotop": {
+      "token_id": 7175,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vasospasm": {
+      "token_id": 2046,
+      "first_seen": "Nimodipine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "talent": {
+      "token_id": 3437,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "A marked natural ability or skill."
+    },
+    "diversity": {
+      "token_id": 3975,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "The quality of being diverse or different; difference or unlikeness."
+    },
+    "live": {
+      "token_id": 607,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "To be alive; to have life."
+    },
+    "troupe": {
+      "token_id": 943,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "A company of, often touring, actors, singers or dancers."
+    },
+    "beating": {
+      "token_id": 4730,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "To hit; strike"
+    },
+    "susan": {
+      "token_id": 3712,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "boyle": {
+      "token_id": 6621,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "got": {
+      "token_id": 5088,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "(ditransitive) To obtain; to acquire."
+    },
+    "final": {
+      "token_id": 7863,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": true,
+      "definition": "A final examination; a test or examination given at the end of a term or class; the test that concludes a class."
+    },
+    "britain": {
+      "token_id": 4993,
+      "first_seen": "Diversity (dance troupe)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "falls": {
+      "token_id": 4669,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "The act of moving to a lower position under the effect of gravity."
+    },
+    "zimbabwe": {
+      "token_id": 2049,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "subtropical": {
+      "token_id": 1584,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "A subtropical plant."
+    },
+    "plateau": {
+      "token_id": 1255,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "A largely level expanse of land at a high elevation; tableland."
+    },
+    "incorporates": {
+      "token_id": 1488,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sits": {
+      "token_id": 4465,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "Subsidence of the roof of a coal mine."
+    },
+    "highland": {
+      "token_id": 7859,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "An area of land that is at elevation; mountainous land."
+    },
+    "metropolitan": {
+      "token_id": 6006,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "A bishop empowered to oversee other bishops; an archbishop."
+    },
+    "capital": {
+      "token_id": 6054,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
+    },
+    "chitungwiza": {
+      "token_id": 7729,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ruwa": {
+      "token_id": 5459,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mashonaland": {
+      "token_id": 5678,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "harare": {
+      "token_id": 5434,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "country": {
+      "token_id": 1188,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "(chiefly British) An area of land; a district, region."
+    },
+    "province": {
+      "token_id": 6519,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "A region of the earth or of a continent; a district or country."
+    },
+    "epworth": {
+      "token_id": 258,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "category": {
+      "token_id": 6484,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria."
+    },
+    "proper": {
+      "token_id": 4708,
+      "first_seen": "Harare",
+      "has_definition": true,
+      "definition": "Something set apart for a special use."
+    },
+    "climate": {
+      "token_id": 6702,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "estimated": {
+      "token_id": 4259,
+      "first_seen": "Harare",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sophie": {
+      "token_id": 3985,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pop": {
+      "token_id": 3253,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "machine": {
+      "token_id": 5819,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rendition": {
+      "token_id": 771,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hypnotized": {
+      "token_id": 2505,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "positiva": {
+      "token_id": 3788,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "giants": {
+      "token_id": 6787,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "music": {
+      "token_id": 403,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "song": {
+      "token_id": 4125,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "acoustic": {
+      "token_id": 1719,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "disco": {
+      "token_id": 209,
+      "first_seen": "Hypnotized (Purple Disco Machine and Sophie and the Giants song)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "granted": {
+      "token_id": 591,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bedouin": {
+      "token_id": 4378,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "approximately": {
+      "token_id": 4148,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "reason": {
+      "token_id": 4230,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "referred": {
+      "token_id": 1336,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rights": {
+      "token_id": 2830,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "abu": {
+      "token_id": 3972,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "belong": {
+      "token_id": 6678,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "negev": {
+      "token_id": 881,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "queider": {
+      "token_id": 963,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tribe": {
+      "token_id": 7380,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "whom": {
+      "token_id": 1676,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "desert": {
+      "token_id": 145,
+      "first_seen": "Al-Zarnug",
+      "has_definition": true,
+      "definition": "(usually in the plural) That which is deserved or merited; a just punishment or reward"
+    },
+    "municipal": {
+      "token_id": 4944,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sheva": {
+      "token_id": 1133,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "residents": {
+      "token_id": 6704,
+      "first_seen": "Al-Zarnug",
+      "has_definition": true,
+      "definition": "A person, animal or plant living at a certain location or in a certain area."
+    },
+    "kilometres": {
+      "token_id": 4252,
+      "first_seen": "Al-Zarnug",
+      "has_definition": true,
+      "definition": "(official BIPM spelling, Australian, New Zealand, Irish, Indian and South African spelling) An SI unit of length equal to 103 metres. Symbol: km"
+    },
+    "planning": {
+      "token_id": 7133,
+      "first_seen": "Al-Zarnug",
+      "has_definition": true,
+      "definition": "To design (a building, machine, etc.)."
+    },
+    "unrecognized": {
+      "token_id": 5284,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "zarnug": {
+      "token_id": 2074,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "israel": {
+      "token_id": 3783,
+      "first_seen": "Al-Zarnug",
+      "has_definition": false,
+      "definition": ""
+    },
+    "only": {
+      "token_id": 3075,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": true,
+      "definition": "An only child."
+    },
+    "monk": {
+      "token_id": 4420,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": true,
+      "definition": "A male member of a monastic order who has devoted his life for religious service."
+    },
+    "due": {
+      "token_id": 5086,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": true,
+      "definition": "Deserved acknowledgment."
+    },
+    "falklands": {
+      "token_id": 4871,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "islands": {
+      "token_id": 3139,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": true,
+      "definition": "A contiguous area of land, smaller than a continent, totally surrounded by water."
+    },
+    "real": {
+      "token_id": 7822,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": true,
+      "definition": "A commodity; see realty."
+    },
+    "adrian": {
+      "token_id": 6771,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "falkland": {
+      "token_id": 3989,
+      "first_seen": "Adrian Monk (politician)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chatterton": {
+      "token_id": 7675,
+      "first_seen": "John Balsir Chatterton",
+      "has_definition": false,
+      "definition": ""
+    },
+    "harpist": {
+      "token_id": 5994,
+      "first_seen": "John Balsir Chatterton",
+      "has_definition": true,
+      "definition": "Someone who plays a harp, especially a pedal harp."
+    },
+    "balsir": {
+      "token_id": 6946,
+      "first_seen": "John Balsir Chatterton",
+      "has_definition": false,
+      "definition": ""
+    },
+    "croce": {
+      "token_id": 862,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "duo": {
+      "token_id": 3911,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "Two people who work or collaborate together as partners; especially, those who perform music together."
+    },
+    "september": {
+      "token_id": 2510,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "subsequently": {
+      "token_id": 2268,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "Following, afterwards in either time or place."
+    },
+    "ingrid": {
+      "token_id": 42,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "married": {
+      "token_id": 6552,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "A married person."
+    },
+    "rico": {
+      "token_id": 4223,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "approaching": {
+      "token_id": 862,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "To come or go near, in place or time; to draw nigh; to advance nearer."
+    },
+    "couple": {
+      "token_id": 548,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "Two partners in a romantic or sexual relationship."
+    },
+    "singer": {
+      "token_id": 5105,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "A person who sings, often professionally."
+    },
+    "bombs": {
+      "token_id": 5123,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alternate": {
+      "token_id": 6098,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": true,
+      "definition": "That which alternates with something else; vicissitude."
+    },
+    "jim": {
+      "token_id": 5373,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "puerto": {
+      "token_id": 3232,
+      "first_seen": "Jim & Ingrid Croce",
+      "has_definition": false,
+      "definition": ""
+    },
+    "abigail": {
+      "token_id": 2701,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": true,
+      "definition": "A lady's maid."
+    },
+    "roel": {
+      "token_id": 3771,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "thriller": {
+      "token_id": 831,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "aaron": {
+      "token_id": 6695,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "derosa": {
+      "token_id": 7035,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bob": {
+      "token_id": 1716,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roth": {
+      "token_id": 7982,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "eckhart": {
+      "token_id": 886,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "action": {
+      "token_id": 7472,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "breslin": {
+      "token_id": 4513,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rein": {
+      "token_id": 5739,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tim": {
+      "token_id": 2537,
+      "first_seen": "Classified (2024 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "victorian": {
+      "token_id": 2822,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "business": {
+      "token_id": 1525,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rickeman": {
+      "token_id": 2672,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "avenue": {
+      "token_id": 374,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "contributes": {
+      "token_id": 4608,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "racine": {
+      "token_id": 3724,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "constructed": {
+      "token_id": 5141,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "downtown": {
+      "token_id": 4714,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "park": {
+      "token_id": 2639,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "grocer": {
+      "token_id": 4614,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "grocery": {
+      "token_id": 7751,
+      "first_seen": "Rickeman Grocery Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "krak": {
+      "token_id": 1196,
+      "first_seen": "J\u00f3zef Lassota",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lassota": {
+      "token_id": 5797,
+      "first_seen": "J\u00f3zef Lassota",
+      "has_definition": false,
+      "definition": ""
+    },
+    "zef": {
+      "token_id": 7500,
+      "first_seen": "J\u00f3zef Lassota",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mayor": {
+      "token_id": 3087,
+      "first_seen": "J\u00f3zef Lassota",
+      "has_definition": false,
+      "definition": ""
+    },
+    "meter": {
+      "token_id": 5859,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mustafa": {
+      "token_id": 1421,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "competes": {
+      "token_id": 1980,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "steeplechase": {
+      "token_id": 7164,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "runner": {
+      "token_id": 5076,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "long": {
+      "token_id": 2704,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hassan": {
+      "token_id": 5752,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mohamed": {
+      "token_id": 5900,
+      "first_seen": "Mustafa Mohamed",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mitcham": {
+      "token_id": 3549,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "beat": {
+      "token_id": 7424,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": true,
+      "definition": "A stroke; a blow."
+    },
+    "alabama": {
+      "token_id": 7880,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "prospect": {
+      "token_id": 151,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": true,
+      "definition": "The region which the eye overlooks at one time; view; scene; outlook."
+    },
+    "bedsole": {
+      "token_id": 3086,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "unincorporated": {
+      "token_id": 3152,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "community": {
+      "token_id": 412,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": true,
+      "definition": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition."
+    },
+    "mcentyre": {
+      "token_id": 581,
+      "first_seen": "McEntyre, Alabama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "adaptation": {
+      "token_id": 1579,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "The process of adapting something or becoming adapted to a situation; adjustment, modification."
+    },
+    "december": {
+      "token_id": 256,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "january": {
+      "token_id": 7394,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dessert": {
+      "token_id": 324,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "A sweet confection served as the last course of a meal"
+    },
+    "bon": {
+      "token_id": 5989,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "block": {
+      "token_id": 6508,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "A substantial, often approximately cuboid, piece of any substance."
+    },
+    "aired": {
+      "token_id": 4715,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anime": {
+      "token_id": 3137,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries."
+    },
+    "kodansha": {
+      "token_id": 3348,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "girl": {
+      "token_id": 5037,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "A female child, adolescent, or a young woman."
+    },
+    "takashi": {
+      "token_id": 5289,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "illustrated": {
+      "token_id": 2976,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "To shed light upon."
+    },
+    "comics": {
+      "token_id": 1488,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "A comedian."
+    },
+    "naoya": {
+      "token_id": 4361,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "manga": {
+      "token_id": 7535,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": true,
+      "definition": "A comic originating in Japan."
+    },
+    "digitally": {
+      "token_id": 1195,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nanami": {
+      "token_id": 7638,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "television": {
+      "token_id": 2670,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "entertainment": {
+      "token_id": 1488,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mao": {
+      "token_id": 2694,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hoods": {
+      "token_id": 3756,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anichu": {
+      "token_id": 2560,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "july": {
+      "token_id": 5342,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "compiled": {
+      "token_id": 2481,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "animated": {
+      "token_id": 3023,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "programming": {
+      "token_id": 2255,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "volumes": {
+      "token_id": 453,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tank": {
+      "token_id": 6470,
+      "first_seen": "Real Girl (manga)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "jordan": {
+      "token_id": 272,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "economics": {
+      "token_id": 785,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "collapsed": {
+      "token_id": 63,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "indiana": {
+      "token_id": 7967,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "inc": {
+      "token_id": 7773,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "openings": {
+      "token_id": 6870,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "arched": {
+      "token_id": 1999,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "simple": {
+      "token_id": 799,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "room": {
+      "token_id": 4529,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roof": {
+      "token_id": 6148,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nancy": {
+      "token_id": 7568,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "maintained": {
+      "token_id": 3112,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "morgan": {
+      "token_id": 416,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rural": {
+      "token_id": 2283,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "window": {
+      "token_id": 6696,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "schoolhouse": {
+      "token_id": 7449,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "stands": {
+      "token_id": 2554,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "story": {
+      "token_id": 5350,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "segmental": {
+      "token_id": 910,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gable": {
+      "token_id": 1760,
+      "first_seen": "Long Schoolhouse",
+      "has_definition": false,
+      "definition": ""
     }
   },
-  "total_articles": 60,
-  "total_words": 1245
+  "total_articles": 90,
+  "total_words": 1638
 }
