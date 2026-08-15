@@ -3,53 +3,8 @@
   "examples": [],
   "questions": [
     {
-      "question": "Explain the key concepts of history.",
-      "topic": "history",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of cognitive_science.",
-      "topic": "cognitive_science",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of engineering.",
-      "topic": "engineering",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of genetics.",
-      "topic": "genetics",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of world_wars.",
-      "topic": "world_wars",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of neuroscience.",
-      "topic": "neuroscience",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of chemistry.",
-      "topic": "chemistry",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of computer_science.",
-      "topic": "computer_science",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of geometry.",
-      "topic": "geometry",
-      "difficulty": 2
-    },
-    {
-      "question": "Explain the key concepts of behavioral_economics.",
-      "topic": "behavioral_economics",
+      "question": "Explain the key concepts of law.",
+      "topic": "law",
       "difficulty": 2
     },
     {
@@ -58,13 +13,33 @@
       "difficulty": 2
     },
     {
-      "question": "Explain the key concepts of microbiology.",
-      "topic": "microbiology",
+      "question": "Explain the key concepts of epistemology.",
+      "topic": "epistemology",
       "difficulty": 2
     },
     {
-      "question": "Explain the key concepts of music_theory.",
-      "topic": "music_theory",
+      "question": "Explain the key concepts of engineering.",
+      "topic": "engineering",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of thermodynamics.",
+      "topic": "thermodynamics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of anatomy.",
+      "topic": "anatomy",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of world_wars.",
+      "topic": "world_wars",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of macroeconomics.",
+      "topic": "macroeconomics",
       "difficulty": 2
     },
     {
@@ -73,8 +48,33 @@
       "difficulty": 2
     },
     {
-      "question": "Explain the key concepts of economics.",
-      "topic": "economics",
+      "question": "Explain the key concepts of linguistics.",
+      "topic": "linguistics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of geography.",
+      "topic": "geography",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of machine_learning.",
+      "topic": "machine_learning",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of geometry.",
+      "topic": "geometry",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of physics.",
+      "topic": "physics",
+      "difficulty": 2
+    },
+    {
+      "question": "Explain the key concepts of climate_science.",
+      "topic": "climate_science",
       "difficulty": 2
     }
   ],
