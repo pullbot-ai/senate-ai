@@ -1,44 +1,45 @@
-"""
-Senate AI - AI Client
-Uses Puter.js free AI models - no API keys needed.
-"""
+// Senate AI - AI Client (Node.js)
+// Uses Puter.js for AI calls - no API key needed
 
-import requests
-import time
+const { puter } = require('@heyputer/puter.js');
 
-PUTER_URL = "https://api.puter.com/v1/chat/completions"
-
-def call_ai(prompt, max_tokens=500, model="gpt-4o-mini"):
-    """Call Puter.js API - completely free, no API key needed"""
-    
-    headers = {
-        "Content-Type": "application/json",
-        "Origin": "https://puter.com",
-        "Referer": "https://puter.com/"
-    }
-    
-    for attempt in range(3):
-        try:
-            r = requests.post(
-                PUTER_URL,
-                headers=headers,
-                json={
-                    "model": model,
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
-                    "max_tokens": max_tokens
-                },
-                timeout=30
-            )
-            
-            if r.status_code == 200:
-                return r.json()['choices'][0]['message']['content']
-            
-            print(f"   API {r.status_code}: {r.text[:100]}")
-            time.sleep(3)
+async function callAI(prompt, maxTokens = 500) {
+    try {
+        const response = await puter.ai.chat(prompt, {
+            model: 'gpt-4o-mini',
+            max_tokens: maxTokens,
+            temperature: 0.7
+        });
         
-        except Exception as e:
-            print(f"   Attempt {attempt+1}: {e}")
-            time.sleep(3)
-    
-    return None
+        // Puter returns different formats - handle both
+        if (typeof response === 'string') {
+            return response;
+        } else if (response && response.message) {
+            return response.message;
+        } else if (response && response.text) {
+            return response.text;
+        } else if (response && response.content) {
+            return response.content;
+        }
+        
+        return null;
+    } catch (e) {
+        console.error(`AI call failed: ${e.message}`);
+        return null;
+    }
+}
+
+// Read prompt from stdin and output result to stdout
+let input = '';
+process.stdin.on('data', chunk => {
+    input += chunk;
+});
+
+process.stdin.on('end', async () => {
+    const result = await callAI(input);
+    if (result) {
+        process.stdout.write(result);
+    } else {
+        process.exit(1);
+    }
+});
