@@ -23,12 +23,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
+      - uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
+      - run: npm install @heyputer/puter.js
       - name: Train topic 1
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f1)
@@ -52,12 +61,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
+      - uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
+      - run: npm install @heyputer/puter.js
       - name: Train topic 2
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f2)
@@ -81,12 +99,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
+      - uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
+      - run: npm install @heyputer/puter.js
       - name: Train topic 3
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f3)
@@ -110,12 +137,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
+      - uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
+      - run: npm install @heyputer/puter.js
       - name: Train topic 4
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f4)
@@ -139,12 +175,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: pip-${{ runner.os }}
           restore-keys: pip-${{ runner.os }}-
+      - uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node-${{ runner.os }}-${{ hashFiles('package.json') }}
+          restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
+      - run: npm install @heyputer/puter.js
       - name: Train topic 5
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f5)
