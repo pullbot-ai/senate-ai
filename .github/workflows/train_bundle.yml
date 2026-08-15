@@ -17,9 +17,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+      - name: Clean disk space
+        run: |
+          df -h
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo rm -rf /usr/local/.ghcup /usr/local/share/powershell /usr/local/share/chromium
+          sudo rm -rf /usr/local/lib/node_modules /opt/hostedtoolcache/node
+          sudo apt-get clean
+          df -h
       - uses: actions/checkout@v4
         with:
           lfs: true
+        env:
+          GIT_LFS_SKIP_SMUDGE: 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -38,6 +48,8 @@ jobs:
           restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
       - run: npm install @heyputer/puter.js
+      - name: Download needed bundles
+        run: git lfs pull --include "senate_bundles/*.pt"
       - name: Train topic 1
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f1)
@@ -63,9 +75,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+      - name: Clean disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo rm -rf /usr/local/.ghcup /usr/local/share/powershell /usr/local/share/chromium
+          sudo rm -rf /usr/local/lib/node_modules /opt/hostedtoolcache/node
+          sudo apt-get clean
       - uses: actions/checkout@v4
         with:
           lfs: true
+        env:
+          GIT_LFS_SKIP_SMUDGE: 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -84,6 +104,8 @@ jobs:
           restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
       - run: npm install @heyputer/puter.js
+      - name: Download needed bundles
+        run: git lfs pull --include "senate_bundles/*.pt"
       - name: Train topic 2
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f2)
@@ -109,9 +131,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+      - name: Clean disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo rm -rf /usr/local/.ghcup /usr/local/share/powershell /usr/local/share/chromium
+          sudo rm -rf /usr/local/lib/node_modules /opt/hostedtoolcache/node
+          sudo apt-get clean
       - uses: actions/checkout@v4
         with:
           lfs: true
+        env:
+          GIT_LFS_SKIP_SMUDGE: 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -130,6 +160,8 @@ jobs:
           restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
       - run: npm install @heyputer/puter.js
+      - name: Download needed bundles
+        run: git lfs pull --include "senate_bundles/*.pt"
       - name: Train topic 3
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f3)
@@ -155,9 +187,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+      - name: Clean disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo rm -rf /usr/local/.ghcup /usr/local/share/powershell /usr/local/share/chromium
+          sudo rm -rf /usr/local/lib/node_modules /opt/hostedtoolcache/node
+          sudo apt-get clean
       - uses: actions/checkout@v4
         with:
           lfs: true
+        env:
+          GIT_LFS_SKIP_SMUDGE: 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -176,6 +216,8 @@ jobs:
           restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
       - run: npm install @heyputer/puter.js
+      - name: Download needed bundles
+        run: git lfs pull --include "senate_bundles/*.pt"
       - name: Train topic 4
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f4)
@@ -201,9 +243,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+      - name: Clean disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo rm -rf /usr/local/.ghcup /usr/local/share/powershell /usr/local/share/chromium
+          sudo rm -rf /usr/local/lib/node_modules /opt/hostedtoolcache/node
+          sudo apt-get clean
       - uses: actions/checkout@v4
         with:
           lfs: true
+        env:
+          GIT_LFS_SKIP_SMUDGE: 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -222,6 +272,8 @@ jobs:
           restore-keys: node-${{ runner.os }}-
       - run: pip install torch numpy pyyaml requests
       - run: npm install @heyputer/puter.js
+      - name: Download needed bundles
+        run: git lfs pull --include "senate_bundles/*.pt"
       - name: Train topic 5
         run: |
           TOPIC=$(echo "${{ github.event.inputs.topics }}" | cut -d',' -f5)
