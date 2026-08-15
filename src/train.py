@@ -1,6 +1,6 @@
 """
-Senate AI - Topic-Based Training with Grading
-Generates fresh AI training data each run, trains senators, grades them.
+Senate AI - Topic-Based Training with AI Grading
+Generates fresh AI training data each run, trains senators, grades them with AI.
 """
 
 import torch
@@ -158,7 +158,9 @@ def decode_tokens(token_ids, vocab):
             break
         elif tid in vocab:
             words.append(vocab[tid])
-    return ' '.join(words)
+        else:
+            words.append(f'[{tid}]')
+    return ' '.join(words) if words else "..."
 
 
 def build_vocab():
@@ -186,8 +188,8 @@ def build_vocab():
     return vocab
 
 
-def grade_senator(senator, qa_pairs, vocab):
-    """Grade senator on Q&A pairs"""
+def grade_senator_with_ai(senator, qa_pairs, vocab):
+    """Grade senator using AI judge"""
     senator.eval()
     scores = []
     
@@ -196,6 +198,7 @@ def grade_senator(senator, qa_pairs, vocab):
         correct_answer = qa.get('answer', '')
         topic = qa.get('topic', '')
         
+        # Get senator's answer
         input_ids = tokenize_text(question)
         
         with torch.no_grad():
@@ -207,7 +210,6 @@ def grade_senator(senator, qa_pairs, vocab):
                 last_logits = logits[0, -1, :]
                 probs = torch.softmax(last_logits / 0.8, dim=-1)
                 next_token = torch.multinomial(probs, 1).item()
-                
                 if next_token == 2:
                     break
                 generated.append(next_token)
@@ -215,19 +217,39 @@ def grade_senator(senator, qa_pairs, vocab):
         
         senator_answer = decode_tokens(torch.tensor(generated), vocab)
         
-        similarity = SequenceMatcher(None, correct_answer.lower(), senator_answer.lower()).ratio()
-        keyword_overlap = set(correct_answer.lower().split()) & set(senator_answer.lower().split())
-        keyword_score = min(1.0, len(keyword_overlap) / max(1, len(correct_answer.split()) * 0.3))
+        # AI judge grades the answer
+        grading_prompt = f"""You are grading an AI senator's answer.
+
+Question: {question}
+Correct answer: {correct_answer}
+Senator's answer: {senator_answer}
+
+Score the senator's answer from 0-100 based on:
+- Correctness (60%)
+- Relevance (20%)
+- Clarity (20%)
+
+Return ONLY a number between 0 and 100."""
         
-        total_score = (similarity * 0.6 + keyword_score * 0.4) * 100
-        total_score = min(100, max(0, total_score))
+        ai_score = call_ai(grading_prompt, max_tokens=10)
+        
+        if ai_score:
+            try:
+                score = float(''.join(c for c in ai_score if c.isdigit() or c == '.'))
+                score = min(100, max(0, score))
+            except:
+                similarity = SequenceMatcher(None, correct_answer.lower(), senator_answer.lower()).ratio()
+                score = similarity * 100
+        else:
+            similarity = SequenceMatcher(None, correct_answer.lower(), senator_answer.lower()).ratio()
+            score = similarity * 100
         
         scores.append({
             'topic': topic,
             'question': question,
             'correct_answer': correct_answer,
             'senator_answer': senator_answer,
-            'score': total_score
+            'score': score
         })
     
     return scores
@@ -246,7 +268,7 @@ def grade_and_update(senator, topics, vocab):
     if not all_qa:
         return None
     
-    scores = grade_senator(senator, all_qa, vocab)
+    scores = grade_senator_with_ai(senator, all_qa, vocab)
     
     if not scores:
         return None
@@ -267,14 +289,14 @@ def grade_and_update(senator, topics, vocab):
 
 
 def train_topics(topic_list, epochs=3, lr=0.001):
-    """Train all senators matching topics with fresh AI data + grading"""
+    """Train all senators matching topics with fresh AI data + AI grading"""
     
     with open('senate_bundles/senate_index.json') as f:
         index = json.load(f)
     
     topics = set(topic_list)
     print(f"\n{'='*60}")
-    print(f"  TOPIC TRAINING - FRESH AI DATA + GRADING")
+    print(f"  TOPIC TRAINING - FRESH AI DATA + AI GRADING")
     print(f"{'='*60}")
     print(f"  Topics: {', '.join(sorted(topics))}")
     sys.stdout.flush()
