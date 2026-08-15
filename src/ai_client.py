@@ -1,45 +1,31 @@
-// Senate AI - AI Client (Node.js)
-// Uses Puter.js for AI calls - no API key needed
+"""
+Senate AI - AI Client (Python wrapper)
+Calls Node.js/Puter.js for AI - no API key needed.
+"""
 
-const { puter } = require('@heyputer/puter.js');
+import subprocess
+import json
+import tempfile
+import os
 
-async function callAI(prompt, maxTokens = 500) {
-    try {
-        const response = await puter.ai.chat(prompt, {
-            model: 'gpt-4o-mini',
-            max_tokens: maxTokens,
-            temperature: 0.7
-        });
+def call_ai(prompt, max_tokens=500, model="gpt-4o-mini"):
+    """Call Puter.js AI through Node.js"""
+    
+    try:
+        result = subprocess.run(
+            ['node', 'src/ai_client.js'],
+            input=prompt,
+            capture_output=True,
+            text=True,
+            timeout=60,
+            cwd=os.getcwd()
+        )
         
-        // Puter returns different formats - handle both
-        if (typeof response === 'string') {
-            return response;
-        } else if (response && response.message) {
-            return response.message;
-        } else if (response && response.text) {
-            return response.text;
-        } else if (response && response.content) {
-            return response.content;
-        }
+        if result.returncode == 0:
+            return result.stdout.strip()
         
-        return null;
-    } catch (e) {
-        console.error(`AI call failed: ${e.message}`);
-        return null;
-    }
-}
-
-// Read prompt from stdin and output result to stdout
-let input = '';
-process.stdin.on('data', chunk => {
-    input += chunk;
-});
-
-process.stdin.on('end', async () => {
-    const result = await callAI(input);
-    if (result) {
-        process.stdout.write(result);
-    } else {
-        process.exit(1);
-    }
-});
+        return None
+    
+    except Exception as e:
+        print(f"   AI call failed: {e}")
+        return None
