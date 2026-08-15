@@ -34,7 +34,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git add models/router.pt
+          git stash
           git pull --rebase origin main
+          git stash pop
           git add models/router.pt
           git commit -m "Train router model" || echo "No changes"
           git push
