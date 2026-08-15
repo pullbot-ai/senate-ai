@@ -49,3 +49,11 @@ jobs:
             -H "Accept: application/vnd.github.v3+json" \
             "https://api.github.com/repos/${{ github.repository }}/actions/workflows/train_critic.yml/dispatches" \
             -d "{\"ref\":\"${{ github.ref_name }}\"}"
+      
+      - name: Trigger Wikipedia scraper
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ github.token }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/scrape_wikipedia.yml/dispatches" \
+            -d "{\"ref\":\"${{ github.ref_name }}\"}"
