@@ -2446,5 +2446,629 @@
     "token_id": 7535,
     "definition": "A comic originating in Japan.",
     "first_seen": "Real Girl (manga)"
+  },
+  {
+    "word": "proprietor",
+    "token_id": 2774,
+    "definition": "An owner.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "officer",
+    "token_id": 775,
+    "definition": "One who has a position of authority in a hierarchical organization, especially in military, police or government organizations.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "retired",
+    "token_id": 6327,
+    "definition": "To stop working on a permanent basis, usually because of old age or illness.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "attained",
+    "token_id": 7914,
+    "definition": "To gain (an object or desired result).",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "military",
+    "token_id": 3183,
+    "definition": "Armed forces.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "cultured",
+    "token_id": 6603,
+    "definition": "To maintain in an environment suitable for growth (especially of bacteria) (compare cultivate)",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "army",
+    "token_id": 4540,
+    "definition": "A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "command",
+    "token_id": 4835,
+    "definition": "An order to do something.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "wars",
+    "token_id": 1799,
+    "definition": "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "revolutionary",
+    "token_id": 5661,
+    "definition": "A revolutionist; a person who revolts.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "promotion",
+    "token_id": 3452,
+    "definition": "An advancement in rank or position.",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "rebels",
+    "token_id": 3190,
+    "definition": "A person who resists an established authority, often violently",
+    "first_seen": "Johann Peter Beaulieu"
+  },
+  {
+    "word": "ear",
+    "token_id": 519,
+    "definition": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "entirely",
+    "token_id": 80,
+    "definition": "To the full or entire extent.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "themes",
+    "token_id": 355,
+    "definition": "A subject of a talk or an artistic piece; a topic.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "ringing",
+    "token_id": 2033,
+    "definition": "To enclose or surround.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "singles",
+    "token_id": 4206,
+    "definition": "A 45 RPM vinyl record with one song on side A and one on side B.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "comes",
+    "token_id": 3799,
+    "definition": "To move from further away to nearer to.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "previously",
+    "token_id": 6898,
+    "definition": "(with present-tense constructions) First; beforehand, in advance.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "fridge",
+    "token_id": 1328,
+    "definition": "A refrigerator.",
+    "first_seen": "Homesongs"
+  },
+  {
+    "word": "according",
+    "token_id": 1949,
+    "definition": "To make to agree or correspond; to suit one thing to another; to adjust.",
+    "first_seen": "Municipalities of Puebla"
+  },
+  {
+    "word": "mechanics",
+    "token_id": 1602,
+    "definition": "The branch of physics that deals with the action of forces on material objects with mass",
+    "first_seen": "J\u00fcri Engelbrecht"
+  },
+  {
+    "word": "scientist",
+    "token_id": 3230,
+    "definition": "One whose activities make use of the scientific method to answer questions regarding the measurable universe. A scientist may be involved in original research, or make use of the results of the research of others.",
+    "first_seen": "J\u00fcri Engelbrecht"
+  },
+  {
+    "word": "democratic",
+    "token_id": 4449,
+    "definition": "Pertaining to democracy; favoring democracy, or constructed upon the principle of government by the people.",
+    "first_seen": "Edoardo Martino"
+  },
+  {
+    "word": "deputies",
+    "token_id": 2912,
+    "definition": "One appointed as the substitute of another, and empowered to act for them, in their name or their behalf; a substitute in office",
+    "first_seen": "Edoardo Martino"
+  },
+  {
+    "word": "chamber",
+    "token_id": 6322,
+    "definition": "A room or set of rooms, particularly:",
+    "first_seen": "Edoardo Martino"
+  },
+  {
+    "word": "temple",
+    "token_id": 1431,
+    "definition": "A house of worship, especially:",
+    "first_seen": "Shinsh\u014d-ji"
+  },
+  {
+    "word": "japan",
+    "token_id": 5613,
+    "definition": "A hard black enamel varnish containing asphalt.",
+    "first_seen": "Shinsh\u014d-ji"
+  },
+  {
+    "word": "chi",
+    "token_id": 3229,
+    "definition": "The twenty-second letter of the Classical and Modern Greek alphabets.",
+    "first_seen": "Shinsh\u014d-ji"
+  },
+  {
+    "word": "amateur",
+    "token_id": 1907,
+    "definition": "A lover of something.",
+    "first_seen": "Roberto Mel\u00e9ndez"
+  },
+  {
+    "word": "nicknamed",
+    "token_id": 7710,
+    "definition": "To give a nickname to (a person or thing).",
+    "first_seen": "Roberto Mel\u00e9ndez"
+  },
+  {
+    "word": "sport",
+    "token_id": 848,
+    "definition": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
+    "first_seen": "Roberto Mel\u00e9ndez"
+  },
+  {
+    "word": "coach",
+    "token_id": 4752,
+    "definition": "A wheeled vehicle, generally drawn by horse power.",
+    "first_seen": "Roberto Mel\u00e9ndez"
+  },
+  {
+    "word": "oscar",
+    "token_id": 2317,
+    "definition": "Astronotus ocellatus, a cichlid fish, native to South America, sometimes kept in aquariums.",
+    "first_seen": "Blues Etude"
+  },
+  {
+    "word": "recording",
+    "token_id": 7823,
+    "definition": "To make a record of information.",
+    "first_seen": "Blues Etude"
+  },
+  {
+    "word": "ray",
+    "token_id": 6915,
+    "definition": "A beam of light or radiation.",
+    "first_seen": "Blues Etude"
+  },
+  {
+    "word": "satellite",
+    "token_id": 2393,
+    "definition": "A moon or other smaller body orbiting a larger one.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "facilities",
+    "token_id": 5238,
+    "definition": "Facilities for urination and defecation: a toilet; a lavatory.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "radio",
+    "token_id": 4160,
+    "definition": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "initial",
+    "token_id": 2766,
+    "definition": "The first letter of a word or a name.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "research",
+    "token_id": 6080,
+    "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "four",
+    "token_id": 7870,
+    "definition": "The digit or figure 4; an occurrence thereof.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "tracking",
+    "token_id": 7286,
+    "definition": "To continue over time.",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "telemetry",
+    "token_id": 3462,
+    "definition": "(applied sciences) the science, and associated technology, of the automatic recording and transmission of data from a remote source to a receiving station for analysis",
+    "first_seen": "Kongsfjord Telemetry Station"
+  },
+  {
+    "word": "sets",
+    "token_id": 5479,
+    "definition": "To put (something) down, to rest.",
+    "first_seen": "The Hills of Utah"
+  },
+  {
+    "word": "hills",
+    "token_id": 5424,
+    "definition": "An elevated location smaller than a mountain.",
+    "first_seen": "The Hills of Utah"
+  },
+  {
+    "word": "art",
+    "token_id": 1044,
+    "definition": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+    "first_seen": "The Hills of Utah"
+  },
+  {
+    "word": "riley",
+    "token_id": 3076,
+    "definition": "Angry, upset.",
+    "first_seen": "The Hills of Utah"
+  },
+  {
+    "word": "donna",
+    "token_id": 7035,
+    "definition": "A lady, especially a noblewoman; the title given to a lady in Italy.",
+    "first_seen": "The Hills of Utah"
+  },
+  {
+    "word": "skiing",
+    "token_id": 7838,
+    "definition": "To move on skis",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "athletes",
+    "token_id": 7796,
+    "definition": "A participant in a group of sporting activities which includes track and field, road running, cross country running and racewalking.",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "sent",
+    "token_id": 7715,
+    "definition": "A subdivision of currency, equal to one hundredth of an Estonian kroon.",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "delegation",
+    "token_id": 657,
+    "definition": "An act of delegating.",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "alpine",
+    "token_id": 4769,
+    "definition": "Any of several plants, native to mountain habitats, often grown in a rock garden",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "fielded",
+    "token_id": 4505,
+    "definition": "To intercept or catch (a ball) and play it.",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "compete",
+    "token_id": 717,
+    "definition": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
+    "first_seen": "Mexico at the 2010 Winter Paralympics"
+  },
+  {
+    "word": "creek",
+    "token_id": 4190,
+    "definition": "A small inlet or bay, often saltwater, narrower and extending farther into the land than a cove; a recess in the shore of the sea, or of a river; the inner part of a port that is used as a dock for small boats.",
+    "first_seen": "Dry Creek, Oklahoma"
+  },
+  {
+    "word": "dry",
+    "token_id": 7431,
+    "definition": "The process by which something is dried.",
+    "first_seen": "Dry Creek, Oklahoma"
+  },
+  {
+    "word": "ashes",
+    "token_id": 1393,
+    "definition": "The solid remains of a fire.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "spread",
+    "token_id": 3877,
+    "definition": "The act of spreading.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "publications",
+    "token_id": 4425,
+    "definition": "The act of publishing printed or other matter.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "usage",
+    "token_id": 4890,
+    "definition": "The manner or the amount of using; use.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "celts",
+    "token_id": 4837,
+    "definition": "A prehistoric chisel-bladed tool.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "end",
+    "token_id": 3,
+    "definition": "The terminal point of something in space or time.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "much",
+    "token_id": 1914,
+    "definition": "Large, great.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "northwestern",
+    "token_id": 5027,
+    "definition": "Of or pertaining to the northwest; from or to in such a direction.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "succeeded",
+    "token_id": 4801,
+    "definition": "To follow in order; to come next after; hence, to take the place of.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "changes",
+    "token_id": 248,
+    "definition": "The process of becoming different.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "settlements",
+    "token_id": 3785,
+    "definition": "The act of settling.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "expansion",
+    "token_id": 620,
+    "definition": "The act or process of expanding.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "age",
+    "token_id": 3845,
+    "definition": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "linguists",
+    "token_id": 2341,
+    "definition": "One who studies linguistics.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "accepted",
+    "token_id": 5154,
+    "definition": "To receive, especially with a consent, with favour, or with approval.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "urns",
+    "token_id": 1173,
+    "definition": "A vase with a footed base.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "then",
+    "token_id": 2313,
+    "definition": "Used in comparisons, to introduce the basis of comparison.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "hilltop",
+    "token_id": 7605,
+    "definition": "The peak or crest of a hill.",
+    "first_seen": "Urnfield culture"
+  },
+  {
+    "word": "armed",
+    "token_id": 714,
+    "definition": "To take by the arm; to take up in one's arms.",
+    "first_seen": "Siege of Tkvarcheli"
+  },
+  {
+    "word": "siege",
+    "token_id": 3845,
+    "definition": "(heading) Military action.",
+    "first_seen": "Siege of Tkvarcheli"
+  },
+  {
+    "word": "surrounding",
+    "token_id": 3874,
+    "definition": "To encircle something or simultaneously extend in all directions.",
+    "first_seen": "Siege of Tkvarcheli"
+  },
+  {
+    "word": "inconclusive",
+    "token_id": 3366,
+    "definition": "Not conclusive, not leading to a conclusion.",
+    "first_seen": "Siege of Tkvarcheli"
+  },
+  {
+    "word": "why",
+    "token_id": 6058,
+    "definition": "Reason",
+    "first_seen": "That Is Why"
+  },
+  {
+    "word": "group",
+    "token_id": 6985,
+    "definition": "A number of things or persons being in some relation to one another.",
+    "first_seen": "That Is Why"
+  },
+  {
+    "word": "bellybutton",
+    "token_id": 4871,
+    "definition": "The navel or umbilicus.",
+    "first_seen": "That Is Why"
+  },
+  {
+    "word": "jellyfish",
+    "token_id": 6709,
+    "definition": "An almost transparent aquatic animal; any one of the acalephs, especially one of the larger species, having a jellylike appearance.",
+    "first_seen": "That Is Why"
+  },
+  {
+    "word": "support",
+    "token_id": 4699,
+    "definition": "(sometimes attributive) Something which supports.",
+    "first_seen": "That Is Why"
+  },
+  {
+    "word": "half",
+    "token_id": 4271,
+    "definition": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
+    "first_seen": "Stefano da Ferrara"
+  },
+  {
+    "word": "painter",
+    "token_id": 7116,
+    "definition": "An artist who paints pictures.",
+    "first_seen": "Stefano da Ferrara"
+  },
+  {
+    "word": "asserted",
+    "token_id": 4467,
+    "definition": "To declare with assurance or plainly and strongly; to state positively.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "campaigners",
+    "token_id": 3459,
+    "definition": "A person who has served in a military campaign.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "conspiracy",
+    "token_id": 5486,
+    "definition": "The act of two or more persons, called conspirators, working secretly to obtain some goal, usually understood with negative connotations.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "passed",
+    "token_id": 6302,
+    "definition": "To change place.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "anti",
+    "token_id": 2197,
+    "definition": "A person opposed to a concept or principle.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "brainwash",
+    "token_id": 2358,
+    "definition": "A distorting effect upon one's memory, belief, or ideas, as by propaganda.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "territory",
+    "token_id": 1309,
+    "definition": "A large extent or tract of land; for example a region, country or district.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "right",
+    "token_id": 2339,
+    "definition": "Straight, not bent.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "run",
+    "token_id": 5830,
+    "definition": "To run.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "intended",
+    "token_id": 4244,
+    "definition": "(usually followed by the particle \"to\") To hope; to wish (something, or something to be accomplished); be intent upon",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "major",
+    "token_id": 587,
+    "definition": "A military rank between captain and lieutenant colonel.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "health",
+    "token_id": 3420,
+    "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "became",
+    "token_id": 3215,
+    "definition": "To arrive, come (to a place).",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "dispute",
+    "token_id": 7226,
+    "definition": "An argument or disagreement, a failure to agree.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "denounced",
+    "token_id": 2148,
+    "definition": "To make known in a formal manner; to proclaim; to announce; to declare.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "act",
+    "token_id": 6938,
+    "definition": "Something done, a deed.",
+    "first_seen": "Alaska Mental Health Enabling Act"
+  },
+  {
+    "word": "chart",
+    "token_id": 2891,
+    "definition": "A map.",
+    "first_seen": "America (Modern Talking album)"
   }
 ]

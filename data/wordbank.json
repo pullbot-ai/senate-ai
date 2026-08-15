@@ -9827,8 +9827,2378 @@
       "first_seen": "Long Schoolhouse",
       "has_definition": false,
       "definition": ""
+    },
+    "proprietor": {
+      "token_id": 2774,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "An owner."
+    },
+    "beaulieu": {
+      "token_id": 5451,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "officer": {
+      "token_id": 775,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "One who has a position of authority in a hierarchical organization, especially in military, police or government organizations."
+    },
+    "johann": {
+      "token_id": 2945,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "retired": {
+      "token_id": 6327,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "To stop working on a permanent basis, usually because of old age or illness."
+    },
+    "regiment": {
+      "token_id": 3904,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bonaparte": {
+      "token_id": 2130,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "belgian": {
+      "token_id": 7315,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "inhaber": {
+      "token_id": 2752,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "attained": {
+      "token_id": 7914,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "To gain (an object or desired result)."
+    },
+    "military": {
+      "token_id": 3183,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "Armed forces."
+    },
+    "cultured": {
+      "token_id": 6603,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "To maintain in an environment suitable for growth (especially of bacteria) (compare cultivate)"
+    },
+    "army": {
+      "token_id": 4540,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations."
+    },
+    "command": {
+      "token_id": 4835,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "An order to do something."
+    },
+    "wars": {
+      "token_id": 1799,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces."
+    },
+    "prussians": {
+      "token_id": 3078,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "revolutionary": {
+      "token_id": 5661,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "A revolutionist; a person who revolts."
+    },
+    "promotion": {
+      "token_id": 3452,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "An advancement in rank or position."
+    },
+    "rebels": {
+      "token_id": 3190,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": true,
+      "definition": "A person who resists an established authority, often violently"
+    },
+    "pierre": {
+      "token_id": 3854,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "napoleon": {
+      "token_id": 5377,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "victories": {
+      "token_id": 4493,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "walloon": {
+      "token_id": 5165,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "habsburg": {
+      "token_id": 4675,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "battled": {
+      "token_id": 4218,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "infantry": {
+      "token_id": 2052,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "jean": {
+      "token_id": 7403,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "man": {
+      "token_id": 488,
+      "first_seen": "Johann Peter Beaulieu",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ear": {
+      "token_id": 519,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea."
+    },
+    "entirely": {
+      "token_id": 80,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "To the full or entire extent."
+    },
+    "ilhan": {
+      "token_id": 1279,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "themes": {
+      "token_id": 355,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "A subject of a talk or an artistic piece; a topic."
+    },
+    "ringing": {
+      "token_id": 2033,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "To enclose or surround."
+    },
+    "singles": {
+      "token_id": 4206,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "A 45 RPM vinyl record with one song on side A and one on side B."
+    },
+    "comes": {
+      "token_id": 3799,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "To move from further away to nearer to."
+    },
+    "previously": {
+      "token_id": 6898,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "(with present-tense constructions) First; beforehand, in advance."
+    },
+    "fridge": {
+      "token_id": 1328,
+      "first_seen": "Homesongs",
+      "has_definition": true,
+      "definition": "A refrigerator."
+    },
+    "adem": {
+      "token_id": 2326,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alludes": {
+      "token_id": 5998,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "homesongs": {
+      "token_id": 1627,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "own": {
+      "token_id": 7556,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hebden": {
+      "token_id": 694,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "friends": {
+      "token_id": 7867,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kieran": {
+      "token_id": 5300,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fact": {
+      "token_id": 2891,
+      "first_seen": "Homesongs",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rulers": {
+      "token_id": 3189,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oman": {
+      "token_id": 4370,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nabhanids": {
+      "token_id": 5124,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "power": {
+      "token_id": 560,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "took": {
+      "token_id": 2940,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "yaruba": {
+      "token_id": 2193,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nabhani": {
+      "token_id": 7602,
+      "first_seen": "Nabhani dynasty",
+      "has_definition": false,
+      "definition": ""
+    },
+    "period": {
+      "token_id": 7863,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "how": {
+      "token_id": 7995,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "atat": {
+      "token_id": 78,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ottoman": {
+      "token_id": 3495,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "usul": {
+      "token_id": 5148,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ptidai": {
+      "token_id": 7822,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "education": {
+      "token_id": 2170,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "efendi": {
+      "token_id": 1786,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "educator": {
+      "token_id": 5241,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "write": {
+      "token_id": 3283,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "thought": {
+      "token_id": 5444,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cedid": {
+      "token_id": 7734,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kemal": {
+      "token_id": 6458,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mekteb": {
+      "token_id": 364,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "private": {
+      "token_id": 3554,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "taught": {
+      "token_id": 3560,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "thessaloniki": {
+      "token_id": 7354,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "founded": {
+      "token_id": 2632,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "read": {
+      "token_id": 5264,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "emsi": {
+      "token_id": 4146,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gave": {
+      "token_id": 3710,
+      "first_seen": "\u015eemsi Efendi",
+      "has_definition": false,
+      "definition": ""
+    },
+    "land": {
+      "token_id": 1383,
+      "first_seen": "Municipalities of Puebla",
+      "has_definition": false,
+      "definition": ""
+    },
+    "puebla": {
+      "token_id": 4330,
+      "first_seen": "Municipalities of Puebla",
+      "has_definition": false,
+      "definition": ""
+    },
+    "populated": {
+      "token_id": 3713,
+      "first_seen": "Municipalities of Puebla",
+      "has_definition": false,
+      "definition": ""
+    },
+    "according": {
+      "token_id": 1949,
+      "first_seen": "Municipalities of Puebla",
+      "has_definition": true,
+      "definition": "To make to agree or correspond; to suit one thing to another; to adjust."
+    },
+    "mechanics": {
+      "token_id": 1602,
+      "first_seen": "J\u00fcri Engelbrecht",
+      "has_definition": true,
+      "definition": "The branch of physics that deals with the action of forces on material objects with mass"
+    },
+    "estonian": {
+      "token_id": 7318,
+      "first_seen": "J\u00fcri Engelbrecht",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scientist": {
+      "token_id": 3230,
+      "first_seen": "J\u00fcri Engelbrecht",
+      "has_definition": true,
+      "definition": "One whose activities make use of the scientific method to answer questions regarding the measurable universe. A scientist may be involved in original research, or make use of the results of the research of others."
+    },
+    "engelbrecht": {
+      "token_id": 6675,
+      "first_seen": "J\u00fcri Engelbrecht",
+      "has_definition": false,
+      "definition": ""
+    },
+    "democratic": {
+      "token_id": 4449,
+      "first_seen": "Edoardo Martino",
+      "has_definition": true,
+      "definition": "Pertaining to democracy; favoring democracy, or constructed upon the principle of government by the people."
+    },
+    "martino": {
+      "token_id": 1323,
+      "first_seen": "Edoardo Martino",
+      "has_definition": false,
+      "definition": ""
+    },
+    "deputies": {
+      "token_id": 2912,
+      "first_seen": "Edoardo Martino",
+      "has_definition": true,
+      "definition": "One appointed as the substitute of another, and empowered to act for them, in their name or their behalf; a substitute in office"
+    },
+    "chamber": {
+      "token_id": 6322,
+      "first_seen": "Edoardo Martino",
+      "has_definition": true,
+      "definition": "A room or set of rooms, particularly:"
+    },
+    "angelo": {
+      "token_id": 5379,
+      "first_seen": "Edoardo Martino",
+      "has_definition": false,
+      "definition": ""
+    },
+    "christian": {
+      "token_id": 3937,
+      "first_seen": "Edoardo Martino",
+      "has_definition": false,
+      "definition": ""
+    },
+    "edoardo": {
+      "token_id": 1196,
+      "first_seen": "Edoardo Martino",
+      "has_definition": false,
+      "definition": ""
+    },
+    "shikoku": {
+      "token_id": 5627,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": false,
+      "definition": ""
+    },
+    "shinsh": {
+      "token_id": 7694,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": false,
+      "definition": ""
+    },
+    "muroto": {
+      "token_id": 4657,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": false,
+      "definition": ""
+    },
+    "temple": {
+      "token_id": 1431,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": true,
+      "definition": "A house of worship, especially:"
+    },
+    "shingon": {
+      "token_id": 2973,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": false,
+      "definition": ""
+    },
+    "buddhist": {
+      "token_id": 3087,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": false,
+      "definition": ""
+    },
+    "japan": {
+      "token_id": 5613,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": true,
+      "definition": "A hard black enamel varnish containing asphalt."
+    },
+    "chi": {
+      "token_id": 3229,
+      "first_seen": "Shinsh\u014d-ji",
+      "has_definition": true,
+      "definition": "The twenty-second letter of the Classical and Modern Greek alphabets."
+    },
+    "ndez": {
+      "token_id": 5104,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roberto": {
+      "token_id": 2495,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": false,
+      "definition": ""
+    },
+    "colombian": {
+      "token_id": 3975,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": false,
+      "definition": ""
+    },
+    "amateur": {
+      "token_id": 1907,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": true,
+      "definition": "A lover of something."
+    },
+    "nicknamed": {
+      "token_id": 7710,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": true,
+      "definition": "To give a nickname to (a person or thing)."
+    },
+    "sport": {
+      "token_id": 848,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": true,
+      "definition": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics."
+    },
+    "mel": {
+      "token_id": 1053,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": false,
+      "definition": ""
+    },
+    "coach": {
+      "token_id": 4752,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": true,
+      "definition": "A wheeled vehicle, generally drawn by horse power."
+    },
+    "flaco": {
+      "token_id": 857,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lara": {
+      "token_id": 4142,
+      "first_seen": "Roberto Mel\u00e9ndez",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oscar": {
+      "token_id": 2317,
+      "first_seen": "Blues Etude",
+      "has_definition": true,
+      "definition": "Astronotus ocellatus, a cichlid fish, native to South America, sometimes kept in aquariums."
+    },
+    "recording": {
+      "token_id": 7823,
+      "first_seen": "Blues Etude",
+      "has_definition": true,
+      "definition": "To make a record of information."
+    },
+    "ray": {
+      "token_id": 6915,
+      "first_seen": "Blues Etude",
+      "has_definition": true,
+      "definition": "A beam of light or radiation."
+    },
+    "trio": {
+      "token_id": 4060,
+      "first_seen": "Blues Etude",
+      "has_definition": false,
+      "definition": ""
+    },
+    "etude": {
+      "token_id": 837,
+      "first_seen": "Blues Etude",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bassist": {
+      "token_id": 2789,
+      "first_seen": "Blues Etude",
+      "has_definition": false,
+      "definition": ""
+    },
+    "brown": {
+      "token_id": 2859,
+      "first_seen": "Blues Etude",
+      "has_definition": false,
+      "definition": ""
+    },
+    "blues": {
+      "token_id": 7228,
+      "first_seen": "Blues Etude",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sofer": {
+      "token_id": 4046,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "renowned": {
+      "token_id": 660,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "judaism": {
+      "token_id": 2603,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rabbi": {
+      "token_id": 3435,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "orthodox": {
+      "token_id": 3832,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chaim": {
+      "token_id": 3760,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hungarian": {
+      "token_id": 2742,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "spokesperson": {
+      "token_id": 809,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scholarly": {
+      "token_id": 2023,
+      "first_seen": "Chaim Sofer",
+      "has_definition": false,
+      "definition": ""
+    },
+    "leny": {
+      "token_id": 7272,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "johannes": {
+      "token_id": 7779,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wild": {
+      "token_id": 978,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "von": {
+      "token_id": 3785,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "collande": {
+      "token_id": 3278,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "romance": {
+      "token_id": 6848,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "werner": {
+      "token_id": 805,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hinz": {
+      "token_id": 4860,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "volker": {
+      "token_id": 1082,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "meyer": {
+      "token_id": 7486,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "marenbach": {
+      "token_id": 3323,
+      "first_seen": "Wild Bird (film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "norwegian": {
+      "token_id": 6805,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "estrack": {
+      "token_id": 3200,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "network": {
+      "token_id": 1984,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "although": {
+      "token_id": 6808,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lesund": {
+      "token_id": 4642,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "norway": {
+      "token_id": 3578,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kongsfjord": {
+      "token_id": 946,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "data": {
+      "token_id": 504,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "council": {
+      "token_id": 5024,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ntnf": {
+      "token_id": 6348,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "space": {
+      "token_id": 7859,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "satellite": {
+      "token_id": 2393,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "A moon or other smaller body orbiting a larger one."
+    },
+    "facilities": {
+      "token_id": 5238,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "Facilities for urination and defecation: a toilet; a lavatory."
+    },
+    "radio": {
+      "token_id": 4160,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves."
+    },
+    "initial": {
+      "token_id": 2766,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "The first letter of a word or a name."
+    },
+    "research": {
+      "token_id": 6080,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+    },
+    "svalbard": {
+      "token_id": 3156,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "four": {
+      "token_id": 7870,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "The digit or figure 4; an occurrence thereof."
+    },
+    "tracking": {
+      "token_id": 7286,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "To continue over time."
+    },
+    "telemetry": {
+      "token_id": 3462,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": true,
+      "definition": "(applied sciences) the science, and associated technology, of the automatic recording and transmission of data from a remote source to a receiving station for analysis"
+    },
+    "download": {
+      "token_id": 4127,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "serving": {
+      "token_id": 3768,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "european": {
+      "token_id": 4780,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "esro": {
+      "token_id": 4100,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "stations": {
+      "token_id": 7678,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "industrial": {
+      "token_id": 6270,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "commanding": {
+      "token_id": 4813,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "satellites": {
+      "token_id": 2529,
+      "first_seen": "Kongsfjord Telemetry Station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "autry": {
+      "token_id": 1130,
+      "first_seen": "The Hills of Utah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "martell": {
+      "token_id": 6786,
+      "first_seen": "The Hills of Utah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "charles": {
+      "token_id": 5175,
+      "first_seen": "The Hills of Utah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sets": {
+      "token_id": 5479,
+      "first_seen": "The Hills of Utah",
+      "has_definition": true,
+      "definition": "To put (something) down, to rest."
+    },
+    "hills": {
+      "token_id": 5424,
+      "first_seen": "The Hills of Utah",
+      "has_definition": true,
+      "definition": "An elevated location smaller than a mountain."
+    },
+    "art": {
+      "token_id": 1044,
+      "first_seen": "The Hills of Utah",
+      "has_definition": true,
+      "definition": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium."
+    },
+    "utah": {
+      "token_id": 4777,
+      "first_seen": "The Hills of Utah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "elaine": {
+      "token_id": 7979,
+      "first_seen": "The Hills of Utah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "clague": {
+      "token_id": 3302,
+      "first_seen": "The Hills of Utah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "riley": {
+      "token_id": 3076,
+      "first_seen": "The Hills of Utah",
+      "has_definition": true,
+      "definition": "Angry, upset."
+    },
+    "donna": {
+      "token_id": 7035,
+      "first_seen": "The Hills of Utah",
+      "has_definition": true,
+      "definition": "A lady, especially a noblewoman; the title given to a lady in Italy."
+    },
+    "skiing": {
+      "token_id": 7838,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "To move on skis"
+    },
+    "athletes": {
+      "token_id": 7796,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "A participant in a group of sporting activities which includes track and field, road running, cross country running and racewalking."
+    },
+    "sent": {
+      "token_id": 7715,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "A subdivision of currency, equal to one hundredth of an Estonian kroon."
+    },
+    "delegation": {
+      "token_id": 657,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "An act of delegating."
+    },
+    "columbia": {
+      "token_id": 939,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alpine": {
+      "token_id": 4769,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "Any of several plants, native to mountain habitats, often grown in a rock garden"
+    },
+    "paralympics": {
+      "token_id": 7948,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fielded": {
+      "token_id": 4505,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "To intercept or catch (a ball) and play it."
+    },
+    "vancouver": {
+      "token_id": 436,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "compete": {
+      "token_id": 717,
+      "first_seen": "Mexico at the 2010 Winter Paralympics",
+      "has_definition": true,
+      "definition": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend"
+    },
+    "amorosi": {
+      "token_id": 4014,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "performer": {
+      "token_id": 6835,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mysterious": {
+      "token_id": 524,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "flaunt": {
+      "token_id": 4132,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "seany": {
+      "token_id": 2454,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hit": {
+      "token_id": 3451,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hazardous": {
+      "token_id": 1278,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "artist": {
+      "token_id": 1644,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vanessa": {
+      "token_id": 1825,
+      "first_seen": "Mr. Mysterious",
+      "has_definition": false,
+      "definition": ""
+    },
+    "recently": {
+      "token_id": 5201,
+      "first_seen": "Northgate Hall",
+      "has_definition": false,
+      "definition": ""
+    },
+    "presbyterian": {
+      "token_id": 6952,
+      "first_seen": "Northgate Hall",
+      "has_definition": false,
+      "definition": ""
+    },
+    "northgate": {
+      "token_id": 4157,
+      "first_seen": "Northgate Hall",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dissident": {
+      "token_id": 7777,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "valery": {
+      "token_id": 6777,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ussr": {
+      "token_id": 2839,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "deprived": {
+      "token_id": 6451,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nikolaevich": {
+      "token_id": 2174,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chalidze": {
+      "token_id": 3091,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "citizenship": {
+      "token_id": 3666,
+      "first_seen": "Valery Chalidze",
+      "has_definition": false,
+      "definition": ""
+    },
+    "academy": {
+      "token_id": 2038,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "birmingham": {
+      "token_id": 2107,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "outer": {
+      "token_id": 5373,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "baverstock": {
+      "token_id": 4354,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mixed": {
+      "token_id": 4147,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "druids": {
+      "token_id": 1120,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "edge": {
+      "token_id": 95,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "form": {
+      "token_id": 1840,
+      "first_seen": "The Baverstock Academy",
+      "has_definition": false,
+      "definition": ""
+    },
+    "connolly": {
+      "token_id": 852,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rockhampton": {
+      "token_id": 7789,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "paul": {
+      "token_id": 1442,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "offices": {
+      "token_id": 6580,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "office": {
+      "token_id": 4204,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "telegraph": {
+      "token_id": 2002,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "queensland": {
+      "token_id": 7493,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dennis": {
+      "token_id": 5277,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kelleher": {
+      "token_id": 1014,
+      "first_seen": "Rockhampton Post Office",
+      "has_definition": false,
+      "definition": ""
+    },
+    "creek": {
+      "token_id": 4190,
+      "first_seen": "Dry Creek, Oklahoma",
+      "has_definition": true,
+      "definition": "A small inlet or bay, often saltwater, narrower and extending farther into the land than a cove; a recess in the shore of the sea, or of a river; the inner part of a port that is used as a dock for small boats."
+    },
+    "dry": {
+      "token_id": 7431,
+      "first_seen": "Dry Creek, Oklahoma",
+      "has_definition": true,
+      "definition": "The process by which something is dried."
+    },
+    "cherokee": {
+      "token_id": 7777,
+      "first_seen": "Dry Creek, Oklahoma",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oklahoma": {
+      "token_id": 3850,
+      "first_seen": "Dry Creek, Oklahoma",
+      "has_definition": false,
+      "definition": ""
+    },
+    "metalworking": {
+      "token_id": 2416,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ashes": {
+      "token_id": 1393,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The solid remains of a fire."
+    },
+    "spread": {
+      "token_id": 3877,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The act of spreading."
+    },
+    "publications": {
+      "token_id": 4425,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The act of publishing printed or other matter."
+    },
+    "usage": {
+      "token_id": 4890,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The manner or the amount of using; use."
+    },
+    "celts": {
+      "token_id": 4837,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "A prehistoric chisel-bladed tool."
+    },
+    "end": {
+      "token_id": 3,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The terminal point of something in space or time."
+    },
+    "much": {
+      "token_id": 1914,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "Large, great."
+    },
+    "northwestern": {
+      "token_id": 5027,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "Of or pertaining to the northwest; from or to in such a direction."
+    },
+    "succeeded": {
+      "token_id": 4801,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "To follow in order; to come next after; hence, to take the place of."
+    },
+    "changes": {
+      "token_id": 248,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The process of becoming different."
+    },
+    "settlements": {
+      "token_id": 3785,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The act of settling."
+    },
+    "expansion": {
+      "token_id": 620,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The act or process of expanding."
+    },
+    "age": {
+      "token_id": 3845,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The whole duration of a being, whether animal, plant, or other kind, being alive."
+    },
+    "linguists": {
+      "token_id": 2341,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "One who studies linguistics."
+    },
+    "accepted": {
+      "token_id": 5154,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "To receive, especially with a consent, with favour, or with approval."
+    },
+    "urns": {
+      "token_id": 1173,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "A vase with a footed base."
+    },
+    "then": {
+      "token_id": 2313,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "Used in comparisons, to introduce the basis of comparison."
+    },
+    "celtic": {
+      "token_id": 6829,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hilltop": {
+      "token_id": 7605,
+      "first_seen": "Urnfield culture",
+      "has_definition": true,
+      "definition": "The peak or crest of a hill."
+    },
+    "tumulus": {
+      "token_id": 6235,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "proto": {
+      "token_id": 682,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "several": {
+      "token_id": 6639,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "followed": {
+      "token_id": 4481,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "culture": {
+      "token_id": 802,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pyrenees": {
+      "token_id": 3617,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "equate": {
+      "token_id": 3763,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "links": {
+      "token_id": 7974,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cremating": {
+      "token_id": 1576,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "archaeologists": {
+      "token_id": 7182,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "leading": {
+      "token_id": 4281,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "buried": {
+      "token_id": 3049,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "italy": {
+      "token_id": 7511,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "placing": {
+      "token_id": 7745,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sheet": {
+      "token_id": 3674,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fortified": {
+      "token_id": 2877,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "broader": {
+      "token_id": 7423,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hallstatt": {
+      "token_id": 5498,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "widely": {
+      "token_id": 6954,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "occurred": {
+      "token_id": 5618,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "custom": {
+      "token_id": 5488,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "urnfield": {
+      "token_id": 1103,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "europe": {
+      "token_id": 4116,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "millennium": {
+      "token_id": 2996,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "authorities": {
+      "token_id": 661,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "language": {
+      "token_id": 4159,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "grave": {
+      "token_id": 7596,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dead": {
+      "token_id": 7625,
+      "first_seen": "Urnfield culture",
+      "has_definition": false,
+      "definition": ""
+    },
+    "armed": {
+      "token_id": 714,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": true,
+      "definition": "To take by the arm; to take up in one's arms."
+    },
+    "siege": {
+      "token_id": 3845,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": true,
+      "definition": "(heading) Military action."
+    },
+    "surrounding": {
+      "token_id": 3874,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": true,
+      "definition": "To encircle something or simultaneously extend in all directions."
+    },
+    "abkhazia": {
+      "token_id": 5752,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "inconclusive": {
+      "token_id": 3366,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": true,
+      "definition": "Not conclusive, not leading to a conclusion."
+    },
+    "tkvarcheli": {
+      "token_id": 7298,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "eventually": {
+      "token_id": 292,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "suffered": {
+      "token_id": 6226,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "defence": {
+      "token_id": 7990,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "humanitarian": {
+      "token_id": 2626,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "aid": {
+      "token_id": 3077,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "almost": {
+      "token_id": 5569,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "unsuccessful": {
+      "token_id": 127,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "crisis": {
+      "token_id": 4455,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "accompanied": {
+      "token_id": 4375,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "forces": {
+      "token_id": 4547,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "entire": {
+      "token_id": 4463,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fighting": {
+      "token_id": 2101,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "undertaken": {
+      "token_id": 7549,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "engagement": {
+      "token_id": 2396,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "georgian": {
+      "token_id": 878,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lasted": {
+      "token_id": 7740,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "duration": {
+      "token_id": 7276,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "critical": {
+      "token_id": 3426,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "severe": {
+      "token_id": 5684,
+      "first_seen": "Siege of Tkvarcheli",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pacific": {
+      "token_id": 6399,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "california": {
+      "token_id": 4944,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "basketball": {
+      "token_id": 3464,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ben": {
+      "token_id": 3234,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "haas": {
+      "token_id": 1493,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "head": {
+      "token_id": 2893,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "berkeley": {
+      "token_id": 662,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "braun": {
+      "token_id": 1812,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ncaa": {
+      "token_id": 6322,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "golden": {
+      "token_id": 1274,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "men": {
+      "token_id": 7631,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pavilion": {
+      "token_id": 1792,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "conference": {
+      "token_id": 943,
+      "first_seen": "2007\u201308 California Golden Bears men's basketball team",
+      "has_definition": false,
+      "definition": ""
+    },
+    "instructor": {
+      "token_id": 470,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cope": {
+      "token_id": 6781,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "langara": {
+      "token_id": 2701,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "progressive": {
+      "token_id": 6678,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "journalism": {
+      "token_id": 140,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roberts": {
+      "token_id": 2708,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "electors": {
+      "token_id": 20,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "coalition": {
+      "token_id": 7507,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anne": {
+      "token_id": 5536,
+      "first_seen": "Anne Roberts",
+      "has_definition": false,
+      "definition": ""
+    },
+    "why": {
+      "token_id": 6058,
+      "first_seen": "That Is Why",
+      "has_definition": true,
+      "definition": "Reason"
+    },
+    "group": {
+      "token_id": 6985,
+      "first_seen": "That Is Why",
+      "has_definition": true,
+      "definition": "A number of things or persons being in some relation to one another."
+    },
+    "bellybutton": {
+      "token_id": 4871,
+      "first_seen": "That Is Why",
+      "has_definition": true,
+      "definition": "The navel or umbilicus."
+    },
+    "jellyfish": {
+      "token_id": 6709,
+      "first_seen": "That Is Why",
+      "has_definition": true,
+      "definition": "An almost transparent aquatic animal; any one of the acalephs, especially one of the larger species, having a jellylike appearance."
+    },
+    "support": {
+      "token_id": 4699,
+      "first_seen": "That Is Why",
+      "has_definition": true,
+      "definition": "(sometimes attributive) Something which supports."
+    },
+    "half": {
+      "token_id": 4271,
+      "first_seen": "Stefano da Ferrara",
+      "has_definition": true,
+      "definition": "One of two usually roughly equal parts into which anything may be divided, or considered as divided."
+    },
+    "painter": {
+      "token_id": 7116,
+      "first_seen": "Stefano da Ferrara",
+      "has_definition": true,
+      "definition": "An artist who paints pictures."
+    },
+    "ferrara": {
+      "token_id": 858,
+      "first_seen": "Stefano da Ferrara",
+      "has_definition": false,
+      "definition": ""
+    },
+    "stefano": {
+      "token_id": 5428,
+      "first_seen": "Stefano da Ferrara",
+      "has_definition": false,
+      "definition": ""
+    },
+    "asserted": {
+      "token_id": 4467,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "To declare with assurance or plainly and strongly; to state positively."
+    },
+    "alaska": {
+      "token_id": 5502,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "siberia": {
+      "token_id": 2242,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "campaigners": {
+      "token_id": 3459,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "A person who has served in a military campaign."
+    },
+    "conspiracy": {
+      "token_id": 5486,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "The act of two or more persons, called conspirators, working secretly to obtain some goal, usually understood with negative connotations."
+    },
+    "passed": {
+      "token_id": 6302,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "To change place."
+    },
+    "anti": {
+      "token_id": 2197,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "A person opposed to a concept or principle."
+    },
+    "brainwash": {
+      "token_id": 2358,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "A distorting effect upon one's memory, belief, or ideas, as by propaganda."
+    },
+    "territory": {
+      "token_id": 1309,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "A large extent or tract of land; for example a region, country or district."
+    },
+    "right": {
+      "token_id": 2339,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "Straight, not bent."
+    },
+    "hospitalize": {
+      "token_id": 4624,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "run": {
+      "token_id": 5830,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "To run."
+    },
+    "intended": {
+      "token_id": 4244,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "(usually followed by the particle \"to\") To hope; to wish (something, or something to be accomplished); be intent upon"
+    },
+    "major": {
+      "token_id": 587,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "A military rank between captain and lieutenant colonel."
+    },
+    "health": {
+      "token_id": 3420,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness."
+    },
+    "became": {
+      "token_id": 3215,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "To arrive, come (to a place)."
+    },
+    "dispute": {
+      "token_id": 7226,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "An argument or disagreement, a failure to agree."
+    },
+    "denounced": {
+      "token_id": 2148,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "To make known in a formal manner; to proclaim; to announce; to declare."
+    },
+    "americans": {
+      "token_id": 5831,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "act": {
+      "token_id": 6938,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": true,
+      "definition": "Something done, a deed."
+    },
+    "care": {
+      "token_id": 3155,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "uncontroversial": {
+      "token_id": 4968,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "focus": {
+      "token_id": 6369,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bill": {
+      "token_id": 3507,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "congress": {
+      "token_id": 5130,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mental": {
+      "token_id": 6024,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bipartisan": {
+      "token_id": 3750,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "communist": {
+      "token_id": 2749,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "jewish": {
+      "token_id": 1500,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "initially": {
+      "token_id": 7864,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "establish": {
+      "token_id": 5993,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "psychiatric": {
+      "token_id": 6281,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "camps": {
+      "token_id": 3633,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "concentration": {
+      "token_id": 4274,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "activists": {
+      "token_id": 3303,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "enabling": {
+      "token_id": 5860,
+      "first_seen": "Alaska Mental Health Enabling Act",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chart": {
+      "token_id": 2891,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": true,
+      "definition": "A map."
+    },
+    "weeks": {
+      "token_id": 6136,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "talking": {
+      "token_id": 1194,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tenth": {
+      "token_id": 2376,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hansa": {
+      "token_id": 4609,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "albums": {
+      "token_id": 6169,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "entered": {
+      "token_id": 5441,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "spending": {
+      "token_id": 6559,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "altogether": {
+      "token_id": 6990,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "modern": {
+      "token_id": 6037,
+      "first_seen": "America (Modern Talking album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "exiled": {
+      "token_id": 3460,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "greece": {
+      "token_id": 6293,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ruler": {
+      "token_id": 300,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "turn": {
+      "token_id": 4990,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mythology": {
+      "token_id": 7833,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hercules": {
+      "token_id": 845,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ambrax": {
+      "token_id": 6624,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "said": {
+      "token_id": 6723,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "below": {
+      "token_id": 3854,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lycaon": {
+      "token_id": 5602,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dexamenus": {
+      "token_id": 1523,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "aeneas": {
+      "token_id": 5856,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "thesprotus": {
+      "token_id": 6960,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "compare": {
+      "token_id": 3554,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "following": {
+      "token_id": 7867,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ancient": {
+      "token_id": 571,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "epirus": {
+      "token_id": 55,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "came": {
+      "token_id": 912,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "arcadia": {
+      "token_id": 6703,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "character": {
+      "token_id": 5340,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "personages": {
+      "token_id": 5061,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ambracia": {
+      "token_id": 4117,
+      "first_seen": "Ambrax",
+      "has_definition": false,
+      "definition": ""
     }
   },
-  "total_articles": 90,
-  "total_words": 1638
+  "total_articles": 120,
+  "total_words": 2033
 }
