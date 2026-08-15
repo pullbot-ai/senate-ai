@@ -1,0 +1,3672 @@
+{
+  "words": {
+    "was": {
+      "token_id": 2226,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "the": {
+      "token_id": 3683,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives."
+    },
+    "roman": {
+      "token_id": 1065,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "One of the main three types used for the Latin alphabet (the others being italics and blackletter), in which the ascenders are mostly straight."
+    },
+    "henry": {
+      "token_id": 6269,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "In the International System of Units, the derived unit of electrical inductance; the inductance induced in a circuit by a rate of change of current of one ampere per second and a resulting electromotive force of one volt. Symbol: H"
+    },
+    "diocese": {
+      "token_id": 1023,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "Administrative division of the later Roman Empire, starting with the tetrarchy."
+    },
+    "west": {
+      "token_id": 5490,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "One of the four principal compass points, specifically 270\u00b0, conventionally directed to the left on maps; the direction of the setting sun at an equinox, abbreviated as W."
+    },
+    "catholic": {
+      "token_id": 5382,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "Of the Western Christian church, as differentiated from e.g. the Orthodox church."
+    },
+    "sixth": {
+      "token_id": 1718,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "(not used in the plural) The person or thing in the sixth position."
+    },
+    "marshall": {
+      "token_id": 4114,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "england": {
+      "token_id": 3408,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bishop": {
+      "token_id": 1983,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "An overseer of congregations: either any such overseer, generally speaking, or (in Eastern Orthodoxy, Catholicism, Anglicanism, etc.) an official in the church hierarchy (actively or nominally) governing a diocese, supervising the church's priests, deacons, and property in its territory."
+    },
+    "vincent": {
+      "token_id": 1209,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "north": {
+      "token_id": 1984,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": true,
+      "definition": "One of the four major compass points, specifically 0\u00b0, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N."
+    },
+    "salford": {
+      "token_id": 3313,
+      "first_seen": "Henry Marshall (bishop of Salford)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "summer": {
+      "token_id": 1811,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as being from June 21 to September 22 or 23 in parts of the USA, the months of June, July and August in the United Kingdom and the months of December, January and February in the Southern Hemisphere."
+    },
+    "had": {
+      "token_id": 6804,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "To possess, own."
+    },
+    "jackson": {
+      "token_id": 6735,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "british": {
+      "token_id": 2852,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "earned": {
+      "token_id": 5665,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "To gain (success, reward, recognition) through applied effort or work."
+    },
+    "colonel": {
+      "token_id": 6785,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "A commissioned officer in an armed military organization, typically the highest rank before flag officer ranks (generals). It is generally found in armies, air forces or naval infantry (marines)."
+    },
+    "olympic": {
+      "token_id": 5947,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "shooter": {
+      "token_id": 4337,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "injured": {
+      "token_id": 43,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "To wound or cause physical harm to a living creature."
+    },
+    "team": {
+      "token_id": 7798,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "A set of draught animals, such as two horses in front of a carriage."
+    },
+    "service": {
+      "token_id": 2150,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "An act of being of assistance to someone."
+    },
+    "third": {
+      "token_id": 1819,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "The person or thing in the third position."
+    },
+    "lieutenant": {
+      "token_id": 5838,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "The lowest Junior Commissioned Officer rank(s) in many military forces, often Army and Marines."
+    },
+    "distinguished": {
+      "token_id": 3206,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": true,
+      "definition": "To recognize someone or something as different from others based on its characteristics."
+    },
+    "order": {
+      "token_id": 4822,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "for": {
+      "token_id": 5535,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "olympics": {
+      "token_id": 1139,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "thomas": {
+      "token_id": 990,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fought": {
+      "token_id": 3440,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "and": {
+      "token_id": 3536,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "war": {
+      "token_id": 4711,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sports": {
+      "token_id": 70,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "world": {
+      "token_id": 2170,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "three": {
+      "token_id": 7762,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "arthur": {
+      "token_id": 1170,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "competed": {
+      "token_id": 3606,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "times": {
+      "token_id": 4711,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bar": {
+      "token_id": 1430,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "his": {
+      "token_id": 2565,
+      "first_seen": "Arthur Jackson (British sport shooter)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bless": {
+      "token_id": 7829,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "released": {
+      "token_id": 4673,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "satan": {
+      "token_id": 814,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "god": {
+      "token_id": 2196,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "playful": {
+      "token_id": 1471,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "band": {
+      "token_id": 3631,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "records": {
+      "token_id": 2161,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "has": {
+      "token_id": 2217,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "undertones": {
+      "token_id": 4512,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mephiskapheles": {
+      "token_id": 3377,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "debut": {
+      "token_id": 5517,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ska": {
+      "token_id": 6697,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "moon": {
+      "token_id": 5871,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "satanic": {
+      "token_id": 5995,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "album": {
+      "token_id": 2307,
+      "first_seen": "God Bless Satan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "interview": {
+      "token_id": 505,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "director": {
+      "token_id": 381,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "works": {
+      "token_id": 1713,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "found": {
+      "token_id": 6350,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "preparing": {
+      "token_id": 5459,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "directed": {
+      "token_id": 1575,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "south": {
+      "token_id": 4225,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "shop": {
+      "token_id": 1096,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "drama": {
+      "token_id": 2043,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "korean": {
+      "token_id": 7286,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "byun": {
+      "token_id": 5301,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "beauty": {
+      "token_id": 3522,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "who": {
+      "token_id": 3875,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hee": {
+      "token_id": 5264,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "follows": {
+      "token_id": 6438,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "min": {
+      "token_id": 3106,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "seok": {
+      "token_id": 2008,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "romantic": {
+      "token_id": 7215,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": true,
+      "definition": "Of or dealing with languages or cultures derived from Roman influence and Latin: Italian, French, Portuguese, Spanish, Romanian, Catalan, Occitan, Corsican, etc."
+    },
+    "written": {
+      "token_id": 4943,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": true,
+      "definition": "To form letters, words or symbols on a surface in order to communicate."
+    },
+    "documentary": {
+      "token_id": 7694,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": true,
+      "definition": "A film, TV program, publication etc. which presents a social, political, scientific or historical subject in a factual or informative manner."
+    },
+    "film": {
+      "token_id": 985,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "love": {
+      "token_id": 5278,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "assistant": {
+      "token_id": 336,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "about": {
+      "token_id": 3217,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tape": {
+      "token_id": 4559,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "when": {
+      "token_id": 1710,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "involves": {
+      "token_id": 6668,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "filmed": {
+      "token_id": 821,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "young": {
+      "token_id": 6498,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "filmmaker": {
+      "token_id": 3018,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hyuk": {
+      "token_id": 2036,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "woman": {
+      "token_id": 6,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "parlor": {
+      "token_id": 6811,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "eun": {
+      "token_id": 607,
+      "first_seen": "Interview (2000 film)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "thetford": {
+      "token_id": 5351,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "county": {
+      "token_id": 7082,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "The land ruled by a count or a countess."
+    },
+    "river": {
+      "token_id": 7631,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea."
+    },
+    "around": {
+      "token_id": 3143,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "(with the verb \"to be\") Present in the vicinity."
+    },
+    "ingham": {
+      "token_id": 4778,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "population": {
+      "token_id": 6450,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "The people living within a political or geographical boundary."
+    },
+    "near": {
+      "token_id": 1569,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "The left side of a horse or of a team of horses pulling a carriage etc."
+    },
+    "lies": {
+      "token_id": 6666,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "The terrain and conditions surrounding the ball before it is struck."
+    },
+    "district": {
+      "token_id": 1284,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "An administrative division of an area."
+    },
+    "valley": {
+      "token_id": 5237,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "An elongated depression between hills or mountains, often with a river flowing through it."
+    },
+    "stow": {
+      "token_id": 3456,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "A place, stead."
+    },
+    "parish": {
+      "token_id": 5897,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "In the Anglican, Eastern Orthodox, Lutheran and Roman Catholic Church, an administrative part of a diocese that has its own church."
+    },
+    "suffolk": {
+      "token_id": 6950,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "edmunds": {
+      "token_id": 1080,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "settled": {
+      "token_id": 2782,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "To conclude or resolve (something):"
+    },
+    "breckland": {
+      "token_id": 6474,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "this": {
+      "token_id": 2198,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "Something being indicated that is here; one of these."
+    },
+    "lark": {
+      "token_id": 7499,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "Any of various small, singing passerine birds of the family Alaudidae."
+    },
+    "culford": {
+      "token_id": 2599,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "from": {
+      "token_id": 2874,
+      "first_seen": "West Stow",
+      "has_definition": true,
+      "definition": "Used to indicate source or provenance."
+    },
+    "mildenhall": {
+      "token_id": 6303,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "villages": {
+      "token_id": 4921,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "located": {
+      "token_id": 1681,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "known": {
+      "token_id": 6394,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "area": {
+      "token_id": 4023,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "civil": {
+      "token_id": 7880,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bury": {
+      "token_id": 837,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "village": {
+      "token_id": 6084,
+      "first_seen": "West Stow",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wealthy": {
+      "token_id": 7886,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": true,
+      "definition": "A rich person."
+    },
+    "difficult": {
+      "token_id": 728,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": true,
+      "definition": "To make difficult; to impede; to perplex."
+    },
+    "murder": {
+      "token_id": 3349,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": true,
+      "definition": "The crime of deliberately killing another person without justification."
+    },
+    "determined": {
+      "token_id": 7031,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": true,
+      "definition": "To set the boundaries or limits of."
+    },
+    "most": {
+      "token_id": 5983,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": true,
+      "definition": "The greatest amount."
+    },
+    "lost": {
+      "token_id": 7081,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "featuring": {
+      "token_id": 2884,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "plot": {
+      "token_id": 1140,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "title": {
+      "token_id": 7130,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "halina": {
+      "token_id": 223,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "are": {
+      "token_id": 1082,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cinema": {
+      "token_id": 6072,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "father": {
+      "token_id": 3363,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "aristocrats": {
+      "token_id": 4933,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "can": {
+      "token_id": 5767,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "russian": {
+      "token_id": 14,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "feature": {
+      "token_id": 1477,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ski": {
+      "token_id": 4157,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "displayed": {
+      "token_id": 5624,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "soviet": {
+      "token_id": 3558,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "detail": {
+      "token_id": 1113,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "have": {
+      "token_id": 2957,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vampires": {
+      "token_id": 4851,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "been": {
+      "token_id": 348,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "actually": {
+      "token_id": 3498,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "what": {
+      "token_id": 7116,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "variety": {
+      "token_id": 1629,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mystery": {
+      "token_id": 1866,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "any": {
+      "token_id": 5996,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oktawian": {
+      "token_id": 3043,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wiktor": {
+      "token_id": 5435,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "considered": {
+      "token_id": 1651,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "influence": {
+      "token_id": 5335,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "inheritance": {
+      "token_id": 3237,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "popular": {
+      "token_id": 3373,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "whodunit": {
+      "token_id": 86,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "supernatural": {
+      "token_id": 1581,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "crime": {
+      "token_id": 7573,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "did": {
+      "token_id": 1820,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "marry": {
+      "token_id": 5486,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kaczanowski": {
+      "token_id": 4394,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wna": {
+      "token_id": 6951,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "appears": {
+      "token_id": 5793,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "starring": {
+      "token_id": 2803,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "labedzka": {
+      "token_id": 712,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "their": {
+      "token_id": 7912,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "work": {
+      "token_id": 2373,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "them": {
+      "token_id": 3172,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "silent": {
+      "token_id": 5392,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "daughter": {
+      "token_id": 6238,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "but": {
+      "token_id": 5684,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "maria": {
+      "token_id": 7060,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "despite": {
+      "token_id": 6003,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "describe": {
+      "token_id": 4563,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gathered": {
+      "token_id": 5889,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pair": {
+      "token_id": 286,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "polish": {
+      "token_id": 3648,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "not": {
+      "token_id": 619,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "biega": {
+      "token_id": 6506,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "warsaw": {
+      "token_id": 3448,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "balcerkiewicz": {
+      "token_id": 1997,
+      "first_seen": "Vampires of Warsaw",
+      "has_definition": false,
+      "definition": ""
+    },
+    "player": {
+      "token_id": 2144,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "during": {
+      "token_id": 4235,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "won": {
+      "token_id": 1601,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "single": {
+      "token_id": 7593,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "junior": {
+      "token_id": 6401,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "year": {
+      "token_id": 2978,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "years": {
+      "token_id": 3130,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chandra": {
+      "token_id": 3314,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "akshat": {
+      "token_id": 163,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "same": {
+      "token_id": 3976,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "time": {
+      "token_id": 3160,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "titles": {
+      "token_id": 2013,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "were": {
+      "token_id": 7531,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "grandmaster": {
+      "token_id": 4201,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chess": {
+      "token_id": 4871,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "old": {
+      "token_id": 5694,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "champion": {
+      "token_id": 1783,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "first": {
+      "token_id": 7193,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "started": {
+      "token_id": 7384,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "both": {
+      "token_id": 4312,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "american": {
+      "token_id": 4677,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "india": {
+      "token_id": 3933,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "national": {
+      "token_id": 5490,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "visit": {
+      "token_id": 5177,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "also": {
+      "token_id": 6155,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "march": {
+      "token_id": 2877,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "championship": {
+      "token_id": 1116,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nine": {
+      "token_id": 6834,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "person": {
+      "token_id": 4493,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fide": {
+      "token_id": 347,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "playing": {
+      "token_id": 2540,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "held": {
+      "token_id": 3106,
+      "first_seen": "Akshat Chandra",
+      "has_definition": false,
+      "definition": ""
+    },
+    "party": {
+      "token_id": 930,
+      "first_seen": "Thelma Walker",
+      "has_definition": false,
+      "definition": ""
+    },
+    "colne": {
+      "token_id": 5381,
+      "first_seen": "Thelma Walker",
+      "has_definition": false,
+      "definition": ""
+    },
+    "she": {
+      "token_id": 6629,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A female."
+    },
+    "consultant": {
+      "token_id": 4777,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A person or party that is consulted"
+    },
+    "formerly": {
+      "token_id": 6779,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "At some time in the past"
+    },
+    "later": {
+      "token_id": 2783,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "Near the end of a period of time."
+    },
+    "teacher": {
+      "token_id": 3619,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A person who teaches, especially one employed in a school."
+    },
+    "political": {
+      "token_id": 5549,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A political agent or officer."
+    },
+    "member": {
+      "token_id": 7126,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "One who officially belongs to a group."
+    },
+    "politician": {
+      "token_id": 4102,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "One engaged in politics, especially an elected or appointed government official."
+    },
+    "independent": {
+      "token_id": 7533,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A candidate or voter not affiliated with any political party, a freethinker, free of a party platform."
+    },
+    "labour": {
+      "token_id": 4169,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "Effort expended on a particular task; toil, work."
+    },
+    "career": {
+      "token_id": 6446,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "One's calling in life; a person's occupation; one's profession."
+    },
+    "thelma": {
+      "token_id": 7723,
+      "first_seen": "Thelma Walker",
+      "has_definition": false,
+      "definition": ""
+    },
+    "parliament": {
+      "token_id": 4910,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A formal council summoned (especially by a monarch) to discuss important issues."
+    },
+    "doris": {
+      "token_id": 3961,
+      "first_seen": "Thelma Walker",
+      "has_definition": false,
+      "definition": ""
+    },
+    "her": {
+      "token_id": 6820,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "A female person or animal."
+    },
+    "walker": {
+      "token_id": 1450,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "The agent noun of to walk: a person who walks or a thing which walks, especially a pedestrian or a participant in a walking race."
+    },
+    "before": {
+      "token_id": 5649,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "At an earlier time."
+    },
+    "worked": {
+      "token_id": 1147,
+      "first_seen": "Thelma Walker",
+      "has_definition": true,
+      "definition": "To do a specific task by employing physical or mental powers."
+    },
+    "gmina": {
+      "token_id": 3457,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": false,
+      "definition": ""
+    },
+    "southern": {
+      "token_id": 366,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": true,
+      "definition": "Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South."
+    },
+    "lesser": {
+      "token_id": 461,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": true,
+      "definition": "A thing that is of smaller size, value, importance etc."
+    },
+    "wieliczka": {
+      "token_id": 2122,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": false,
+      "definition": ""
+    },
+    "administrative": {
+      "token_id": 6622,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": true,
+      "definition": "Of or relating to administering or administration."
+    },
+    "voivodeship": {
+      "token_id": 3364,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bodzan": {
+      "token_id": 5317,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": false,
+      "definition": ""
+    },
+    "poland": {
+      "token_id": 842,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": false,
+      "definition": ""
+    },
+    "biskupice": {
+      "token_id": 3940,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": false,
+      "definition": ""
+    },
+    "within": {
+      "token_id": 1928,
+      "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship",
+      "has_definition": true,
+      "definition": "In the context of which the present document or ruling is made."
+    },
+    "classical": {
+      "token_id": 1916,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "One that is classical in some way; for example, a classical economist."
+    },
+    "bettany": {
+      "token_id": 3473,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "antiquity": {
+      "token_id": 7422,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "Ancient times; faraway history; former ages"
+    },
+    "active": {
+      "token_id": 6633,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "A person or thing that is acting or capable of acting."
+    },
+    "broadcaster": {
+      "token_id": 1137,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "An organisation that engages in the activity of broadcasting."
+    },
+    "obe": {
+      "token_id": 4816,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "A particular subdivision of ancient Laconia."
+    },
+    "encourage": {
+      "token_id": 4833,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "To mentally support; to motivate, give courage, hope or spirit."
+    },
+    "state": {
+      "token_id": 7221,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "A condition; a set of circumstances applying at any given time."
+    },
+    "teaching": {
+      "token_id": 4040,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "Something taught by a religious or philosophical authority."
+    },
+    "specialising": {
+      "token_id": 4619,
+      "first_seen": "Bettany Hughes",
+      "has_definition": true,
+      "definition": "To make distinct or separate, particularly:"
+    },
+    "history": {
+      "token_id": 6090,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "published": {
+      "token_id": 7372,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "istanbul": {
+      "token_id": 4331,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "classics": {
+      "token_id": 2484,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "schools": {
+      "token_id": 6319,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "historian": {
+      "token_id": 550,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "myth": {
+      "token_id": 7987,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "efforts": {
+      "token_id": 4256,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "books": {
+      "token_id": 471,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hughes": {
+      "token_id": 888,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "author": {
+      "token_id": 2794,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "appointed": {
+      "token_id": 5269,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "english": {
+      "token_id": 7620,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cover": {
+      "token_id": 6714,
+      "first_seen": "Bettany Hughes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "saxony": {
+      "token_id": 3605,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "consists": {
+      "token_id": 6659,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "germany": {
+      "token_id": 6507,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bornum": {
+      "token_id": 4933,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lower": {
+      "token_id": 3661,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ricklingen": {
+      "token_id": 3410,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "borough": {
+      "token_id": 6395,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oberricklingen": {
+      "token_id": 276,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wettbergen": {
+      "token_id": 310,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hlenberg": {
+      "token_id": 7892,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "quarter": {
+      "token_id": 1831,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "quarters": {
+      "token_id": 4720,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hanover": {
+      "token_id": 4035,
+      "first_seen": "Ricklingen",
+      "has_definition": false,
+      "definition": ""
+    },
+    "plays": {
+      "token_id": 7155,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "efl": {
+      "token_id": 6621,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rotherham": {
+      "token_id": 2598,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "league": {
+      "token_id": 3889,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "two": {
+      "token_id": 2599,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "midfielder": {
+      "token_id": 3034,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "club": {
+      "token_id": 6646,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "professional": {
+      "token_id": 2646,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "footballer": {
+      "token_id": 2077,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": true,
+      "definition": "One who plays association football."
+    },
+    "attacking": {
+      "token_id": 6042,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "james": {
+      "token_id": 3404,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "clarke": {
+      "token_id": 5169,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "united": {
+      "token_id": 7297,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": true,
+      "definition": "To bring together as one."
+    },
+    "anthony": {
+      "token_id": 1737,
+      "first_seen": "James Clarke (footballer, born 2006)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lajami": {
+      "token_id": 5996,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hilal": {
+      "token_id": 4602,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "twin": {
+      "token_id": 1596,
+      "first_seen": "Ali Lajami",
+      "has_definition": true,
+      "definition": "Either of two people (or, less commonly, animals) who shared the same uterus at the same time; one who was born at the same birth as a sibling."
+    },
+    "arabia": {
+      "token_id": 5947,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "saudi": {
+      "token_id": 7221,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ali": {
+      "token_id": 7043,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "side": {
+      "token_id": 2913,
+      "first_seen": "Ali Lajami",
+      "has_definition": true,
+      "definition": "A bounding straight edge of a two-dimensional shape."
+    },
+    "defender": {
+      "token_id": 6705,
+      "first_seen": "Ali Lajami",
+      "has_definition": true,
+      "definition": "Someone who defends people or property"
+    },
+    "mohammed": {
+      "token_id": 1451,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pro": {
+      "token_id": 7134,
+      "first_seen": "Ali Lajami",
+      "has_definition": true,
+      "definition": "An advantage of something, especially when contrasted with its disadvantages (cons)."
+    },
+    "brother": {
+      "token_id": 6425,
+      "first_seen": "Ali Lajami",
+      "has_definition": true,
+      "definition": "Son of the same parents as another person."
+    },
+    "qassem": {
+      "token_id": 3787,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "qadsiah": {
+      "token_id": 1291,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "arabian": {
+      "token_id": 2722,
+      "first_seen": "Ali Lajami",
+      "has_definition": false,
+      "definition": ""
+    },
+    "august": {
+      "token_id": 5743,
+      "first_seen": "Ali Lajami",
+      "has_definition": true,
+      "definition": "Awe-inspiring, majestic, noble, venerable."
+    },
+    "residential": {
+      "token_id": 7597,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "A trip during which people temporarily live together."
+    },
+    "current": {
+      "token_id": 3077,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "The generally unidirectional movement of a gas or fluid."
+    },
+    "neighborhood": {
+      "token_id": 7399,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "The quality of being a neighbor, of living nearby, next to each-other; proximity."
+    },
+    "address": {
+      "token_id": 2374,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "Direction."
+    },
+    "implemented": {
+      "token_id": 7490,
+      "first_seen": "Shakujiidai",
+      "has_definition": false,
+      "definition": ""
+    },
+    "names": {
+      "token_id": 1680,
+      "first_seen": "Shakujiidai",
+      "has_definition": false,
+      "definition": ""
+    },
+    "system": {
+      "token_id": 1399,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "A collection of organized things; a whole composed of relationships among its members."
+    },
+    "shakujiidai": {
+      "token_id": 7277,
+      "first_seen": "Shakujiidai",
+      "has_definition": false,
+      "definition": ""
+    },
+    "street": {
+      "token_id": 2018,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "A paved part of road, usually in a village or a town."
+    },
+    "nerima": {
+      "token_id": 5151,
+      "first_seen": "Shakujiidai",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tokyo": {
+      "token_id": 4831,
+      "first_seen": "Shakujiidai",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ward": {
+      "token_id": 932,
+      "first_seen": "Shakujiidai",
+      "has_definition": true,
+      "definition": "A warden; a guard; a guardian or watchman."
+    },
+    "further": {
+      "token_id": 4442,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "To help forward; to assist."
+    },
+    "reserve": {
+      "token_id": 7435,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "(behaviour) Restriction."
+    },
+    "western": {
+      "token_id": 3197,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "A film, or some other dramatic work, set in, the historic (c. 1850-1910) American West (west of the Mississippi river) focusing on conflict between whites and Indians, lawmen and outlaws, ranchers and farmers, or industry (railroads, mining) and agriculture."
+    },
+    "which": {
+      "token_id": 5248,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "(interrogative) What one or ones (of those mentioned or implied)."
+    },
+    "project": {
+      "token_id": 7337,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages."
+    },
+    "indian": {
+      "token_id": 5620,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "enlarged": {
+      "token_id": 4399,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "part": {
+      "token_id": 7316,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "A portion; a component."
+    },
+    "ghats": {
+      "token_id": 53,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "A descending path or stairway to a river; a ford or landing-place."
+    },
+    "eastern": {
+      "token_id": 844,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": true,
+      "definition": "Of, facing, situated in, or related to the east."
+    },
+    "protected": {
+      "token_id": 3559,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tamil": {
+      "token_id": 2067,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bramhagiri": {
+      "token_id": 5897,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "elephant": {
+      "token_id": 6035,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fourth": {
+      "token_id": 6810,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nilgiris": {
+      "token_id": 900,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sathyamangalam": {
+      "token_id": 7682,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "along": {
+      "token_id": 1375,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wildlife": {
+      "token_id": 6888,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nadu": {
+      "token_id": 5697,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "forest": {
+      "token_id": 4180,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "declared": {
+      "token_id": 753,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sanctuary": {
+      "token_id": 6578,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "erstwhile": {
+      "token_id": 7383,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "erode": {
+      "token_id": 155,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "division": {
+      "token_id": 4920,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tiger": {
+      "token_id": 5682,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "straddling": {
+      "token_id": 6225,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "largest": {
+      "token_id": 731,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "notified": {
+      "token_id": 1602,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "established": {
+      "token_id": 5752,
+      "first_seen": "Sathyamangalam Tiger Reserve",
+      "has_definition": false,
+      "definition": ""
+    },
+    "served": {
+      "token_id": 1848,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "affairs": {
+      "token_id": 6329,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "until": {
+      "token_id": 6101,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scientific": {
+      "token_id": 5671,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "educational": {
+      "token_id": 6755,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "delegate": {
+      "token_id": 859,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "moegihardjo": {
+      "token_id": 7916,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rector": {
+      "token_id": 7315,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "death": {
+      "token_id": 2443,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "permanent": {
+      "token_id": 2532,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nations": {
+      "token_id": 4981,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "organization": {
+      "token_id": 3426,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "academic": {
+      "token_id": 2298,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "indonesian": {
+      "token_id": 7250,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cultural": {
+      "token_id": 1065,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "university": {
+      "token_id": 3139,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alibazah": {
+      "token_id": 7322,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "partomo": {
+      "token_id": 3842,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "diplomat": {
+      "token_id": 1802,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "indonesia": {
+      "token_id": 1462,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "deputy": {
+      "token_id": 7796,
+      "first_seen": "Partomo Moegihardjo Alibazah",
+      "has_definition": false,
+      "definition": ""
+    },
+    "recognition": {
+      "token_id": 6409,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kingdom": {
+      "token_id": 6771,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "college": {
+      "token_id": 3796,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "official": {
+      "token_id": 5092,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oriel": {
+      "token_id": 5699,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oldest": {
+      "token_id": 412,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "reigning": {
+      "token_id": 1933,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "visitor": {
+      "token_id": 6240,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "connection": {
+      "token_id": 7724,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "The act of connecting."
+    },
+    "foundation": {
+      "token_id": 3133,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "The act of founding, fixing, establishing, or beginning to erect."
+    },
+    "monarch": {
+      "token_id": 6608,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": false,
+      "definition": ""
+    },
+    "constituent": {
+      "token_id": 6278,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A part, or component of a whole"
+    },
+    "king": {
+      "token_id": 5426,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation."
+    },
+    "royal": {
+      "token_id": 4299,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A royal person; a member of a royal family."
+    },
+    "being": {
+      "token_id": 5047,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A living creature."
+    },
+    "oxford": {
+      "token_id": 156,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A variety of shoe, typically made of heavy leather."
+    },
+    "historically": {
+      "token_id": 7367,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "In a historic manner; with reference to history or the historical record."
+    },
+    "hall": {
+      "token_id": 6900,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A corridor; a hallway."
+    },
+    "square": {
+      "token_id": 7829,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "A polygon with four sides of equal length and four right angles; an equilateral rectangle; a regular quadrilateral."
+    },
+    "distinction": {
+      "token_id": 1138,
+      "first_seen": "Oriel College, Oxford",
+      "has_definition": true,
+      "definition": "That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination."
+    },
+    "species": {
+      "token_id": 4552,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": true,
+      "definition": "Type or kind. (Compare race.)"
+    },
+    "brazil": {
+      "token_id": 1583,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": true,
+      "definition": "A red-orange dye obtained from brazil wood."
+    },
+    "bird": {
+      "token_id": 4212,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": true,
+      "definition": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs."
+    },
+    "uruguay": {
+      "token_id": 1908,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "narrow": {
+      "token_id": 2457,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": true,
+      "definition": "(chiefly in the plural) A narrow passage, especially a contracted part of a stream, lake, or sea; a strait connecting two bodies of water."
+    },
+    "woodcreeper": {
+      "token_id": 7754,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dendrocolaptinae": {
+      "token_id": 3382,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "paraguay": {
+      "token_id": 1139,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bolivia": {
+      "token_id": 1883,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "furnariidae": {
+      "token_id": 964,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ovenbird": {
+      "token_id": 7296,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "family": {
+      "token_id": 2862,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": true,
+      "definition": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family."
+    },
+    "suriname": {
+      "token_id": 3543,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "billed": {
+      "token_id": 2415,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "argentina": {
+      "token_id": 469,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": false,
+      "definition": ""
+    },
+    "subfamily": {
+      "token_id": 6839,
+      "first_seen": "Narrow-billed woodcreeper",
+      "has_definition": true,
+      "definition": "A taxonomic category ranking between a family and a genus; formerly called a tribe"
+    },
+    "region": {
+      "token_id": 3466,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": true,
+      "definition": "Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons."
+    },
+    "bohemian": {
+      "token_id": 1948,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": false,
+      "definition": ""
+    },
+    "republic": {
+      "token_id": 212,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": true,
+      "definition": "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy."
+    },
+    "inhabitants": {
+      "token_id": 6264,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": true,
+      "definition": "Someone or thing who lives in a place."
+    },
+    "czech": {
+      "token_id": 3230,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sazen": {
+      "token_id": 3712,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kladno": {
+      "token_id": 5686,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": false,
+      "definition": ""
+    },
+    "municipality": {
+      "token_id": 2534,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": false,
+      "definition": ""
+    },
+    "central": {
+      "token_id": 7036,
+      "first_seen": "Sazen\u00e1",
+      "has_definition": true,
+      "definition": "Being in the centre."
+    },
+    "railway": {
+      "token_id": 6847,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "A transport system using rails used to move passengers or goods."
+    },
+    "arbanats": {
+      "token_id": 4553,
+      "first_seen": "Arbanats station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nouvelle": {
+      "token_id": 7780,
+      "first_seen": "Arbanats station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "operated": {
+      "token_id": 4026,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "To perform a work or labour; to exert power or strength, physical or mechanical; to act."
+    },
+    "bordeaux": {
+      "token_id": 5056,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "A wine coming from that area."
+    },
+    "services": {
+      "token_id": 444,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "An act of being of assistance to someone."
+    },
+    "france": {
+      "token_id": 1496,
+      "first_seen": "Arbanats station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "aquitaine": {
+      "token_id": 3284,
+      "first_seen": "Arbanats station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sncf": {
+      "token_id": 7562,
+      "first_seen": "Arbanats station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "local": {
+      "token_id": 3908,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "A person who lives near a given place."
+    },
+    "ter": {
+      "token_id": 3367,
+      "first_seen": "Arbanats station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "station": {
+      "token_id": 7075,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "A stopping place."
+    },
+    "line": {
+      "token_id": 4416,
+      "first_seen": "Arbanats station",
+      "has_definition": true,
+      "definition": "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight."
+    },
+    "many": {
+      "token_id": 344,
+      "first_seen": "Party of the Danes",
+      "has_definition": true,
+      "definition": "A multitude; a great aggregate; a mass of people; the generality; the common herd."
+    },
+    "itself": {
+      "token_id": 841,
+      "first_seen": "Party of the Danes",
+      "has_definition": true,
+      "definition": "(reflexive pronoun) it; A thing as the object of a verb or preposition that also appears as the subject"
+    },
+    "analysts": {
+      "token_id": 5846,
+      "first_seen": "Party of the Danes",
+      "has_definition": true,
+      "definition": "Someone who analyzes."
+    },
+    "ethnopluralist": {
+      "token_id": 5509,
+      "first_seen": "Party of the Danes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nationalist": {
+      "token_id": 908,
+      "first_seen": "Party of the Danes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "experts": {
+      "token_id": 7028,
+      "first_seen": "Party of the Danes",
+      "has_definition": true,
+      "definition": "A person with extensive knowledge or ability in a given subject."
+    },
+    "nazi": {
+      "token_id": 7384,
+      "first_seen": "Party of the Danes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "classified": {
+      "token_id": 2986,
+      "first_seen": "Party of the Danes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "described": {
+      "token_id": 928,
+      "first_seen": "Party of the Danes",
+      "has_definition": true,
+      "definition": "To represent in words."
+    },
+    "danes": {
+      "token_id": 5136,
+      "first_seen": "Party of the Danes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "neo": {
+      "token_id": 759,
+      "first_seen": "Party of the Danes",
+      "has_definition": true,
+      "definition": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner."
+    },
+    "denmark": {
+      "token_id": 5392,
+      "first_seen": "Party of the Danes",
+      "has_definition": false,
+      "definition": ""
+    },
+    "raises": {
+      "token_id": 1680,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rectally": {
+      "token_id": 2773,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gastroparesis": {
+      "token_id": 252,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "motilium": {
+      "token_id": 4496,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "domperidone": {
+      "token_id": 664,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mouth": {
+      "token_id": 6980,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "The opening of a creature through which food is ingested."
+    },
+    "used": {
+      "token_id": 3832,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "To utilize or employ."
+    },
+    "sold": {
+      "token_id": 2818,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "(ditransitive) To transfer goods or provide services in exchange for money."
+    },
+    "body": {
+      "token_id": 6096,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "Physical frame."
+    },
+    "dopamine": {
+      "token_id": 3631,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "A neurotransmitter associated with movement, attention, learning, and the brain\u2019s pleasure and reward system."
+    },
+    "under": {
+      "token_id": 2895,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "Being lower; being beneath something."
+    },
+    "medication": {
+      "token_id": 1713,
+      "first_seen": "Domperidone",
+      "has_definition": true,
+      "definition": "A medicine, or all the medicines regularly taken by a patient."
+    },
+    "level": {
+      "token_id": 1387,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nausea": {
+      "token_id": 2042,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "certain": {
+      "token_id": 5692,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "like": {
+      "token_id": 4088,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vomiting": {
+      "token_id": 4014,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gastrointestinal": {
+      "token_id": 4325,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "human": {
+      "token_id": 6161,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "antagonist": {
+      "token_id": 375,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "prolactin": {
+      "token_id": 4587,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "among": {
+      "token_id": 2872,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "others": {
+      "token_id": 3636,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "name": {
+      "token_id": 4841,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "brand": {
+      "token_id": 5129,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "problems": {
+      "token_id": 6938,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "treat": {
+      "token_id": 3764,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "taken": {
+      "token_id": 2227,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "may": {
+      "token_id": 5116,
+      "first_seen": "Domperidone",
+      "has_definition": false,
+      "definition": ""
+    },
+    "center": {
+      "token_id": 6516,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "casper": {
+      "token_id": 3386,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "revival": {
+      "token_id": 5657,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "garbutt": {
+      "token_id": 1841,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "saint": {
+      "token_id": 7311,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "designed": {
+      "token_id": 7245,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wyoming": {
+      "token_id": 6915,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sweeney": {
+      "token_id": 4894,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "church": {
+      "token_id": 5689,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "romanesque": {
+      "token_id": 1425,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "built": {
+      "token_id": 323,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "weidner": {
+      "token_id": 514,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "architects": {
+      "token_id": 2860,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "building": {
+      "token_id": 5794,
+      "first_seen": "Church of St. Anthony (Casper, Wyoming)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bayreuth": {
+      "token_id": 4566,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "grammy": {
+      "token_id": 777,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "notably": {
+      "token_id": 5164,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "german": {
+      "token_id": 5773,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "contralto": {
+      "token_id": 6380,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "soloist": {
+      "token_id": 6037,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "jahrhundertring": {
+      "token_id": 4193,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "role": {
+      "token_id": 7754,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "erda": {
+      "token_id": 6644,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ortrun": {
+      "token_id": 6987,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wenkel": {
+      "token_id": 7388,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rothe": {
+      "token_id": 2730,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": false,
+      "definition": ""
+    },
+    "award": {
+      "token_id": 1061,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": true,
+      "definition": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted."
+    },
+    "operatic": {
+      "token_id": 715,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": true,
+      "definition": "Of, related to, or typical of opera."
+    },
+    "principal": {
+      "token_id": 1139,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": true,
+      "definition": "The money originally invested or loaned, on which basis interest and returns are calculated."
+    },
+    "awarded": {
+      "token_id": 5758,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": true,
+      "definition": "To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case; to adjudge"
+    },
+    "portrayed": {
+      "token_id": 7717,
+      "first_seen": "Ortrun Wenkel",
+      "has_definition": true,
+      "definition": "To paint or draw the likeness of."
+    },
+    "register": {
+      "token_id": 7988,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept."
+    },
+    "residence": {
+      "token_id": 5185,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "The place where one lives; one's home."
+    },
+    "main": {
+      "token_id": 7593,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "Short for mainline."
+    },
+    "penney": {
+      "token_id": 3281,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": false,
+      "definition": ""
+    },
+    "house": {
+      "token_id": 6663,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "A structure built or serving as an abode of human beings."
+    },
+    "well": {
+      "token_id": 3012,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "In good health."
+    },
+    "added": {
+      "token_id": 5232,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate."
+    },
+    "preserved": {
+      "token_id": 5518,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "To protect; to keep from harm or injury."
+    },
+    "empire": {
+      "token_id": 999,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "(furniture) Following or imitating a style popular during the First French Empire (1804\u20131814)."
+    },
+    "waupaca": {
+      "token_id": 1119,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wisconsin": {
+      "token_id": 3981,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": false,
+      "definition": ""
+    },
+    "architectural": {
+      "token_id": 6922,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "Pertaining to architecture."
+    },
+    "style": {
+      "token_id": 6991,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "Senses relating to a thin, pointed object."
+    },
+    "historic": {
+      "token_id": 4557,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "A history, a non-fiction account of the past."
+    },
+    "mumbrue": {
+      "token_id": 2372,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": false,
+      "definition": ""
+    },
+    "places": {
+      "token_id": 6046,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "(physical) An area; somewhere within an area."
+    },
+    "second": {
+      "token_id": 1680,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "Something that is number two in a series."
+    },
+    "example": {
+      "token_id": 6579,
+      "first_seen": "Mumbrue-Penney House",
+      "has_definition": true,
+      "definition": "Something that is representative of all such things in a group."
+    },
+    "vice": {
+      "token_id": 1243,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": true,
+      "definition": "A bad habit."
+    },
+    "sreeni": {
+      "token_id": 2687,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "malayalam": {
+      "token_id": 7775,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "people": {
+      "token_id": 6447,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": true,
+      "definition": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons."
+    },
+    "writer": {
+      "token_id": 4646,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "monthly": {
+      "token_id": 1044,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "iheu": {
+      "token_id": 7567,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "secretary": {
+      "token_id": 6446,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "one": {
+      "token_id": 3187,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "founding": {
+      "token_id": 5873,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "yukthivadi": {
+      "token_id": 3674,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "journal": {
+      "token_id": 2933,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kollam": {
+      "token_id": 7192,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "www": {
+      "token_id": 4535,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "called": {
+      "token_id": 2468,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "based": {
+      "token_id": 1632,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bharatheeya": {
+      "token_id": 483,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "with": {
+      "token_id": 3973,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kerala": {
+      "token_id": 5722,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "yukthirajyam": {
+      "token_id": 2811,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "left": {
+      "token_id": 2282,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "activist": {
+      "token_id": 5113,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "publication": {
+      "token_id": 6752,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bharathiya": {
+      "token_id": 2208,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "humanist": {
+      "token_id": 2638,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ceased": {
+      "token_id": 7573,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "minded": {
+      "token_id": 779,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "that": {
+      "token_id": 2487,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "union": {
+      "token_id": 2683,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "org": {
+      "token_id": 7819,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "city": {
+      "token_id": 1521,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ethical": {
+      "token_id": 2915,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rationalist": {
+      "token_id": 2141,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "editor": {
+      "token_id": 5821,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chairman": {
+      "token_id": 6331,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ranarekha": {
+      "token_id": 1207,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "london": {
+      "token_id": 4499,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "another": {
+      "token_id": 6746,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "publishing": {
+      "token_id": 6618,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ira": {
+      "token_id": 6165,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "international": {
+      "token_id": 2404,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "association": {
+      "token_id": 922,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pattathanam": {
+      "token_id": 399,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rai": {
+      "token_id": 4276,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "born": {
+      "token_id": 867,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "branch": {
+      "token_id": 4113,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "members": {
+      "token_id": 4762,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sangham": {
+      "token_id": 7427,
+      "first_seen": "Sreeni Pattathanam",
+      "has_definition": false,
+      "definition": ""
+    },
+    "stanley": {
+      "token_id": 7164,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "job": {
+      "token_id": 2054,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "coco": {
+      "token_id": 5074,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "best": {
+      "token_id": 5978,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "caine": {
+      "token_id": 1498,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "michael": {
+      "token_id": 6870,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "italian": {
+      "token_id": 6385,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "actor": {
+      "token_id": 4492,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "younger": {
+      "token_id": 1238,
+      "first_seen": "Stanley Caine",
+      "has_definition": false,
+      "definition": ""
+    },
+    "francis": {
+      "token_id": 7535,
+      "first_seen": "Maceda (moth)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "moths": {
+      "token_id": 5431,
+      "first_seen": "Maceda (moth)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "maceda": {
+      "token_id": 4272,
+      "first_seen": "Maceda (moth)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nolidae": {
+      "token_id": 1060,
+      "first_seen": "Maceda (moth)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "genus": {
+      "token_id": 2682,
+      "first_seen": "Maceda (moth)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "winning": {
+      "token_id": 1030,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "son": {
+      "token_id": 5876,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lorenzo": {
+      "token_id": 4360,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "linebacker": {
+      "token_id": 7240,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "prior": {
+      "token_id": 2878,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "A high-ranking member of a monastery, usually lower in rank than an abbot."
+    },
+    "sonny": {
+      "token_id": 2115,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alexander": {
+      "token_id": 4643,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "draft": {
+      "token_id": 771,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "A current of air, usually coming into a room or vehicle."
+    },
+    "commanders": {
+      "token_id": 6049,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "One who exercises control and direction of a military or naval organization."
+    },
+    "back": {
+      "token_id": 7925,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly."
+    },
+    "nfl": {
+      "token_id": 5603,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "defensive": {
+      "token_id": 7067,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "A means, attitude or position of defense."
+    },
+    "seventh": {
+      "token_id": 226,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "The person or thing in the seventh position."
+    },
+    "selected": {
+      "token_id": 7259,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "To choose one or more elements of a set, especially a set of options."
+    },
+    "former": {
+      "token_id": 377,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "Previous."
+    },
+    "buckeyes": {
+      "token_id": 687,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "Any of several species of trees of the genus Aesculus."
+    },
+    "football": {
+      "token_id": 6230,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "(general) A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team."
+    },
+    "played": {
+      "token_id": 4530,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment."
+    },
+    "styles": {
+      "token_id": 5052,
+      "first_seen": "Sonny Styles",
+      "has_definition": true,
+      "definition": "Senses relating to a thin, pointed object."
+    },
+    "ohio": {
+      "token_id": 4365,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "overall": {
+      "token_id": 375,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "washington": {
+      "token_id": 2529,
+      "first_seen": "Sonny Styles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "george": {
+      "token_id": 2999,
+      "first_seen": "George Treby (younger)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "plympton": {
+      "token_id": 1417,
+      "first_seen": "George Treby (younger)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "iii": {
+      "token_id": 5667,
+      "first_seen": "George Treby (younger)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "maurice": {
+      "token_id": 3722,
+      "first_seen": "George Treby (younger)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "devon": {
+      "token_id": 2814,
+      "first_seen": "George Treby (younger)",
+      "has_definition": true,
+      "definition": "(Eastern Australia) A type of processed meat sausage."
+    },
+    "treby": {
+      "token_id": 6223,
+      "first_seen": "George Treby (younger)",
+      "has_definition": false,
+      "definition": ""
+    }
+  },
+  "total_articles": 30,
+  "total_words": 611
+}

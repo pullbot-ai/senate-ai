@@ -1,0 +1,1010 @@
+[
+  {
+    "word": "the",
+    "token_id": 3683,
+    "definition": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "roman",
+    "token_id": 1065,
+    "definition": "One of the main three types used for the Latin alphabet (the others being italics and blackletter), in which the ascenders are mostly straight.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "henry",
+    "token_id": 6269,
+    "definition": "In the International System of Units, the derived unit of electrical inductance; the inductance induced in a circuit by a rate of change of current of one ampere per second and a resulting electromotive force of one volt. Symbol: H",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "diocese",
+    "token_id": 1023,
+    "definition": "Administrative division of the later Roman Empire, starting with the tetrarchy.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "west",
+    "token_id": 5490,
+    "definition": "One of the four principal compass points, specifically 270\u00b0, conventionally directed to the left on maps; the direction of the setting sun at an equinox, abbreviated as W.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "catholic",
+    "token_id": 5382,
+    "definition": "Of the Western Christian church, as differentiated from e.g. the Orthodox church.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "sixth",
+    "token_id": 1718,
+    "definition": "(not used in the plural) The person or thing in the sixth position.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "bishop",
+    "token_id": 1983,
+    "definition": "An overseer of congregations: either any such overseer, generally speaking, or (in Eastern Orthodoxy, Catholicism, Anglicanism, etc.) an official in the church hierarchy (actively or nominally) governing a diocese, supervising the church's priests, deacons, and property in its territory.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "north",
+    "token_id": 1984,
+    "definition": "One of the four major compass points, specifically 0\u00b0, directed toward the North Pole, and conventionally upwards on a map, abbreviated as N.",
+    "first_seen": "Henry Marshall (bishop of Salford)"
+  },
+  {
+    "word": "summer",
+    "token_id": 1811,
+    "definition": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as being from June 21 to September 22 or 23 in parts of the USA, the months of June, July and August in the United Kingdom and the months of December, January and February in the Southern Hemisphere.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "had",
+    "token_id": 6804,
+    "definition": "To possess, own.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "earned",
+    "token_id": 5665,
+    "definition": "To gain (success, reward, recognition) through applied effort or work.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "colonel",
+    "token_id": 6785,
+    "definition": "A commissioned officer in an armed military organization, typically the highest rank before flag officer ranks (generals). It is generally found in armies, air forces or naval infantry (marines).",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "injured",
+    "token_id": 43,
+    "definition": "To wound or cause physical harm to a living creature.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "team",
+    "token_id": 7798,
+    "definition": "A set of draught animals, such as two horses in front of a carriage.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "service",
+    "token_id": 2150,
+    "definition": "An act of being of assistance to someone.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "third",
+    "token_id": 1819,
+    "definition": "The person or thing in the third position.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "lieutenant",
+    "token_id": 5838,
+    "definition": "The lowest Junior Commissioned Officer rank(s) in many military forces, often Army and Marines.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "distinguished",
+    "token_id": 3206,
+    "definition": "To recognize someone or something as different from others based on its characteristics.",
+    "first_seen": "Arthur Jackson (British sport shooter)"
+  },
+  {
+    "word": "romantic",
+    "token_id": 7215,
+    "definition": "Of or dealing with languages or cultures derived from Roman influence and Latin: Italian, French, Portuguese, Spanish, Romanian, Catalan, Occitan, Corsican, etc.",
+    "first_seen": "Interview (2000 film)"
+  },
+  {
+    "word": "written",
+    "token_id": 4943,
+    "definition": "To form letters, words or symbols on a surface in order to communicate.",
+    "first_seen": "Interview (2000 film)"
+  },
+  {
+    "word": "documentary",
+    "token_id": 7694,
+    "definition": "A film, TV program, publication etc. which presents a social, political, scientific or historical subject in a factual or informative manner.",
+    "first_seen": "Interview (2000 film)"
+  },
+  {
+    "word": "county",
+    "token_id": 7082,
+    "definition": "The land ruled by a count or a countess.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "river",
+    "token_id": 7631,
+    "definition": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "around",
+    "token_id": 3143,
+    "definition": "(with the verb \"to be\") Present in the vicinity.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "population",
+    "token_id": 6450,
+    "definition": "The people living within a political or geographical boundary.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "near",
+    "token_id": 1569,
+    "definition": "The left side of a horse or of a team of horses pulling a carriage etc.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "lies",
+    "token_id": 6666,
+    "definition": "The terrain and conditions surrounding the ball before it is struck.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "district",
+    "token_id": 1284,
+    "definition": "An administrative division of an area.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "valley",
+    "token_id": 5237,
+    "definition": "An elongated depression between hills or mountains, often with a river flowing through it.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "stow",
+    "token_id": 3456,
+    "definition": "A place, stead.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "parish",
+    "token_id": 5897,
+    "definition": "In the Anglican, Eastern Orthodox, Lutheran and Roman Catholic Church, an administrative part of a diocese that has its own church.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "settled",
+    "token_id": 2782,
+    "definition": "To conclude or resolve (something):",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "this",
+    "token_id": 2198,
+    "definition": "Something being indicated that is here; one of these.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "lark",
+    "token_id": 7499,
+    "definition": "Any of various small, singing passerine birds of the family Alaudidae.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "from",
+    "token_id": 2874,
+    "definition": "Used to indicate source or provenance.",
+    "first_seen": "West Stow"
+  },
+  {
+    "word": "wealthy",
+    "token_id": 7886,
+    "definition": "A rich person.",
+    "first_seen": "Vampires of Warsaw"
+  },
+  {
+    "word": "difficult",
+    "token_id": 728,
+    "definition": "To make difficult; to impede; to perplex.",
+    "first_seen": "Vampires of Warsaw"
+  },
+  {
+    "word": "murder",
+    "token_id": 3349,
+    "definition": "The crime of deliberately killing another person without justification.",
+    "first_seen": "Vampires of Warsaw"
+  },
+  {
+    "word": "determined",
+    "token_id": 7031,
+    "definition": "To set the boundaries or limits of.",
+    "first_seen": "Vampires of Warsaw"
+  },
+  {
+    "word": "most",
+    "token_id": 5983,
+    "definition": "The greatest amount.",
+    "first_seen": "Vampires of Warsaw"
+  },
+  {
+    "word": "she",
+    "token_id": 6629,
+    "definition": "A female.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "consultant",
+    "token_id": 4777,
+    "definition": "A person or party that is consulted",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "formerly",
+    "token_id": 6779,
+    "definition": "At some time in the past",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "later",
+    "token_id": 2783,
+    "definition": "Near the end of a period of time.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "teacher",
+    "token_id": 3619,
+    "definition": "A person who teaches, especially one employed in a school.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "political",
+    "token_id": 5549,
+    "definition": "A political agent or officer.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "member",
+    "token_id": 7126,
+    "definition": "One who officially belongs to a group.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "politician",
+    "token_id": 4102,
+    "definition": "One engaged in politics, especially an elected or appointed government official.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "independent",
+    "token_id": 7533,
+    "definition": "A candidate or voter not affiliated with any political party, a freethinker, free of a party platform.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "labour",
+    "token_id": 4169,
+    "definition": "Effort expended on a particular task; toil, work.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "career",
+    "token_id": 6446,
+    "definition": "One's calling in life; a person's occupation; one's profession.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "parliament",
+    "token_id": 4910,
+    "definition": "A formal council summoned (especially by a monarch) to discuss important issues.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "her",
+    "token_id": 6820,
+    "definition": "A female person or animal.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "walker",
+    "token_id": 1450,
+    "definition": "The agent noun of to walk: a person who walks or a thing which walks, especially a pedestrian or a participant in a walking race.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "before",
+    "token_id": 5649,
+    "definition": "At an earlier time.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "worked",
+    "token_id": 1147,
+    "definition": "To do a specific task by employing physical or mental powers.",
+    "first_seen": "Thelma Walker"
+  },
+  {
+    "word": "southern",
+    "token_id": 366,
+    "definition": "Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South.",
+    "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship"
+  },
+  {
+    "word": "lesser",
+    "token_id": 461,
+    "definition": "A thing that is of smaller size, value, importance etc.",
+    "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship"
+  },
+  {
+    "word": "administrative",
+    "token_id": 6622,
+    "definition": "Of or relating to administering or administration.",
+    "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship"
+  },
+  {
+    "word": "within",
+    "token_id": 1928,
+    "definition": "In the context of which the present document or ruling is made.",
+    "first_seen": "Bodzan\u00f3w, Lesser Poland Voivodeship"
+  },
+  {
+    "word": "classical",
+    "token_id": 1916,
+    "definition": "One that is classical in some way; for example, a classical economist.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "antiquity",
+    "token_id": 7422,
+    "definition": "Ancient times; faraway history; former ages",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "active",
+    "token_id": 6633,
+    "definition": "A person or thing that is acting or capable of acting.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "broadcaster",
+    "token_id": 1137,
+    "definition": "An organisation that engages in the activity of broadcasting.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "obe",
+    "token_id": 4816,
+    "definition": "A particular subdivision of ancient Laconia.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "encourage",
+    "token_id": 4833,
+    "definition": "To mentally support; to motivate, give courage, hope or spirit.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "state",
+    "token_id": 7221,
+    "definition": "A condition; a set of circumstances applying at any given time.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "teaching",
+    "token_id": 4040,
+    "definition": "Something taught by a religious or philosophical authority.",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "specialising",
+    "token_id": 4619,
+    "definition": "To make distinct or separate, particularly:",
+    "first_seen": "Bettany Hughes"
+  },
+  {
+    "word": "footballer",
+    "token_id": 2077,
+    "definition": "One who plays association football.",
+    "first_seen": "James Clarke (footballer, born 2006)"
+  },
+  {
+    "word": "united",
+    "token_id": 7297,
+    "definition": "To bring together as one.",
+    "first_seen": "James Clarke (footballer, born 2006)"
+  },
+  {
+    "word": "twin",
+    "token_id": 1596,
+    "definition": "Either of two people (or, less commonly, animals) who shared the same uterus at the same time; one who was born at the same birth as a sibling.",
+    "first_seen": "Ali Lajami"
+  },
+  {
+    "word": "side",
+    "token_id": 2913,
+    "definition": "A bounding straight edge of a two-dimensional shape.",
+    "first_seen": "Ali Lajami"
+  },
+  {
+    "word": "defender",
+    "token_id": 6705,
+    "definition": "Someone who defends people or property",
+    "first_seen": "Ali Lajami"
+  },
+  {
+    "word": "pro",
+    "token_id": 7134,
+    "definition": "An advantage of something, especially when contrasted with its disadvantages (cons).",
+    "first_seen": "Ali Lajami"
+  },
+  {
+    "word": "brother",
+    "token_id": 6425,
+    "definition": "Son of the same parents as another person.",
+    "first_seen": "Ali Lajami"
+  },
+  {
+    "word": "august",
+    "token_id": 5743,
+    "definition": "Awe-inspiring, majestic, noble, venerable.",
+    "first_seen": "Ali Lajami"
+  },
+  {
+    "word": "residential",
+    "token_id": 7597,
+    "definition": "A trip during which people temporarily live together.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "current",
+    "token_id": 3077,
+    "definition": "The generally unidirectional movement of a gas or fluid.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "neighborhood",
+    "token_id": 7399,
+    "definition": "The quality of being a neighbor, of living nearby, next to each-other; proximity.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "address",
+    "token_id": 2374,
+    "definition": "Direction.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "system",
+    "token_id": 1399,
+    "definition": "A collection of organized things; a whole composed of relationships among its members.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "street",
+    "token_id": 2018,
+    "definition": "A paved part of road, usually in a village or a town.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "ward",
+    "token_id": 932,
+    "definition": "A warden; a guard; a guardian or watchman.",
+    "first_seen": "Shakujiidai"
+  },
+  {
+    "word": "further",
+    "token_id": 4442,
+    "definition": "To help forward; to assist.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "reserve",
+    "token_id": 7435,
+    "definition": "(behaviour) Restriction.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "western",
+    "token_id": 3197,
+    "definition": "A film, or some other dramatic work, set in, the historic (c. 1850-1910) American West (west of the Mississippi river) focusing on conflict between whites and Indians, lawmen and outlaws, ranchers and farmers, or industry (railroads, mining) and agriculture.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "which",
+    "token_id": 5248,
+    "definition": "(interrogative) What one or ones (of those mentioned or implied).",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "project",
+    "token_id": 7337,
+    "definition": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "part",
+    "token_id": 7316,
+    "definition": "A portion; a component.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "ghats",
+    "token_id": 53,
+    "definition": "A descending path or stairway to a river; a ford or landing-place.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "eastern",
+    "token_id": 844,
+    "definition": "Of, facing, situated in, or related to the east.",
+    "first_seen": "Sathyamangalam Tiger Reserve"
+  },
+  {
+    "word": "connection",
+    "token_id": 7724,
+    "definition": "The act of connecting.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "foundation",
+    "token_id": 3133,
+    "definition": "The act of founding, fixing, establishing, or beginning to erect.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "constituent",
+    "token_id": 6278,
+    "definition": "A part, or component of a whole",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "king",
+    "token_id": 5426,
+    "definition": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "royal",
+    "token_id": 4299,
+    "definition": "A royal person; a member of a royal family.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "being",
+    "token_id": 5047,
+    "definition": "A living creature.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "oxford",
+    "token_id": 156,
+    "definition": "A variety of shoe, typically made of heavy leather.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "historically",
+    "token_id": 7367,
+    "definition": "In a historic manner; with reference to history or the historical record.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "hall",
+    "token_id": 6900,
+    "definition": "A corridor; a hallway.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "square",
+    "token_id": 7829,
+    "definition": "A polygon with four sides of equal length and four right angles; an equilateral rectangle; a regular quadrilateral.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "distinction",
+    "token_id": 1138,
+    "definition": "That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination.",
+    "first_seen": "Oriel College, Oxford"
+  },
+  {
+    "word": "species",
+    "token_id": 4552,
+    "definition": "Type or kind. (Compare race.)",
+    "first_seen": "Narrow-billed woodcreeper"
+  },
+  {
+    "word": "brazil",
+    "token_id": 1583,
+    "definition": "A red-orange dye obtained from brazil wood.",
+    "first_seen": "Narrow-billed woodcreeper"
+  },
+  {
+    "word": "bird",
+    "token_id": 4212,
+    "definition": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
+    "first_seen": "Narrow-billed woodcreeper"
+  },
+  {
+    "word": "narrow",
+    "token_id": 2457,
+    "definition": "(chiefly in the plural) A narrow passage, especially a contracted part of a stream, lake, or sea; a strait connecting two bodies of water.",
+    "first_seen": "Narrow-billed woodcreeper"
+  },
+  {
+    "word": "family",
+    "token_id": 2862,
+    "definition": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family.",
+    "first_seen": "Narrow-billed woodcreeper"
+  },
+  {
+    "word": "subfamily",
+    "token_id": 6839,
+    "definition": "A taxonomic category ranking between a family and a genus; formerly called a tribe",
+    "first_seen": "Narrow-billed woodcreeper"
+  },
+  {
+    "word": "region",
+    "token_id": 3466,
+    "definition": "Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons.",
+    "first_seen": "Sazen\u00e1"
+  },
+  {
+    "word": "republic",
+    "token_id": 212,
+    "definition": "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+    "first_seen": "Sazen\u00e1"
+  },
+  {
+    "word": "inhabitants",
+    "token_id": 6264,
+    "definition": "Someone or thing who lives in a place.",
+    "first_seen": "Sazen\u00e1"
+  },
+  {
+    "word": "central",
+    "token_id": 7036,
+    "definition": "Being in the centre.",
+    "first_seen": "Sazen\u00e1"
+  },
+  {
+    "word": "railway",
+    "token_id": 6847,
+    "definition": "A transport system using rails used to move passengers or goods.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "operated",
+    "token_id": 4026,
+    "definition": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "bordeaux",
+    "token_id": 5056,
+    "definition": "A wine coming from that area.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "services",
+    "token_id": 444,
+    "definition": "An act of being of assistance to someone.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "local",
+    "token_id": 3908,
+    "definition": "A person who lives near a given place.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "station",
+    "token_id": 7075,
+    "definition": "A stopping place.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "line",
+    "token_id": 4416,
+    "definition": "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight.",
+    "first_seen": "Arbanats station"
+  },
+  {
+    "word": "many",
+    "token_id": 344,
+    "definition": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
+    "first_seen": "Party of the Danes"
+  },
+  {
+    "word": "itself",
+    "token_id": 841,
+    "definition": "(reflexive pronoun) it; A thing as the object of a verb or preposition that also appears as the subject",
+    "first_seen": "Party of the Danes"
+  },
+  {
+    "word": "analysts",
+    "token_id": 5846,
+    "definition": "Someone who analyzes.",
+    "first_seen": "Party of the Danes"
+  },
+  {
+    "word": "experts",
+    "token_id": 7028,
+    "definition": "A person with extensive knowledge or ability in a given subject.",
+    "first_seen": "Party of the Danes"
+  },
+  {
+    "word": "described",
+    "token_id": 928,
+    "definition": "To represent in words.",
+    "first_seen": "Party of the Danes"
+  },
+  {
+    "word": "neo",
+    "token_id": 759,
+    "definition": "A newcomer to science fiction; a fan who is extremely new and inexperienced with the genre; a beginner.",
+    "first_seen": "Party of the Danes"
+  },
+  {
+    "word": "mouth",
+    "token_id": 6980,
+    "definition": "The opening of a creature through which food is ingested.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "used",
+    "token_id": 3832,
+    "definition": "To utilize or employ.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "sold",
+    "token_id": 2818,
+    "definition": "(ditransitive) To transfer goods or provide services in exchange for money.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "body",
+    "token_id": 6096,
+    "definition": "Physical frame.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "dopamine",
+    "token_id": 3631,
+    "definition": "A neurotransmitter associated with movement, attention, learning, and the brain\u2019s pleasure and reward system.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "under",
+    "token_id": 2895,
+    "definition": "Being lower; being beneath something.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "medication",
+    "token_id": 1713,
+    "definition": "A medicine, or all the medicines regularly taken by a patient.",
+    "first_seen": "Domperidone"
+  },
+  {
+    "word": "award",
+    "token_id": 1061,
+    "definition": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
+    "first_seen": "Ortrun Wenkel"
+  },
+  {
+    "word": "operatic",
+    "token_id": 715,
+    "definition": "Of, related to, or typical of opera.",
+    "first_seen": "Ortrun Wenkel"
+  },
+  {
+    "word": "principal",
+    "token_id": 1139,
+    "definition": "The money originally invested or loaned, on which basis interest and returns are calculated.",
+    "first_seen": "Ortrun Wenkel"
+  },
+  {
+    "word": "awarded",
+    "token_id": 5758,
+    "definition": "To give by sentence or judicial determination; to assign or apportion, after careful regard to the nature of the case; to adjudge",
+    "first_seen": "Ortrun Wenkel"
+  },
+  {
+    "word": "portrayed",
+    "token_id": 7717,
+    "definition": "To paint or draw the likeness of.",
+    "first_seen": "Ortrun Wenkel"
+  },
+  {
+    "word": "register",
+    "token_id": 7988,
+    "definition": "A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "residence",
+    "token_id": 5185,
+    "definition": "The place where one lives; one's home.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "main",
+    "token_id": 7593,
+    "definition": "Short for mainline.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "house",
+    "token_id": 6663,
+    "definition": "A structure built or serving as an abode of human beings.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "well",
+    "token_id": 3012,
+    "definition": "In good health.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "added",
+    "token_id": 5232,
+    "definition": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "preserved",
+    "token_id": 5518,
+    "definition": "To protect; to keep from harm or injury.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "empire",
+    "token_id": 999,
+    "definition": "(furniture) Following or imitating a style popular during the First French Empire (1804\u20131814).",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "architectural",
+    "token_id": 6922,
+    "definition": "Pertaining to architecture.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "style",
+    "token_id": 6991,
+    "definition": "Senses relating to a thin, pointed object.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "historic",
+    "token_id": 4557,
+    "definition": "A history, a non-fiction account of the past.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "places",
+    "token_id": 6046,
+    "definition": "(physical) An area; somewhere within an area.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "second",
+    "token_id": 1680,
+    "definition": "Something that is number two in a series.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "example",
+    "token_id": 6579,
+    "definition": "Something that is representative of all such things in a group.",
+    "first_seen": "Mumbrue-Penney House"
+  },
+  {
+    "word": "vice",
+    "token_id": 1243,
+    "definition": "A bad habit.",
+    "first_seen": "Sreeni Pattathanam"
+  },
+  {
+    "word": "people",
+    "token_id": 6447,
+    "definition": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons.",
+    "first_seen": "Sreeni Pattathanam"
+  },
+  {
+    "word": "prior",
+    "token_id": 2878,
+    "definition": "A high-ranking member of a monastery, usually lower in rank than an abbot.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "draft",
+    "token_id": 771,
+    "definition": "A current of air, usually coming into a room or vehicle.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "commanders",
+    "token_id": 6049,
+    "definition": "One who exercises control and direction of a military or naval organization.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "back",
+    "token_id": 7925,
+    "definition": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "defensive",
+    "token_id": 7067,
+    "definition": "A means, attitude or position of defense.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "seventh",
+    "token_id": 226,
+    "definition": "The person or thing in the seventh position.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "selected",
+    "token_id": 7259,
+    "definition": "To choose one or more elements of a set, especially a set of options.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "former",
+    "token_id": 377,
+    "definition": "Previous.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "buckeyes",
+    "token_id": 687,
+    "definition": "Any of several species of trees of the genus Aesculus.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "football",
+    "token_id": 6230,
+    "definition": "(general) A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "played",
+    "token_id": 4530,
+    "definition": "To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "styles",
+    "token_id": 5052,
+    "definition": "Senses relating to a thin, pointed object.",
+    "first_seen": "Sonny Styles"
+  },
+  {
+    "word": "devon",
+    "token_id": 2814,
+    "definition": "(Eastern Australia) A type of processed meat sausage.",
+    "first_seen": "George Treby (younger)"
+  }
+]
