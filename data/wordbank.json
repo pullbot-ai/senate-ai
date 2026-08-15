@@ -3665,8 +3665,3812 @@
       "first_seen": "George Treby (younger)",
       "has_definition": false,
       "definition": ""
+    },
+    "walls": {
+      "token_id": 6365,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "A rampart of earth, stones etc. built up for defensive purposes."
+    },
+    "historical": {
+      "token_id": 2578,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "A historical romance."
+    },
+    "cultures": {
+      "token_id": 707,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation."
+    },
+    "cities": {
+      "token_id": 3751,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place."
+    },
+    "surrounded": {
+      "token_id": 3837,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "To encircle something or simultaneously extend in all directions."
+    },
+    "including": {
+      "token_id": 5646,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "To bring into a group, class, set, or total as a (new) part or member."
+    },
+    "monumental": {
+      "token_id": 3878,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "In the manner of a monument."
+    },
+    "umayyad": {
+      "token_id": 1566,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "included": {
+      "token_id": 277,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "To bring into a group, class, set, or total as a (new) part or member."
+    },
+    "inhabited": {
+      "token_id": 5705,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "Having inhabitants; lived in"
+    },
+    "sites": {
+      "token_id": 5466,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "Sorrow, grief."
+    },
+    "mark": {
+      "token_id": 7444,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "(heading) Boundary, land within a boundary."
+    },
+    "era": {
+      "token_id": 866,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "A time period of indeterminate length, generally more than one year."
+    },
+    "contains": {
+      "token_id": 5279,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "To hold inside."
+    },
+    "numerous": {
+      "token_id": 3704,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "Indefinitely large numerically, many."
+    },
+    "heritage": {
+      "token_id": 7947,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "An inheritance; property that may be inherited."
+    },
+    "because": {
+      "token_id": 1498,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "For the reason (that)."
+    },
+    "syrian": {
+      "token_id": 468,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "byzantine": {
+      "token_id": 195,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "Of or pertaining to Byzantium."
+    },
+    "centre": {
+      "token_id": 4992,
+      "first_seen": "Old city of Damascus",
+      "has_definition": true,
+      "definition": "The point in the interior of a circle that is equidistant from all points on the circumference."
+    },
+    "exposed": {
+      "token_id": 2848,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "islamic": {
+      "token_id": 3312,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "continuously": {
+      "token_id": 5793,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hellenistic": {
+      "token_id": 658,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "especially": {
+      "token_id": 4341,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mosque": {
+      "token_id": 212,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "some": {
+      "token_id": 7635,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "syria": {
+      "token_id": 5686,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "list": {
+      "token_id": 3202,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "archaeological": {
+      "token_id": 3420,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "unesco": {
+      "token_id": 3208,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "churches": {
+      "token_id": 5821,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "danger": {
+      "token_id": 5296,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "site": {
+      "token_id": 7906,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "june": {
+      "token_id": 6517,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "all": {
+      "token_id": 6176,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "risks": {
+      "token_id": 2610,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "they": {
+      "token_id": 7173,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "damascus": {
+      "token_id": 2199,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mosques": {
+      "token_id": 1727,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "warn": {
+      "token_id": 5499,
+      "first_seen": "Old city of Damascus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "walking": {
+      "token_id": 5193,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": true,
+      "definition": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run."
+    },
+    "majestic": {
+      "token_id": 6746,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": true,
+      "definition": "Having qualities of splendor or royalty."
+    },
+    "lines": {
+      "token_id": 4127,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": true,
+      "definition": "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight."
+    },
+    "interchange": {
+      "token_id": 2521,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": true,
+      "definition": "An act of interchanging."
+    },
+    "april": {
+      "token_id": 622,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "green": {
+      "token_id": 1370,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "phase": {
+      "token_id": 7691,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "metro": {
+      "token_id": 821,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "purple": {
+      "token_id": 784,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "passengers": {
+      "token_id": 3019,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "transfer": {
+      "token_id": 1950,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "namma": {
+      "token_id": 2655,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "these": {
+      "token_id": 5015,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ksrtc": {
+      "token_id": 3341,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bus": {
+      "token_id": 6677,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nadaprabhu": {
+      "token_id": 1644,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "allowing": {
+      "token_id": 2426,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "between": {
+      "token_id": 7014,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ease": {
+      "token_id": 5845,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "travel": {
+      "token_id": 7069,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kempegowda": {
+      "token_id": 4151,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "corridor": {
+      "token_id": 4506,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bmtc": {
+      "token_id": 3785,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "distance": {
+      "token_id": 225,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "public": {
+      "token_id": 7990,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "karnataka": {
+      "token_id": 5698,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "east": {
+      "token_id": 5637,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bengaluru": {
+      "token_id": 1769,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "opened": {
+      "token_id": 4921,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "serves": {
+      "token_id": 5858,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "important": {
+      "token_id": 2488,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "underground": {
+      "token_id": 2178,
+      "first_seen": "Nadaprabhu Kempegowda station, Majestic",
+      "has_definition": false,
+      "definition": ""
+    },
+    "otake": {
+      "token_id": 6931,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "yamada": {
+      "token_id": 4181,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "high": {
+      "token_id": 1066,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "joined": {
+      "token_id": 713,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "badminton": {
+      "token_id": 157,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "japanese": {
+      "token_id": 3678,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "aomori": {
+      "token_id": 4395,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "biprogy": {
+      "token_id": 6718,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "graduated": {
+      "token_id": 6061,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "school": {
+      "token_id": 1798,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mizuki": {
+      "token_id": 7585,
+      "first_seen": "Mizuki Otake",
+      "has_definition": false,
+      "definition": ""
+    },
+    "predatory": {
+      "token_id": 471,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gastropod": {
+      "token_id": 2536,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "molluscs": {
+      "token_id": 607,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bubble": {
+      "token_id": 3606,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mysouffa": {
+      "token_id": 222,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "snails": {
+      "token_id": 7370,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "barrel": {
+      "token_id": 4073,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "small": {
+      "token_id": 3402,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sea": {
+      "token_id": 3398,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "marine": {
+      "token_id": 7025,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "acteonidae": {
+      "token_id": 5934,
+      "first_seen": "Mysouffa",
+      "has_definition": false,
+      "definition": ""
+    },
+    "large": {
+      "token_id": 480,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bahia": {
+      "token_id": 30,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "complex": {
+      "token_id": 3732,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "A network of interconnected systems."
+    },
+    "society": {
+      "token_id": 5717,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms."
+    },
+    "jesus": {
+      "token_id": 5037,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "after": {
+      "token_id": 1115,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "Later; second (of two); next, following, subsequent"
+    },
+    "transfiguration": {
+      "token_id": 7925,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "A major change in appearance or form; a metamorphosis."
+    },
+    "transferred": {
+      "token_id": 4840,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "To move or pass from one place, person or thing to another."
+    },
+    "lvaro": {
+      "token_id": 4027,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "jesuit": {
+      "token_id": 2873,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "consecrated": {
+      "token_id": 5945,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "archbishopric": {
+      "token_id": 3794,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ordered": {
+      "token_id": 4067,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "To set in some sort of order."
+    },
+    "basilica": {
+      "token_id": 6125,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "construct": {
+      "token_id": 2423,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "Something constructed from parts."
+    },
+    "augusto": {
+      "token_id": 96,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tram": {
+      "token_id": 3165,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "A passenger vehicle for public use that runs on tracks in the road (called a streetcar or trolley in North America)."
+    },
+    "named": {
+      "token_id": 5946,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "(ditransitive) To give a name to."
+    },
+    "elevated": {
+      "token_id": 194,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "To raise (something) to a higher position."
+    },
+    "structure": {
+      "token_id": 7001,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": true,
+      "definition": "A cohesive whole built up of distinct parts."
+    },
+    "seat": {
+      "token_id": 1648,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cathedral": {
+      "token_id": 7159,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "salvador": {
+      "token_id": 1875,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "archbishop": {
+      "token_id": 4017,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "existing": {
+      "token_id": 350,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "silva": {
+      "token_id": 854,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "primate": {
+      "token_id": 6936,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "jesuits": {
+      "token_id": 6566,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "christ": {
+      "token_id": 6054,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "officio": {
+      "token_id": 6851,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "monastic": {
+      "token_id": 1330,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "expulsion": {
+      "token_id": 1475,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "demolition": {
+      "token_id": 4604,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lord": {
+      "token_id": 2595,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "status": {
+      "token_id": 6127,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "primatial": {
+      "token_id": 4625,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "officially": {
+      "token_id": 522,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dedicated": {
+      "token_id": 3836,
+      "first_seen": "Cathedral Basilica of Salvador",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fishes": {
+      "token_id": 4887,
+      "first_seen": "Bostrychus",
+      "has_definition": true,
+      "definition": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills."
+    },
+    "coast": {
+      "token_id": 5082,
+      "first_seen": "Bostrychus",
+      "has_definition": true,
+      "definition": "The edge of the land where it meets an ocean, sea, gulf, bay, or large lake."
+    },
+    "fresh": {
+      "token_id": 6765,
+      "first_seen": "Bostrychus",
+      "has_definition": true,
+      "definition": "A rush of water, along a river or onto the land; a flood."
+    },
+    "butidae": {
+      "token_id": 4406,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "africa": {
+      "token_id": 3628,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bostrychus": {
+      "token_id": 49,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "australia": {
+      "token_id": 2161,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "waters": {
+      "token_id": 5584,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "while": {
+      "token_id": 5258,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "freshwater": {
+      "token_id": 6227,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mostly": {
+      "token_id": 1284,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "asia": {
+      "token_id": 7543,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "restricted": {
+      "token_id": 2148,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "brackish": {
+      "token_id": 1782,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "atlantic": {
+      "token_id": 5041,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "native": {
+      "token_id": 5274,
+      "first_seen": "Bostrychus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ruled": {
+      "token_id": 1993,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "would": {
+      "token_id": 725,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "consisted": {
+      "token_id": 6113,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "recorded": {
+      "token_id": 6385,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ladies": {
+      "token_id": 7695,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ages": {
+      "token_id": 500,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "becoming": {
+      "token_id": 6761,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "incomplete": {
+      "token_id": 7799,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "subkings": {
+      "token_id": 2323,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "him": {
+      "token_id": 6491,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "arenas": {
+      "token_id": 525,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dynasty": {
+      "token_id": 2956,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "paid": {
+      "token_id": 4422,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "middle": {
+      "token_id": 7491,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "other": {
+      "token_id": 1574,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "centuries": {
+      "token_id": 5405,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lords": {
+      "token_id": 1130,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "court": {
+      "token_id": 6116,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kings": {
+      "token_id": 217,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "southwest": {
+      "token_id": 1190,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fairly": {
+      "token_id": 7998,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "conflicting": {
+      "token_id": 7669,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scottish": {
+      "token_id": 6998,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "moray": {
+      "token_id": 4890,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ireland": {
+      "token_id": 7608,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scotland": {
+      "token_id": 7413,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "galloway": {
+      "token_id": 5621,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "regions": {
+      "token_id": 7988,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "home": {
+      "token_id": 991,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "those": {
+      "token_id": 7050,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "periodically": {
+      "token_id": 1162,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "heirs": {
+      "token_id": 2058,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "either": {
+      "token_id": 4955,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "finally": {
+      "token_id": 3289,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ignored": {
+      "token_id": 5429,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "similar": {
+      "token_id": 6854,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "over": {
+      "token_id": 7027,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tribute": {
+      "token_id": 2028,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mainly": {
+      "token_id": 3707,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "seen": {
+      "token_id": 7441,
+      "first_seen": "Lord of Galloway",
+      "has_definition": false,
+      "definition": ""
+    },
+    "schmuck": {
+      "token_id": 814,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "buhl": {
+      "token_id": 2213,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pakistan": {
+      "token_id": 7144,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "diemberger": {
+      "token_id": 72,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mountain": {
+      "token_id": 4364,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gilgit": {
+      "token_id": 4146,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wintersteller": {
+      "token_id": 2511,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "peak": {
+      "token_id": 7346,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "eight": {
+      "token_id": 5199,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "elevation": {
+      "token_id": 1483,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "expedition": {
+      "token_id": 4116,
+      "first_seen": "Broad Peak",
+      "has_definition": true,
+      "definition": "The act of expediting something; prompt execution."
+    },
+    "spanning": {
+      "token_id": 2000,
+      "first_seen": "Broad Peak",
+      "has_definition": true,
+      "definition": "To extend through the distance between or across."
+    },
+    "metres": {
+      "token_id": 4689,
+      "first_seen": "Broad Peak",
+      "has_definition": true,
+      "definition": "To measure with a metering device."
+    },
+    "thousanders": {
+      "token_id": 4042,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "highest": {
+      "token_id": 2389,
+      "first_seen": "Broad Peak",
+      "has_definition": true,
+      "definition": "Very elevated; extending or being far above a base; tall; lofty."
+    },
+    "marcus": {
+      "token_id": 5615,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "baltistan": {
+      "token_id": 5125,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "above": {
+      "token_id": 6318,
+      "first_seen": "Broad Peak",
+      "has_definition": true,
+      "definition": "Heaven."
+    },
+    "hermann": {
+      "token_id": 1864,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "karakoram": {
+      "token_id": 4858,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "china": {
+      "token_id": 6238,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fritz": {
+      "token_id": 7312,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "range": {
+      "token_id": 7213,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ascent": {
+      "token_id": 751,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kurt": {
+      "token_id": 5847,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "xinjiang": {
+      "token_id": 3752,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "austrian": {
+      "token_id": 517,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "accomplished": {
+      "token_id": 5888,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "broad": {
+      "token_id": 4109,
+      "first_seen": "Broad Peak",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ground": {
+      "token_id": 3601,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "The surface of the Earth, as opposed to the sky or water or underground."
+    },
+    "provided": {
+      "token_id": 1396,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "To make a living; earn money for necessities."
+    },
+    "mexico": {
+      "token_id": 7113,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "buenavista": {
+      "token_id": 7015,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "forum": {
+      "token_id": 3221,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "A place for discussion."
+    },
+    "commuter": {
+      "token_id": 1720,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "One who commutes (etymology 1)."
+    },
+    "xico": {
+      "token_id": 3528,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "suburbano": {
+      "token_id": 7854,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tracks": {
+      "token_id": 3319,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "A mark left by something that has passed along."
+    },
+    "tren": {
+      "token_id": 838,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nacionales": {
+      "token_id": 1007,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ferrocarriles": {
+      "token_id": 4404,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "malls": {
+      "token_id": 7425,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "A pedestrianised street, especially a shopping precinct."
+    },
+    "ngeles": {
+      "token_id": 3406,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "since": {
+      "token_id": 2074,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "From a specified time in the past."
+    },
+    "intercity": {
+      "token_id": 1602,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "Something that runs between cities, such as a railroad."
+    },
+    "terminus": {
+      "token_id": 7519,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "The end or final point of something."
+    },
+    "felipe": {
+      "token_id": 4754,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rail": {
+      "token_id": 4833,
+      "first_seen": "Buenavista railway station",
+      "has_definition": true,
+      "definition": "A horizontal bar extending between supports and used for support or as a barrier; a railing."
+    },
+    "shopping": {
+      "token_id": 816,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "atop": {
+      "token_id": 6532,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "train": {
+      "token_id": 929,
+      "first_seen": "Buenavista railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "there": {
+      "token_id": 3663,
+      "first_seen": "Heliscus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "passalidae": {
+      "token_id": 3659,
+      "first_seen": "Heliscus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bess": {
+      "token_id": 6417,
+      "first_seen": "Heliscus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "america": {
+      "token_id": 4743,
+      "first_seen": "Heliscus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "beetles": {
+      "token_id": 3116,
+      "first_seen": "Heliscus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "heliscus": {
+      "token_id": 2218,
+      "first_seen": "Heliscus",
+      "has_definition": false,
+      "definition": ""
+    },
+    "record": {
+      "token_id": 2045,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "songwriter": {
+      "token_id": 4938,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "producer": {
+      "token_id": 913,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ulf": {
+      "token_id": 590,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "strandberg": {
+      "token_id": 2634,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "kristofer": {
+      "token_id": 6776,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "swedish": {
+      "token_id": 828,
+      "first_seen": "Kristofer Strandberg",
+      "has_definition": false,
+      "definition": ""
+    },
+    "canadian": {
+      "token_id": 1697,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "last": {
+      "token_id": 2702,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fantasy": {
+      "token_id": 477,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "against": {
+      "token_id": 6676,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fifth": {
+      "token_id": 5404,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "offutt": {
+      "token_id": 3820,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "reprinted": {
+      "token_id": 6084,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "paperback": {
+      "token_id": 3243,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "darkness": {
+      "token_id": 1948,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "five": {
+      "token_id": 4149,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "stories": {
+      "token_id": 7660,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "swords": {
+      "token_id": 1836,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "reprint": {
+      "token_id": 6847,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "publisher": {
+      "token_id": 7603,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "paperbacks": {
+      "token_id": 3054,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "general": {
+      "token_id": 4584,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anthology": {
+      "token_id": 4345,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "edited": {
+      "token_id": 2394,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "november": {
+      "token_id": 3471,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "andrew": {
+      "token_id": 3713,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anthologies": {
+      "token_id": 5427,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "series": {
+      "token_id": 2545,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "zebra": {
+      "token_id": 2949,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "issued": {
+      "token_id": 3940,
+      "first_seen": "Swords Against Darkness V",
+      "has_definition": false,
+      "definition": ""
+    },
+    "resistance": {
+      "token_id": 6463,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "corrosion": {
+      "token_id": 3237,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "The act of corroding or the condition so produced."
+    },
+    "pressed": {
+      "token_id": 1279,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "To exert weight or force against, to act upon with force or weight; to exert pressure upon."
+    },
+    "refrigeration": {
+      "token_id": 628,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "The process of transferring heat from an object in order to cool it."
+    },
+    "air": {
+      "token_id": 3173,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "The substance constituting earth's atmosphere, particularly:"
+    },
+    "solder": {
+      "token_id": 2101,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "annealed": {
+      "token_id": 2946,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "flare": {
+      "token_id": 2131,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A sudden bright light."
+    },
+    "basic": {
+      "token_id": 4629,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A necessary commodity, a staple requirement."
+    },
+    "soft": {
+      "token_id": 23,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A soft or foolish person; an idiot."
+    },
+    "compression": {
+      "token_id": 4336,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "An increase in density; the act of compressing, or the state of being compressed; compaction."
+    },
+    "refrigerant": {
+      "token_id": 1763,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A substance used in a heat cycle that undergoes a phase change between gas and liquid to allow the cooling, as in refrigerators, air conditioners, etc."
+    },
+    "tube": {
+      "token_id": 3604,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "Anything that is hollow and cylindrical in shape."
+    },
+    "flammable": {
+      "token_id": 4305,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "systems": {
+      "token_id": 7049,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A collection of organized things; a whole composed of relationships among its members."
+    },
+    "hard": {
+      "token_id": 7465,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A firm or paved beach or slope convenient for hauling vessels out of the water."
+    },
+    "tempers": {
+      "token_id": 1870,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A tendency to be in a certain type of mood; a habitual way of thinking, behaving or reacting."
+    },
+    "copper": {
+      "token_id": 6843,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "A reddish-brown, malleable, ductile metallic element with high electrical and thermal conductivity, symbol Cu, and atomic number 29."
+    },
+    "hvac": {
+      "token_id": 6823,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "available": {
+      "token_id": 985,
+      "first_seen": "Copper tubing",
+      "has_definition": true,
+      "definition": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose."
+    },
+    "non": {
+      "token_id": 1087,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "water": {
+      "token_id": 4517,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "medical": {
+      "token_id": 3379,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "types": {
+      "token_id": 1520,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tubing": {
+      "token_id": 5575,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "drawn": {
+      "token_id": 3457,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "distribution": {
+      "token_id": 2765,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "its": {
+      "token_id": 3344,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gas": {
+      "token_id": 656,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "plumbing": {
+      "token_id": 969,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fuel": {
+      "token_id": 1122,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "conditioning": {
+      "token_id": 7687,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "acr": {
+      "token_id": 3838,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "using": {
+      "token_id": 5916,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oil": {
+      "token_id": 1804,
+      "first_seen": "Copper tubing",
+      "has_definition": false,
+      "definition": ""
+    },
+    "michigan": {
+      "token_id": 7947,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "caledonia": {
+      "token_id": 5941,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "owosso": {
+      "token_id": 4517,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "middletown": {
+      "token_id": 4159,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "township": {
+      "token_id": 6154,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": true,
+      "definition": "The territory of a town."
+    },
+    "cdp": {
+      "token_id": 6129,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "place": {
+      "token_id": 3960,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": true,
+      "definition": "(physical) An area; somewhere within an area."
+    },
+    "census": {
+      "token_id": 6840,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": true,
+      "definition": "An official count or enumeration of members of a population (not necessarily human), usually residents or citizens in a particular region, often done at regular intervals."
+    },
+    "shiawassee": {
+      "token_id": 6437,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "corunna": {
+      "token_id": 2212,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "designated": {
+      "token_id": 1669,
+      "first_seen": "Middletown, Michigan",
+      "has_definition": false,
+      "definition": ""
+    },
+    "paralympic": {
+      "token_id": 7496,
+      "first_seen": "Canada at the Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "eleven": {
+      "token_id": 7245,
+      "first_seen": "Canada at the Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "canada": {
+      "token_id": 6672,
+      "first_seen": "Canada at the Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "participated": {
+      "token_id": 6390,
+      "first_seen": "Canada at the Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "winter": {
+      "token_id": 1761,
+      "first_seen": "Canada at the Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "games": {
+      "token_id": 3787,
+      "first_seen": "Canada at the Paralympics",
+      "has_definition": false,
+      "definition": ""
+    },
+    "platform": {
+      "token_id": 519,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "monty": {
+      "token_id": 1330,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sinclair": {
+      "token_id": 2195,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "moley": {
+      "token_id": 4541,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mole": {
+      "token_id": 2029,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "covermount": {
+      "token_id": 1478,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "game": {
+      "token_id": 553,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sequel": {
+      "token_id": 3298,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "your": {
+      "token_id": 3816,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "spectrum": {
+      "token_id": 5692,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "video": {
+      "token_id": 3152,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "magazine": {
+      "token_id": 1503,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "auf": {
+      "token_id": 2459,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cassette": {
+      "token_id": 5342,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "christmas": {
+      "token_id": 971,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wiedersehen": {
+      "token_id": 6464,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "exclusively": {
+      "token_id": 5551,
+      "first_seen": "Moley Christmas",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chronicles": {
+      "token_id": 7624,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "horror": {
+      "token_id": 610,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "computer": {
+      "token_id": 7707,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "installments": {
+      "token_id": 5396,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "graphic": {
+      "token_id": 1262,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hampshire": {
+      "token_id": 3748,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fictional": {
+      "token_id": 4315,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "saul": {
+      "token_id": 778,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "takes": {
+      "token_id": 4090,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "town": {
+      "token_id": 5281,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "john": {
+      "token_id": 4416,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "novel": {
+      "token_id": 1137,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "into": {
+      "token_id": 5489,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": true,
+      "definition": "To or towards the inside of."
+    },
+    "blackstone": {
+      "token_id": 2425,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "new": {
+      "token_id": 5004,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "adapted": {
+      "token_id": 4672,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": true,
+      "definition": "To make suitable; to make to correspond; to fit or suit"
+    },
+    "serialized": {
+      "token_id": 4265,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": true,
+      "definition": "To convert an object into a sequence of bytes that can later be converted back into an object with equivalent properties."
+    },
+    "suspense": {
+      "token_id": 5385,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": true,
+      "definition": "The condition of being suspended; cessation for a time."
+    },
+    "six": {
+      "token_id": 618,
+      "first_seen": "Blackstone Chronicles",
+      "has_definition": true,
+      "definition": "The digit or figure 6."
+    },
+    "often": {
+      "token_id": 2954,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "Frequent."
+    },
+    "prominent": {
+      "token_id": 7732,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "Standing out, or projecting; jutting; protuberant"
+    },
+    "barker": {
+      "token_id": 7839,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "Someone or something who barks."
+    },
+    "absent": {
+      "token_id": 3275,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "(with definite article) Something absent, especially absent people collectively; those who were or are not there."
+    },
+    "thou": {
+      "token_id": 388,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "exodus": {
+      "token_id": 4360,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "A sudden departure of a large number of people."
+    },
+    "mistake": {
+      "token_id": 2095,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "An error; a blunder."
+    },
+    "commandments": {
+      "token_id": 4502,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "A divinely ordained command, especially one of the Ten Commandments."
+    },
+    "ten": {
+      "token_id": 3355,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "A set or group with ten elements."
+    },
+    "edition": {
+      "token_id": 3436,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "A written work edited and published, as by a certain editor or in a certain manner."
+    },
+    "derived": {
+      "token_id": 361,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "To obtain or receive (something) from something else."
+    },
+    "printers": {
+      "token_id": 3738,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wicked": {
+      "token_id": 4373,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "People who are wicked."
+    },
+    "sinners": {
+      "token_id": 7085,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "A person who sins or has sinned."
+    },
+    "errata": {
+      "token_id": 6143,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "An added page in a printed work where errors which are discovered after printing and their corrections (corrigenda) are listed."
+    },
+    "meant": {
+      "token_id": 5404,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "To intend."
+    },
+    "commit": {
+      "token_id": 5745,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "The act of committing (e.g. a database transaction or source code into a source control repository), making it a permanent change."
+    },
+    "made": {
+      "token_id": 5429,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "A grub or maggot."
+    },
+    "sometimes": {
+      "token_id": 6598,
+      "first_seen": "Wicked Bible",
+      "has_definition": true,
+      "definition": "Former; sometime."
+    },
+    "negatives": {
+      "token_id": 1397,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scriptural": {
+      "token_id": 3031,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "omitted": {
+      "token_id": 3864,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "completely": {
+      "token_id": 3596,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "martin": {
+      "token_id": 514,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lucas": {
+      "token_id": 5207,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bible": {
+      "token_id": 6332,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "shalt": {
+      "token_id": 5076,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "adultery": {
+      "token_id": 4723,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "adulterous": {
+      "token_id": 1217,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "reverse": {
+      "token_id": 1877,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "word": {
+      "token_id": 6866,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sentence": {
+      "token_id": 7113,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "meaning": {
+      "token_id": 1142,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "compositors": {
+      "token_id": 3021,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "robert": {
+      "token_id": 7045,
+      "first_seen": "Wicked Bible",
+      "has_definition": false,
+      "definition": ""
+    },
+    "however": {
+      "token_id": 7045,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "senses": {
+      "token_id": 4471,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "october": {
+      "token_id": 3027,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fail": {
+      "token_id": 2901,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rock": {
+      "token_id": 1003,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fire": {
+      "token_id": 6197,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "replaced": {
+      "token_id": 6768,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "heath": {
+      "token_id": 1278,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roach": {
+      "token_id": 802,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "zack": {
+      "token_id": 2623,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "through": {
+      "token_id": 790,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "garrett": {
+      "token_id": 4959,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "zablocki": {
+      "token_id": 561,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "saraceno": {
+      "token_id": 984,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "guitar": {
+      "token_id": 349,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "vagrant": {
+      "token_id": 3096,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "studio": {
+      "token_id": 2048,
+      "first_seen": "The Fire (Senses Fail album)",
+      "has_definition": false,
+      "definition": ""
+    },
+    "persian": {
+      "token_id": 7396,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tall": {
+      "token_id": 7622,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gardens": {
+      "token_id": 7284,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "adobe": {
+      "token_id": 7497,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "listed": {
+      "token_id": 961,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "yazd": {
+      "token_id": 5187,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dowlatabad": {
+      "token_id": 7960,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "meters": {
+      "token_id": 7355,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "iran": {
+      "token_id": 1410,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "windcatcher": {
+      "token_id": 3027,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "garden": {
+      "token_id": 6186,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tallest": {
+      "token_id": 1660,
+      "first_seen": "Dowlatabad Garden",
+      "has_definition": false,
+      "definition": ""
+    },
+    "concrete": {
+      "token_id": 5596,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "crenelated": {
+      "token_id": 7101,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pre": {
+      "token_id": 3139,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "princeton": {
+      "token_id": 1995,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "capped": {
+      "token_id": 2260,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "leo": {
+      "token_id": 5577,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "faced": {
+      "token_id": 4999,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "(of a person or animal) To position oneself or itself so as to have one's face closest to (something)."
+    },
+    "blocks": {
+      "token_id": 7120,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rectangular": {
+      "token_id": 2073,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "Having a shape like a rectangle."
+    },
+    "measures": {
+      "token_id": 3919,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "post": {
+      "token_id": 2515,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "A long dowel or plank protruding from the ground; a fencepost; a lightpost."
+    },
+    "legion": {
+      "token_id": 3772,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "feet": {
+      "token_id": 6299,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg."
+    },
+    "ellis": {
+      "token_id": 7607,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "grant": {
+      "token_id": 271,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "The act of granting; a bestowing or conferring; concession; allowance; permission."
+    },
+    "missouri": {
+      "token_id": 4494,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "features": {
+      "token_id": 1226,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "One's structure or make-up: form, shape, bodily proportions."
+    },
+    "parapet": {
+      "token_id": 6166,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "A low protective wall."
+    },
+    "mercer": {
+      "token_id": 4163,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "A merchant dealing in fabrics and textiles, especially silks and other fine cloths."
+    },
+    "reinforced": {
+      "token_id": 1472,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": true,
+      "definition": "To strengthen, especially by addition or augmentation."
+    },
+    "brick": {
+      "token_id": 362,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "formed": {
+      "token_id": 2584,
+      "first_seen": "Leo Ellis Post No. 22, American Legion Building",
+      "has_definition": false,
+      "definition": ""
+    },
+    "divided": {
+      "token_id": 1969,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "To split or separate (something) into two or more parts."
+    },
+    "whose": {
+      "token_id": 1190,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "(interrogative) That or those of whom or belonging to whom."
+    },
+    "chitrakoot": {
+      "token_id": 435,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "number": {
+      "token_id": 4560,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "An abstract entity used to describe quantity."
+    },
+    "mentioned": {
+      "token_id": 5946,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "To make a short reference to something."
+    },
+    "ramayana": {
+      "token_id": 854,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "panchayat": {
+      "token_id": 7171,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "A village council or local government."
+    },
+    "madhya": {
+      "token_id": 2418,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hindu": {
+      "token_id": 7333,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "present": {
+      "token_id": 7271,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "The current moment or period of time."
+    },
+    "satna": {
+      "token_id": 4466,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nearby": {
+      "token_id": 6090,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "Adjacent, near, close by"
+    },
+    "importance": {
+      "token_id": 7108,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "The quality or condition of being important or worthy of note."
+    },
+    "baghelkhand": {
+      "token_id": 7299,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "borders": {
+      "token_id": 1562,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": true,
+      "definition": "The outer edge of something."
+    },
+    "pradesh": {
+      "token_id": 6271,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "situated": {
+      "token_id": 6877,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "headquarters": {
+      "token_id": 3998,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "day": {
+      "token_id": 5058,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "uttar": {
+      "token_id": 7407,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dham": {
+      "token_id": 6039,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "states": {
+      "token_id": 4330,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "temples": {
+      "token_id": 6616,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "religious": {
+      "token_id": 7363,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "connected": {
+      "token_id": 6221,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "scriptures": {
+      "token_id": 490,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pilgrimage": {
+      "token_id": 1995,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "epic": {
+      "token_id": 2214,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nagar": {
+      "token_id": 5059,
+      "first_seen": "Chitrakoot, Madhya Pradesh",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cerro": {
+      "token_id": 822,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "point": {
+      "token_id": 2662,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "summits": {
+      "token_id": 362,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "provinces": {
+      "token_id": 5608,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alhama": {
+      "token_id": 457,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "andalusia": {
+      "token_id": 6922,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "spain": {
+      "token_id": 468,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "del": {
+      "token_id": 7074,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "laga": {
+      "token_id": 1278,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "torca": {
+      "token_id": 7210,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "notable": {
+      "token_id": 1885,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "morr": {
+      "token_id": 6573,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "marchamonas": {
+      "token_id": 2140,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "toro": {
+      "token_id": 4618,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "granada": {
+      "token_id": 7969,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pico": {
+      "token_id": 6487,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "penibaetic": {
+      "token_id": 1255,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cuna": {
+      "token_id": 6481,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sierra": {
+      "token_id": 1165,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hoyo": {
+      "token_id": 4915,
+      "first_seen": "Sierra de Alhama",
+      "has_definition": false,
+      "definition": ""
+    },
+    "roeulx": {
+      "token_id": 2949,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "proclaimed": {
+      "token_id": 4240,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "traditional": {
+      "token_id": 2841,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "chapelle": {
+      "token_id": 7571,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "buvrinnes": {
+      "token_id": 1072,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "far": {
+      "token_id": 660,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "waudrez": {
+      "token_id": 6536,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "masterpieces": {
+      "token_id": 6805,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "manage": {
+      "token_id": 5455,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "carnival": {
+      "token_id": 4661,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "morlanwelz": {
+      "token_id": 1056,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "belgium": {
+      "token_id": 1779,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "nivelles": {
+      "token_id": 2839,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "charleroi": {
+      "token_id": 7161,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tradition": {
+      "token_id": 4899,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "tuesday": {
+      "token_id": 4318,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "famous": {
+      "token_id": 2428,
+      "first_seen": "Gilles",
+      "has_definition": true,
+      "definition": "To make famous; to bring renown to."
+    },
+    "louvi": {
+      "token_id": 3334,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "songs": {
+      "token_id": 61,
+      "first_seen": "Gilles",
+      "has_definition": true,
+      "definition": "A musical composition with lyrics for voice or voices, performed by singing."
+    },
+    "participants": {
+      "token_id": 6156,
+      "first_seen": "Gilles",
+      "has_definition": true,
+      "definition": "One who participates."
+    },
+    "out": {
+      "token_id": 388,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "herlaimont": {
+      "token_id": 615,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "oral": {
+      "token_id": 7222,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lez": {
+      "token_id": 579,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "leval": {
+      "token_id": 282,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "dance": {
+      "token_id": 2437,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "gilles": {
+      "token_id": 7684,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "estinnes": {
+      "token_id": 4344,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "humanity": {
+      "token_id": 3080,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "hours": {
+      "token_id": 4225,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "binche": {
+      "token_id": 7419,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "pinois": {
+      "token_id": 5569,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "seneffe": {
+      "token_id": 7210,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "anderlues": {
+      "token_id": 7384,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "shrove": {
+      "token_id": 6255,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "such": {
+      "token_id": 1460,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "late": {
+      "token_id": 1947,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ressaix": {
+      "token_id": 762,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "intangible": {
+      "token_id": 2301,
+      "first_seen": "Gilles",
+      "has_definition": false,
+      "definition": ""
+    },
+    "conventional": {
+      "token_id": 4851,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "A conventional gilt-edged security, a kind of bond paying the holder a fixed cash payment (or coupon) every six months until maturity, at which point the holder receives the final payment and the return of the principal."
+    },
+    "formation": {
+      "token_id": 3672,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "Something possessing structure or form."
+    },
+    "devonian": {
+      "token_id": 3639,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "company": {
+      "token_id": 7670,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "A team; a group of people who work together professionally."
+    },
+    "counties": {
+      "token_id": 4974,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "The land ruled by a count or a countess."
+    },
+    "combined": {
+      "token_id": 4867,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "An event in alpine skiing which combines runs on a downhill skiing course and a slalom course, for individual skiers."
+    },
+    "cochran": {
+      "token_id": 3006,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "petroleum": {
+      "token_id": 6911,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "A flammable liquid ranging in color from clear to very dark brown and black, consisting mainly of hydrocarbons, occurring naturally in deposits under the Earth's surface"
+    },
+    "different": {
+      "token_id": 5314,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "The different ideal."
+    },
+    "lubbock": {
+      "token_id": 1651,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "acres": {
+      "token_id": 1143,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters."
+    },
+    "miles": {
+      "token_id": 6988,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "The international mile: a unit of length precisely equal to 1.609344 kilometers established by treaty among Anglophone nations in 1959, divided into 5,280 feet or 1,760 yards."
+    },
+    "hockley": {
+      "token_id": 7584,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "cascade": {
+      "token_id": 225,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "A waterfall or series of small waterfalls."
+    },
+    "discovered": {
+      "token_id": 5651,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "To find or learn something for the first time."
+    },
+    "producing": {
+      "token_id": 2862,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "To yield, make or manufacture; to generate."
+    },
+    "fields": {
+      "token_id": 5064,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "A land area free of woodland, cities, and towns; open country."
+    },
+    "energy": {
+      "token_id": 7323,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "The impetus behind all motion and all activity."
+    },
+    "duggan": {
+      "token_id": 1844,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "regulation": {
+      "token_id": 1477,
+      "first_seen": "Slaughter Field",
+      "has_definition": true,
+      "definition": "The act of regulating or the condition of being regulated."
+    },
+    "honolulu": {
+      "token_id": 3986,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "field": {
+      "token_id": 6173,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "originally": {
+      "token_id": 3592,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "top": {
+      "token_id": 298,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "terry": {
+      "token_id": 2552,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "information": {
+      "token_id": 174,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "slaughter": {
+      "token_id": 5390,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "proven": {
+      "token_id": 276,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "ranked": {
+      "token_id": 1765,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "way": {
+      "token_id": 3480,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "venture": {
+      "token_id": 7656,
+      "first_seen": "Slaughter Field",
+      "has_definition": false,
+      "definition": ""
+    },
+    "northern": {
+      "token_id": 7263,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "An inhabitant of the northern regions."
+    },
+    "minister": {
+      "token_id": 5490,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "A person who is trained to preach, to perform religious ceremonies, and to afford pastoral care at a Protestant church."
+    },
+    "resources": {
+      "token_id": 1226,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "Something that one uses to achieve an objective, e.g. raw materials or personnel."
+    },
+    "entering": {
+      "token_id": 2444,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "To go or come into an enclosed or partially enclosed space."
+    },
+    "politics": {
+      "token_id": 6879,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "madeleine": {
+      "token_id": 1585,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "A French type of small gateau or sponge cake, often shaped like an elongated scallop shell."
+    },
+    "representatives": {
+      "token_id": 4936,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "A delegate."
+    },
+    "government": {
+      "token_id": 6388,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "The body with the power to make and/or enforce laws to control a country, land area, people or organization."
+    },
+    "mary": {
+      "token_id": 5384,
+      "first_seen": "Madeleine King",
+      "has_definition": true,
+      "definition": "(usually capitalized) A male homosexual."
+    },
+    "albanese": {
+      "token_id": 5793,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "australian": {
+      "token_id": 7196,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "adviser": {
+      "token_id": 4095,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "represented": {
+      "token_id": 3642,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "harvie": {
+      "token_id": 7412,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "labor": {
+      "token_id": 7888,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "alp": {
+      "token_id": 639,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "lawyer": {
+      "token_id": 990,
+      "first_seen": "Madeleine King",
+      "has_definition": false,
+      "definition": ""
+    },
+    "exists": {
+      "token_id": 6413,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "domestic": {
+      "token_id": 2744,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "standard": {
+      "token_id": 1856,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "mid": {
+      "token_id": 1496,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "deal": {
+      "token_id": 3847,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bears": {
+      "token_id": 5535,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "century": {
+      "token_id": 2907,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "turkey": {
+      "token_id": 3834,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "popularity": {
+      "token_id": 5544,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "refers": {
+      "token_id": 3401,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "throughout": {
+      "token_id": 2187,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "beginning": {
+      "token_id": 7965,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "sheen": {
+      "token_id": 1683,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "simply": {
+      "token_id": 7831,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "plumage": {
+      "token_id": 4352,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bronzes": {
+      "token_id": 901,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "collectively": {
+      "token_id": 6823,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "iridescent": {
+      "token_id": 7229,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "bronze": {
+      "token_id": 6412,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "breed": {
+      "token_id": 1242,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "difference": {
+      "token_id": 786,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "breasted": {
+      "token_id": 7047,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "whether": {
+      "token_id": 5246,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "waned": {
+      "token_id": 6607,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "confusion": {
+      "token_id": 3546,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "distinct": {
+      "token_id": 5032,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "varieties": {
+      "token_id": 1032,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "great": {
+      "token_id": 2843,
+      "first_seen": "Bronze turkey",
+      "has_definition": false,
+      "definition": ""
+    },
+    "rzesz": {
+      "token_id": 4754,
+      "first_seen": "Rzesz\u00f3w G\u0142\u00f3wny railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "wny": {
+      "token_id": 1911,
+      "first_seen": "Rzesz\u00f3w G\u0142\u00f3wny railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "subcarpathian": {
+      "token_id": 2579,
+      "first_seen": "Rzesz\u00f3w G\u0142\u00f3wny railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "biggest": {
+      "token_id": 558,
+      "first_seen": "Rzesz\u00f3w G\u0142\u00f3wny railway station",
+      "has_definition": false,
+      "definition": ""
+    },
+    "decades": {
+      "token_id": 3725,
+      "first_seen": "Edmond Delfour",
+      "has_definition": false,
+      "definition": ""
+    },
+    "fifa": {
+      "token_id": 3942,
+      "first_seen": "Edmond Delfour",
+      "has_definition": false,
+      "definition": ""
+    },
+    "even": {
+      "token_id": 7823,
+      "first_seen": "Edmond Delfour",
+      "has_definition": true,
+      "definition": "(diminutive) An even number."
+    },
+    "edmond": {
+      "token_id": 6983,
+      "first_seen": "Edmond Delfour",
+      "has_definition": false,
+      "definition": ""
+    },
+    "spanned": {
+      "token_id": 1901,
+      "first_seen": "Edmond Delfour",
+      "has_definition": true,
+      "definition": "To extend through the distance between or across."
+    },
+    "cups": {
+      "token_id": 3898,
+      "first_seen": "Edmond Delfour",
+      "has_definition": false,
+      "definition": ""
+    },
+    "coaching": {
+      "token_id": 2602,
+      "first_seen": "Edmond Delfour",
+      "has_definition": true,
+      "definition": "To train."
+    },
+    "delfour": {
+      "token_id": 4771,
+      "first_seen": "Edmond Delfour",
+      "has_definition": false,
+      "definition": ""
+    },
+    "french": {
+      "token_id": 3581,
+      "first_seen": "Edmond Delfour",
+      "has_definition": true,
+      "definition": "To prepare food by cutting it into strips."
+    },
+    "still": {
+      "token_id": 1802,
+      "first_seen": "Edmond Delfour",
+      "has_definition": true,
+      "definition": "A period of calm or silence."
+    },
+    "richard": {
+      "token_id": 221,
+      "first_seen": "Richard S. Edwards",
+      "has_definition": false,
+      "definition": ""
+    },
+    "admiral": {
+      "token_id": 4400,
+      "first_seen": "Richard S. Edwards",
+      "has_definition": false,
+      "definition": ""
+    },
+    "navy": {
+      "token_id": 1229,
+      "first_seen": "Richard S. Edwards",
+      "has_definition": true,
+      "definition": "A country's entire sea force, including ships and personnel."
+    },
+    "edwards": {
+      "token_id": 5066,
+      "first_seen": "Richard S. Edwards",
+      "has_definition": false,
+      "definition": ""
+    },
+    "stanislaus": {
+      "token_id": 1889,
+      "first_seen": "Richard S. Edwards",
+      "has_definition": false,
+      "definition": ""
     }
   },
-  "total_articles": 30,
-  "total_words": 611
+  "total_articles": 60,
+  "total_words": 1245
 }

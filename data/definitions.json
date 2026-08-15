@@ -1006,5 +1006,851 @@
     "token_id": 2814,
     "definition": "(Eastern Australia) A type of processed meat sausage.",
     "first_seen": "George Treby (younger)"
+  },
+  {
+    "word": "walls",
+    "token_id": 6365,
+    "definition": "A rampart of earth, stones etc. built up for defensive purposes.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "historical",
+    "token_id": 2578,
+    "definition": "A historical romance.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "cultures",
+    "token_id": 707,
+    "definition": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "cities",
+    "token_id": 3751,
+    "definition": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "surrounded",
+    "token_id": 3837,
+    "definition": "To encircle something or simultaneously extend in all directions.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "including",
+    "token_id": 5646,
+    "definition": "To bring into a group, class, set, or total as a (new) part or member.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "monumental",
+    "token_id": 3878,
+    "definition": "In the manner of a monument.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "included",
+    "token_id": 277,
+    "definition": "To bring into a group, class, set, or total as a (new) part or member.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "inhabited",
+    "token_id": 5705,
+    "definition": "Having inhabitants; lived in",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "sites",
+    "token_id": 5466,
+    "definition": "Sorrow, grief.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "mark",
+    "token_id": 7444,
+    "definition": "(heading) Boundary, land within a boundary.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "era",
+    "token_id": 866,
+    "definition": "A time period of indeterminate length, generally more than one year.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "contains",
+    "token_id": 5279,
+    "definition": "To hold inside.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "numerous",
+    "token_id": 3704,
+    "definition": "Indefinitely large numerically, many.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "heritage",
+    "token_id": 7947,
+    "definition": "An inheritance; property that may be inherited.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "because",
+    "token_id": 1498,
+    "definition": "For the reason (that).",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "byzantine",
+    "token_id": 195,
+    "definition": "Of or pertaining to Byzantium.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "centre",
+    "token_id": 4992,
+    "definition": "The point in the interior of a circle that is equidistant from all points on the circumference.",
+    "first_seen": "Old city of Damascus"
+  },
+  {
+    "word": "walking",
+    "token_id": 5193,
+    "definition": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+    "first_seen": "Nadaprabhu Kempegowda station, Majestic"
+  },
+  {
+    "word": "majestic",
+    "token_id": 6746,
+    "definition": "Having qualities of splendor or royalty.",
+    "first_seen": "Nadaprabhu Kempegowda station, Majestic"
+  },
+  {
+    "word": "lines",
+    "token_id": 4127,
+    "definition": "A path through two or more points (compare \u2018segment\u2019); a continuous mark, including as made by a pen; any path, curved or straight.",
+    "first_seen": "Nadaprabhu Kempegowda station, Majestic"
+  },
+  {
+    "word": "interchange",
+    "token_id": 2521,
+    "definition": "An act of interchanging.",
+    "first_seen": "Nadaprabhu Kempegowda station, Majestic"
+  },
+  {
+    "word": "complex",
+    "token_id": 3732,
+    "definition": "A network of interconnected systems.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "society",
+    "token_id": 5717,
+    "definition": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "after",
+    "token_id": 1115,
+    "definition": "Later; second (of two); next, following, subsequent",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "transfiguration",
+    "token_id": 7925,
+    "definition": "A major change in appearance or form; a metamorphosis.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "transferred",
+    "token_id": 4840,
+    "definition": "To move or pass from one place, person or thing to another.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "ordered",
+    "token_id": 4067,
+    "definition": "To set in some sort of order.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "construct",
+    "token_id": 2423,
+    "definition": "Something constructed from parts.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "tram",
+    "token_id": 3165,
+    "definition": "A passenger vehicle for public use that runs on tracks in the road (called a streetcar or trolley in North America).",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "named",
+    "token_id": 5946,
+    "definition": "(ditransitive) To give a name to.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "elevated",
+    "token_id": 194,
+    "definition": "To raise (something) to a higher position.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "structure",
+    "token_id": 7001,
+    "definition": "A cohesive whole built up of distinct parts.",
+    "first_seen": "Cathedral Basilica of Salvador"
+  },
+  {
+    "word": "fishes",
+    "token_id": 4887,
+    "definition": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.",
+    "first_seen": "Bostrychus"
+  },
+  {
+    "word": "coast",
+    "token_id": 5082,
+    "definition": "The edge of the land where it meets an ocean, sea, gulf, bay, or large lake.",
+    "first_seen": "Bostrychus"
+  },
+  {
+    "word": "fresh",
+    "token_id": 6765,
+    "definition": "A rush of water, along a river or onto the land; a flood.",
+    "first_seen": "Bostrychus"
+  },
+  {
+    "word": "expedition",
+    "token_id": 4116,
+    "definition": "The act of expediting something; prompt execution.",
+    "first_seen": "Broad Peak"
+  },
+  {
+    "word": "spanning",
+    "token_id": 2000,
+    "definition": "To extend through the distance between or across.",
+    "first_seen": "Broad Peak"
+  },
+  {
+    "word": "metres",
+    "token_id": 4689,
+    "definition": "To measure with a metering device.",
+    "first_seen": "Broad Peak"
+  },
+  {
+    "word": "highest",
+    "token_id": 2389,
+    "definition": "Very elevated; extending or being far above a base; tall; lofty.",
+    "first_seen": "Broad Peak"
+  },
+  {
+    "word": "above",
+    "token_id": 6318,
+    "definition": "Heaven.",
+    "first_seen": "Broad Peak"
+  },
+  {
+    "word": "ground",
+    "token_id": 3601,
+    "definition": "The surface of the Earth, as opposed to the sky or water or underground.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "provided",
+    "token_id": 1396,
+    "definition": "To make a living; earn money for necessities.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "forum",
+    "token_id": 3221,
+    "definition": "A place for discussion.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "commuter",
+    "token_id": 1720,
+    "definition": "One who commutes (etymology 1).",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "tracks",
+    "token_id": 3319,
+    "definition": "A mark left by something that has passed along.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "malls",
+    "token_id": 7425,
+    "definition": "A pedestrianised street, especially a shopping precinct.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "since",
+    "token_id": 2074,
+    "definition": "From a specified time in the past.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "intercity",
+    "token_id": 1602,
+    "definition": "Something that runs between cities, such as a railroad.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "terminus",
+    "token_id": 7519,
+    "definition": "The end or final point of something.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "rail",
+    "token_id": 4833,
+    "definition": "A horizontal bar extending between supports and used for support or as a barrier; a railing.",
+    "first_seen": "Buenavista railway station"
+  },
+  {
+    "word": "corrosion",
+    "token_id": 3237,
+    "definition": "The act of corroding or the condition so produced.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "pressed",
+    "token_id": 1279,
+    "definition": "To exert weight or force against, to act upon with force or weight; to exert pressure upon.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "refrigeration",
+    "token_id": 628,
+    "definition": "The process of transferring heat from an object in order to cool it.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "air",
+    "token_id": 3173,
+    "definition": "The substance constituting earth's atmosphere, particularly:",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "flare",
+    "token_id": 2131,
+    "definition": "A sudden bright light.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "basic",
+    "token_id": 4629,
+    "definition": "A necessary commodity, a staple requirement.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "soft",
+    "token_id": 23,
+    "definition": "A soft or foolish person; an idiot.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "compression",
+    "token_id": 4336,
+    "definition": "An increase in density; the act of compressing, or the state of being compressed; compaction.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "refrigerant",
+    "token_id": 1763,
+    "definition": "A substance used in a heat cycle that undergoes a phase change between gas and liquid to allow the cooling, as in refrigerators, air conditioners, etc.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "tube",
+    "token_id": 3604,
+    "definition": "Anything that is hollow and cylindrical in shape.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "systems",
+    "token_id": 7049,
+    "definition": "A collection of organized things; a whole composed of relationships among its members.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "hard",
+    "token_id": 7465,
+    "definition": "A firm or paved beach or slope convenient for hauling vessels out of the water.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "tempers",
+    "token_id": 1870,
+    "definition": "A tendency to be in a certain type of mood; a habitual way of thinking, behaving or reacting.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "copper",
+    "token_id": 6843,
+    "definition": "A reddish-brown, malleable, ductile metallic element with high electrical and thermal conductivity, symbol Cu, and atomic number 29.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "available",
+    "token_id": 985,
+    "definition": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+    "first_seen": "Copper tubing"
+  },
+  {
+    "word": "township",
+    "token_id": 6154,
+    "definition": "The territory of a town.",
+    "first_seen": "Middletown, Michigan"
+  },
+  {
+    "word": "place",
+    "token_id": 3960,
+    "definition": "(physical) An area; somewhere within an area.",
+    "first_seen": "Middletown, Michigan"
+  },
+  {
+    "word": "census",
+    "token_id": 6840,
+    "definition": "An official count or enumeration of members of a population (not necessarily human), usually residents or citizens in a particular region, often done at regular intervals.",
+    "first_seen": "Middletown, Michigan"
+  },
+  {
+    "word": "into",
+    "token_id": 5489,
+    "definition": "To or towards the inside of.",
+    "first_seen": "Blackstone Chronicles"
+  },
+  {
+    "word": "adapted",
+    "token_id": 4672,
+    "definition": "To make suitable; to make to correspond; to fit or suit",
+    "first_seen": "Blackstone Chronicles"
+  },
+  {
+    "word": "serialized",
+    "token_id": 4265,
+    "definition": "To convert an object into a sequence of bytes that can later be converted back into an object with equivalent properties.",
+    "first_seen": "Blackstone Chronicles"
+  },
+  {
+    "word": "suspense",
+    "token_id": 5385,
+    "definition": "The condition of being suspended; cessation for a time.",
+    "first_seen": "Blackstone Chronicles"
+  },
+  {
+    "word": "six",
+    "token_id": 618,
+    "definition": "The digit or figure 6.",
+    "first_seen": "Blackstone Chronicles"
+  },
+  {
+    "word": "often",
+    "token_id": 2954,
+    "definition": "Frequent.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "prominent",
+    "token_id": 7732,
+    "definition": "Standing out, or projecting; jutting; protuberant",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "barker",
+    "token_id": 7839,
+    "definition": "Someone or something who barks.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "absent",
+    "token_id": 3275,
+    "definition": "(with definite article) Something absent, especially absent people collectively; those who were or are not there.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "exodus",
+    "token_id": 4360,
+    "definition": "A sudden departure of a large number of people.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "mistake",
+    "token_id": 2095,
+    "definition": "An error; a blunder.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "commandments",
+    "token_id": 4502,
+    "definition": "A divinely ordained command, especially one of the Ten Commandments.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "ten",
+    "token_id": 3355,
+    "definition": "A set or group with ten elements.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "edition",
+    "token_id": 3436,
+    "definition": "A written work edited and published, as by a certain editor or in a certain manner.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "derived",
+    "token_id": 361,
+    "definition": "To obtain or receive (something) from something else.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "wicked",
+    "token_id": 4373,
+    "definition": "People who are wicked.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "sinners",
+    "token_id": 7085,
+    "definition": "A person who sins or has sinned.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "errata",
+    "token_id": 6143,
+    "definition": "An added page in a printed work where errors which are discovered after printing and their corrections (corrigenda) are listed.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "meant",
+    "token_id": 5404,
+    "definition": "To intend.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "commit",
+    "token_id": 5745,
+    "definition": "The act of committing (e.g. a database transaction or source code into a source control repository), making it a permanent change.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "made",
+    "token_id": 5429,
+    "definition": "A grub or maggot.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "sometimes",
+    "token_id": 6598,
+    "definition": "Former; sometime.",
+    "first_seen": "Wicked Bible"
+  },
+  {
+    "word": "faced",
+    "token_id": 4999,
+    "definition": "(of a person or animal) To position oneself or itself so as to have one's face closest to (something).",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "rectangular",
+    "token_id": 2073,
+    "definition": "Having a shape like a rectangle.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "post",
+    "token_id": 2515,
+    "definition": "A long dowel or plank protruding from the ground; a fencepost; a lightpost.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "feet",
+    "token_id": 6299,
+    "definition": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "grant",
+    "token_id": 271,
+    "definition": "The act of granting; a bestowing or conferring; concession; allowance; permission.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "features",
+    "token_id": 1226,
+    "definition": "One's structure or make-up: form, shape, bodily proportions.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "parapet",
+    "token_id": 6166,
+    "definition": "A low protective wall.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "mercer",
+    "token_id": 4163,
+    "definition": "A merchant dealing in fabrics and textiles, especially silks and other fine cloths.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "reinforced",
+    "token_id": 1472,
+    "definition": "To strengthen, especially by addition or augmentation.",
+    "first_seen": "Leo Ellis Post No. 22, American Legion Building"
+  },
+  {
+    "word": "divided",
+    "token_id": 1969,
+    "definition": "To split or separate (something) into two or more parts.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "whose",
+    "token_id": 1190,
+    "definition": "(interrogative) That or those of whom or belonging to whom.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "number",
+    "token_id": 4560,
+    "definition": "An abstract entity used to describe quantity.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "mentioned",
+    "token_id": 5946,
+    "definition": "To make a short reference to something.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "panchayat",
+    "token_id": 7171,
+    "definition": "A village council or local government.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "present",
+    "token_id": 7271,
+    "definition": "The current moment or period of time.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "nearby",
+    "token_id": 6090,
+    "definition": "Adjacent, near, close by",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "importance",
+    "token_id": 7108,
+    "definition": "The quality or condition of being important or worthy of note.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "borders",
+    "token_id": 1562,
+    "definition": "The outer edge of something.",
+    "first_seen": "Chitrakoot, Madhya Pradesh"
+  },
+  {
+    "word": "famous",
+    "token_id": 2428,
+    "definition": "To make famous; to bring renown to.",
+    "first_seen": "Gilles"
+  },
+  {
+    "word": "songs",
+    "token_id": 61,
+    "definition": "A musical composition with lyrics for voice or voices, performed by singing.",
+    "first_seen": "Gilles"
+  },
+  {
+    "word": "participants",
+    "token_id": 6156,
+    "definition": "One who participates.",
+    "first_seen": "Gilles"
+  },
+  {
+    "word": "conventional",
+    "token_id": 4851,
+    "definition": "A conventional gilt-edged security, a kind of bond paying the holder a fixed cash payment (or coupon) every six months until maturity, at which point the holder receives the final payment and the return of the principal.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "formation",
+    "token_id": 3672,
+    "definition": "Something possessing structure or form.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "company",
+    "token_id": 7670,
+    "definition": "A team; a group of people who work together professionally.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "counties",
+    "token_id": 4974,
+    "definition": "The land ruled by a count or a countess.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "combined",
+    "token_id": 4867,
+    "definition": "An event in alpine skiing which combines runs on a downhill skiing course and a slalom course, for individual skiers.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "petroleum",
+    "token_id": 6911,
+    "definition": "A flammable liquid ranging in color from clear to very dark brown and black, consisting mainly of hydrocarbons, occurring naturally in deposits under the Earth's surface",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "different",
+    "token_id": 5314,
+    "definition": "The different ideal.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "acres",
+    "token_id": 1143,
+    "definition": "An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "miles",
+    "token_id": 6988,
+    "definition": "The international mile: a unit of length precisely equal to 1.609344 kilometers established by treaty among Anglophone nations in 1959, divided into 5,280 feet or 1,760 yards.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "cascade",
+    "token_id": 225,
+    "definition": "A waterfall or series of small waterfalls.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "discovered",
+    "token_id": 5651,
+    "definition": "To find or learn something for the first time.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "producing",
+    "token_id": 2862,
+    "definition": "To yield, make or manufacture; to generate.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "fields",
+    "token_id": 5064,
+    "definition": "A land area free of woodland, cities, and towns; open country.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "energy",
+    "token_id": 7323,
+    "definition": "The impetus behind all motion and all activity.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "regulation",
+    "token_id": 1477,
+    "definition": "The act of regulating or the condition of being regulated.",
+    "first_seen": "Slaughter Field"
+  },
+  {
+    "word": "northern",
+    "token_id": 7263,
+    "definition": "An inhabitant of the northern regions.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "minister",
+    "token_id": 5490,
+    "definition": "A person who is trained to preach, to perform religious ceremonies, and to afford pastoral care at a Protestant church.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "resources",
+    "token_id": 1226,
+    "definition": "Something that one uses to achieve an objective, e.g. raw materials or personnel.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "entering",
+    "token_id": 2444,
+    "definition": "To go or come into an enclosed or partially enclosed space.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "madeleine",
+    "token_id": 1585,
+    "definition": "A French type of small gateau or sponge cake, often shaped like an elongated scallop shell.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "representatives",
+    "token_id": 4936,
+    "definition": "A delegate.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "government",
+    "token_id": 6388,
+    "definition": "The body with the power to make and/or enforce laws to control a country, land area, people or organization.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "mary",
+    "token_id": 5384,
+    "definition": "(usually capitalized) A male homosexual.",
+    "first_seen": "Madeleine King"
+  },
+  {
+    "word": "even",
+    "token_id": 7823,
+    "definition": "(diminutive) An even number.",
+    "first_seen": "Edmond Delfour"
+  },
+  {
+    "word": "spanned",
+    "token_id": 1901,
+    "definition": "To extend through the distance between or across.",
+    "first_seen": "Edmond Delfour"
+  },
+  {
+    "word": "coaching",
+    "token_id": 2602,
+    "definition": "To train.",
+    "first_seen": "Edmond Delfour"
+  },
+  {
+    "word": "french",
+    "token_id": 3581,
+    "definition": "To prepare food by cutting it into strips.",
+    "first_seen": "Edmond Delfour"
+  },
+  {
+    "word": "still",
+    "token_id": 1802,
+    "definition": "A period of calm or silence.",
+    "first_seen": "Edmond Delfour"
+  },
+  {
+    "word": "navy",
+    "token_id": 1229,
+    "definition": "A country's entire sea force, including ships and personnel.",
+    "first_seen": "Richard S. Edwards"
   }
 ]
