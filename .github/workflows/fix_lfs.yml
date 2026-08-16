@@ -1,0 +1,66 @@
+name: Remove LFS Tracking
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+      
+      - name: Untrack bundles from LFS
+        run: |
+          # Remove LFS tracking for bundles
+          git lfs untrack "senate_bundles/*.pt"
+          git lfs untrack "senate_bundles/**"
+          
+          # Remove .gitattributes LFS entries
+          if [ -f .gitattributes ]; then
+            grep -v "senate_bundles" .gitattributes > .gitattributes.tmp || true
+            mv .gitattributes.tmp .gitattributes
+          fi
+          
+          # Remove cached LFS pointers
+          git rm --cached senate_bundles/*.pt 2>/dev/null || true
+          
+          # Re-add as regular files
+          git add .gitattributes senate_bundles/
+          
+          git commit -m "Remove LFS tracking from bundles" || echo "No changes"
+      
+      - name: Push in chunks
+        run: |
+          # Push .gitattributes first
+          git push
+          
+          # Push bundles in batches of 10
+          for i in $(seq 0 10 80); do
+            end=$((i + 9))
+            if [ $end -gt 88 ]; then end=88; fi
+            
+            echo "Pushing bundles $i-$end..."
+            
+            for j in $(seq $i $end); do
+              padded=$(printf "%03d" $j)
+              git add senate_bundles/bundle_${padded}.pt
+            done
+            
+            git commit -m "Bundles $(printf '%03d' $i)-$(printf '%03d' $end) as regular files"
+            git push || {
+              echo "Retrying..."
+              sleep 10
+              git push
+            }
+          done
