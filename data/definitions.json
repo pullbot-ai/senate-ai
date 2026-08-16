@@ -3070,5 +3070,491 @@
     "token_id": 2891,
     "definition": "A map.",
     "first_seen": "America (Modern Talking album)"
+  },
+  {
+    "word": "goat",
+    "token_id": 779,
+    "definition": "A mammal, Capra aegagrus hircus, and similar species of the genus Capra.",
+    "first_seen": "Mountain Goat (bus company)"
+  },
+  {
+    "word": "operator",
+    "token_id": 3364,
+    "definition": "One who operates.",
+    "first_seen": "Mountain Goat (bus company)"
+  },
+  {
+    "word": "don",
+    "token_id": 3679,
+    "definition": "A university professor, particularly one at Oxford or Cambridge.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "presidency",
+    "token_id": 4320,
+    "definition": "The office or role of president.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "locate",
+    "token_id": 1809,
+    "definition": "To place; to set in a particular spot or position.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "away",
+    "token_id": 2045,
+    "definition": "To depart; to go to another place.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "rich",
+    "token_id": 3027,
+    "definition": "To enrich.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "belongs",
+    "token_id": 3969,
+    "definition": "To have its proper place.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "bank",
+    "token_id": 1168,
+    "definition": "An institution where one can place and borrow money and take care of financial affairs.",
+    "first_seen": "Shibnibas"
+  },
+  {
+    "word": "height",
+    "token_id": 2266,
+    "definition": "The distance from the base of something to the top.",
+    "first_seen": "Ptychosperma nicolai"
+  },
+  {
+    "word": "plant",
+    "token_id": 4485,
+    "definition": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree.",
+    "first_seen": "Ptychosperma nicolai"
+  },
+  {
+    "word": "endemic",
+    "token_id": 3653,
+    "definition": "An individual or species that is endemic to a region.",
+    "first_seen": "Ptychosperma nicolai"
+  },
+  {
+    "word": "aristocrat",
+    "token_id": 269,
+    "definition": "One of the aristocracy, nobility, or people of rank in a community; one of a ruling class; a noble (originally in Revolutionary France).",
+    "first_seen": "John FitzGibbon, 2nd Earl of Clare"
+  },
+  {
+    "word": "allies",
+    "token_id": 3507,
+    "definition": "A narrow street or passageway, especially one through the middle of a block giving access to the rear of lots or buildings.",
+    "first_seen": "Odostomia clessini"
+  },
+  {
+    "word": "socialist",
+    "token_id": 590,
+    "definition": "One who practices or advocates socialism.",
+    "first_seen": "Khalil Maleki"
+  },
+  {
+    "word": "intellectual",
+    "token_id": 6780,
+    "definition": "An intelligent, learned person, especially one who discourses about learned matters.",
+    "first_seen": "Khalil Maleki"
+  },
+  {
+    "word": "figure",
+    "token_id": 52,
+    "definition": "A drawing or diagram conveying information.",
+    "first_seen": "Khalil Maleki"
+  },
+  {
+    "word": "front",
+    "token_id": 6826,
+    "definition": "The foremost side of something or the end that faces the direction it normally moves.",
+    "first_seen": "Khalil Maleki"
+  },
+  {
+    "word": "affiliated",
+    "token_id": 76,
+    "definition": "To adopt; to receive into a family as one's offspring",
+    "first_seen": "Khalil Maleki"
+  },
+  {
+    "word": "theologian",
+    "token_id": 5359,
+    "definition": "One who studies theology.",
+    "first_seen": "Baltazar Adam Kr\u010deli\u0107"
+  },
+  {
+    "word": "life",
+    "token_id": 640,
+    "definition": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+    "first_seen": "Baltazar Adam Kr\u010deli\u0107"
+  },
+  {
+    "word": "drove",
+    "token_id": 5368,
+    "definition": "A number of cattle driven to market or new pastures.",
+    "first_seen": "Zane Goddard"
+  },
+  {
+    "word": "race",
+    "token_id": 2501,
+    "definition": "A contest between people, animals, vehicles, etc. where the goal is to be the first to reach some objective. Example: Several horses run in a horse race, and the first one to reach the finishing post wins",
+    "first_seen": "Zane Goddard"
+  },
+  {
+    "word": "driver",
+    "token_id": 6539,
+    "definition": "One who drives something, in any sense of the verb to drive.",
+    "first_seen": "Zane Goddard"
+  },
+  {
+    "word": "retrospective",
+    "token_id": 2914,
+    "definition": "An exhibition of works from an extended period of an artist's activity.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "material",
+    "token_id": 1424,
+    "definition": "Matter which may be shaped or manipulated, particularly in making something.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "collection",
+    "token_id": 3004,
+    "definition": "A set of items or amount of material procured or gathered together.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "version",
+    "token_id": 4061,
+    "definition": "A specific form or variation of something.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "cox",
+    "token_id": 5597,
+    "definition": "A coxswain of a boat, especially of a racing crew.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "bad",
+    "token_id": 3136,
+    "definition": "Error, mistake.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "appeared",
+    "token_id": 2782,
+    "definition": "To come or be in sight; to be in view; to become visible.",
+    "first_seen": "Now That I've Found You: A Collection"
+  },
+  {
+    "word": "car",
+    "token_id": 6914,
+    "definition": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "appear",
+    "token_id": 1681,
+    "definition": "To come or be in sight; to be in view; to become visible.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "formula",
+    "token_id": 1999,
+    "definition": "Any mathematical rule expressed symbolically.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "stressed",
+    "token_id": 4254,
+    "definition": "To apply force to (a body or structure) causing strain.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "chassis",
+    "token_id": 5037,
+    "definition": "A base frame, or movable railway, along which the carriage of a mounted gun moves backward and forward.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "win",
+    "token_id": 4016,
+    "definition": "To conquer, defeat.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "fully",
+    "token_id": 3852,
+    "definition": "In a full manner; without lack or defect.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "design",
+    "token_id": 5655,
+    "definition": "A specification of an object or process, referring to requirements to be satisfied and thus conditions to be met for them to solve a problem.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "hands",
+    "token_id": 3940,
+    "definition": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "chapman",
+    "token_id": 2590,
+    "definition": "A dealer or merchant, especially an itinerant one.",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "grand",
+    "token_id": 7639,
+    "definition": "(plural \"grand\") A thousand of some unit of currency, such as dollars or pounds. (Compare G.)",
+    "first_seen": "Lotus 25"
+  },
+  {
+    "word": "occupied",
+    "token_id": 5158,
+    "definition": "Reserved, engaged.",
+    "first_seen": "Shoppach House"
+  },
+  {
+    "word": "original",
+    "token_id": 6504,
+    "definition": "An object or other creation (e.g. narrative work) from which all later copies and variations are derived",
+    "first_seen": "Shoppach House"
+  },
+  {
+    "word": "honor",
+    "token_id": 712,
+    "definition": "Recognition of importance or value; respect; veneration (of someone, usually for being morally upright or successful)",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "down",
+    "token_id": 292,
+    "definition": "A negative aspect; a downer.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "low",
+    "token_id": 6528,
+    "definition": "Something that is low; a low point.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "birds",
+    "token_id": 7082,
+    "definition": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "recipient",
+    "token_id": 4553,
+    "definition": "One who receives.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "gets",
+    "token_id": 423,
+    "definition": "Offspring.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "freeman",
+    "token_id": 267,
+    "definition": "A free person, particularly:",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "fly",
+    "token_id": 3895,
+    "definition": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "nest",
+    "token_id": 2842,
+    "definition": "A structure built by a bird as a place to incubate eggs and rear young.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "picture",
+    "token_id": 6433,
+    "definition": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "book",
+    "token_id": 6151,
+    "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+    "first_seen": "Fly High, Fly Low"
+  },
+  {
+    "word": "gal",
+    "token_id": 1795,
+    "definition": "A unit of volume, equivalent to eight pints",
+    "first_seen": "Vincent S\u00e9gal"
+  },
+  {
+    "word": "cellist",
+    "token_id": 3113,
+    "definition": "Someone who plays the cello.",
+    "first_seen": "Vincent S\u00e9gal"
+  },
+  {
+    "word": "broadcasts",
+    "token_id": 4498,
+    "definition": "A transmission of a radio or television programme intended to be received by anyone with a receiver.",
+    "first_seen": "92.5 Triple M Gold"
+  },
+  {
+    "word": "gold",
+    "token_id": 3343,
+    "definition": "A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.",
+    "first_seen": "92.5 Triple M Gold"
+  },
+  {
+    "word": "format",
+    "token_id": 6973,
+    "definition": "The layout of a publication or document.",
+    "first_seen": "92.5 Triple M Gold"
+  },
+  {
+    "word": "mainstream",
+    "token_id": 1744,
+    "definition": "The principal current in a flow, such as a river or flow of air",
+    "first_seen": "92.5 Triple M Gold"
+  },
+  {
+    "word": "cross",
+    "token_id": 5575,
+    "definition": "A geometrical figure consisting of two straight lines or bars intersecting each other such that at least one of them is bisected by the other.",
+    "first_seen": "92.5 Triple M Gold"
+  },
+  {
+    "word": "light",
+    "token_id": 1237,
+    "definition": "Visible electromagnetic radiation. The human eye can typically detect radiation (light) in the wavelength range of about 400 to 750 nanometers. Nearby shorter and longer wavelength ranges, although not visible, are commonly called ultraviolet and infrared light.",
+    "first_seen": "Digital Classic Camera Leica M3"
+  },
+  {
+    "word": "retro",
+    "token_id": 5048,
+    "definition": "Past fashions or trends.",
+    "first_seen": "Digital Classic Camera Leica M3"
+  },
+  {
+    "word": "without",
+    "token_id": 6741,
+    "definition": "Outside, externally. This is still used in the names of some civil parishes in England, e.g. St Cuthbert Without.",
+    "first_seen": "Digital Classic Camera Leica M3"
+  },
+  {
+    "word": "special",
+    "token_id": 6393,
+    "definition": "A reduction in consumer cost (usually for a limited time) for items or services rendered.",
+    "first_seen": "Digital Classic Camera Leica M3"
+  },
+  {
+    "word": "digit",
+    "token_id": 2516,
+    "definition": "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university or, in some countries, a college, as a certification of academic achievement. (In the United States, can include secondary schools.)",
+    "first_seen": "Digital Classic Camera Leica M3"
+  },
+  {
+    "word": "residuals",
+    "token_id": 4550,
+    "definition": "A remainder left over at the end of some process.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "departures",
+    "token_id": 680,
+    "definition": "The act of departing or something that has departed.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "parameters",
+    "token_id": 3552,
+    "definition": "A value kept constant during an experiment, equation, calculation or similar, but varied over other versions of the experiment, equation, calculation, etc.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "graphical",
+    "token_id": 3373,
+    "definition": "Of, related to, or shown on a graph.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "identify",
+    "token_id": 2254,
+    "definition": "To establish the identity of someone or something.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "model",
+    "token_id": 1016,
+    "definition": "A person who serves as a subject for artwork or fashion, usually in the medium of photography but also for painting or drawing.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "outliers",
+    "token_id": 3393,
+    "definition": "A person or thing situated away from the main body or outside its proper place.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "probability",
+    "token_id": 4589,
+    "definition": "The state of being probable; likelihood.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "technique",
+    "token_id": 1255,
+    "definition": "The practical aspects of a given art, occupation etc.; formal requirements.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "normal",
+    "token_id": 3296,
+    "definition": "A line or vector that is perpendicular to another line, surface, or plane.",
+    "first_seen": "Normal probability plot"
+  },
+  {
+    "word": "fish",
+    "token_id": 6472,
+    "definition": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.",
+    "first_seen": "Xenocharax"
+  },
+  {
+    "word": "basin",
+    "token_id": 1421,
+    "definition": "A wide bowl for washing, sometimes affixed to a wall",
+    "first_seen": "Xenocharax"
+  },
+  {
+    "word": "descent",
+    "token_id": 2857,
+    "definition": "An instance of descending; act of coming down.",
+    "first_seen": "Jes\u00fas Murillo Karam"
+  },
+  {
+    "word": "institutional",
+    "token_id": 6954,
+    "definition": "Of, pertaining to, characteristic of, or organized along the lines of an institution.",
+    "first_seen": "Jes\u00fas Murillo Karam"
   }
 ]
